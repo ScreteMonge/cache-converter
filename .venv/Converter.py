@@ -139,7 +139,6 @@ def main():
     seq_out.close()
 
 
-
     item_file_list = []
     item_path = directory + '/item_defs/'
     for item_filenames in os.walk(item_path):
@@ -165,10 +164,10 @@ def main():
             resizeX = data.get('resizeX')
             resizeY = data.get('resizeY')
             resizeZ = data.get('resizeZ')
-            recolorToReplace = data.get('recolorToReplace')
-            recolorToFind = data.get('recolorToFind')
-            textureToReplace = data.get('textureToReplace')
-            retextureToFind = data.get('retextureToFind')
+            colorReplace = data.get('colorReplace')
+            colorFind = data.get('colorFind')
+            textureReplace = data.get('textureReplace')
+            textureFind = data.get('textureFind')
 
             item_final = {'id': id,
                          'name': name,
@@ -186,10 +185,10 @@ def main():
                          'resizeX': resizeX,
                          'resizeY': resizeY,
                          'resizeZ': resizeZ,
-                         'recolorToReplace': recolorToReplace,
-                         'recolorToFind': recolorToFind,
-                         'textureToReplace': textureToReplace,
-                         'textureToFind': retextureToFind
+                         'colorReplace': colorReplace,
+                         'colorFind': colorFind,
+                         'textureReplace': textureReplace,
+                         'textureFind': textureFind
                          }
             item_list.append(item_final)
         except Exception:
@@ -198,7 +197,6 @@ def main():
     item_out = open("item_defs.json", "w")
     json.dump(item_list, item_out, indent=2)
     item_out.close()
-
 
     npc_file_list = []
     npc_path = directory + '/npc_defs/'
