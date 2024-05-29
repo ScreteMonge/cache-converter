@@ -26759,6 +26759,28 @@
     "recolorToFind": null
   },
   {
+    "id": 2804,
+    "modelId": 53145,
+    "animationId": 11125,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 41,
+    "contrast": 67,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2805,
+    "modelId": 51219,
+    "animationId": 11126,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 44,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
     "id": 281,
     "modelId": 16940,
     "animationId": 4575,

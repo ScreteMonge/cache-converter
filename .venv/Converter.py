@@ -2,14 +2,16 @@ import json
 import os.path
 from tkinter import filedialog
 
+
 def main():
     directory = filedialog.askdirectory()
-    if directory == "":
+    if directory is "" or directory is not "dump":
+        print("Directory is empty or isn't 'dump.' Canceling program.")
         return
 
     kit_file_list = []
     kit_path = directory + '/kits/'
-    print(kit_path)
+    print("Found ", kit_path, ", beginning dump.")
     for kit_filenames in os.walk(kit_path):
         kit_file_list.append(kit_filenames)
 
@@ -23,7 +25,8 @@ def main():
             chatheadModels = data.get('chatheadModels')
             recolorToReplace = data.get('recolorToReplace')
             recolorToFind = data.get('recolorToFind')
-            kit_final = {'id':id, 'bodyPartId':bodyPartId, 'models':models, 'chatheadModels':chatheadModels, 'recolorToReplace':recolorToReplace, 'recolorToFind':recolorToFind}
+            kit_final = {'id': id, 'bodyPartId': bodyPartId, 'models': models, 'chatheadModels': chatheadModels,
+                         'recolorToReplace': recolorToReplace, 'recolorToFind': recolorToFind}
             kit_list.append(kit_final)
         except Exception:
             pass
@@ -34,6 +37,7 @@ def main():
 
     obj_file_list = []
     obj_path = directory + '/object_defs/'
+    print("Found ", obj_path, ", beginning dump.")
     for obj_filenames in os.walk(obj_path):
         obj_file_list.append(obj_filenames)
 
@@ -55,19 +59,19 @@ def main():
             textureToReplace = data.get('textureToReplace')
             retextureToFind = data.get('retextureToFind')
             obj_final = {'id': id,
-                          'name': name,
-                          'objectModels': objectModels,
-                          'objectTypes': objectTypes,
-                          'modelSizeX': modelSizeX,
-                          'modelSizeY': modelSizeY,
-                          'modelSizeZ': modelSizeZ,
-                          'ambient': ambient,
-                          'contrast': contrast,
-                          'recolorToReplace': recolorToReplace,
-                          'recolorToFind': recolorToFind,
-                          'textureToReplace': textureToReplace,
-                          'textureToFind': retextureToFind
-                          }
+                         'name': name,
+                         'objectModels': objectModels,
+                         'objectTypes': objectTypes,
+                         'modelSizeX': modelSizeX,
+                         'modelSizeY': modelSizeY,
+                         'modelSizeZ': modelSizeZ,
+                         'ambient': ambient,
+                         'contrast': contrast,
+                         'recolorToReplace': recolorToReplace,
+                         'recolorToFind': recolorToFind,
+                         'textureToReplace': textureToReplace,
+                         'textureToFind': retextureToFind
+                         }
             obj_list.append(obj_final)
         except Exception:
             pass
@@ -76,9 +80,9 @@ def main():
     json.dump(obj_list, obj_out, indent=2)
     obj_out.close()
 
-
     spotanim_file_list = []
     spotanim_path = directory + '/spotanims/'
+    print("Found ", spotanim_path, ", beginning dump.")
     for spotanim_filenames in os.walk(spotanim_path):
         spotanim_file_list.append(spotanim_filenames)
 
@@ -96,14 +100,14 @@ def main():
             recolorToReplace = data.get('recolorToReplace')
             recolorToFind = data.get('recolorToFind')
             spotanim_final = {'id': id,
-                          'modelId': modelId,
-                          'animationId': animationId,
-                          'resizeX': resizeX,
-                          'resizeY': resizeY,
-                          'ambient': ambient,
-                          'contrast': contrast,
-                          'recolorToReplace': recolorToReplace,
-                          'recolorToFind': recolorToFind}
+                              'modelId': modelId,
+                              'animationId': animationId,
+                              'resizeX': resizeX,
+                              'resizeY': resizeY,
+                              'ambient': ambient,
+                              'contrast': contrast,
+                              'recolorToReplace': recolorToReplace,
+                              'recolorToFind': recolorToFind}
             spotanim_list.append(spotanim_final)
         except Exception:
             pass
@@ -112,9 +116,9 @@ def main():
     json.dump(spotanim_list, spotanim_out, indent=2)
     spotanim_out.close()
 
-
     seq_file_list = []
     seq_path = directory + '/sequences/'
+    print("Found ", seq_path, ", beginning dump.")
     for seq_filenames in os.walk(seq_path):
         seq_file_list.append(seq_filenames)
 
@@ -138,9 +142,9 @@ def main():
     json.dump(seq_list, seq_out, indent=2)
     seq_out.close()
 
-
     item_file_list = []
     item_path = directory + '/item_defs/'
+    print("Found ", item_path, ", beginning dump.")
     for item_filenames in os.walk(item_path):
         item_file_list.append(item_filenames)
 
@@ -170,26 +174,26 @@ def main():
             textureFind = data.get('textureFind')
 
             item_final = {'id': id,
-                         'name': name,
-                         'inventoryModel': inventoryModel,
-                         'maleModel0': maleModel0,
-                         'maleModel1': maleModel1,
-                         'maleModel2': maleModel2,
-                         'femaleModel0': femaleModel0,
-                         'femaleModel1': femaleModel1,
-                         'femaleModel2': femaleModel2,
-                         'maleHeadModel': maleHeadModel,
-                         'maleHeadModel2': maleHeadModel2,
-                         'femaleHeadModel': femaleHeadModel,
-                         'femaleHeadModel2': femaleHeadModel2,
-                         'resizeX': resizeX,
-                         'resizeY': resizeY,
-                         'resizeZ': resizeZ,
-                         'colorReplace': colorReplace,
-                         'colorFind': colorFind,
-                         'textureReplace': textureReplace,
-                         'textureFind': textureFind
-                         }
+                          'name': name,
+                          'inventoryModel': inventoryModel,
+                          'maleModel0': maleModel0,
+                          'maleModel1': maleModel1,
+                          'maleModel2': maleModel2,
+                          'femaleModel0': femaleModel0,
+                          'femaleModel1': femaleModel1,
+                          'femaleModel2': femaleModel2,
+                          'maleHeadModel': maleHeadModel,
+                          'maleHeadModel2': maleHeadModel2,
+                          'femaleHeadModel': femaleHeadModel,
+                          'femaleHeadModel2': femaleHeadModel2,
+                          'resizeX': resizeX,
+                          'resizeY': resizeY,
+                          'resizeZ': resizeZ,
+                          'colorReplace': colorReplace,
+                          'colorFind': colorFind,
+                          'textureReplace': textureReplace,
+                          'textureFind': textureFind
+                          }
             item_list.append(item_final)
         except Exception:
             pass
@@ -200,6 +204,7 @@ def main():
 
     npc_file_list = []
     npc_path = directory + '/npc_defs/'
+    print("Found ", npc_path, ", beginning dump.")
     for npc_filenames in os.walk(npc_path):
         npc_file_list.append(npc_filenames)
 
@@ -234,6 +239,7 @@ def main():
     npc_out = open("npc_defs.json", "w")
     json.dump(npc_list, npc_out, indent=2)
     npc_out.close()
+
 
 if __name__ == '__main__':
     main()
