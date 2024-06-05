@@ -5,7 +5,7 @@ from tkinter import filedialog
 
 def main():
     directory = filedialog.askdirectory()
-    if directory is "" or directory is not "dump":
+    if directory == "":
         print("Directory is empty or isn't 'dump.' Canceling program.")
         return
 

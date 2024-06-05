@@ -6280,9 +6280,29 @@
     "leftHandItem": -1
   },
   {
+    "id": 11127,
+    "rightHandItem": 21515,
+    "leftHandItem": 0
+  },
+  {
+    "id": 11128,
+    "rightHandItem": 27612,
+    "leftHandItem": 0
+  },
+  {
+    "id": 11129,
+    "rightHandItem": 21515,
+    "leftHandItem": 0
+  },
+  {
     "id": 1113,
     "rightHandItem": -1,
     "leftHandItem": -1
+  },
+  {
+    "id": 11130,
+    "rightHandItem": 27612,
+    "leftHandItem": 0
   },
   {
     "id": 1114,
