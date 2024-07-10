@@ -24864,8 +24864,8 @@
     "id": 2653,
     "modelId": 50182,
     "animationId": 10128,
-    "resizeX": 146,
-    "resizeY": 146,
+    "resizeX": 150,
+    "resizeY": 150,
     "ambient": 0,
     "contrast": 0,
     "recolorToReplace": null,
@@ -24875,8 +24875,8 @@
     "id": 2654,
     "modelId": 50182,
     "animationId": 9882,
-    "resizeX": 146,
-    "resizeY": 146,
+    "resizeX": 150,
+    "resizeY": 150,
     "ambient": 0,
     "contrast": 0,
     "recolorToReplace": null,
@@ -26781,6 +26781,50 @@
     "recolorToFind": null
   },
   {
+    "id": 2806,
+    "modelId": 53319,
+    "animationId": 11132,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2807,
+    "modelId": 53319,
+    "animationId": 11134,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2808,
+    "modelId": 53320,
+    "animationId": 11135,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2809,
+    "modelId": 53320,
+    "animationId": 11136,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
     "id": 281,
     "modelId": 16940,
     "animationId": 4575,
@@ -26796,12 +26840,232 @@
     ]
   },
   {
+    "id": 2810,
+    "modelId": 53321,
+    "animationId": 11139,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2811,
+    "modelId": 53323,
+    "animationId": 11141,
+    "resizeX": 64,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2812,
+    "modelId": 53323,
+    "animationId": 11141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2813,
+    "modelId": 53323,
+    "animationId": 11141,
+    "resizeX": 192,
+    "resizeY": 192,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2814,
+    "modelId": 53324,
+    "animationId": 11137,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 35,
+    "contrast": 244,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2815,
+    "modelId": 53415,
+    "animationId": 11220,
+    "resizeX": 126,
+    "resizeY": 126,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2816,
+    "modelId": 53415,
+    "animationId": 11220,
+    "resizeX": 122,
+    "resizeY": 122,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2817,
+    "modelId": 53415,
+    "animationId": 11220,
+    "resizeX": 156,
+    "resizeY": 156,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2818,
+    "modelId": 53414,
+    "animationId": 11220,
+    "resizeX": 126,
+    "resizeY": 126,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2819,
+    "modelId": 53414,
+    "animationId": 11220,
+    "resizeX": 122,
+    "resizeY": 122,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
     "id": 282,
     "modelId": 14420,
     "animationId": 3020,
     "resizeX": 128,
     "resizeY": 128,
     "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2820,
+    "modelId": 53414,
+    "animationId": 11220,
+    "resizeX": 156,
+    "resizeY": 156,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2821,
+    "modelId": 53392,
+    "animationId": 11221,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2822,
+    "modelId": 53413,
+    "animationId": 11223,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2823,
+    "modelId": 53402,
+    "animationId": 11222,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2824,
+    "modelId": 53404,
+    "animationId": 11216,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 32,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2825,
+    "modelId": 53405,
+    "animationId": 11216,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 32,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2826,
+    "modelId": 53409,
+    "animationId": 11216,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 32,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2827,
+    "modelId": 53408,
+    "animationId": 11216,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 32,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2828,
+    "modelId": 53410,
+    "animationId": 11216,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 32,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2829,
+    "modelId": 53406,
+    "animationId": 11216,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 32,
     "contrast": 0,
     "recolorToReplace": null,
     "recolorToFind": null
@@ -26818,6 +27082,116 @@
     "recolorToFind": null
   },
   {
+    "id": 2830,
+    "modelId": 53407,
+    "animationId": 11216,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 32,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2831,
+    "modelId": 53418,
+    "animationId": 11217,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 32,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2832,
+    "modelId": 53425,
+    "animationId": 11218,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2833,
+    "modelId": 53395,
+    "animationId": 11239,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2834,
+    "modelId": 53395,
+    "animationId": 11240,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2835,
+    "modelId": 53424,
+    "animationId": 11247,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2836,
+    "modelId": 53401,
+    "animationId": 11252,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2837,
+    "modelId": 53401,
+    "animationId": 11253,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2838,
+    "modelId": 53476,
+    "animationId": 11164,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2839,
+    "modelId": 53476,
+    "animationId": 11165,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
     "id": 284,
     "modelId": 29220,
     "animationId": 3871,
@@ -26829,12 +27203,238 @@
     "recolorToFind": null
   },
   {
+    "id": 2840,
+    "modelId": 53472,
+    "animationId": 11164,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2841,
+    "modelId": 53419,
+    "animationId": 11149,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 206,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2842,
+    "modelId": 53397,
+    "animationId": 11150,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 206,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2843,
+    "modelId": 53422,
+    "animationId": 11153,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2844,
+    "modelId": 53423,
+    "animationId": 11154,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2845,
+    "modelId": 53420,
+    "animationId": 11162,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 20,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2846,
+    "modelId": 3082,
+    "animationId": 660,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 60,
+    "contrast": 60,
+    "recolorToReplace": [
+      960,
+      6080
+    ],
+    "recolorToFind": [
+      926,
+      947
+    ]
+  },
+  {
+    "id": 2847,
+    "modelId": 53283,
+    "animationId": 11402,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2848,
+    "modelId": 53282,
+    "animationId": 11403,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2849,
+    "modelId": 53283,
+    "animationId": 11399,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
     "id": 285,
     "modelId": 29219,
     "animationId": 3870,
     "resizeX": 128,
     "resizeY": 128,
     "ambient": 10,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2850,
+    "modelId": 53283,
+    "animationId": 11401,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2851,
+    "modelId": 53280,
+    "animationId": 11398,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 64,
+    "contrast": 12,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2852,
+    "modelId": 53283,
+    "animationId": 11400,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2853,
+    "modelId": 50027,
+    "animationId": 10640,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2854,
+    "modelId": 50027,
+    "animationId": 10641,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2855,
+    "modelId": 54031,
+    "animationId": 11405,
+    "resizeX": 160,
+    "resizeY": 160,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2856,
+    "modelId": 50027,
+    "animationId": 10641,
+    "resizeX": 160,
+    "resizeY": 160,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2857,
+    "modelId": 53281,
+    "animationId": 11397,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2858,
+    "modelId": 53281,
+    "animationId": 11396,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2859,
+    "modelId": 53274,
+    "animationId": 11414,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
     "contrast": 0,
     "recolorToReplace": null,
     "recolorToFind": null
@@ -26851,6 +27451,116 @@
     "recolorToFind": null
   },
   {
+    "id": 2860,
+    "modelId": 53275,
+    "animationId": 9942,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2861,
+    "modelId": 53275,
+    "animationId": 9943,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2862,
+    "modelId": 53274,
+    "animationId": 11415,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2863,
+    "modelId": 53263,
+    "animationId": 11438,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2864,
+    "modelId": 53273,
+    "animationId": 11413,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2865,
+    "modelId": 53403,
+    "animationId": 11170,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 32,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2866,
+    "modelId": 53403,
+    "animationId": 11171,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 32,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2867,
+    "modelId": 53393,
+    "animationId": 11246,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2868,
+    "modelId": 53400,
+    "animationId": 11275,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 64,
+    "contrast": 12,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2869,
+    "modelId": 53392,
+    "animationId": 11221,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
     "id": 287,
     "modelId": 3960,
     "animationId": 1230,
@@ -26862,6 +27572,128 @@
     "recolorToFind": null
   },
   {
+    "id": 2870,
+    "modelId": 53399,
+    "animationId": 11167,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2871,
+    "modelId": 53398,
+    "animationId": 11167,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2872,
+    "modelId": 6541,
+    "animationId": 11293,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 32,
+    "contrast": 32,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2873,
+    "modelId": 6541,
+    "animationId": 11294,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 32,
+    "contrast": 32,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2874,
+    "modelId": 3083,
+    "animationId": 658,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 100,
+    "contrast": 60,
+    "recolorToReplace": [
+      -21568
+    ],
+    "recolorToFind": [
+      -14400
+    ]
+  },
+  {
+    "id": 2875,
+    "modelId": 3087,
+    "animationId": 663,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 100,
+    "contrast": 60,
+    "recolorToReplace": [
+      -22050,
+      -26688,
+      -21568
+    ],
+    "recolorToFind": [
+      7104,
+      6080,
+      960
+    ]
+  },
+  {
+    "id": 2876,
+    "modelId": 53422,
+    "animationId": 11153,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2877,
+    "modelId": 53423,
+    "animationId": 11154,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2878,
+    "modelId": 53278,
+    "animationId": 11367,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 10,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2879,
+    "modelId": 53278,
+    "animationId": 11368,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 10,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
     "id": 288,
     "modelId": 4050,
     "animationId": -1,
@@ -26869,6 +27701,116 @@
     "resizeY": 64,
     "ambient": 0,
     "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2880,
+    "modelId": 53278,
+    "animationId": 11369,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 10,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2881,
+    "modelId": 54032,
+    "animationId": 11370,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2882,
+    "modelId": 54032,
+    "animationId": 10641,
+    "resizeX": 160,
+    "resizeY": 160,
+    "ambient": 30,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2883,
+    "modelId": 53294,
+    "animationId": 11364,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 10,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2884,
+    "modelId": 53294,
+    "animationId": 11365,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 10,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2885,
+    "modelId": 53293,
+    "animationId": 11366,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 10,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2886,
+    "modelId": 53293,
+    "animationId": 11364,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 10,
+    "contrast": 50,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2887,
+    "modelId": 53293,
+    "animationId": 11365,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 10,
+    "contrast": 50,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2888,
+    "modelId": 53293,
+    "animationId": 11366,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 10,
+    "contrast": 50,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2889,
+    "modelId": 53292,
+    "animationId": 11364,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 100,
     "recolorToReplace": null,
     "recolorToFind": null
   },
@@ -26886,6 +27828,116 @@
     "recolorToFind": [
       22404
     ]
+  },
+  {
+    "id": 2890,
+    "modelId": 53292,
+    "animationId": 11365,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2891,
+    "modelId": 53292,
+    "animationId": 11366,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2892,
+    "modelId": 53295,
+    "animationId": 11362,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2893,
+    "modelId": 53295,
+    "animationId": 11363,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2894,
+    "modelId": 53396,
+    "animationId": 11321,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2895,
+    "modelId": 53417,
+    "animationId": 11322,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2896,
+    "modelId": 53394,
+    "animationId": 11328,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2897,
+    "modelId": 3091,
+    "animationId": 11329,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2898,
+    "modelId": 3091,
+    "animationId": 11330,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2899,
+    "modelId": 53276,
+    "animationId": 9912,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
   },
   {
     "id": 29,
@@ -26906,6 +27958,129 @@
     "resizeY": 128,
     "ambient": 0,
     "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2900,
+    "modelId": 46967,
+    "animationId": 9902,
+    "resizeX": 150,
+    "resizeY": 150,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2901,
+    "modelId": 46967,
+    "animationId": 9902,
+    "resizeX": 146,
+    "resizeY": 146,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2902,
+    "modelId": 3076,
+    "animationId": 11421,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2903,
+    "modelId": 34617,
+    "animationId": 11422,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 60,
+    "contrast": 60,
+    "recolorToReplace": [
+      82,
+      127,
+      61
+    ],
+    "recolorToFind": [
+      7104,
+      6080,
+      960
+    ]
+  },
+  {
+    "id": 2904,
+    "modelId": 34617,
+    "animationId": 11422,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 60,
+    "contrast": 60,
+    "recolorToReplace": [
+      -22050,
+      -26688,
+      -21568
+    ],
+    "recolorToFind": [
+      7104,
+      6080,
+      960
+    ]
+  },
+  {
+    "id": 2905,
+    "modelId": 34617,
+    "animationId": 11422,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 60,
+    "contrast": 60,
+    "recolorToReplace": [
+      8092,
+      22464,
+      22430
+    ],
+    "recolorToFind": [
+      7104,
+      6080,
+      960
+    ]
+  },
+  {
+    "id": 2906,
+    "modelId": 34617,
+    "animationId": 11422,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 60,
+    "contrast": 60,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2907,
+    "modelId": 4265,
+    "animationId": 375,
+    "resizeX": 200,
+    "resizeY": 200,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2908,
+    "modelId": 51219,
+    "animationId": 11442,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 35,
+    "contrast": 244,
     "recolorToReplace": null,
     "recolorToFind": null
   },
