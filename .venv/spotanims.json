@@ -24862,7 +24862,7 @@
   },
   {
     "id": 2653,
-    "modelId": 50182,
+    "modelId": 53400,
     "animationId": 10128,
     "resizeX": 150,
     "resizeY": 150,
@@ -24873,7 +24873,7 @@
   },
   {
     "id": 2654,
-    "modelId": 50182,
+    "modelId": 53400,
     "animationId": 9882,
     "resizeX": 150,
     "resizeY": 150,
@@ -26994,17 +26994,6 @@
     "recolorToFind": null
   },
   {
-    "id": 2823,
-    "modelId": 53402,
-    "animationId": 11222,
-    "resizeX": 128,
-    "resizeY": 128,
-    "ambient": 0,
-    "contrast": 0,
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
     "id": 2824,
     "modelId": 53404,
     "animationId": 11216,
@@ -27107,28 +27096,6 @@
     "id": 2832,
     "modelId": 53425,
     "animationId": 11218,
-    "resizeX": 128,
-    "resizeY": 128,
-    "ambient": 0,
-    "contrast": 0,
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 2833,
-    "modelId": 53395,
-    "animationId": 11239,
-    "resizeX": 128,
-    "resizeY": 128,
-    "ambient": 0,
-    "contrast": 0,
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 2834,
-    "modelId": 53395,
-    "animationId": 11240,
     "resizeX": 128,
     "resizeY": 128,
     "ambient": 0,
@@ -27507,23 +27474,23 @@
   },
   {
     "id": 2865,
-    "modelId": 53403,
-    "animationId": 11170,
+    "modelId": 54228,
+    "animationId": 11461,
     "resizeX": 128,
     "resizeY": 128,
     "ambient": 32,
-    "contrast": 0,
+    "contrast": 100,
     "recolorToReplace": null,
     "recolorToFind": null
   },
   {
     "id": 2866,
-    "modelId": 53403,
-    "animationId": 11171,
+    "modelId": 54228,
+    "animationId": 11460,
     "resizeX": 128,
     "resizeY": 128,
     "ambient": 32,
-    "contrast": 0,
+    "contrast": 100,
     "recolorToReplace": null,
     "recolorToFind": null
   },
@@ -27540,12 +27507,12 @@
   },
   {
     "id": 2868,
-    "modelId": 53400,
-    "animationId": 11275,
+    "modelId": 54229,
+    "animationId": 11462,
     "resizeX": 128,
     "resizeY": 128,
-    "ambient": 64,
-    "contrast": 12,
+    "ambient": 30,
+    "contrast": 100,
     "recolorToReplace": null,
     "recolorToFind": null
   },
@@ -28085,6 +28052,17 @@
     "recolorToFind": null
   },
   {
+    "id": 2909,
+    "modelId": 54209,
+    "animationId": 11445,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
     "id": 291,
     "modelId": 3070,
     "animationId": 1257,
@@ -28092,6 +28070,105 @@
     "resizeY": 128,
     "ambient": 40,
     "contrast": 40,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2910,
+    "modelId": 54209,
+    "animationId": 11451,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2911,
+    "modelId": 54209,
+    "animationId": 11452,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2912,
+    "modelId": 54209,
+    "animationId": 11453,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2913,
+    "modelId": 54209,
+    "animationId": 11454,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2914,
+    "modelId": 54209,
+    "animationId": 11455,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2915,
+    "modelId": 54223,
+    "animationId": 11459,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 60,
+    "contrast": 60,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2916,
+    "modelId": 54221,
+    "animationId": 11456,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 60,
+    "contrast": 60,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2917,
+    "modelId": 54218,
+    "animationId": 11458,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 60,
+    "contrast": 60,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 2918,
+    "modelId": 54220,
+    "animationId": 11457,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 60,
+    "contrast": 60,
     "recolorToReplace": null,
     "recolorToFind": null
   },

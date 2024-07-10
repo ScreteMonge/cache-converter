@@ -6520,16 +6520,6 @@
     "leftHandItem": 0
   },
   {
-    "id": 11170,
-    "rightHandItem": -1,
-    "leftHandItem": -1
-  },
-  {
-    "id": 11171,
-    "rightHandItem": -1,
-    "leftHandItem": -1
-  },
-  {
     "id": 11172,
     "rightHandItem": -1,
     "leftHandItem": -1
@@ -6810,11 +6800,6 @@
     "leftHandItem": -1
   },
   {
-    "id": 11222,
-    "rightHandItem": -1,
-    "leftHandItem": -1
-  },
-  {
     "id": 11223,
     "rightHandItem": -1,
     "leftHandItem": -1
@@ -6900,19 +6885,9 @@
     "leftHandItem": 0
   },
   {
-    "id": 11239,
-    "rightHandItem": -1,
-    "leftHandItem": -1
-  },
-  {
     "id": 1124,
     "rightHandItem": 0,
     "leftHandItem": 0
-  },
-  {
-    "id": 11240,
-    "rightHandItem": -1,
-    "leftHandItem": -1
   },
   {
     "id": 11241,
@@ -7098,11 +7073,6 @@
     "id": 11274,
     "rightHandItem": 0,
     "leftHandItem": 0
-  },
-  {
-    "id": 11275,
-    "rightHandItem": -1,
-    "leftHandItem": -1
   },
   {
     "id": 11276,
@@ -8035,12 +8005,112 @@
     "leftHandItem": -1
   },
   {
+    "id": 11443,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11444,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 11445,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11446,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 11447,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 11448,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 11449,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
     "id": 1145,
     "rightHandItem": -1,
     "leftHandItem": -1
   },
   {
+    "id": 11450,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 11451,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11452,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11453,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11454,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11455,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11456,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11457,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11458,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11459,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
     "id": 1146,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11460,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11461,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11462,
     "rightHandItem": -1,
     "leftHandItem": -1
   },
