@@ -257,8 +257,6 @@ def main():
         json.dump(npc_list, npc_out, indent=2)
         npc_out.close()
 
-        print("Finished cache conversion.")
-
 
 if __name__ == '__main__':
     main()
