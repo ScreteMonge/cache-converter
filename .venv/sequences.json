@@ -6520,6 +6520,16 @@
     "leftHandItem": 0
   },
   {
+    "id": 11170,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11171,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
     "id": 11172,
     "rightHandItem": -1,
     "leftHandItem": -1
@@ -6800,6 +6810,11 @@
     "leftHandItem": -1
   },
   {
+    "id": 11222,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
     "id": 11223,
     "rightHandItem": -1,
     "leftHandItem": -1
@@ -6885,9 +6900,19 @@
     "leftHandItem": 0
   },
   {
+    "id": 11239,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
     "id": 1124,
     "rightHandItem": 0,
     "leftHandItem": 0
+  },
+  {
+    "id": 11240,
+    "rightHandItem": -1,
+    "leftHandItem": -1
   },
   {
     "id": 11241,
@@ -7073,6 +7098,11 @@
     "id": 11274,
     "rightHandItem": 0,
     "leftHandItem": 0
+  },
+  {
+    "id": 11275,
+    "rightHandItem": -1,
+    "leftHandItem": -1
   },
   {
     "id": 11276,
@@ -8115,7 +8145,57 @@
     "leftHandItem": -1
   },
   {
+    "id": 11463,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11464,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11465,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11466,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11467,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11468,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11469,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
     "id": 1147,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11470,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11471,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 11472,
     "rightHandItem": -1,
     "leftHandItem": -1
   },
@@ -11492,7 +11572,7 @@
   {
     "id": 1755,
     "rightHandItem": 2859,
-    "leftHandItem": -1
+    "leftHandItem": 0
   },
   {
     "id": 1756,
@@ -25022,7 +25102,7 @@
   {
     "id": 4190,
     "rightHandItem": 2859,
-    "leftHandItem": -1
+    "leftHandItem": 0
   },
   {
     "id": 4191,
@@ -41597,7 +41677,7 @@
   {
     "id": 7174,
     "rightHandItem": 21232,
-    "leftHandItem": -1
+    "leftHandItem": 0
   },
   {
     "id": 7175,
@@ -42802,12 +42882,12 @@
   {
     "id": 7391,
     "rightHandItem": 4674,
-    "leftHandItem": -1
+    "leftHandItem": 0
   },
   {
     "id": 7392,
     "rightHandItem": 1187,
-    "leftHandItem": -1
+    "leftHandItem": 0
   },
   {
     "id": 7393,
@@ -51267,7 +51347,7 @@
   {
     "id": 8915,
     "rightHandItem": 26156,
-    "leftHandItem": -1
+    "leftHandItem": 0
   },
   {
     "id": 8916,
@@ -51287,7 +51367,7 @@
   {
     "id": 8919,
     "rightHandItem": 26156,
-    "leftHandItem": -1
+    "leftHandItem": 0
   },
   {
     "id": 892,
@@ -51297,7 +51377,7 @@
   {
     "id": 8920,
     "rightHandItem": 26156,
-    "leftHandItem": -1
+    "leftHandItem": 0
   },
   {
     "id": 8921,
@@ -51307,7 +51387,7 @@
   {
     "id": 8922,
     "rightHandItem": 26156,
-    "leftHandItem": -1
+    "leftHandItem": 0
   },
   {
     "id": 8923,

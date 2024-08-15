@@ -51,7 +51,7 @@
     "id": 100,
     "bodyPartId": 5,
     "models": [
-      28337
+      28512
     ],
     "chatheadModels": [
       -1,
@@ -67,7 +67,7 @@
     "id": 101,
     "bodyPartId": 5,
     "models": [
-      28339
+      28349
     ],
     "chatheadModels": [
       -1,
@@ -115,7 +115,7 @@
     "id": 104,
     "bodyPartId": 5,
     "models": [
-      28334
+      28436
     ],
     "chatheadModels": [
       -1,
@@ -131,7 +131,7 @@
     "id": 105,
     "bodyPartId": 2,
     "models": [
-      28349
+      28581
     ],
     "chatheadModels": [
       -1,
@@ -147,7 +147,7 @@
     "id": 106,
     "bodyPartId": 2,
     "models": [
-      27563
+      28719
     ],
     "chatheadModels": [
       -1,
@@ -163,7 +163,7 @@
     "id": 107,
     "bodyPartId": 2,
     "models": [
-      28348
+      28519
     ],
     "chatheadModels": [
       -1,
@@ -179,7 +179,7 @@
     "id": 108,
     "bodyPartId": 2,
     "models": [
-      25864
+      28714
     ],
     "chatheadModels": [
       -1,
@@ -195,7 +195,7 @@
     "id": 109,
     "bodyPartId": 2,
     "models": [
-      28346
+      28786
     ],
     "chatheadModels": [
       -1,
@@ -227,7 +227,7 @@
     "id": 110,
     "bodyPartId": 2,
     "models": [
-      28347
+      28554
     ],
     "chatheadModels": [
       -1,
@@ -1443,7 +1443,7 @@
     "id": 18,
     "bodyPartId": 2,
     "models": [
-      292
+      28515
     ],
     "chatheadModels": [
       -1,
@@ -1619,7 +1619,7 @@
     "id": 19,
     "bodyPartId": 2,
     "models": [
-      292,
+      28515,
       322
     ],
     "chatheadModels": [
@@ -1812,7 +1812,7 @@
     "id": 20,
     "bodyPartId": 2,
     "models": [
-      292,
+      28515,
       326
     ],
     "chatheadModels": [
@@ -1989,7 +1989,7 @@
     "id": 21,
     "bodyPartId": 2,
     "models": [
-      292,
+      28515,
       320
     ],
     "chatheadModels": [
@@ -2166,7 +2166,7 @@
     "id": 22,
     "bodyPartId": 2,
     "models": [
-      292,
+      28515,
       327
     ],
     "chatheadModels": [
@@ -2343,7 +2343,7 @@
     "id": 23,
     "bodyPartId": 2,
     "models": [
-      292,
+      28515,
       324
     ],
     "chatheadModels": [
@@ -2520,7 +2520,7 @@
     "id": 24,
     "bodyPartId": 2,
     "models": [
-      310
+      28551
     ],
     "chatheadModels": [
       -1,
@@ -2661,10 +2661,202 @@
     "recolorToFind": null
   },
   {
+    "id": 248,
+    "bodyPartId": 10,
+    "models": [
+      2732
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 249,
+    "bodyPartId": 10,
+    "models": [
+      10482
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
     "id": 25,
     "bodyPartId": 2,
     "models": [
-      297
+      28582
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 250,
+    "bodyPartId": 10,
+    "models": [
+      482
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 251,
+    "bodyPartId": 10,
+    "models": [
+      498
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 252,
+    "bodyPartId": 10,
+    "models": [
+      484
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 253,
+    "bodyPartId": 10,
+    "models": [
+      480
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 254,
+    "bodyPartId": 2,
+    "models": [
+      28774
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 255,
+    "bodyPartId": 2,
+    "models": [
+      28550
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 256,
+    "bodyPartId": 2,
+    "models": [
+      28650
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 257,
+    "bodyPartId": 2,
+    "models": [
+      28548
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 258,
+    "bodyPartId": 2,
+    "models": [
+      28586
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 259,
+    "bodyPartId": 2,
+    "models": [
+      28547
     ],
     "chatheadModels": [
       -1,
@@ -2680,7 +2872,172 @@
     "id": 26,
     "bodyPartId": 3,
     "models": [
-      151
+      26632
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 260,
+    "bodyPartId": 3,
+    "models": [
+      27139
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 261,
+    "bodyPartId": 3,
+    "models": [
+      26644
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 262,
+    "bodyPartId": 3,
+    "models": [
+      27140
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 263,
+    "bodyPartId": 3,
+    "models": [
+      26616
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 264,
+    "bodyPartId": 3,
+    "models": [
+      26633
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 265,
+    "bodyPartId": 9,
+    "models": [
+      18914,
+      15936
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 266,
+    "bodyPartId": 9,
+    "models": [
+      18914,
+      15937
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 267,
+    "bodyPartId": 9,
+    "models": [
+      18914,
+      15934
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 268,
+    "bodyPartId": 9,
+    "models": [
+      18914,
+      15927
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 269,
+    "bodyPartId": 9,
+    "models": [
+      18914,
+      15931
     ],
     "chatheadModels": [
       -1,
@@ -2696,7 +3053,167 @@
     "id": 27,
     "bodyPartId": 3,
     "models": [
-      167
+      26634
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 270,
+    "bodyPartId": 9,
+    "models": [
+      15944
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 271,
+    "bodyPartId": 9,
+    "models": [
+      18346
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 272,
+    "bodyPartId": 9,
+    "models": [
+      18557
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 273,
+    "bodyPartId": 9,
+    "models": [
+      18553
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 274,
+    "bodyPartId": 12,
+    "models": [
+      14396
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 275,
+    "bodyPartId": 12,
+    "models": [
+      14422
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 276,
+    "bodyPartId": 12,
+    "models": [
+      14425
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 277,
+    "bodyPartId": 12,
+    "models": [
+      14398
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 278,
+    "bodyPartId": 12,
+    "models": [
+      11024
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 279,
+    "bodyPartId": 12,
+    "models": [
+      14426
     ],
     "chatheadModels": [
       -1,
@@ -2712,7 +3229,167 @@
     "id": 28,
     "bodyPartId": 3,
     "models": [
-      170
+      26619
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 280,
+    "bodyPartId": 12,
+    "models": [
+      15926
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 281,
+    "bodyPartId": 5,
+    "models": [
+      27623
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 282,
+    "bodyPartId": 5,
+    "models": [
+      27563
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 283,
+    "bodyPartId": 5,
+    "models": [
+      27610
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 284,
+    "bodyPartId": 5,
+    "models": [
+      28373
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 285,
+    "bodyPartId": 5,
+    "models": [
+      28449
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 286,
+    "bodyPartId": 5,
+    "models": [
+      28220
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 287,
+    "bodyPartId": 5,
+    "models": [
+      28348
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 288,
+    "bodyPartId": 5,
+    "models": [
+      28347
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 289,
+    "bodyPartId": 5,
+    "models": [
+      28374
     ],
     "chatheadModels": [
       -1,
@@ -2728,10 +3405,170 @@
     "id": 29,
     "bodyPartId": 3,
     "models": [
-      162
+      26630
     ],
     "chatheadModels": [
       -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 290,
+    "bodyPartId": 5,
+    "models": [
+      28339
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 291,
+    "bodyPartId": 5,
+    "models": [
+      28334
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 292,
+    "bodyPartId": 8,
+    "models": [
+      456
+    ],
+    "chatheadModels": [
+      81,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 293,
+    "bodyPartId": 8,
+    "models": [
+      460
+    ],
+    "chatheadModels": [
+      82,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 294,
+    "bodyPartId": 8,
+    "models": [
+      470
+    ],
+    "chatheadModels": [
+      83,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 295,
+    "bodyPartId": 8,
+    "models": [
+      346
+    ],
+    "chatheadModels": [
+      79,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 296,
+    "bodyPartId": 8,
+    "models": [
+      437
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 297,
+    "bodyPartId": 8,
+    "models": [
+      474
+    ],
+    "chatheadModels": [
+      80,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 298,
+    "bodyPartId": 8,
+    "models": [
+      428
+    ],
+    "chatheadModels": [
+      85,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 299,
+    "bodyPartId": 8,
+    "models": [
+      419
+    ],
+    "chatheadModels": [
+      84,
       -1,
       -1,
       -1,
@@ -2760,7 +3597,7 @@
     "id": 30,
     "bodyPartId": 3,
     "models": [
-      163
+      27154
     ],
     "chatheadModels": [
       -1,
@@ -2773,10 +3610,122 @@
     "recolorToFind": null
   },
   {
+    "id": 300,
+    "bodyPartId": 8,
+    "models": [
+      351
+    ],
+    "chatheadModels": [
+      28392,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 301,
+    "bodyPartId": 8,
+    "models": [
+      469
+    ],
+    "chatheadModels": [
+      28390,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 302,
+    "bodyPartId": 8,
+    "models": [
+      471
+    ],
+    "chatheadModels": [
+      28395,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 303,
+    "bodyPartId": 8,
+    "models": [
+      421
+    ],
+    "chatheadModels": [
+      28396,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 304,
+    "bodyPartId": 8,
+    "models": [
+      431
+    ],
+    "chatheadModels": [
+      28391,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 305,
+    "bodyPartId": 8,
+    "models": [
+      348
+    ],
+    "chatheadModels": [
+      28401,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 306,
+    "bodyPartId": 8,
+    "models": [
+      438
+    ],
+    "chatheadModels": [
+      28389,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
     "id": 31,
     "bodyPartId": 3,
     "models": [
-      158
+      26618
     ],
     "chatheadModels": [
       -1,
@@ -2824,7 +3773,7 @@
     "id": 34,
     "bodyPartId": 4,
     "models": [
-      176
+      10218
     ],
     "chatheadModels": [
       -1,
@@ -2833,12 +3782,8 @@
       -1,
       -1
     ],
-    "recolorToReplace": [
-      4550
-    ],
-    "recolorToFind": [
-      -22464
-    ]
+    "recolorToReplace": null,
+    "recolorToFind": null
   },
   {
     "id": 35,
@@ -2860,7 +3805,7 @@
     "id": 36,
     "bodyPartId": 5,
     "models": [
-      254
+      28285
     ],
     "chatheadModels": [
       -1,
@@ -2876,7 +3821,7 @@
     "id": 37,
     "bodyPartId": 5,
     "models": [
-      271
+      28337
     ],
     "chatheadModels": [
       -1,
@@ -2892,7 +3837,7 @@
     "id": 38,
     "bodyPartId": 5,
     "models": [
-      267
+      27639
     ],
     "chatheadModels": [
       -1,
@@ -2908,7 +3853,7 @@
     "id": 39,
     "bodyPartId": 5,
     "models": [
-      274
+      28346
     ],
     "chatheadModels": [
       -1,
@@ -2940,7 +3885,7 @@
     "id": 40,
     "bodyPartId": 5,
     "models": [
-      275
+      28212
     ],
     "chatheadModels": [
       -1,
@@ -3212,7 +4157,7 @@
     "id": 56,
     "bodyPartId": 9,
     "models": [
-      456
+      18554
     ],
     "chatheadModels": [
       -1,
@@ -3228,7 +4173,7 @@
     "id": 57,
     "bodyPartId": 9,
     "models": [
-      469
+      15945
     ],
     "chatheadModels": [
       -1,
@@ -3244,7 +4189,7 @@
     "id": 58,
     "bodyPartId": 9,
     "models": [
-      470
+      15939
     ],
     "chatheadModels": [
       -1,
@@ -3260,7 +4205,7 @@
     "id": 59,
     "bodyPartId": 9,
     "models": [
-      471
+      18914
     ],
     "chatheadModels": [
       -1,
@@ -3292,7 +4237,7 @@
     "id": 60,
     "bodyPartId": 9,
     "models": [
-      474
+      18560
     ],
     "chatheadModels": [
       -1,
@@ -3308,7 +4253,7 @@
     "id": 61,
     "bodyPartId": 10,
     "models": [
-      332
+      3476
     ],
     "chatheadModels": [
       -1,
@@ -3324,7 +4269,7 @@
     "id": 62,
     "bodyPartId": 10,
     "models": [
-      351
+      10685
     ],
     "chatheadModels": [
       -1,
@@ -3340,7 +4285,7 @@
     "id": 63,
     "bodyPartId": 10,
     "models": [
-      346
+      10692
     ],
     "chatheadModels": [
       -1,
@@ -3356,7 +4301,7 @@
     "id": 64,
     "bodyPartId": 10,
     "models": [
-      348
+      3848
     ],
     "chatheadModels": [
       -1,
@@ -3372,7 +4317,7 @@
     "id": 65,
     "bodyPartId": 10,
     "models": [
-      343
+      487
     ],
     "chatheadModels": [
       -1,
@@ -3420,7 +4365,7 @@
     "id": 68,
     "bodyPartId": 11,
     "models": [
-      353
+      10706
     ],
     "chatheadModels": [
       -1,
@@ -3429,12 +4374,8 @@
       -1,
       -1
     ],
-    "recolorToReplace": [
-      4550
-    ],
-    "recolorToFind": [
-      -22464
-    ]
+    "recolorToReplace": null,
+    "recolorToFind": null
   },
   {
     "id": 69,
@@ -3472,7 +4413,7 @@
     "id": 70,
     "bodyPartId": 12,
     "models": [
-      419
+      14423
     ],
     "chatheadModels": [
       -1,
@@ -3504,7 +4445,7 @@
     "id": 72,
     "bodyPartId": 12,
     "models": [
-      431
+      15925
     ],
     "chatheadModels": [
       -1,
@@ -3520,7 +4461,7 @@
     "id": 73,
     "bodyPartId": 12,
     "models": [
-      428
+      14421
     ],
     "chatheadModels": [
       -1,
@@ -3536,7 +4477,7 @@
     "id": 74,
     "bodyPartId": 12,
     "models": [
-      421
+      14397
     ],
     "chatheadModels": [
       -1,
@@ -3552,7 +4493,7 @@
     "id": 75,
     "bodyPartId": 12,
     "models": [
-      438
+      14424
     ],
     "chatheadModels": [
       -1,
@@ -3568,7 +4509,7 @@
     "id": 76,
     "bodyPartId": 12,
     "models": [
-      437
+      14395
     ],
     "chatheadModels": [
       -1,
@@ -3872,7 +4813,7 @@
     "id": 93,
     "bodyPartId": 9,
     "models": [
-      28374
+      18555
     ],
     "chatheadModels": [
       -1,
@@ -3888,7 +4829,7 @@
     "id": 94,
     "bodyPartId": 9,
     "models": [
-      28373
+      18559
     ],
     "chatheadModels": [
       -1,
