@@ -29480,6 +29480,86 @@
     "recolorToFind": null
   },
   {
+    "id": 3006,
+    "modelId": 55373,
+    "animationId": 375,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 25,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 3007,
+    "modelId": 55373,
+    "animationId": 375,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 25,
+    "contrast": 0,
+    "recolorToReplace": [
+      9436,
+      9443,
+      9436,
+      9447,
+      9451
+    ],
+    "recolorToFind": [
+      5555,
+      5433,
+      6466,
+      6470,
+      6472
+    ]
+  },
+  {
+    "id": 3008,
+    "modelId": 55373,
+    "animationId": 375,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 25,
+    "contrast": 0,
+    "recolorToReplace": [
+      10167,
+      10171,
+      10039,
+      10173,
+      10178
+    ],
+    "recolorToFind": [
+      5555,
+      5433,
+      6466,
+      6470,
+      6472
+    ]
+  },
+  {
+    "id": 3009,
+    "modelId": 55373,
+    "animationId": 375,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 25,
+    "contrast": 0,
+    "recolorToReplace": [
+      5933,
+      5939,
+      5813,
+      5941,
+      6069
+    ],
+    "recolorToFind": [
+      5555,
+      5433,
+      6466,
+      6470,
+      6472
+    ]
+  },
+  {
     "id": 301,
     "modelId": 21852,
     "animationId": 1714,
@@ -29489,6 +29569,75 @@
     "contrast": 10,
     "recolorToReplace": null,
     "recolorToFind": null
+  },
+  {
+    "id": 3010,
+    "modelId": 55373,
+    "animationId": 375,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 25,
+    "contrast": 0,
+    "recolorToReplace": [
+      1719,
+      1591,
+      3891,
+      2869,
+      1845
+    ],
+    "recolorToFind": [
+      5555,
+      5433,
+      6466,
+      6470,
+      6472
+    ]
+  },
+  {
+    "id": 3011,
+    "modelId": 55373,
+    "animationId": 375,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 25,
+    "contrast": 0,
+    "recolorToReplace": [
+      28562,
+      28564,
+      28554,
+      28558,
+      28554
+    ],
+    "recolorToFind": [
+      5555,
+      5433,
+      6466,
+      6470,
+      6472
+    ]
+  },
+  {
+    "id": 3012,
+    "modelId": 55373,
+    "animationId": 375,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 25,
+    "contrast": 0,
+    "recolorToReplace": [
+      27848,
+      27852,
+      27860,
+      27852,
+      27860
+    ],
+    "recolorToFind": [
+      5555,
+      5433,
+      6466,
+      6470,
+      6472
+    ]
   },
   {
     "id": 302,
