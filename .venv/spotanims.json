@@ -29640,6 +29640,17 @@
     ]
   },
   {
+    "id": 3013,
+    "modelId": 55473,
+    "animationId": 11776,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 10,
+    "contrast": 25,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
     "id": 302,
     "modelId": 2321,
     "animationId": 457,
@@ -35544,13 +35555,11 @@
     "contrast": 0,
     "recolorToReplace": [
       6717,
-      7874,
-      127
+      7874
     ],
     "recolorToFind": [
       26735,
-      -26942,
-      2768
+      -26942
     ]
   },
   {
@@ -35861,13 +35870,11 @@
     "contrast": 0,
     "recolorToReplace": [
       26735,
-      26735,
-      127
+      26735
     ],
     "recolorToFind": [
       26735,
-      -26942,
-      26735
+      -26942
     ]
   },
   {
@@ -35880,12 +35887,10 @@
     "contrast": 0,
     "recolorToReplace": [
       26735,
-      26735,
-      127
+      26735
     ],
     "recolorToFind": [
       26735,
-      -26942,
       -26942
     ]
   },

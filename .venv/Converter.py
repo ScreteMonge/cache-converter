@@ -234,6 +234,12 @@ def main():
                 models = data.get('models')
                 standingAnimation = data.get('standingAnimation')
                 walkingAnimation = data.get('walkingAnimation')
+                runAnimation = data.get('runAnimation')
+                idleRotateLeftAnimation = data.get('idleRotateLeftAnimation')
+                idleRotateRightAnimation = data.get('idleRotateRightAnimation')
+                rotate180Animation = data.get('rotate180Animation')
+                rotateLeftAnimation = data.get('rotateLeftAnimation')
+                rotateRightAnimation = data.get('rotateRightAnimation')
                 widthScale = data.get('widthScale')
                 heightScale = data.get('heightScale')
                 recolorToReplace = data.get('recolorToReplace')
@@ -244,6 +250,12 @@ def main():
                              'models': models,
                              'standingAnimation': standingAnimation,
                              'walkingAnimation': walkingAnimation,
+                             'runAnimation': runAnimation,
+                             'idleRotateLeftAnimation': idleRotateLeftAnimation,
+                             'idleRotateRightAnimation': idleRotateRightAnimation,
+                             'rotate180Animation': rotate180Animation,
+                             'rotateLeftAnimation': rotateLeftAnimation,
+                             'rotateRightAnimation': rotateRightAnimation,
                              'widthScale': widthScale,
                              'heightScale': heightScale,
                              'recolorToReplace': recolorToReplace,
