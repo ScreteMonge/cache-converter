@@ -231,6 +231,17 @@ def main():
                 data = json.load(open(npc_path + npc_filenames[2][i], encoding='utf-8'))
                 id = data.get('id')
                 name = data.get('name')
+
+                if name == 'null' or name == '' or name == '? ? ? ?':
+                    continue
+
+                if name.startswith('<'):
+                    name = name.replace('<col=00ffff>', '')
+                    name = name.replace('</col>', '')
+
+                if name.startswith(' '):
+                    name = name.replace(' ', '', 1)
+
                 models = data.get('models')
                 standingAnimation = data.get('standingAnimation')
                 walkingAnimation = data.get('walkingAnimation')
