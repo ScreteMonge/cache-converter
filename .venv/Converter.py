@@ -1,5 +1,6 @@
 import json
 import os.path
+import re
 from tkinter import filedialog
 
 
@@ -9,11 +10,11 @@ def main():
         print("Directory is empty or isn't 'dump.' Canceling program.")
         return
 
-    perform_kit = True
-    perform_obj = True
-    perform_spotanim = True
-    perform_seq = True
-    perform_item = True
+    perform_kit = False
+    perform_obj = False
+    perform_spotanim = False
+    perform_seq = False
+    perform_item = False
     perform_npc = True
 
     if perform_kit:
@@ -236,7 +237,7 @@ def main():
                     continue
 
                 if name.startswith('<'):
-                    name = name.replace('<col=00ffff>', '')
+                    name = re.sub('<col=.{6}>', '', name)
                     name = name.replace('</col>', '')
 
                 if name.startswith(' '):
