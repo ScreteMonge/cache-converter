@@ -10,11 +10,11 @@ def main():
         print("Directory is empty or isn't 'dump.' Canceling program.")
         return
 
-    perform_kit = False
-    perform_obj = False
-    perform_spotanim = False
-    perform_seq = False
-    perform_item = False
+    perform_kit = True
+    perform_obj = True
+    perform_spotanim = True
+    perform_seq = True
+    perform_item = True
     perform_npc = True
 
     if perform_kit:
