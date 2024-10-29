@@ -57,6 +57,11 @@ def main():
                 data = json.load(open(obj_path + obj_filenames[2][i], encoding='utf-8'))
                 id = data.get('id')
                 name = data.get('name')
+
+                if name.startswith('<'):
+                    name = re.sub('<col=.{6}>', '', name)
+                    name = name.replace('</col>', '')
+
                 objectModels = data.get('objectModels')
                 objectTypes = data.get('objectTypes')
                 modelSizeX = data.get('modelSizeX')
