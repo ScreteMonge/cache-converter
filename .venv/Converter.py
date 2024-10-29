@@ -62,6 +62,7 @@ def main():
                     name = re.sub('<col=.{6}>', '', name)
                     name = name.replace('</col>', '')
 
+                animationId = data.get('animationID')
                 objectModels = data.get('objectModels')
                 objectTypes = data.get('objectTypes')
                 modelSizeX = data.get('modelSizeX')
@@ -75,6 +76,7 @@ def main():
                 retextureToFind = data.get('retextureToFind')
                 obj_final = {'id': id,
                              'name': name,
+                             'animationId': animationId,
                              'objectModels': objectModels,
                              'objectTypes': objectTypes,
                              'modelSizeX': modelSizeX,
