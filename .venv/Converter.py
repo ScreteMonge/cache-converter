@@ -174,6 +174,10 @@ def main():
                 data = json.load(open(item_path + item_filenames[2][i], encoding='utf-8'))
                 id = data.get('id')
                 name = data.get('name')
+
+                if name == "null" or name == "Null":
+                    continue
+
                 inventoryModel = data.get('inventoryModel')
                 maleModel0 = data.get('maleModel0')
                 maleModel1 = data.get('maleModel1')
