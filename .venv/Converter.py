@@ -255,6 +255,7 @@ def main():
                     name = name.replace(' ', '', 1)
 
                 models = data.get('models')
+                size = data.get('size')
                 standingAnimation = data.get('standingAnimation')
                 walkingAnimation = data.get('walkingAnimation')
                 runAnimation = data.get('runAnimation')
@@ -271,6 +272,7 @@ def main():
                 npc_final = {'id': id,
                              'name': name,
                              'models': models,
+                             'size': size,
                              'standingAnimation': standingAnimation,
                              'walkingAnimation': walkingAnimation,
                              'runAnimation': runAnimation,
