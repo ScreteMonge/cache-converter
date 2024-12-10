@@ -10785,9 +10785,19 @@
     "leftHandItem": 0
   },
   {
+    "id": 11939,
+    "rightHandItem": 0,
+    "leftHandItem": 30859
+  },
+  {
     "id": 1194,
     "rightHandItem": -1,
     "leftHandItem": 3676
+  },
+  {
+    "id": 11940,
+    "rightHandItem": 0,
+    "leftHandItem": 30864
   },
   {
     "id": 1195,
@@ -47800,6 +47810,11 @@
     "leftHandItem": -1
   },
   {
+    "id": 7858,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
     "id": 7859,
     "rightHandItem": -1,
     "leftHandItem": -1
@@ -52907,7 +52922,7 @@
   {
     "id": 8778,
     "rightHandItem": 0,
-    "leftHandItem": 25622
+    "leftHandItem": 25578
   },
   {
     "id": 8779,
