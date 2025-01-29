@@ -32311,6 +32311,17 @@
     "recolorToFind": null
   },
   {
+    "id": 3201,
+    "modelId": 55717,
+    "animationId": 366,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 60,
+    "contrast": 60,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
     "id": 321,
     "modelId": 21851,
     "animationId": 1715,
