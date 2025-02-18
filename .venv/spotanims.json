@@ -23892,10 +23892,10 @@
     "ambient": 0,
     "contrast": 0,
     "recolorToReplace": [
-      127
+      11200
     ],
     "recolorToFind": [
-      11200
+      16320
     ]
   },
   {
@@ -41338,12 +41338,8 @@
     "resizeY": 96,
     "ambient": 0,
     "contrast": 0,
-    "recolorToReplace": [
-      5008
-    ],
-    "recolorToFind": [
-      -14400
-    ]
+    "recolorToReplace": null,
+    "recolorToFind": null
   },
   {
     "id": 929,
@@ -41358,16 +41354,14 @@
       8,
       -22510,
       24,
-      33,
-      -22510
+      33
     ],
     "recolorToFind": [
       5008,
       5532,
       5537,
       5413,
-      5417,
-      5656
+      5417
     ]
   },
   {
@@ -41398,7 +41392,6 @@
       6356,
       5557,
       5559,
-      5563,
       0
     ],
     "recolorToFind": [
@@ -41406,7 +41399,6 @@
       5413,
       5537,
       5532,
-      5656,
       5008
     ]
   },
