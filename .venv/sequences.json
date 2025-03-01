@@ -11280,7 +11280,62 @@
     "leftHandItem": 25578
   },
   {
+    "id": 12027,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12028,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12029,
+    "rightHandItem": 9331,
+    "leftHandItem": 0
+  },
+  {
     "id": 1203,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12030,
+    "rightHandItem": 9332,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12031,
+    "rightHandItem": 9333,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12032,
+    "rightHandItem": 9334,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12033,
+    "rightHandItem": 9335,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12034,
+    "rightHandItem": 9336,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12035,
+    "rightHandItem": 9337,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12036,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12037,
     "rightHandItem": -1,
     "leftHandItem": -1
   },
@@ -53348,6 +53403,11 @@
     "id": 8777,
     "rightHandItem": 0,
     "leftHandItem": 25622
+  },
+  {
+    "id": 8778,
+    "rightHandItem": -1,
+    "leftHandItem": -1
   },
   {
     "id": 8779,
