@@ -11340,7 +11340,67 @@
     "leftHandItem": -1
   },
   {
+    "id": 12038,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12039,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
     "id": 1204,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12040,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12041,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12042,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12043,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12044,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12045,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12046,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12047,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12048,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12049,
     "rightHandItem": -1,
     "leftHandItem": -1
   },
@@ -11350,9 +11410,109 @@
     "leftHandItem": -1
   },
   {
+    "id": 12050,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12051,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12052,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12053,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12054,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12055,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12056,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12057,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12058,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12059,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
     "id": 1206,
     "rightHandItem": -1,
     "leftHandItem": -1
+  },
+  {
+    "id": 12060,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12061,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12062,
+    "rightHandItem": 4544,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12063,
+    "rightHandItem": 0,
+    "leftHandItem": 24999
+  },
+  {
+    "id": 12064,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12065,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12066,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12067,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12068,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12069,
+    "rightHandItem": 0,
+    "leftHandItem": 0
   },
   {
     "id": 1207,
@@ -11360,7 +11520,92 @@
     "leftHandItem": -1
   },
   {
+    "id": 12070,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12071,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12072,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12073,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12074,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12075,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12076,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12077,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12078,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12079,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
     "id": 1208,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12080,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12081,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "id": 12082,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12083,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12084,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12085,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "id": 12086,
     "rightHandItem": -1,
     "leftHandItem": -1
   },
@@ -15141,8 +15386,8 @@
   },
   {
     "id": 189,
-    "rightHandItem": -1,
-    "leftHandItem": -1
+    "rightHandItem": 0,
+    "leftHandItem": 0
   },
   {
     "id": 1890,
@@ -15201,8 +15446,8 @@
   },
   {
     "id": 190,
-    "rightHandItem": -1,
-    "leftHandItem": -1
+    "rightHandItem": 0,
+    "leftHandItem": 0
   },
   {
     "id": 1900,
@@ -15256,8 +15501,8 @@
   },
   {
     "id": 191,
-    "rightHandItem": -1,
-    "leftHandItem": -1
+    "rightHandItem": 0,
+    "leftHandItem": 0
   },
   {
     "id": 1910,
@@ -15311,8 +15556,8 @@
   },
   {
     "id": 192,
-    "rightHandItem": -1,
-    "leftHandItem": -1
+    "rightHandItem": 0,
+    "leftHandItem": 0
   },
   {
     "id": 1920,
@@ -15366,8 +15611,8 @@
   },
   {
     "id": 193,
-    "rightHandItem": -1,
-    "leftHandItem": -1
+    "rightHandItem": 0,
+    "leftHandItem": 0
   },
   {
     "id": 1930,
@@ -15421,8 +15666,8 @@
   },
   {
     "id": 194,
-    "rightHandItem": -1,
-    "leftHandItem": -1
+    "rightHandItem": 0,
+    "leftHandItem": 0
   },
   {
     "id": 1940,
@@ -15476,8 +15721,8 @@
   },
   {
     "id": 195,
-    "rightHandItem": -1,
-    "leftHandItem": -1
+    "rightHandItem": 0,
+    "leftHandItem": 0
   },
   {
     "id": 1950,
@@ -15531,8 +15776,8 @@
   },
   {
     "id": 196,
-    "rightHandItem": -1,
-    "leftHandItem": -1
+    "rightHandItem": 0,
+    "leftHandItem": 0
   },
   {
     "id": 1960,
@@ -15586,8 +15831,8 @@
   },
   {
     "id": 197,
-    "rightHandItem": -1,
-    "leftHandItem": -1
+    "rightHandItem": 0,
+    "leftHandItem": 0
   },
   {
     "id": 1970,
@@ -19596,8 +19841,8 @@
   },
   {
     "id": 2691,
-    "rightHandItem": -1,
-    "leftHandItem": -1
+    "rightHandItem": 0,
+    "leftHandItem": 0
   },
   {
     "id": 2692,
@@ -22386,8 +22631,8 @@
   },
   {
     "id": 3193,
-    "rightHandItem": -1,
-    "leftHandItem": -1
+    "rightHandItem": 0,
+    "leftHandItem": 0
   },
   {
     "id": 3194,
@@ -25776,8 +26021,8 @@
   },
   {
     "id": 3803,
-    "rightHandItem": -1,
-    "leftHandItem": -1
+    "rightHandItem": 0,
+    "leftHandItem": 0
   },
   {
     "id": 3804,
