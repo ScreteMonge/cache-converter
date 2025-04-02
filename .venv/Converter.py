@@ -1,5 +1,6 @@
 import json
 import os.path
+import threading
 import re
 from tkinter import filedialog
 
@@ -16,6 +17,14 @@ def main():
     perform_seq = True
     perform_item = True
     perform_npc = True
+
+    t1 = threading.Thread(target=obj, args=(directory, perform_obj,))
+    t2 = threading.Thread(target=npc, args=(directory, perform_npc,))
+    t3 = threading.Thread(target=item, args=(directory, perform_item,))
+
+    t1.start()
+    t2.start()
+    t3.start()
 
     if perform_kit:
         kit_file_list = []
@@ -43,7 +52,81 @@ def main():
         kit_out = open("kit.json", "w")
         json.dump(kit_list, kit_out, indent=2)
         kit_out.close()
+        print("Finished kit")
 
+    if perform_spotanim:
+        spotanim_file_list = []
+        spotanim_path = directory + '/spotanims/'
+        print("Found ", spotanim_path, ", beginning dump.")
+        for spotanim_filenames in os.walk(spotanim_path):
+            spotanim_file_list.append(spotanim_filenames)
+
+        spotanim_list = []
+        for i in range(len(spotanim_filenames[2])):
+            try:
+                data = json.load(open(spotanim_path + spotanim_filenames[2][i], encoding='utf-8'))
+                id = data.get('id')
+                modelId = data.get('modelId')
+                animationId = data.get('animationId')
+                resizeX = data.get('resizeX')
+                resizeY = data.get('resizeY')
+                ambient = data.get('ambient')
+                contrast = data.get('contrast')
+                recolorToReplace = data.get('recolorToReplace')
+                recolorToFind = data.get('recolorToFind')
+                spotanim_final = {'id': id,
+                                  'modelId': modelId,
+                                  'animationId': animationId,
+                                  'resizeX': resizeX,
+                                  'resizeY': resizeY,
+                                  'ambient': ambient,
+                                  'contrast': contrast,
+                                  'recolorToReplace': recolorToReplace,
+                                  'recolorToFind': recolorToFind}
+                spotanim_list.append(spotanim_final)
+            except Exception:
+                pass
+
+        spotanim_out = open("spotanims.json", "w")
+        json.dump(spotanim_list, spotanim_out, indent=2)
+        spotanim_out.close()
+        print("Finished spotanim")
+
+    if perform_seq:
+        seq_file_list = []
+        seq_path = directory + '/sequences/'
+        print("Found ", seq_path, ", beginning dump.")
+        for seq_filenames in os.walk(seq_path):
+            seq_file_list.append(seq_filenames)
+
+        seq_list = []
+        for i in range(len(seq_filenames[2])):
+            try:
+                data = json.load(open(seq_path + seq_filenames[2][i], encoding='utf-8'))
+                id = data.get('id')
+                leftHandItem = data.get('leftHandItem')
+                rightHandItem = data.get('rightHandItem')
+                seq_final = {
+                    'id': id,
+                    'rightHandItem': rightHandItem,
+                    'leftHandItem': leftHandItem
+                }
+                seq_list.append(seq_final)
+            except Exception:
+                pass
+
+        seq_out = open("sequences.json", "w")
+        json.dump(seq_list, seq_out, indent=2)
+        seq_out.close()
+        print("Finished seq")
+
+        t1.join()
+        t2.join()
+        t3.join()
+        print("Finishing program")
+
+
+def obj(directory, perform_obj):
     if perform_obj:
         obj_file_list = []
         obj_path = directory + '/object_defs/'
@@ -96,71 +179,10 @@ def main():
         obj_out = open("object_defs.json", "w")
         json.dump(obj_list, obj_out, indent=2)
         obj_out.close()
+        print("Finished obj")
 
-    if perform_spotanim:
-        spotanim_file_list = []
-        spotanim_path = directory + '/spotanims/'
-        print("Found ", spotanim_path, ", beginning dump.")
-        for spotanim_filenames in os.walk(spotanim_path):
-            spotanim_file_list.append(spotanim_filenames)
 
-        spotanim_list = []
-        for i in range(len(spotanim_filenames[2])):
-            try:
-                data = json.load(open(spotanim_path + spotanim_filenames[2][i], encoding='utf-8'))
-                id = data.get('id')
-                modelId = data.get('modelId')
-                animationId = data.get('animationId')
-                resizeX = data.get('resizeX')
-                resizeY = data.get('resizeY')
-                ambient = data.get('ambient')
-                contrast = data.get('contrast')
-                recolorToReplace = data.get('recolorToReplace')
-                recolorToFind = data.get('recolorToFind')
-                spotanim_final = {'id': id,
-                                  'modelId': modelId,
-                                  'animationId': animationId,
-                                  'resizeX': resizeX,
-                                  'resizeY': resizeY,
-                                  'ambient': ambient,
-                                  'contrast': contrast,
-                                  'recolorToReplace': recolorToReplace,
-                                  'recolorToFind': recolorToFind}
-                spotanim_list.append(spotanim_final)
-            except Exception:
-                pass
-
-        spotanim_out = open("spotanims.json", "w")
-        json.dump(spotanim_list, spotanim_out, indent=2)
-        spotanim_out.close()
-
-    if perform_seq:
-        seq_file_list = []
-        seq_path = directory + '/sequences/'
-        print("Found ", seq_path, ", beginning dump.")
-        for seq_filenames in os.walk(seq_path):
-            seq_file_list.append(seq_filenames)
-
-        seq_list = []
-        for i in range(len(seq_filenames[2])):
-            try:
-                data = json.load(open(seq_path + seq_filenames[2][i], encoding='utf-8'))
-                id = data.get('id')
-                leftHandItem = data.get('leftHandItem')
-                rightHandItem = data.get('rightHandItem')
-                seq_final = {
-                    'id': id,
-                    'rightHandItem': rightHandItem,
-                    'leftHandItem': leftHandItem
-                }
-                seq_list.append(seq_final)
-            except Exception:
-                pass
-
-        seq_out = open("sequences.json", "w")
-        json.dump(seq_list, seq_out, indent=2)
-        seq_out.close()
-
+def item(directory, perform_item):
     if perform_item:
         item_file_list = []
         item_path = directory + '/item_defs/'
@@ -229,7 +251,10 @@ def main():
         item_out = open("item_defs.json", "w")
         json.dump(item_list, item_out, indent=2)
         item_out.close()
+        print("Finished item")
 
+
+def npc(directory, perform_npc):
     if perform_npc:
         npc_file_list = []
         npc_path = directory + '/npc_defs/'
@@ -293,6 +318,7 @@ def main():
         npc_out = open("npc_defs.json", "w")
         json.dump(npc_list, npc_out, indent=2)
         npc_out.close()
+        print("Finished npc")
 
 
 if __name__ == '__main__':
