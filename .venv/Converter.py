@@ -65,6 +65,10 @@ def main():
         for i in range(len(spotanim_filenames[2])):
             try:
                 data = json.load(open(spotanim_path + spotanim_filenames[2][i], encoding='utf-8'))
+                name = data.get('debugName')
+                name = name.replace('_', ' ')
+                name = name.capitalize()
+
                 id = data.get('id')
                 modelId = data.get('modelId')
                 animationId = data.get('animationId')
@@ -74,7 +78,8 @@ def main():
                 contrast = data.get('contrast')
                 recolorToReplace = data.get('recolorToReplace')
                 recolorToFind = data.get('recolorToFind')
-                spotanim_final = {'id': id,
+                spotanim_final = {'name': name,
+                                  'id': id,
                                   'modelId': modelId,
                                   'animationId': animationId,
                                   'resizeX': resizeX,
@@ -103,10 +108,15 @@ def main():
         for i in range(len(seq_filenames[2])):
             try:
                 data = json.load(open(seq_path + seq_filenames[2][i], encoding='utf-8'))
+                name = data.get('debugName')
+                name = name.replace('_', ' ')
+                name = name.capitalize()
+
                 id = data.get('id')
                 leftHandItem = data.get('leftHandItem')
                 rightHandItem = data.get('rightHandItem')
                 seq_final = {
+                    'name': name,
                     'id': id,
                     'rightHandItem': rightHandItem,
                     'leftHandItem': leftHandItem
