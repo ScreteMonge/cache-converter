@@ -129,7 +129,12 @@ def main():
                 pass
 
         seq_out = open("sequences.json", "w")
-        json.dump(seq_list, seq_out, indent=2)
+
+        json_file = json.dumps(seq_list)
+        data = json.loads(json_file)
+        sorted_file = sorted(data, key=lambda x : x['id'])
+        json.dump(sorted_file, seq_out, indent=2, sort_keys=True)
+
         seq_out.close()
         print("Finished seq")
 
@@ -360,7 +365,12 @@ def anim(directory, perform_anim):
                 pass
 
         anim_out = open("anims.json", "w")
-        json.dump(anim_list, anim_out, indent=2)
+
+        json_file = json.dumps(anim_list)
+        data = json.loads(json_file)
+        sorted_file = sorted(data, key=lambda x : x['id'])
+        json.dump(sorted_file, anim_out, indent=2, sort_keys=True)
+
         anim_out.close()
         print("Finished anim")
 
