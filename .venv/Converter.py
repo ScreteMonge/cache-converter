@@ -17,14 +17,17 @@ def main():
     perform_seq = True
     perform_item = True
     perform_npc = True
+    perform_anim = True
 
     t1 = threading.Thread(target=obj, args=(directory, perform_obj,))
     t2 = threading.Thread(target=npc, args=(directory, perform_npc,))
     t3 = threading.Thread(target=item, args=(directory, perform_item,))
+    t4 = threading.Thread(target=anim, args=(directory, perform_anim,))
 
     t1.start()
     t2.start()
     t3.start()
+    t4.start()
 
     if perform_kit:
         kit_file_list = []
@@ -133,6 +136,7 @@ def main():
         t1.join()
         t2.join()
         t3.join()
+        t4.join()
         print("Finishing program")
 
 
@@ -329,6 +333,36 @@ def npc(directory, perform_npc):
         json.dump(npc_list, npc_out, indent=2)
         npc_out.close()
         print("Finished npc")
+
+
+def anim(directory, perform_anim):
+    if perform_anim:
+        anim_file_list = []
+        anim_path = directory + '/gamevals/7/'
+        print("Found ", anim_path, ", beginning dump.")
+        for anim_filenames in os.walk(anim_path):
+            anim_file_list.append(anim_filenames)
+
+        anim_list = []
+        for i in range(len(anim_filenames[2])):
+            try:
+                data = json.load(open(anim_path + anim_filenames[2][i], encoding='utf-8'))
+                id = data.get('id')
+                name = data.get('name')
+                name = name.replace('_', ' ')
+                name = name.capitalize()
+
+                anim_final = {'id': id,
+                              'name': name
+                              }
+                anim_list.append(anim_final)
+            except Exception:
+                pass
+
+        anim_out = open("anims.json", "w")
+        json.dump(anim_list, anim_out, indent=2)
+        anim_out.close()
+        print("Finished anim")
 
 
 if __name__ == '__main__':
