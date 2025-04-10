@@ -11,12 +11,12 @@ def main():
         print("Directory is empty or isn't 'dump.' Canceling program.")
         return
 
-    perform_kit = True
-    perform_obj = True
+    perform_kit = False
+    perform_obj = False
     perform_spotanim = True
-    perform_seq = True
-    perform_item = True
-    perform_npc = True
+    perform_seq = False
+    perform_item = False
+    perform_npc = False
     perform_anim = True
 
     t1 = threading.Thread(target=obj, args=(directory, perform_obj,))
@@ -96,7 +96,12 @@ def main():
                 pass
 
         spotanim_out = open("spotanims.json", "w")
-        json.dump(spotanim_list, spotanim_out, indent=2)
+
+        json_file = json.dumps(spotanim_list)
+        data = json.loads(json_file)
+        sorted_file = sorted(data, key=lambda x : x['id'])
+        json.dump(sorted_file, spotanim_out, indent=2, sort_keys=False)
+
         spotanim_out.close()
         print("Finished spotanim")
 
@@ -133,7 +138,7 @@ def main():
         json_file = json.dumps(seq_list)
         data = json.loads(json_file)
         sorted_file = sorted(data, key=lambda x : x['id'])
-        json.dump(sorted_file, seq_out, indent=2, sort_keys=True)
+        json.dump(sorted_file, seq_out, indent=2)
 
         seq_out.close()
         print("Finished seq")
@@ -369,7 +374,7 @@ def anim(directory, perform_anim):
         json_file = json.dumps(anim_list)
         data = json.loads(json_file)
         sorted_file = sorted(data, key=lambda x : x['id'])
-        json.dump(sorted_file, anim_out, indent=2, sort_keys=True)
+        json.dump(sorted_file, anim_out, indent=2)
 
         anim_out.close()
         print("Finished anim")
