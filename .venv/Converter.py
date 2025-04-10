@@ -11,12 +11,12 @@ def main():
         print("Directory is empty or isn't 'dump.' Canceling program.")
         return
 
-    perform_kit = False
-    perform_obj = False
+    perform_kit = True
+    perform_obj = True
     perform_spotanim = True
-    perform_seq = False
-    perform_item = False
-    perform_npc = False
+    perform_seq = True
+    perform_item = True
+    perform_npc = True
     perform_anim = True
 
     t1 = threading.Thread(target=obj, args=(directory, perform_obj,))
