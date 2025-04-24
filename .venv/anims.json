@@ -48346,5 +48346,21 @@
   {
     "id": 12086,
     "name": "Trail yawn emote spotanim loop"
+  },
+  {
+    "id": 12087,
+    "name": "Easter25 bowling01 pin01 idle"
+  },
+  {
+    "id": 12088,
+    "name": "Easter25 bowling01 pin01 hit"
+  },
+  {
+    "id": 12089,
+    "name": "Easter25 bowling01 pin01 dead"
+  },
+  {
+    "id": 12090,
+    "name": "Humantree hug"
   }
 ]
