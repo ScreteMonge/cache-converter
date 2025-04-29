@@ -19,6 +19,21 @@ def main():
     perform_npc = True
     perform_anim = True
 
+    # 0 8057, stand
+    # 1 819, walk
+    # 2 824, run
+    # 3 820, walk backwards
+    # 4 821, shuffle left
+    # 5 822, shuffle right
+    # 6 823, rotate
+    # 7 -1, stab
+    # 8 8056, slash
+    # 9 8056, crush
+    # 10 -1, spec
+    # 11 -1, defend
+    # 12 -1, slash2
+    # 13 -1 crush2
+
     t1 = threading.Thread(target=obj, args=(directory, perform_obj,))
     t2 = threading.Thread(target=npc, args=(directory, perform_npc,))
     t3 = threading.Thread(target=item, args=(directory, perform_item,))
@@ -99,7 +114,7 @@ def main():
 
         json_file = json.dumps(spotanim_list)
         data = json.loads(json_file)
-        sorted_file = sorted(data, key=lambda x : x['id'])
+        sorted_file = sorted(data, key=lambda x: x['id'])
         json.dump(sorted_file, spotanim_out, indent=2, sort_keys=False)
 
         spotanim_out.close()
@@ -137,7 +152,7 @@ def main():
 
         json_file = json.dumps(seq_list)
         data = json.loads(json_file)
-        sorted_file = sorted(data, key=lambda x : x['id'])
+        sorted_file = sorted(data, key=lambda x: x['id'])
         json.dump(sorted_file, seq_out, indent=2)
 
         seq_out.close()
@@ -373,7 +388,7 @@ def anim(directory, perform_anim):
 
         json_file = json.dumps(anim_list)
         data = json.loads(json_file)
-        sorted_file = sorted(data, key=lambda x : x['id'])
+        sorted_file = sorted(data, key=lambda x: x['id'])
         json.dump(sorted_file, anim_out, indent=2)
 
         anim_out.close()
