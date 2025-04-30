@@ -904,6 +904,9 @@
     },
     {
       "name": "Unarmed",
+      "id": [
+        -1
+      ],
       "animations": [
         808,
         819,
@@ -1267,6 +1270,9 @@
     },
     {
       "name": "Drunk",
+      "id": [
+        -1
+      ],
       "animations": [
         2770,
         2769,
@@ -1286,6 +1292,9 @@
     },
     {
       "name": "Stealing",
+      "id": [
+        -1
+      ],
       "animations": [
         10684,
         10682,
@@ -1666,6 +1675,9 @@
     },
     {
       "name": "Unknown (arms out)",
+      "id": [
+        -1
+      ],
       "animations": [
         9050,
         9051,
@@ -2549,6 +2561,9 @@
     },
     {
       "name": "Tightrope",
+      "id": [
+        -1
+      ],
       "animations": [
         763,
         762,
@@ -2568,6 +2583,9 @@
     },
     {
       "name": "Monkey bars",
+      "id": [
+        -1
+      ],
       "animations": [
         745,
         744,
@@ -2587,6 +2605,9 @@
     },
     {
       "name": "Swimming",
+      "id": [
+        -1
+      ],
       "animations": [
         773,
         772,
@@ -2606,6 +2627,9 @@
     },
     {
       "name": "Swimming (drowning)",
+      "id": [
+        -1
+      ],
       "animations": [
         765,
         772,
@@ -2625,6 +2649,9 @@
     },
     {
       "name": "Swimming (underwater)",
+      "id": [
+        -1
+      ],
       "animations": [
         3418,
         3415,
@@ -2644,6 +2671,9 @@
     },
     {
       "name": "Swimming (trident)",
+      "id": [
+        -1
+      ],
       "animations": [
         6998,
         6996,
@@ -2663,6 +2693,9 @@
     },
     {
       "name": "Transparent",
+      "id": [
+        -1
+      ],
       "animations": [
         15,
         13,
@@ -2682,6 +2715,9 @@
     },
     {
       "name": "Crawling",
+      "id": [
+        -1
+      ],
       "animations": [
         845,
         844,
@@ -2701,6 +2737,9 @@
     },
     {
       "name": "Leaping",
+      "id": [
+        -1
+      ],
       "animations": [
         -1,
         1603,
@@ -2720,6 +2759,9 @@
     },
     {
       "name": "Skipping",
+      "id": [
+        -1
+      ],
       "animations": [
         -1,
         3854,
@@ -2739,6 +2781,9 @@
     },
     {
       "name": "Zombie",
+      "id": [
+        -1
+      ],
       "animations": [
         6113,
         6112,
@@ -2758,6 +2803,9 @@
     },
     {
       "name": "Hands on hips",
+      "id": [
+        -1
+      ],
       "animations": [
         6393,
         6395,
@@ -2777,6 +2825,9 @@
     },
     {
       "name": "Hands behind back",
+      "id": [
+        -1
+      ],
       "animations": [
         6389,
         6388,
@@ -2796,6 +2847,9 @@
     },
     {
       "name": "Sandstorm",
+      "id": [
+        -1
+      ],
       "animations": [
         6379,
         6378,
@@ -2815,6 +2869,9 @@
     },
     {
       "name": "Hunched over",
+      "id": [
+        -1
+      ],
       "animations": [
         6469,
         6468,
@@ -2834,6 +2891,9 @@
     },
     {
       "name": "Posh walk",
+      "id": [
+        -1
+      ],
       "animations": [
         6487,
         6486,
@@ -2853,6 +2913,9 @@
     },
     {
       "name": "Posh walk 2",
+      "id": [
+        -1
+      ],
       "animations": [
         6927,
         6928,
@@ -2872,6 +2935,9 @@
     },
     {
       "name": "Looking at hands",
+      "id": [
+        -1
+      ],
       "animations": [
         6075,
         6076,
@@ -2891,6 +2957,9 @@
     },
     {
       "name": "Chicken",
+      "id": [
+        -1
+      ],
       "animations": [
         6397,
         -1,
