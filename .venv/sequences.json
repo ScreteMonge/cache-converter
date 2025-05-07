@@ -72544,5 +72544,11 @@
     "id": 12090,
     "rightHandItem": -1,
     "leftHandItem": -1
+  },
+  {
+    "name": "Human climb trellis",
+    "id": 12091,
+    "rightHandItem": 0,
+    "leftHandItem": 0
   }
 ]
