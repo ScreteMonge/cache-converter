@@ -72550,5 +72550,683 @@
     "id": 12091,
     "rightHandItem": 0,
     "leftHandItem": 0
+  },
+  {
+    "name": "Vfx ignite staff loop",
+    "id": 12092,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Dragon slayer qip fire1x1 noloop",
+    "id": 12093,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx surge potion",
+    "id": 12094,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx npc yama magic shadow spotanim01",
+    "id": 12095,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx player yama magic shadow impact01",
+    "id": 12096,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx player yama magic shadow impact end",
+    "id": 12097,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx npc yama magic fire spotanim01",
+    "id": 12098,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx player yama magic fire impact01",
+    "id": 12099,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx player yama magic fire impact end",
+    "id": 12100,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx npc yama fire skull spotanim01",
+    "id": 12101,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx proj yama fire skull 01",
+    "id": 12102,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx player yama falling rock shadow tremor01",
+    "id": 12103,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama flaming rock spotanim 01",
+    "id": 12104,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama flaming rock projectile 01",
+    "id": 12105,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama flaming rock impact 01",
+    "id": 12106,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama shadow spike spotanim 01",
+    "id": 12107,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama shadow spike projectile 01",
+    "id": 12108,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama shadow spike impact 01",
+    "id": 12109,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama shadow root spotanim 01",
+    "id": 12110,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama shadow root projectile 01",
+    "id": 12111,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama shadow root impact 01",
+    "id": 12112,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama meteor spotanim01",
+    "id": 12113,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama meteor projectile 01",
+    "id": 12114,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama meteor projectile 02",
+    "id": 12115,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama meteor projectile 03",
+    "id": 12116,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama meteor impact 01",
+    "id": 12117,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama meteor impact 02",
+    "id": 12118,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama meteor impact 03",
+    "id": 12119,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx player yama falling rock impact01",
+    "id": 12120,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx player yama falling rock fire tremor01",
+    "id": 12121,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx shadow wall01",
+    "id": 12122,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx shadow wall02",
+    "id": 12123,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx shadow wall03",
+    "id": 12124,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx fire wall 01",
+    "id": 12125,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx fire wall 02",
+    "id": 12126,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx fire wall 03",
+    "id": 12127,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama floor portal01",
+    "id": 12128,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama portal shadow",
+    "id": 12129,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama floor portal02",
+    "id": 12130,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx shadow wall original",
+    "id": 12131,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx soulflame horn spotanim01",
+    "id": 12132,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc voidflare idle",
+    "id": 12133,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc voidflare death",
+    "id": 12134,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc voidflare spawn",
+    "id": 12135,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc voidflare explode",
+    "id": 12136,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx voidflare explode",
+    "id": 12137,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx voidflare explode yama impact",
+    "id": 12138,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx voidflare human impact",
+    "id": 12139,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc yama01 idle01",
+    "id": 12140,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc yama01 walk01",
+    "id": 12141,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc yama01 walk02",
+    "id": 12142,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc yama01 walk03",
+    "id": 12143,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc yama01 magic01",
+    "id": 12144,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc yama01 magic02",
+    "id": 12145,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc yama01 melee01",
+    "id": 12146,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc yama01 portal01",
+    "id": 12147,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc yama01 stomp01",
+    "id": 12148,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Human yama portalfall",
+    "id": 12149,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Soulflame horn blow 01",
+    "id": 12150,
+    "rightHandItem": 31271,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Soulflame horn blow 02",
+    "id": 12151,
+    "rightHandItem": 31271,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Human yama portal fall on face",
+    "id": 12152,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc yama noncombat idle01",
+    "id": 12153,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc yama noncombat summon01",
+    "id": 12154,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama noncombat summon01",
+    "id": 12155,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc yama summon01",
+    "id": 12156,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx combat summon01",
+    "id": 12157,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Soulflame horn blow 03",
+    "id": 12158,
+    "rightHandItem": -1,
+    "leftHandItem": 31274
+  },
+  {
+    "name": "Soulflame horn blow 03 no fire",
+    "id": 12159,
+    "rightHandItem": -1,
+    "leftHandItem": 31274
+  },
+  {
+    "name": "Npc yama01 portal02",
+    "id": 12160,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc yama01 despawn01",
+    "id": 12161,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx combat despawn01",
+    "id": 12162,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc yama noncombat spawn01",
+    "id": 12163,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama noncombat spawn01",
+    "id": 12164,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc yama noncombat spawn02",
+    "id": 12165,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama noncombat spawn02",
+    "id": 12166,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Npc yama noncombat click01",
+    "id": 12167,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx yama noncombat click01",
+    "id": 12168,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Yama loc glyph activate fire",
+    "id": 12169,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Yama loc glyph deactivate fire",
+    "id": 12170,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Yama loc glyph activate shadow",
+    "id": 12171,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Yama loc glyph deactivate shadow",
+    "id": 12172,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Yama loc inactive",
+    "id": 12173,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Yama immunity fire",
+    "id": 12174,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Yama immunity shadow",
+    "id": 12175,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Vfx player yama immunity 01",
+    "id": 12176,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Pickaxe power swing",
+    "id": 12177,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Pickaxe power swing bronze",
+    "id": 12178,
+    "rightHandItem": 1777,
+    "leftHandItem": 1777
+  },
+  {
+    "name": "Pickaxe power swing iron",
+    "id": 12179,
+    "rightHandItem": 1779,
+    "leftHandItem": 1779
+  },
+  {
+    "name": "Pickaxe power swing steel",
+    "id": 12180,
+    "rightHandItem": 1781,
+    "leftHandItem": 1781
+  },
+  {
+    "name": "Pickaxe power swing black",
+    "id": 12181,
+    "rightHandItem": 12809,
+    "leftHandItem": 12809
+  },
+  {
+    "name": "Pickaxe power swing mithril",
+    "id": 12182,
+    "rightHandItem": 1785,
+    "leftHandItem": 1785
+  },
+  {
+    "name": "Pickaxe power swing adamant",
+    "id": 12183,
+    "rightHandItem": 1783,
+    "leftHandItem": 1783
+  },
+  {
+    "name": "Pickaxe power swing rune",
+    "id": 12184,
+    "rightHandItem": 1787,
+    "leftHandItem": 1787
+  },
+  {
+    "name": "Pickaxe power swing gilded",
+    "id": 12185,
+    "rightHandItem": 23788,
+    "leftHandItem": 23788
+  },
+  {
+    "name": "Pickaxe power swing dragon",
+    "id": 12186,
+    "rightHandItem": 12432,
+    "leftHandItem": 12432
+  },
+  {
+    "name": "Pickaxe power swing pretty",
+    "id": 12187,
+    "rightHandItem": 13309,
+    "leftHandItem": 13309
+  },
+  {
+    "name": "Pickaxe power swing zalcano",
+    "id": 12188,
+    "rightHandItem": 24189,
+    "leftHandItem": 24189
+  },
+  {
+    "name": "Pickaxe power swing infernal",
+    "id": 12189,
+    "rightHandItem": 13755,
+    "leftHandItem": 13755
+  },
+  {
+    "name": "Pickaxe power swing 3a",
+    "id": 12190,
+    "rightHandItem": 20526,
+    "leftHandItem": 20526
+  },
+  {
+    "name": "Pickaxe power swing crystal",
+    "id": 12191,
+    "rightHandItem": 24192,
+    "leftHandItem": 24192
+  },
+  {
+    "name": "Pickaxe power swing trailblazer",
+    "id": 12192,
+    "rightHandItem": 25575,
+    "leftHandItem": 25575
+  },
+  {
+    "name": "Pickaxe power swing league trailblazer",
+    "id": 12193,
+    "rightHandItem": 25624,
+    "leftHandItem": 25624
+  },
+  {
+    "name": "Pickaxe power swing trailblazer no infernal",
+    "id": 12194,
+    "rightHandItem": 25888,
+    "leftHandItem": 25888
+  },
+  {
+    "name": "Human wipe head 1",
+    "id": 12195,
+    "rightHandItem": -1,
+    "leftHandItem": 31386
+  },
+  {
+    "name": "Human yama shortjump01",
+    "id": 12196,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Human hammer heft",
+    "id": 12197,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Human hammer hit loop",
+    "id": 12198,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Human hammer flip",
+    "id": 12199,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Human smithing enter",
+    "id": 12200,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Human smithing idle",
+    "id": 12201,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Spotanim chasm of fire anvil sparks",
+    "id": 12202,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Human furnace nostall",
+    "id": 12203,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Judgeofyama attack slow",
+    "id": 12204,
+    "rightHandItem": -1,
+    "leftHandItem": -1
   }
 ]

@@ -48366,5 +48366,457 @@
   {
     "id": 12091,
     "name": "Human climb trellis"
+  },
+  {
+    "id": 12092,
+    "name": "Vfx ignite staff loop"
+  },
+  {
+    "id": 12093,
+    "name": "Dragon slayer qip fire1x1 noloop"
+  },
+  {
+    "id": 12094,
+    "name": "Vfx surge potion"
+  },
+  {
+    "id": 12095,
+    "name": "Vfx npc yama magic shadow spotanim01"
+  },
+  {
+    "id": 12096,
+    "name": "Vfx player yama magic shadow impact01"
+  },
+  {
+    "id": 12097,
+    "name": "Vfx player yama magic shadow impact end"
+  },
+  {
+    "id": 12098,
+    "name": "Vfx npc yama magic fire spotanim01"
+  },
+  {
+    "id": 12099,
+    "name": "Vfx player yama magic fire impact01"
+  },
+  {
+    "id": 12100,
+    "name": "Vfx player yama magic fire impact end"
+  },
+  {
+    "id": 12101,
+    "name": "Vfx npc yama fire skull spotanim01"
+  },
+  {
+    "id": 12102,
+    "name": "Vfx proj yama fire skull 01"
+  },
+  {
+    "id": 12103,
+    "name": "Vfx player yama falling rock shadow tremor01"
+  },
+  {
+    "id": 12104,
+    "name": "Vfx yama flaming rock spotanim 01"
+  },
+  {
+    "id": 12105,
+    "name": "Vfx yama flaming rock projectile 01"
+  },
+  {
+    "id": 12106,
+    "name": "Vfx yama flaming rock impact 01"
+  },
+  {
+    "id": 12107,
+    "name": "Vfx yama shadow spike spotanim 01"
+  },
+  {
+    "id": 12108,
+    "name": "Vfx yama shadow spike projectile 01"
+  },
+  {
+    "id": 12109,
+    "name": "Vfx yama shadow spike impact 01"
+  },
+  {
+    "id": 12110,
+    "name": "Vfx yama shadow root spotanim 01"
+  },
+  {
+    "id": 12111,
+    "name": "Vfx yama shadow root projectile 01"
+  },
+  {
+    "id": 12112,
+    "name": "Vfx yama shadow root impact 01"
+  },
+  {
+    "id": 12113,
+    "name": "Vfx yama meteor spotanim01"
+  },
+  {
+    "id": 12114,
+    "name": "Vfx yama meteor projectile 01"
+  },
+  {
+    "id": 12115,
+    "name": "Vfx yama meteor projectile 02"
+  },
+  {
+    "id": 12116,
+    "name": "Vfx yama meteor projectile 03"
+  },
+  {
+    "id": 12117,
+    "name": "Vfx yama meteor impact 01"
+  },
+  {
+    "id": 12118,
+    "name": "Vfx yama meteor impact 02"
+  },
+  {
+    "id": 12119,
+    "name": "Vfx yama meteor impact 03"
+  },
+  {
+    "id": 12120,
+    "name": "Vfx player yama falling rock impact01"
+  },
+  {
+    "id": 12121,
+    "name": "Vfx player yama falling rock fire tremor01"
+  },
+  {
+    "id": 12122,
+    "name": "Vfx shadow wall01"
+  },
+  {
+    "id": 12123,
+    "name": "Vfx shadow wall02"
+  },
+  {
+    "id": 12124,
+    "name": "Vfx shadow wall03"
+  },
+  {
+    "id": 12125,
+    "name": "Vfx fire wall 01"
+  },
+  {
+    "id": 12126,
+    "name": "Vfx fire wall 02"
+  },
+  {
+    "id": 12127,
+    "name": "Vfx fire wall 03"
+  },
+  {
+    "id": 12128,
+    "name": "Vfx yama floor portal01"
+  },
+  {
+    "id": 12129,
+    "name": "Vfx yama portal shadow"
+  },
+  {
+    "id": 12130,
+    "name": "Vfx yama floor portal02"
+  },
+  {
+    "id": 12131,
+    "name": "Vfx shadow wall original"
+  },
+  {
+    "id": 12132,
+    "name": "Vfx soulflame horn spotanim01"
+  },
+  {
+    "id": 12133,
+    "name": "Npc voidflare idle"
+  },
+  {
+    "id": 12134,
+    "name": "Npc voidflare death"
+  },
+  {
+    "id": 12135,
+    "name": "Npc voidflare spawn"
+  },
+  {
+    "id": 12136,
+    "name": "Npc voidflare explode"
+  },
+  {
+    "id": 12137,
+    "name": "Vfx voidflare explode"
+  },
+  {
+    "id": 12138,
+    "name": "Vfx voidflare explode yama impact"
+  },
+  {
+    "id": 12139,
+    "name": "Vfx voidflare human impact"
+  },
+  {
+    "id": 12140,
+    "name": "Npc yama01 idle01"
+  },
+  {
+    "id": 12141,
+    "name": "Npc yama01 walk01"
+  },
+  {
+    "id": 12142,
+    "name": "Npc yama01 walk02"
+  },
+  {
+    "id": 12143,
+    "name": "Npc yama01 walk03"
+  },
+  {
+    "id": 12144,
+    "name": "Npc yama01 magic01"
+  },
+  {
+    "id": 12145,
+    "name": "Npc yama01 magic02"
+  },
+  {
+    "id": 12146,
+    "name": "Npc yama01 melee01"
+  },
+  {
+    "id": 12147,
+    "name": "Npc yama01 portal01"
+  },
+  {
+    "id": 12148,
+    "name": "Npc yama01 stomp01"
+  },
+  {
+    "id": 12149,
+    "name": "Human yama portalfall"
+  },
+  {
+    "id": 12150,
+    "name": "Soulflame horn blow 01"
+  },
+  {
+    "id": 12151,
+    "name": "Soulflame horn blow 02"
+  },
+  {
+    "id": 12152,
+    "name": "Human yama portal fall on face"
+  },
+  {
+    "id": 12153,
+    "name": "Npc yama noncombat idle01"
+  },
+  {
+    "id": 12154,
+    "name": "Npc yama noncombat summon01"
+  },
+  {
+    "id": 12155,
+    "name": "Vfx yama noncombat summon01"
+  },
+  {
+    "id": 12156,
+    "name": "Npc yama summon01"
+  },
+  {
+    "id": 12157,
+    "name": "Vfx combat summon01"
+  },
+  {
+    "id": 12158,
+    "name": "Soulflame horn blow 03"
+  },
+  {
+    "id": 12159,
+    "name": "Soulflame horn blow 03 no fire"
+  },
+  {
+    "id": 12160,
+    "name": "Npc yama01 portal02"
+  },
+  {
+    "id": 12161,
+    "name": "Npc yama01 despawn01"
+  },
+  {
+    "id": 12162,
+    "name": "Vfx combat despawn01"
+  },
+  {
+    "id": 12163,
+    "name": "Npc yama noncombat spawn01"
+  },
+  {
+    "id": 12164,
+    "name": "Vfx yama noncombat spawn01"
+  },
+  {
+    "id": 12165,
+    "name": "Npc yama noncombat spawn02"
+  },
+  {
+    "id": 12166,
+    "name": "Vfx yama noncombat spawn02"
+  },
+  {
+    "id": 12167,
+    "name": "Npc yama noncombat click01"
+  },
+  {
+    "id": 12168,
+    "name": "Vfx yama noncombat click01"
+  },
+  {
+    "id": 12169,
+    "name": "Yama loc glyph activate fire"
+  },
+  {
+    "id": 12170,
+    "name": "Yama loc glyph deactivate fire"
+  },
+  {
+    "id": 12171,
+    "name": "Yama loc glyph activate shadow"
+  },
+  {
+    "id": 12172,
+    "name": "Yama loc glyph deactivate shadow"
+  },
+  {
+    "id": 12173,
+    "name": "Yama loc inactive"
+  },
+  {
+    "id": 12174,
+    "name": "Yama immunity fire"
+  },
+  {
+    "id": 12175,
+    "name": "Yama immunity shadow"
+  },
+  {
+    "id": 12176,
+    "name": "Vfx player yama immunity 01"
+  },
+  {
+    "id": 12177,
+    "name": "Pickaxe power swing"
+  },
+  {
+    "id": 12178,
+    "name": "Pickaxe power swing bronze"
+  },
+  {
+    "id": 12179,
+    "name": "Pickaxe power swing iron"
+  },
+  {
+    "id": 12180,
+    "name": "Pickaxe power swing steel"
+  },
+  {
+    "id": 12181,
+    "name": "Pickaxe power swing black"
+  },
+  {
+    "id": 12182,
+    "name": "Pickaxe power swing mithril"
+  },
+  {
+    "id": 12183,
+    "name": "Pickaxe power swing adamant"
+  },
+  {
+    "id": 12184,
+    "name": "Pickaxe power swing rune"
+  },
+  {
+    "id": 12185,
+    "name": "Pickaxe power swing gilded"
+  },
+  {
+    "id": 12186,
+    "name": "Pickaxe power swing dragon"
+  },
+  {
+    "id": 12187,
+    "name": "Pickaxe power swing pretty"
+  },
+  {
+    "id": 12188,
+    "name": "Pickaxe power swing zalcano"
+  },
+  {
+    "id": 12189,
+    "name": "Pickaxe power swing infernal"
+  },
+  {
+    "id": 12190,
+    "name": "Pickaxe power swing 3a"
+  },
+  {
+    "id": 12191,
+    "name": "Pickaxe power swing crystal"
+  },
+  {
+    "id": 12192,
+    "name": "Pickaxe power swing trailblazer"
+  },
+  {
+    "id": 12193,
+    "name": "Pickaxe power swing league trailblazer"
+  },
+  {
+    "id": 12194,
+    "name": "Pickaxe power swing trailblazer no infernal"
+  },
+  {
+    "id": 12195,
+    "name": "Human wipe head 1"
+  },
+  {
+    "id": 12196,
+    "name": "Human yama shortjump01"
+  },
+  {
+    "id": 12197,
+    "name": "Human hammer heft"
+  },
+  {
+    "id": 12198,
+    "name": "Human hammer hit loop"
+  },
+  {
+    "id": 12199,
+    "name": "Human hammer flip"
+  },
+  {
+    "id": 12200,
+    "name": "Human smithing enter"
+  },
+  {
+    "id": 12201,
+    "name": "Human smithing idle"
+  },
+  {
+    "id": 12202,
+    "name": "Spotanim chasm of fire anvil sparks"
+  },
+  {
+    "id": 12203,
+    "name": "Human furnace nostall"
+  },
+  {
+    "id": 12204,
+    "name": "Judgeofyama attack slow"
   }
 ]
