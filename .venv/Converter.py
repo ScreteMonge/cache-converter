@@ -248,9 +248,6 @@ def item(directory, perform_item):
                 femaleModel1 = data.get('femaleModel1')
                 femaleModel2 = data.get('femaleModel2')
                 femaleOffset = data.get('femaleOffset')
-                wearPos0 = data.get('wearPos1')
-                wearPos1 = data.get('wearPos2')
-                wearPos2 = data.get('wearPos3')
                 maleHeadModel = data.get('maleHeadModel')
                 maleHeadModel2 = data.get('maleHeadModel2')
                 femaleHeadModel = data.get('femaleHeadModel')
@@ -274,9 +271,6 @@ def item(directory, perform_item):
                               'femaleModel1': femaleModel1,
                               'femaleModel2': femaleModel2,
                               'femaleOffset': femaleOffset,
-                              'wearPos0': wearPos0,
-                              'wearPos1': wearPos1,
-                              'wearPos2': wearPos2,
                               'maleHeadModel': maleHeadModel,
                               'maleHeadModel2': maleHeadModel2,
                               'femaleHeadModel': femaleHeadModel,
