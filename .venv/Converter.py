@@ -79,15 +79,25 @@ def main():
         for spotanim_filenames in os.walk(spotanim_path):
             spotanim_file_list.append(spotanim_filenames)
 
+        naming_data = json.load((open("C:/Users/Matheus/PycharmProjects/cache-converter/.venv/spotanims.json", encoding='utf-8')))
+
         spotanim_list = []
         for i in range(len(spotanim_filenames[2])):
             try:
                 data = json.load(open(spotanim_path + spotanim_filenames[2][i], encoding='utf-8'))
-                name = data.get('debugName')
-                name = name.replace('_', ' ')
-                name = name.capitalize()
 
                 id = data.get('id')
+                name = 'Unnamed'
+
+                for sa in naming_data:
+                    if sa.get('id') == id:
+                        name = sa.get('name')
+                        break
+
+                #name = data.get('debugName')
+                #name = name.replace('_', ' ')
+                #name = name.capitalize()
+
                 modelId = data.get('modelId')
                 animationId = data.get('animationId')
                 resizeX = data.get('resizeX')
@@ -127,15 +137,25 @@ def main():
         for seq_filenames in os.walk(seq_path):
             seq_file_list.append(seq_filenames)
 
+        naming_data = json.load((open("C:/Users/Matheus/PycharmProjects/cache-converter/.venv/sequences.json", encoding='utf-8')))
+
         seq_list = []
         for i in range(len(seq_filenames[2])):
             try:
                 data = json.load(open(seq_path + seq_filenames[2][i], encoding='utf-8'))
-                name = data.get('debugName')
-                name = name.replace('_', ' ')
-                name = name.capitalize()
 
                 id = data.get('id')
+                name = 'Unnamed'
+
+                for sa in naming_data:
+                    if sa.get('id') == id:
+                        name = sa.get('name')
+                        break
+
+                #name = data.get('debugName')
+                #name = name.replace('_', ' ')
+                #name = name.capitalize()
+
                 leftHandItem = data.get('leftHandItem')
                 rightHandItem = data.get('rightHandItem')
                 seq_final = {
