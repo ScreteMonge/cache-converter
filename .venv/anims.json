@@ -11020,16 +11020,8 @@
     "name": "Starjump"
   },
   {
-    "id": 2755,
-    "name": "Contact fade out"
-  },
-  {
     "id": 2756,
     "name": "Pushups"
-  },
-  {
-    "id": 2757,
-    "name": "Contact spawn fade"
   },
   {
     "id": 2758,
@@ -28568,26 +28560,6 @@
     "name": "Surok rune combine loop"
   },
   {
-    "id": 7142,
-    "name": "Lore ent walk"
-  },
-  {
-    "id": 7143,
-    "name": "Lore ent ready"
-  },
-  {
-    "id": 7144,
-    "name": "Lore ent defend"
-  },
-  {
-    "id": 7145,
-    "name": "Lore ent attack"
-  },
-  {
-    "id": 7146,
-    "name": "Lore ent death"
-  },
-  {
     "id": 7147,
     "name": "Lore polar bear arc blast spot"
   },
@@ -37728,10 +37700,6 @@
     "name": "Bcs rift disappear"
   },
   {
-    "id": 9432,
-    "name": "Contact invisible"
-  },
-  {
     "id": 9433,
     "name": "Human unconscious transition barely conscious"
   },
@@ -43736,10 +43704,6 @@
     "name": "Toucan update fly"
   },
   {
-    "id": 10934,
-    "name": "Harpy eagle update fly"
-  },
-  {
     "id": 10935,
     "name": "Dog update fennecfox walk"
   },
@@ -43834,14 +43798,6 @@
   {
     "id": 10958,
     "name": "Npc lynx combat walk fast"
-  },
-  {
-    "id": 10959,
-    "name": "Npc lynx combat melee blood jaguar"
-  },
-  {
-    "id": 10960,
-    "name": "Npc lynx combat death blood jaguar"
   },
   {
     "id": 10961,
@@ -48818,5 +48774,1297 @@
   {
     "id": 12204,
     "name": "Judgeofyama attack slow"
+  },
+  {
+    "id": 12205,
+    "name": "Hippo idle"
+  },
+  {
+    "id": 12206,
+    "name": "Human lead actor dead 01 loop"
+  },
+  {
+    "id": 12207,
+    "name": "Npc nature spirit snake spawn"
+  },
+  {
+    "id": 12208,
+    "name": "Npc nature spirit snake despawn"
+  },
+  {
+    "id": 12209,
+    "name": "Wgs human ko dead idle"
+  },
+  {
+    "id": 12210,
+    "name": "Soc victim pose 1"
+  },
+  {
+    "id": 12211,
+    "name": "Soc victim pose 2"
+  },
+  {
+    "id": 12212,
+    "name": "Human troll flyback withsound"
+  },
+  {
+    "id": 12213,
+    "name": "Human troll flyback abort"
+  },
+  {
+    "id": 12214,
+    "name": "Human fade out"
+  },
+  {
+    "id": 12215,
+    "name": "Human fade out 30"
+  },
+  {
+    "id": 12216,
+    "name": "Human fade in"
+  },
+  {
+    "id": 12217,
+    "name": "Human fade in 30"
+  },
+  {
+    "id": 12218,
+    "name": "Human invisible"
+  },
+  {
+    "id": 12219,
+    "name": "Npc parrot idle 01"
+  },
+  {
+    "id": 12220,
+    "name": "Npc parrot flying idle 01"
+  },
+  {
+    "id": 12221,
+    "name": "Npc spirit harpy eagle flying idle 01"
+  },
+  {
+    "id": 12222,
+    "name": "Npc nature spirit eagle spawn"
+  },
+  {
+    "id": 12223,
+    "name": "Npc nature spirit eagle despawn"
+  },
+  {
+    "id": 12224,
+    "name": "Restless ghost vanish highpriority"
+  },
+  {
+    "id": 12225,
+    "name": "Restless ghost vanish reverse nodelay"
+  },
+  {
+    "id": 12226,
+    "name": "Vmq4 cultist ranged fire launch 01"
+  },
+  {
+    "id": 12227,
+    "name": "Vfx vmq4 cultist ranged fire launch 01"
+  },
+  {
+    "id": 12228,
+    "name": "Vmq4 metzli ranged fire launch enraged 01"
+  },
+  {
+    "id": 12229,
+    "name": "Vfx vmq4 metzli ranged fire launch enraged 01"
+  },
+  {
+    "id": 12230,
+    "name": "Vfx vmq4 metzli ranged fire projectile enraged 01"
+  },
+  {
+    "id": 12231,
+    "name": "Vmq4 metzli magic water cast01"
+  },
+  {
+    "id": 12232,
+    "name": "Vfx vmq4 metzli magic water cast01"
+  },
+  {
+    "id": 12233,
+    "name": "Vmq4 metzli cast"
+  },
+  {
+    "id": 12234,
+    "name": "Vfx vmq4 metzli cast"
+  },
+  {
+    "id": 12235,
+    "name": "Vfx vmq4 metzli fire wall cast"
+  },
+  {
+    "id": 12236,
+    "name": "Vfx vmq4 metzli fire wall walk"
+  },
+  {
+    "id": 12237,
+    "name": "Vfx vmq4 metzli fire wall walk withsound"
+  },
+  {
+    "id": 12238,
+    "name": "Vfx vmq4 metzli fire wall despawn"
+  },
+  {
+    "id": 12239,
+    "name": "Vfx vmq4 metzli fire wall despawn withsound"
+  },
+  {
+    "id": 12240,
+    "name": "Vfx vmq4 metzli water wall cast"
+  },
+  {
+    "id": 12241,
+    "name": "Vfx vmq4 metzli water wall walk"
+  },
+  {
+    "id": 12242,
+    "name": "Vfx vmq4 metzli water wall walk withsound"
+  },
+  {
+    "id": 12243,
+    "name": "Vfx vmq4 metzli water wall despawn"
+  },
+  {
+    "id": 12244,
+    "name": "Vfx vmq4 metzli water wall despawn withsound"
+  },
+  {
+    "id": 12245,
+    "name": "Vmq4 teleport metzli disappear idle 01"
+  },
+  {
+    "id": 12246,
+    "name": "Vmq4 teleport metzli disappear despawn 01"
+  },
+  {
+    "id": 12247,
+    "name": "Vmq4 teleport metzli reappear idle 01"
+  },
+  {
+    "id": 12248,
+    "name": "Vmq4 transform metzli sun"
+  },
+  {
+    "id": 12249,
+    "name": "Vmq4 transform metzli moon"
+  },
+  {
+    "id": 12250,
+    "name": "Vmq4 metzli kneel down"
+  },
+  {
+    "id": 12251,
+    "name": "Vmq4 metzli kneel down highpriority"
+  },
+  {
+    "id": 12252,
+    "name": "Vmq4 metzli kneeling loop"
+  },
+  {
+    "id": 12253,
+    "name": "Vmq4 metzli standup"
+  },
+  {
+    "id": 12254,
+    "name": "Vmq4 ennius spin"
+  },
+  {
+    "id": 12255,
+    "name": "Vmq4 moon puzzle fire 01 spawn"
+  },
+  {
+    "id": 12256,
+    "name": "Vmq4 moon puzzle fire 01 idle"
+  },
+  {
+    "id": 12257,
+    "name": "Vmq4 moon puzzle fire 01 despawn"
+  },
+  {
+    "id": 12258,
+    "name": "Vmq4 enforcer attack"
+  },
+  {
+    "id": 12259,
+    "name": "Vmq4 human fadeout walkmerge"
+  },
+  {
+    "id": 12260,
+    "name": "Vmq4 human fadein walkmerge"
+  },
+  {
+    "id": 12261,
+    "name": "Vmq4 cultist magic water cast01"
+  },
+  {
+    "id": 12262,
+    "name": "Vfx vmq4 projectile magic water cast01"
+  },
+  {
+    "id": 12263,
+    "name": "Vmq4 projectile cultist magic water 01"
+  },
+  {
+    "id": 12264,
+    "name": "Vmq4 impact cultist magic water 01"
+  },
+  {
+    "id": 12265,
+    "name": "Vmq4 cultist magic water cast02"
+  },
+  {
+    "id": 12266,
+    "name": "Vfx vmq4 projectile magic water cast02"
+  },
+  {
+    "id": 12267,
+    "name": "Vmq4 projectile cultist magic water 02"
+  },
+  {
+    "id": 12268,
+    "name": "Vmq4 impact cultist magic water 02"
+  },
+  {
+    "id": 12269,
+    "name": "Vmq4 projectile cultist ranged fire 01"
+  },
+  {
+    "id": 12270,
+    "name": "Vmq4 impact cultist ranged fire 01"
+  },
+  {
+    "id": 12271,
+    "name": "Vmq4 protection cultist magic air spawn 01"
+  },
+  {
+    "id": 12272,
+    "name": "Vmq4 protection cultist magic air idle 01"
+  },
+  {
+    "id": 12273,
+    "name": "Vmq4 protection cultist magic air despawn 01"
+  },
+  {
+    "id": 12274,
+    "name": "Vmq4 protection cultist magic absorb"
+  },
+  {
+    "id": 12275,
+    "name": "Vmq4 ennius lines special"
+  },
+  {
+    "id": 12276,
+    "name": "Vfx vmq4 ennius lines special"
+  },
+  {
+    "id": 12277,
+    "name": "Vmq4 ennius cast"
+  },
+  {
+    "id": 12278,
+    "name": "Vfx vmq4 ennius cast"
+  },
+  {
+    "id": 12279,
+    "name": "Vfx vmq4 ennius fire loc marker spawn"
+  },
+  {
+    "id": 12280,
+    "name": "Vfx vmq4 ennius fire loc spawn"
+  },
+  {
+    "id": 12281,
+    "name": "Vmq4 protection ennius cast"
+  },
+  {
+    "id": 12282,
+    "name": "Vmq4 bound walk f"
+  },
+  {
+    "id": 12283,
+    "name": "Entrance tonali01 opening"
+  },
+  {
+    "id": 12284,
+    "name": "Entrance tonali01 opening wider"
+  },
+  {
+    "id": 12285,
+    "name": "Entrance tonali01 open"
+  },
+  {
+    "id": 12286,
+    "name": "Entrance tonali01 closed"
+  },
+  {
+    "id": 12287,
+    "name": "Npc djinn earth01 idle01"
+  },
+  {
+    "id": 12288,
+    "name": "Npc djinn earth01 idle02"
+  },
+  {
+    "id": 12289,
+    "name": "Npc djinn earth01 walk01"
+  },
+  {
+    "id": 12290,
+    "name": "Npc djinn earth01 walk02"
+  },
+  {
+    "id": 12291,
+    "name": "Npc djinn earth01 attack01"
+  },
+  {
+    "id": 12292,
+    "name": "Npc djinn earth01 attack02"
+  },
+  {
+    "id": 12293,
+    "name": "Npc djinn earth01 reinforce01"
+  },
+  {
+    "id": 12294,
+    "name": "Npc djinn earth01 break01"
+  },
+  {
+    "id": 12295,
+    "name": "Npc djinn earth01 death01"
+  },
+  {
+    "id": 12296,
+    "name": "Statue icosahedron01 despawn"
+  },
+  {
+    "id": 12297,
+    "name": "Vmq4 arkan blade special"
+  },
+  {
+    "id": 12298,
+    "name": "Vmq4 arkan blade special spotanim"
+  },
+  {
+    "id": 12299,
+    "name": "Vmq4 arkan blade special spotanim f"
+  },
+  {
+    "id": 12300,
+    "name": "Vmq4 slap anim"
+  },
+  {
+    "id": 12301,
+    "name": "Vmq4 chamber guard charge"
+  },
+  {
+    "id": 12302,
+    "name": "Vmq4 chamber guard smoke"
+  },
+  {
+    "id": 12303,
+    "name": "Vmq4 zyanyi sitting idle"
+  },
+  {
+    "id": 12304,
+    "name": "Vmq4 ikniu idle"
+  },
+  {
+    "id": 12305,
+    "name": "Vmq4 human caique pet"
+  },
+  {
+    "id": 12306,
+    "name": "Vmq4 caique peck"
+  },
+  {
+    "id": 12307,
+    "name": "Scrambled egg idle"
+  },
+  {
+    "id": 12308,
+    "name": "Scrambled egg splat"
+  },
+  {
+    "id": 12309,
+    "name": "Scrambled egg splat offset01"
+  },
+  {
+    "id": 12310,
+    "name": "Scrambled egg splat offset02"
+  },
+  {
+    "id": 12311,
+    "name": "Scrambled egg splattered idle"
+  },
+  {
+    "id": 12312,
+    "name": "Scrambled alan enter hands on hip"
+  },
+  {
+    "id": 12313,
+    "name": "Scrambled alan hands on hip"
+  },
+  {
+    "id": 12314,
+    "name": "Scrambled alan fall"
+  },
+  {
+    "id": 12315,
+    "name": "Scrambled alan walk offset"
+  },
+  {
+    "id": 12316,
+    "name": "Scrambled alan walk into hands on hips"
+  },
+  {
+    "id": 12317,
+    "name": "Petegg human ready"
+  },
+  {
+    "id": 12318,
+    "name": "Petegg human walk"
+  },
+  {
+    "id": 12319,
+    "name": "Petegg human walk b"
+  },
+  {
+    "id": 12320,
+    "name": "Petegg human running"
+  },
+  {
+    "id": 12321,
+    "name": "Petegg human turnonspot"
+  },
+  {
+    "id": 12322,
+    "name": "Petegg human walk l"
+  },
+  {
+    "id": 12323,
+    "name": "Petegg human walk r"
+  },
+  {
+    "id": 12324,
+    "name": "Petegg human kick"
+  },
+  {
+    "id": 12325,
+    "name": "Petegg human punch"
+  },
+  {
+    "id": 12326,
+    "name": "Petegg human defend"
+  },
+  {
+    "id": 12327,
+    "name": "Petegg human running f"
+  },
+  {
+    "id": 12328,
+    "name": "Scrambled human whetstone"
+  },
+  {
+    "id": 12329,
+    "name": "Human fletching single rock shard"
+  },
+  {
+    "id": 12330,
+    "name": "Human fletching no items"
+  },
+  {
+    "id": 12331,
+    "name": "Human sword def leather hit 3"
+  },
+  {
+    "id": 12332,
+    "name": "Human sword slash withsound"
+  },
+  {
+    "id": 12333,
+    "name": "Human blunt pound withsound"
+  },
+  {
+    "id": 12334,
+    "name": "Human staff block leather hit 3"
+  },
+  {
+    "id": 12335,
+    "name": "Human unarmedblock leather hit 3"
+  },
+  {
+    "id": 12336,
+    "name": "Human spear spike withsound"
+  },
+  {
+    "id": 12337,
+    "name": "Human spear block leather hit 3"
+  },
+  {
+    "id": 12338,
+    "name": "Human climbing merge"
+  },
+  {
+    "id": 12339,
+    "name": "Human straighten up"
+  },
+  {
+    "id": 12340,
+    "name": "Zygomite leap out npc"
+  },
+  {
+    "id": 12341,
+    "name": "Entangle impact no red"
+  },
+  {
+    "id": 12342,
+    "name": "Tecpatl stab"
+  },
+  {
+    "id": 12343,
+    "name": "Nature ent01 trail01 spawn"
+  },
+  {
+    "id": 12344,
+    "name": "Nature ent01 trail01 inactive idle"
+  },
+  {
+    "id": 12345,
+    "name": "Nature ent01 trail01 inactive spawn to idle"
+  },
+  {
+    "id": 12346,
+    "name": "Nature ent01 trail01 active idle"
+  },
+  {
+    "id": 12347,
+    "name": "Nature ent01 trail01 inactive despawn"
+  },
+  {
+    "id": 12348,
+    "name": "Nature ent01 trail01 active despawn"
+  },
+  {
+    "id": 12349,
+    "name": "Vfx nature spirit bison spawn"
+  },
+  {
+    "id": 12350,
+    "name": "Vfx nature spirit bison despawn"
+  },
+  {
+    "id": 12351,
+    "name": "Vfx nature spirit jaguar spawn"
+  },
+  {
+    "id": 12352,
+    "name": "Vfx nature spirit jaguar despawn"
+  },
+  {
+    "id": 12353,
+    "name": "Vfx nature spirit eagle spawn"
+  },
+  {
+    "id": 12354,
+    "name": "Vfx nature spirit eagle despawn"
+  },
+  {
+    "id": 12355,
+    "name": "Vfx nature spirit snake spawn"
+  },
+  {
+    "id": 12356,
+    "name": "Vfx nature spirit snake despawn"
+  },
+  {
+    "id": 12357,
+    "name": "Vfx nature spirit wolf spawn"
+  },
+  {
+    "id": 12358,
+    "name": "Vfx nature spirit wolf despawn"
+  },
+  {
+    "id": 12359,
+    "name": "Vfx nature spirit scorpion spawn"
+  },
+  {
+    "id": 12360,
+    "name": "Vfx nature spirit scorpion despawn"
+  },
+  {
+    "id": 12361,
+    "name": "Npc custodian stalker01 walk01"
+  },
+  {
+    "id": 12362,
+    "name": "Npc custodian stalker01 ready01"
+  },
+  {
+    "id": 12363,
+    "name": "Npc custodian stalker02 ready01"
+  },
+  {
+    "id": 12364,
+    "name": "Npc custodian stalker02 ready02"
+  },
+  {
+    "id": 12365,
+    "name": "Npc custodian stalker02 walk01"
+  },
+  {
+    "id": 12366,
+    "name": "Npc custodian stalker02 stomp01"
+  },
+  {
+    "id": 12367,
+    "name": "Npc custodian stalker02 run01"
+  },
+  {
+    "id": 12368,
+    "name": "Npc custodian stalker02 death01"
+  },
+  {
+    "id": 12369,
+    "name": "Npc custodian stalker02 attack01"
+  },
+  {
+    "id": 12370,
+    "name": "Npc custodian stalker03 ready01"
+  },
+  {
+    "id": 12371,
+    "name": "Npc custodian stalker03 death01"
+  },
+  {
+    "id": 12372,
+    "name": "Npc custodian stalker03 ready02"
+  },
+  {
+    "id": 12373,
+    "name": "Npc custodian stalker03 walk01"
+  },
+  {
+    "id": 12374,
+    "name": "Npc custodian stalker03 stomp01"
+  },
+  {
+    "id": 12375,
+    "name": "Npc custodian stalker03 attack01"
+  },
+  {
+    "id": 12376,
+    "name": "Npc custodian stalker04 ready01"
+  },
+  {
+    "id": 12377,
+    "name": "Npc custodian stalker04 walk01"
+  },
+  {
+    "id": 12378,
+    "name": "Npc custodian stalker04 walk02"
+  },
+  {
+    "id": 12379,
+    "name": "Npc custodian stalker04 walk03"
+  },
+  {
+    "id": 12380,
+    "name": "Npc custodian stalker04 attack01"
+  },
+  {
+    "id": 12381,
+    "name": "Npc custodian stalker04 howl01"
+  },
+  {
+    "id": 12382,
+    "name": "Npc custodian stalker04 stomp01"
+  },
+  {
+    "id": 12383,
+    "name": "Npc custodian stalker04 death01"
+  },
+  {
+    "id": 12384,
+    "name": "Npc custodian stalker05 ready01"
+  },
+  {
+    "id": 12385,
+    "name": "Npc custodian stalker05 ready02"
+  },
+  {
+    "id": 12386,
+    "name": "Npc custodian stalker05 ready03"
+  },
+  {
+    "id": 12387,
+    "name": "Npc custodian stalker05 walk01"
+  },
+  {
+    "id": 12388,
+    "name": "Npc custodian stalker05 attack01"
+  },
+  {
+    "id": 12389,
+    "name": "Npc custodian stalker05 howl01"
+  },
+  {
+    "id": 12390,
+    "name": "Npc custodian stalker05 stomp01"
+  },
+  {
+    "id": 12391,
+    "name": "Npc custodian stalker05 death01"
+  },
+  {
+    "id": 12392,
+    "name": "Vfx player custodian stalker special"
+  },
+  {
+    "id": 12393,
+    "name": "Vfx player custodian stalker 05 special"
+  },
+  {
+    "id": 12394,
+    "name": "Human eye of ayak special"
+  },
+  {
+    "id": 12395,
+    "name": "Eye of ayak special spotanim"
+  },
+  {
+    "id": 12396,
+    "name": "Eye of ayak special impact"
+  },
+  {
+    "id": 12397,
+    "name": "Human eye of ayak normal"
+  },
+  {
+    "id": 12398,
+    "name": "Vfx ayak normal proj"
+  },
+  {
+    "id": 12399,
+    "name": "Eye of ayak normal spotanim"
+  },
+  {
+    "id": 12400,
+    "name": "Vfx ayak normal impact"
+  },
+  {
+    "id": 12401,
+    "name": "Npc doom boss pet idle"
+  },
+  {
+    "id": 12402,
+    "name": "Npc doom boss pet walk"
+  },
+  {
+    "id": 12403,
+    "name": "Human craft confliction"
+  },
+  {
+    "id": 12404,
+    "name": "Spotanim confliction craft"
+  },
+  {
+    "id": 12405,
+    "name": "Dom idle"
+  },
+  {
+    "id": 12406,
+    "name": "Dom standard range attack"
+  },
+  {
+    "id": 12407,
+    "name": "Dom rock throw attack"
+  },
+  {
+    "id": 12408,
+    "name": "Dom beam charge"
+  },
+  {
+    "id": 12409,
+    "name": "Dom beam charge loop"
+  },
+  {
+    "id": 12410,
+    "name": "Dom beam cancel"
+  },
+  {
+    "id": 12411,
+    "name": "Dom beam fire"
+  },
+  {
+    "id": 12412,
+    "name": "Dom area charge"
+  },
+  {
+    "id": 12413,
+    "name": "Dom area charge loop"
+  },
+  {
+    "id": 12414,
+    "name": "Doom area slam"
+  },
+  {
+    "id": 12415,
+    "name": "Doom area slam return idle"
+  },
+  {
+    "id": 12416,
+    "name": "Dom melee attack"
+  },
+  {
+    "id": 12417,
+    "name": "Dom burrowed movement"
+  },
+  {
+    "id": 12418,
+    "name": "Dom burrowed emerge"
+  },
+  {
+    "id": 12419,
+    "name": "Dom burrowed explosion"
+  },
+  {
+    "id": 12420,
+    "name": "Dom burrow"
+  },
+  {
+    "id": 12421,
+    "name": "Dom burrow idle"
+  },
+  {
+    "id": 12422,
+    "name": "Dom despawn"
+  },
+  {
+    "id": 12423,
+    "name": "Vfx doom area slam"
+  },
+  {
+    "id": 12424,
+    "name": "Vfx dom burrowed movement"
+  },
+  {
+    "id": 12425,
+    "name": "Vfx dom burrowed emerge"
+  },
+  {
+    "id": 12426,
+    "name": "Vfx dom burrowed explosion"
+  },
+  {
+    "id": 12427,
+    "name": "Vfx dom burrowed explosion aoe"
+  },
+  {
+    "id": 12428,
+    "name": "Vfx dom burrow"
+  },
+  {
+    "id": 12429,
+    "name": "Vfx dom burrow idle"
+  },
+  {
+    "id": 12430,
+    "name": "Vfx dom despawn"
+  },
+  {
+    "id": 12431,
+    "name": "Area node idle"
+  },
+  {
+    "id": 12432,
+    "name": "Area node spawn"
+  },
+  {
+    "id": 12433,
+    "name": "Area node death"
+  },
+  {
+    "id": 12434,
+    "name": "Area node pop"
+  },
+  {
+    "id": 12435,
+    "name": "Shield idle"
+  },
+  {
+    "id": 12436,
+    "name": "Shield spawn"
+  },
+  {
+    "id": 12437,
+    "name": "Shield death"
+  },
+  {
+    "id": 12438,
+    "name": "Vfx rock projectile launch"
+  },
+  {
+    "id": 12439,
+    "name": "Vfx rock split"
+  },
+  {
+    "id": 12440,
+    "name": "Vfx rock projectile proj"
+  },
+  {
+    "id": 12441,
+    "name": "Vfx rock projectile proj alt"
+  },
+  {
+    "id": 12442,
+    "name": "Vfx rock impact"
+  },
+  {
+    "id": 12443,
+    "name": "Vfx area slam 01"
+  },
+  {
+    "id": 12444,
+    "name": "Vfx area slam 02"
+  },
+  {
+    "id": 12445,
+    "name": "Vfx area slam 03"
+  },
+  {
+    "id": 12446,
+    "name": "Vfx area slam 04"
+  },
+  {
+    "id": 12447,
+    "name": "Vfx beam attack head 01"
+  },
+  {
+    "id": 12448,
+    "name": "Vfx beam middle segment 01"
+  },
+  {
+    "id": 12449,
+    "name": "Vfx beam end segment 01"
+  },
+  {
+    "id": 12450,
+    "name": "Vfx beam impact 01"
+  },
+  {
+    "id": 12451,
+    "name": "Vfx beam charge up 01"
+  },
+  {
+    "id": 12452,
+    "name": "Vfx beam charge up burrow 01"
+  },
+  {
+    "id": 12453,
+    "name": "Npc doom boss idle ca"
+  },
+  {
+    "id": 12454,
+    "name": "Vfx doom boss burrowed movement telegraph"
+  },
+  {
+    "id": 12455,
+    "name": "Vfx doom boss burrowed telegraph spawn"
+  },
+  {
+    "id": 12456,
+    "name": "Npc demonic grub walk"
+  },
+  {
+    "id": 12457,
+    "name": "Vfx demonic grub spawn"
+  },
+  {
+    "id": 12458,
+    "name": "Npc demonic grub spawn"
+  },
+  {
+    "id": 12459,
+    "name": "Npc demonic grub death"
+  },
+  {
+    "id": 12460,
+    "name": "Vfx demonic grub explosion01"
+  },
+  {
+    "id": 12461,
+    "name": "Vfx demonic grub explosion02"
+  },
+  {
+    "id": 12462,
+    "name": "Vfx demonic grub explosion03"
+  },
+  {
+    "id": 12463,
+    "name": "Vfx demonic grub explosion04"
+  },
+  {
+    "id": 12464,
+    "name": "Vfx demonic grub explosion05"
+  },
+  {
+    "id": 12465,
+    "name": "Vfx demonic grub explosion06"
+  },
+  {
+    "id": 12466,
+    "name": "Vfx demonic grub explosion07"
+  },
+  {
+    "id": 12467,
+    "name": "Vfx demonic grub explosion08"
+  },
+  {
+    "id": 12468,
+    "name": "Vfx demonic grub player impact02"
+  },
+  {
+    "id": 12469,
+    "name": "Vfx doom blood splat"
+  },
+  {
+    "id": 12470,
+    "name": "Vfx doom blood splat despawn"
+  },
+  {
+    "id": 12471,
+    "name": "Vfx doom mound"
+  },
+  {
+    "id": 12472,
+    "name": "Vfx doom mound beam cancel"
+  },
+  {
+    "id": 12473,
+    "name": "Vfx doom mound melee attack"
+  },
+  {
+    "id": 12474,
+    "name": "Vfx doom mound burrowed emerge"
+  },
+  {
+    "id": 12475,
+    "name": "Vfx doom mound burrow"
+  },
+  {
+    "id": 12476,
+    "name": "Vfx doom mound despawn"
+  },
+  {
+    "id": 12477,
+    "name": "Vfx doom hole spawn"
+  },
+  {
+    "id": 12478,
+    "name": "Kastori vase snake"
+  },
+  {
+    "id": 12479,
+    "name": "Fountain talteklan01 default01 idle01"
+  },
+  {
+    "id": 12480,
+    "name": "Crab boss idle"
+  },
+  {
+    "id": 12481,
+    "name": "Crab boss spawn"
+  },
+  {
+    "id": 12482,
+    "name": "Crab boss death"
+  },
+  {
+    "id": 12483,
+    "name": "Crab boss attack"
+  },
+  {
+    "id": 12484,
+    "name": "Crab boss remains disintegrate"
+  },
+  {
+    "id": 12485,
+    "name": "Crab boss remains idle"
+  },
+  {
+    "id": 12486,
+    "name": "Crab boss remains idle spot"
+  },
+  {
+    "id": 12487,
+    "name": "Vfx crab boss spawn"
+  },
+  {
+    "id": 12488,
+    "name": "Vfx crab boss death"
+  },
+  {
+    "id": 12489,
+    "name": "Vfx crab boss disintegrate"
+  },
+  {
+    "id": 12490,
+    "name": "Npc boar combat idle silent"
+  },
+  {
+    "id": 12491,
+    "name": "Blood jaguar combat melee"
+  },
+  {
+    "id": 12492,
+    "name": "Blood jaguar combat death"
+  },
+  {
+    "id": 12493,
+    "name": "Npc nature spirit jaguar spawn"
+  },
+  {
+    "id": 12494,
+    "name": "Npc nature spirit jaguar despawn"
+  },
+  {
+    "id": 12495,
+    "name": "Npc ocelot combat idle"
+  },
+  {
+    "id": 12496,
+    "name": "Npc ocelot combat melee"
+  },
+  {
+    "id": 12497,
+    "name": "Npc ocelot combat death"
+  },
+  {
+    "id": 12498,
+    "name": "Npc jaguar combat melee"
+  },
+  {
+    "id": 12499,
+    "name": "Npc jaguar combat death"
+  },
+  {
+    "id": 12500,
+    "name": "Npc ent walk 01"
+  },
+  {
+    "id": 12501,
+    "name": "Npc ent walk 02"
+  },
+  {
+    "id": 12502,
+    "name": "Npc ent ready 01"
+  },
+  {
+    "id": 12503,
+    "name": "Npc ent ready 02"
+  },
+  {
+    "id": 12504,
+    "name": "Npc ent defend 01"
+  },
+  {
+    "id": 12505,
+    "name": "Npc ent defend 02"
+  },
+  {
+    "id": 12506,
+    "name": "Npc ent attack 01"
+  },
+  {
+    "id": 12507,
+    "name": "Npc ent attack 02"
+  },
+  {
+    "id": 12508,
+    "name": "Npc ent death 01"
+  },
+  {
+    "id": 12509,
+    "name": "Npc ent death 02"
+  },
+  {
+    "id": 12510,
+    "name": "Npc ent worship 01"
+  },
+  {
+    "id": 12511,
+    "name": "Npc ent worship 02"
+  },
+  {
+    "id": 12512,
+    "name": "Vfx ent auburn reward spawn 01"
+  },
+  {
+    "id": 12513,
+    "name": "Waterwheel spin counter"
+  },
+  {
+    "id": 12514,
+    "name": "Emote sit to stand"
+  },
+  {
+    "id": 12515,
+    "name": "Npc nature spirit wolf spawn"
+  },
+  {
+    "id": 12516,
+    "name": "Npc nature spirit wolf despawn"
+  },
+  {
+    "id": 12517,
+    "name": "Npc nature spirit bison spawn"
+  },
+  {
+    "id": 12518,
+    "name": "Npc nature spirit bison despawn"
+  },
+  {
+    "id": 12519,
+    "name": "Npc nature spirit scorpion spawn"
+  },
+  {
+    "id": 12520,
+    "name": "Npc nature spirit scorpion despawn"
+  },
+  {
+    "id": 12521,
+    "name": "Vfx lightning flicker"
+  },
+  {
+    "id": 12522,
+    "name": "Squirrel monkey idle"
+  },
+  {
+    "id": 12523,
+    "name": "Squirrel monkey walk"
+  },
+  {
+    "id": 12524,
+    "name": "Squirrel fly"
+  },
+  {
+    "id": 12525,
+    "name": "Human walk 60"
+  },
+  {
+    "id": 12526,
+    "name": "Human eat withsound"
+  },
+  {
+    "id": 12527,
+    "name": "Human stamp merge"
   }
 ]
