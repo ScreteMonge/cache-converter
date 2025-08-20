@@ -16542,6 +16542,12 @@
     "leftHandItem": 0
   },
   {
+    "name": "Unnamed",
+    "id": 2757,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
     "name": "Situps getdown",
     "id": 2758,
     "rightHandItem": 0,
@@ -42842,6 +42848,24 @@
   {
     "name": "Surok rune combine loop",
     "id": 7141,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 7142,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 7143,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 7144,
     "rightHandItem": -1,
     "leftHandItem": -1
   },

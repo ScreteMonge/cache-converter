@@ -11028,6 +11028,10 @@
     "name": "Pushups"
   },
   {
+    "id": 2757,
+    "name": "Human ledge walk left looped"
+  },
+  {
     "id": 2758,
     "name": "Situps getdown"
   },
@@ -28562,6 +28566,18 @@
   {
     "id": 7141,
     "name": "Surok rune combine loop"
+  },
+  {
+    "id": 7142,
+    "name": "Human ledge walk right looped"
+  },
+  {
+    "id": 7143,
+    "name": "Kastori harvester walk f"
+  },
+  {
+    "id": 7144,
+    "name": "Kastori harvester ready"
   },
   {
     "id": 7147,
