@@ -11,13 +11,13 @@ def main():
         print("Directory is empty or isn't 'dump.' Canceling program.")
         return
 
-    perform_kit = True
-    perform_obj = True
-    perform_spotanim = True
-    perform_seq = True
+    perform_kit = False
+    perform_obj = False
+    perform_spotanim = False
+    perform_seq = False
     perform_item = True
-    perform_npc = True
-    perform_anim = True
+    perform_npc = False
+    perform_anim = False
 
     # 0 8057, stand
     # 1 819, walk
@@ -255,10 +255,6 @@ def item(directory, perform_item):
                 data = json.load(open(item_path + item_filenames[2][i], encoding='utf-8'))
                 id = data.get('id')
                 name = data.get('name')
-
-                if name == "null" or name == "Null":
-                    continue
-
                 inventoryModel = data.get('inventoryModel')
                 maleModel0 = data.get('maleModel0')
                 maleModel1 = data.get('maleModel1')
@@ -282,6 +278,9 @@ def item(directory, perform_item):
                 colorFind = data.get('colorFind')
                 textureReplace = data.get('textureReplace')
                 textureFind = data.get('textureFind')
+
+                if (name == "null" or name == "Null") and inventoryModel == 0 and maleModel0 == -1 and femaleModel0 == -1 and maleHeadModel == -1 and femaleHeadModel == -1:
+                    continue
 
                 item_final = {'id': id,
                               'name': name,
