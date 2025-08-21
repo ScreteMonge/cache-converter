@@ -11,13 +11,13 @@ def main():
         print("Directory is empty or isn't 'dump.' Canceling program.")
         return
 
-    perform_kit = False
-    perform_obj = False
-    perform_spotanim = False
-    perform_seq = False
+    perform_kit = True
+    perform_obj = True
+    perform_spotanim = True
+    perform_seq = True
     perform_item = True
-    perform_npc = False
-    perform_anim = False
+    perform_npc = True
+    perform_anim = True
 
     # 0 8057, stand
     # 1 819, walk
