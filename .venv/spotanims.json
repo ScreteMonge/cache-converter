@@ -48442,5 +48442,41 @@
     "contrast": 100,
     "recolorToReplace": null,
     "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3456,
+    "modelId": 57429,
+    "animationId": 8523,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 40,
+    "contrast": 40,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3457,
+    "modelId": 57428,
+    "animationId": 8523,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 40,
+    "contrast": 40,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3458,
+    "modelId": 57430,
+    "animationId": 8523,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 40,
+    "contrast": 40,
+    "recolorToReplace": null,
+    "recolorToFind": null
   }
 ]
