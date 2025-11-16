@@ -3576,10 +3576,6 @@
     "name": "Human shearing"
   },
   {
-    "id": 894,
-    "name": "Human spinningwheel"
-  },
-  {
     "id": 895,
     "name": "Human fillbucket sandpit"
   },
@@ -43156,10 +43152,6 @@
     "name": "Huntingfox deadfall catchingtest"
   },
   {
-    "id": 10792,
-    "name": "Hunting searching bushes walkmerge norestart"
-  },
-  {
     "id": 10793,
     "name": "Minnow fishing spot location loop"
   },
@@ -44378,10 +44370,6 @@
   {
     "id": 11100,
     "name": "Human fletching single"
-  },
-  {
-    "id": 11101,
-    "name": "Human lockedchest walkmerge"
   },
   {
     "id": 11102,
@@ -46356,10 +46344,6 @@
     "name": "Fx beam huey"
   },
   {
-    "id": 11595,
-    "name": "Human lockedhighcupboard merge"
-  },
-  {
     "id": 11596,
     "name": "Spotanim zebak attack roar short"
   },
@@ -46950,10 +46934,6 @@
   {
     "id": 11743,
     "name": "Brewing add ingredient"
-  },
-  {
-    "id": 11744,
-    "name": "Human spinningwheel walkmerge"
   },
   {
     "id": 11745,
@@ -50086,5 +50066,4569 @@
   {
     "id": 12528,
     "name": "Painting spooky halloween01 blink"
+  },
+  {
+    "id": 12529,
+    "name": "Furnace wind01 idle"
+  },
+  {
+    "id": 12530,
+    "name": "Hermit crab ready"
+  },
+  {
+    "id": 12531,
+    "name": "Hermit crab walk"
+  },
+  {
+    "id": 12532,
+    "name": "Hermit crab attack"
+  },
+  {
+    "id": 12533,
+    "name": "Hermit crab death"
+  },
+  {
+    "id": 12534,
+    "name": "Hermit crab exit shell"
+  },
+  {
+    "id": 12535,
+    "name": "Hermit crab enter shell"
+  },
+  {
+    "id": 12536,
+    "name": "Hermit crab hidden"
+  },
+  {
+    "id": 12537,
+    "name": "Bank crab ready"
+  },
+  {
+    "id": 12538,
+    "name": "Bank crab walk"
+  },
+  {
+    "id": 12539,
+    "name": "Bank crab exit shell"
+  },
+  {
+    "id": 12540,
+    "name": "Bank crab hidden"
+  },
+  {
+    "id": 12541,
+    "name": "Bank crab enter shell"
+  },
+  {
+    "id": 12542,
+    "name": "Hunting crab walk"
+  },
+  {
+    "id": 12543,
+    "name": "Hunting crab ready"
+  },
+  {
+    "id": 12544,
+    "name": "Hunting crab trap success"
+  },
+  {
+    "id": 12545,
+    "name": "Hunting crab spawn"
+  },
+  {
+    "id": 12546,
+    "name": "Gryphon boss spawn01"
+  },
+  {
+    "id": 12547,
+    "name": "Gryphon idle01"
+  },
+  {
+    "id": 12548,
+    "name": "Gryphon boss idle01"
+  },
+  {
+    "id": 12549,
+    "name": "Gryphon walk01"
+  },
+  {
+    "id": 12550,
+    "name": "Gryphon boss walk01"
+  },
+  {
+    "id": 12551,
+    "name": "Gryphon melee attack01"
+  },
+  {
+    "id": 12552,
+    "name": "Gryphon boss melee attack01"
+  },
+  {
+    "id": 12553,
+    "name": "Gryphon boss spit01"
+  },
+  {
+    "id": 12554,
+    "name": "Gryphon boss ranged01"
+  },
+  {
+    "id": 12555,
+    "name": "Gryphon boss whirlwind01"
+  },
+  {
+    "id": 12556,
+    "name": "Gryphon death01"
+  },
+  {
+    "id": 12557,
+    "name": "Gryphon boss death01"
+  },
+  {
+    "id": 12558,
+    "name": "Gryphon whirlwind spawn01"
+  },
+  {
+    "id": 12559,
+    "name": "Gryphon whirlwind spawn idle"
+  },
+  {
+    "id": 12560,
+    "name": "Gryphon whirlwind spawn to lvl1"
+  },
+  {
+    "id": 12561,
+    "name": "Gryphon whirlwind inactive lvl0 to lvl1"
+  },
+  {
+    "id": 12562,
+    "name": "Gryphon whirlwind inactive lvl1 to lvl2"
+  },
+  {
+    "id": 12563,
+    "name": "Gryphon whirlwind inactive lvl2 to lvl3"
+  },
+  {
+    "id": 12564,
+    "name": "Gryphon whirlwind inactive lvl3 to lvl4"
+  },
+  {
+    "id": 12565,
+    "name": "Gryphon whirlwind inactive lvl4 to lvl5"
+  },
+  {
+    "id": 12566,
+    "name": "Gryphon whirlwind inactive idle lvl1"
+  },
+  {
+    "id": 12567,
+    "name": "Gryphon whirlwind inactive idle lvl2"
+  },
+  {
+    "id": 12568,
+    "name": "Gryphon whirlwind inactive idle lvl3"
+  },
+  {
+    "id": 12569,
+    "name": "Gryphon whirlwind inactive idle lvl4"
+  },
+  {
+    "id": 12570,
+    "name": "Gryphon whirlwind inactive idle lvl5"
+  },
+  {
+    "id": 12571,
+    "name": "Gryphon whirlwind inactive to active lvl1"
+  },
+  {
+    "id": 12572,
+    "name": "Gryphon whirlwind inactive to active lvl2"
+  },
+  {
+    "id": 12573,
+    "name": "Gryphon whirlwind inactive to active lvl3"
+  },
+  {
+    "id": 12574,
+    "name": "Gryphon whirlwind inactive to active lvl4"
+  },
+  {
+    "id": 12575,
+    "name": "Gryphon whirlwind inactive to active lvl5"
+  },
+  {
+    "id": 12576,
+    "name": "Gryphon whirlwind active idle lvl1"
+  },
+  {
+    "id": 12577,
+    "name": "Gryphon whirlwind active idle lvl2"
+  },
+  {
+    "id": 12578,
+    "name": "Gryphon whirlwind active idle lvl3"
+  },
+  {
+    "id": 12579,
+    "name": "Gryphon whirlwind active idle lvl4"
+  },
+  {
+    "id": 12580,
+    "name": "Gryphon whirlwind active idle lvl5"
+  },
+  {
+    "id": 12581,
+    "name": "Gryphon whirlwind explosion lvl1"
+  },
+  {
+    "id": 12582,
+    "name": "Gryphon whirlwind explosion lvl2"
+  },
+  {
+    "id": 12583,
+    "name": "Gryphon whirlwind explosion lvl3"
+  },
+  {
+    "id": 12584,
+    "name": "Gryphon whirlwind explosion lvl4"
+  },
+  {
+    "id": 12585,
+    "name": "Gryphon whirlwind explosion lvl5"
+  },
+  {
+    "id": 12586,
+    "name": "Npc gryphon pet idle01"
+  },
+  {
+    "id": 12587,
+    "name": "Npc gryphon pet walk01"
+  },
+  {
+    "id": 12588,
+    "name": "Npc gryphon pet attack01"
+  },
+  {
+    "id": 12589,
+    "name": "Horn of plenty blow"
+  },
+  {
+    "id": 12590,
+    "name": "Horn of plenty spotanim01"
+  },
+  {
+    "id": 12591,
+    "name": "Tortugan ready"
+  },
+  {
+    "id": 12592,
+    "name": "Tortugan ready staff"
+  },
+  {
+    "id": 12593,
+    "name": "Tortugan walk f no overlap"
+  },
+  {
+    "id": 12594,
+    "name": "Tortugan walk f"
+  },
+  {
+    "id": 12595,
+    "name": "Tortugan staff walk f"
+  },
+  {
+    "id": 12596,
+    "name": "Tortugan staff stab"
+  },
+  {
+    "id": 12597,
+    "name": "Tortugan death"
+  },
+  {
+    "id": 12598,
+    "name": "Tortugan apron walk f"
+  },
+  {
+    "id": 12599,
+    "name": "Tortugan fishingrod ready"
+  },
+  {
+    "id": 12600,
+    "name": "Tortugan fishingrod walk f"
+  },
+  {
+    "id": 12601,
+    "name": "Tortugan farmer master ready"
+  },
+  {
+    "id": 12602,
+    "name": "Tortugan farmer master walk f"
+  },
+  {
+    "id": 12603,
+    "name": "Vfx yama pentagram 01"
+  },
+  {
+    "id": 12604,
+    "name": "Vfx sailing skillcape spotanim"
+  },
+  {
+    "id": 12605,
+    "name": "Pandemonium roof tarp support"
+  },
+  {
+    "id": 12606,
+    "name": "Pandemonium roof tarp"
+  },
+  {
+    "id": 12607,
+    "name": "Pandemonium table parrot"
+  },
+  {
+    "id": 12608,
+    "name": "Wallkit wood01 barwindow"
+  },
+  {
+    "id": 12609,
+    "name": "Human shoulder parrot unarmed idle"
+  },
+  {
+    "id": 12610,
+    "name": "Vfx doom blood splat and despawn"
+  },
+  {
+    "id": 12611,
+    "name": "Lore abyss leech walk"
+  },
+  {
+    "id": 12612,
+    "name": "Lore abyss leech ready"
+  },
+  {
+    "id": 12613,
+    "name": "Lore abyss leech summon"
+  },
+  {
+    "id": 12614,
+    "name": "Lore abyss leech defend"
+  },
+  {
+    "id": 12615,
+    "name": "Lore abyss leech death"
+  },
+  {
+    "id": 12616,
+    "name": "Lore abyss leech attack"
+  },
+  {
+    "id": 12617,
+    "name": "Lore abyss leech abyssal drain spot"
+  },
+  {
+    "id": 12618,
+    "name": "Lore abyss leech ready timer"
+  },
+  {
+    "id": 12619,
+    "name": "Lore abyssal crane ready"
+  },
+  {
+    "id": 12620,
+    "name": "Lore abyssal crane walk"
+  },
+  {
+    "id": 12621,
+    "name": "Lore abyssal crane ready timer"
+  },
+  {
+    "id": 12622,
+    "name": "Lore abyssal crane attack"
+  },
+  {
+    "id": 12623,
+    "name": "Lore abyssal crane defend"
+  },
+  {
+    "id": 12624,
+    "name": "Lore abyssal crane special"
+  },
+  {
+    "id": 12625,
+    "name": "Lore abyssal crane summon"
+  },
+  {
+    "id": 12626,
+    "name": "Lore abyssal crane death"
+  },
+  {
+    "id": 12627,
+    "name": "Lore abyssal titan walk"
+  },
+  {
+    "id": 12628,
+    "name": "Lore abyssal titan summon"
+  },
+  {
+    "id": 12629,
+    "name": "Lore abyssal titan ready timer"
+  },
+  {
+    "id": 12630,
+    "name": "Lore abyssal titan ready"
+  },
+  {
+    "id": 12631,
+    "name": "Lore abyssal titan defend"
+  },
+  {
+    "id": 12632,
+    "name": "Lore abyssal titan death"
+  },
+  {
+    "id": 12633,
+    "name": "Lore abyssal titan attack"
+  },
+  {
+    "id": 12634,
+    "name": "Lore steel titan special"
+  },
+  {
+    "id": 12635,
+    "name": "Lore abyssal chaotic rune"
+  },
+  {
+    "id": 12636,
+    "name": "Lore toad attack"
+  },
+  {
+    "id": 12637,
+    "name": "Lore toad death"
+  },
+  {
+    "id": 12638,
+    "name": "Lore toad defend"
+  },
+  {
+    "id": 12639,
+    "name": "Lore toad ready"
+  },
+  {
+    "id": 12640,
+    "name": "Lore toad ready timer"
+  },
+  {
+    "id": 12641,
+    "name": "Lore toad summon"
+  },
+  {
+    "id": 12642,
+    "name": "Lore toad walk"
+  },
+  {
+    "id": 12643,
+    "name": "Lore toad tongue attack"
+  },
+  {
+    "id": 12644,
+    "name": "Lore toad cannon launch"
+  },
+  {
+    "id": 12645,
+    "name": "Lore toad cannon load"
+  },
+  {
+    "id": 12646,
+    "name": "Lore toad special attk bark"
+  },
+  {
+    "id": 12647,
+    "name": "Lore bloat leech walk"
+  },
+  {
+    "id": 12648,
+    "name": "Lore bloat leech summon"
+  },
+  {
+    "id": 12649,
+    "name": "Lore bloat leech ready timer"
+  },
+  {
+    "id": 12650,
+    "name": "Lore bloat leech ready"
+  },
+  {
+    "id": 12651,
+    "name": "Lore bloat leech defend"
+  },
+  {
+    "id": 12652,
+    "name": "Lore bloat leech death"
+  },
+  {
+    "id": 12653,
+    "name": "Lore bloat leech attack"
+  },
+  {
+    "id": 12654,
+    "name": "Lore bloat leech drain"
+  },
+  {
+    "id": 12655,
+    "name": "Lore bloat leech special"
+  },
+  {
+    "id": 12656,
+    "name": "Lore bunyip walk"
+  },
+  {
+    "id": 12657,
+    "name": "Lore bunyip summon"
+  },
+  {
+    "id": 12658,
+    "name": "Lore bunyip ready timer"
+  },
+  {
+    "id": 12659,
+    "name": "Lore bunyip ready"
+  },
+  {
+    "id": 12660,
+    "name": "Lore bunyip defend"
+  },
+  {
+    "id": 12661,
+    "name": "Lore bunyip death"
+  },
+  {
+    "id": 12662,
+    "name": "Lore bunyip attack"
+  },
+  {
+    "id": 12663,
+    "name": "Lore bunyip fishmute"
+  },
+  {
+    "id": 12664,
+    "name": "Lore bunyip special"
+  },
+  {
+    "id": 12665,
+    "name": "Lore chinchompa walk"
+  },
+  {
+    "id": 12666,
+    "name": "Lore chinchompa ready"
+  },
+  {
+    "id": 12667,
+    "name": "Lore chinchompa ready timer"
+  },
+  {
+    "id": 12668,
+    "name": "Lore chinchompa defend"
+  },
+  {
+    "id": 12669,
+    "name": "Lore chinchompa summon"
+  },
+  {
+    "id": 12670,
+    "name": "Lore chinchompa attack"
+  },
+  {
+    "id": 12671,
+    "name": "Lore chinchompa death"
+  },
+  {
+    "id": 12672,
+    "name": "Lore chinchompa explosion"
+  },
+  {
+    "id": 12673,
+    "name": "Lore cockatrice walk"
+  },
+  {
+    "id": 12674,
+    "name": "Lore cockatrice ready"
+  },
+  {
+    "id": 12675,
+    "name": "Lore cockatrice defend"
+  },
+  {
+    "id": 12676,
+    "name": "Lore cockatrice attack"
+  },
+  {
+    "id": 12677,
+    "name": "Lore cockatrice death"
+  },
+  {
+    "id": 12678,
+    "name": "Lore cockatrice ready timer"
+  },
+  {
+    "id": 12679,
+    "name": "Lore cockatrice summon"
+  },
+  {
+    "id": 12680,
+    "name": "Lore cockatrice petrify"
+  },
+  {
+    "id": 12681,
+    "name": "Lore compost mound walk"
+  },
+  {
+    "id": 12682,
+    "name": "Lore compost mound attack"
+  },
+  {
+    "id": 12683,
+    "name": "Lore compost mound death"
+  },
+  {
+    "id": 12684,
+    "name": "Lore compost mound defend"
+  },
+  {
+    "id": 12685,
+    "name": "Lore compost mound ready"
+  },
+  {
+    "id": 12686,
+    "name": "Lore compost mound summon"
+  },
+  {
+    "id": 12687,
+    "name": "Lore compost mound give compost"
+  },
+  {
+    "id": 12688,
+    "name": "Lore cpst mnd gen compost"
+  },
+  {
+    "id": 12689,
+    "name": "Lore compost mound rdy timer"
+  },
+  {
+    "id": 12690,
+    "name": "Lore dagganoth death"
+  },
+  {
+    "id": 12691,
+    "name": "Lore dagganoth ready"
+  },
+  {
+    "id": 12692,
+    "name": "Lore dagganoth ready timer"
+  },
+  {
+    "id": 12693,
+    "name": "Lore dagganoth summon"
+  },
+  {
+    "id": 12694,
+    "name": "Lore dagganoth walk"
+  },
+  {
+    "id": 12695,
+    "name": "Lore dagganoth defend"
+  },
+  {
+    "id": 12696,
+    "name": "Lore dagganoth attack"
+  },
+  {
+    "id": 12697,
+    "name": "Lore dagganoth spike shot"
+  },
+  {
+    "id": 12698,
+    "name": "Lore dagganoth ferocious"
+  },
+  {
+    "id": 12699,
+    "name": "Lore wyrm walk"
+  },
+  {
+    "id": 12700,
+    "name": "Lore wyrm ready"
+  },
+  {
+    "id": 12701,
+    "name": "Lore wyrm summon"
+  },
+  {
+    "id": 12702,
+    "name": "Lore wyrm attk"
+  },
+  {
+    "id": 12703,
+    "name": "Lore wyrm defend"
+  },
+  {
+    "id": 12704,
+    "name": "Lore wyrm death"
+  },
+  {
+    "id": 12705,
+    "name": "Lore wyrm ready timer"
+  },
+  {
+    "id": 12706,
+    "name": "Lore wyrm burrow"
+  },
+  {
+    "id": 12707,
+    "name": "Lore wyrm light lash"
+  },
+  {
+    "id": 12708,
+    "name": "Lore wyrm burrow out"
+  },
+  {
+    "id": 12709,
+    "name": "Lore dreadfowl summon"
+  },
+  {
+    "id": 12710,
+    "name": "Lore chicken walk large"
+  },
+  {
+    "id": 12711,
+    "name": "Lore chicken ready timer"
+  },
+  {
+    "id": 12712,
+    "name": "Lore dreadfowl special"
+  },
+  {
+    "id": 12713,
+    "name": "Lore dreadfowl death"
+  },
+  {
+    "id": 12714,
+    "name": "Lore fire titan walk"
+  },
+  {
+    "id": 12715,
+    "name": "Lore fire titan summon"
+  },
+  {
+    "id": 12716,
+    "name": "Lore fire titan ready timer"
+  },
+  {
+    "id": 12717,
+    "name": "Lore fire titan ready"
+  },
+  {
+    "id": 12718,
+    "name": "Lore fire titan defend"
+  },
+  {
+    "id": 12719,
+    "name": "Lore fire titan death"
+  },
+  {
+    "id": 12720,
+    "name": "Lore fire titan attack"
+  },
+  {
+    "id": 12721,
+    "name": "Lore titan constitution"
+  },
+  {
+    "id": 12722,
+    "name": "Lore moss titan walk"
+  },
+  {
+    "id": 12723,
+    "name": "Lore moss titan summon"
+  },
+  {
+    "id": 12724,
+    "name": "Lore moss titan ready timer"
+  },
+  {
+    "id": 12725,
+    "name": "Lore moss titan ready"
+  },
+  {
+    "id": 12726,
+    "name": "Lore moss titan defend"
+  },
+  {
+    "id": 12727,
+    "name": "Lore moss titan death"
+  },
+  {
+    "id": 12728,
+    "name": "Lore moss titan attack"
+  },
+  {
+    "id": 12729,
+    "name": "Lore ice titan attack"
+  },
+  {
+    "id": 12730,
+    "name": "Lore ice titan death"
+  },
+  {
+    "id": 12731,
+    "name": "Lore ice titan walk"
+  },
+  {
+    "id": 12732,
+    "name": "Flaming prince attack"
+  },
+  {
+    "id": 12733,
+    "name": "Flaming prince death"
+  },
+  {
+    "id": 12734,
+    "name": "Flaming prince defend"
+  },
+  {
+    "id": 12735,
+    "name": "Flaming prince fire attack"
+  },
+  {
+    "id": 12736,
+    "name": "Flaming prince ready"
+  },
+  {
+    "id": 12737,
+    "name": "Flaming prince walk"
+  },
+  {
+    "id": 12738,
+    "name": "Flaming prince ready timer"
+  },
+  {
+    "id": 12739,
+    "name": "Flaming prince summon"
+  },
+  {
+    "id": 12740,
+    "name": "Lore flaming prince tinderbox"
+  },
+  {
+    "id": 12741,
+    "name": "Lore geyser titan ready"
+  },
+  {
+    "id": 12742,
+    "name": "Lore geyser titan walk"
+  },
+  {
+    "id": 12743,
+    "name": "Lore geyser titan defend"
+  },
+  {
+    "id": 12744,
+    "name": "Lore geyser titan attack"
+  },
+  {
+    "id": 12745,
+    "name": "Lore geyser titan death"
+  },
+  {
+    "id": 12746,
+    "name": "Lore geyser titan summon"
+  },
+  {
+    "id": 12747,
+    "name": "Lore geyser titan ready timer"
+  },
+  {
+    "id": 12748,
+    "name": "Lore geyser titan spell"
+  },
+  {
+    "id": 12749,
+    "name": "Lore geyser titan range"
+  },
+  {
+    "id": 12750,
+    "name": "Lore ant ready and extra"
+  },
+  {
+    "id": 12751,
+    "name": "Lore ant summon"
+  },
+  {
+    "id": 12752,
+    "name": "Lore ant ready timer"
+  },
+  {
+    "id": 12753,
+    "name": "Lore ant attack"
+  },
+  {
+    "id": 12754,
+    "name": "Lore ant death"
+  },
+  {
+    "id": 12755,
+    "name": "Lore ant walk slow"
+  },
+  {
+    "id": 12756,
+    "name": "Lore ant walk"
+  },
+  {
+    "id": 12757,
+    "name": "Lore ant defend"
+  },
+  {
+    "id": 12758,
+    "name": "Lore ant unburden"
+  },
+  {
+    "id": 12759,
+    "name": "Lore hydra attack"
+  },
+  {
+    "id": 12760,
+    "name": "Lore hydra defend"
+  },
+  {
+    "id": 12761,
+    "name": "Lore hydra death"
+  },
+  {
+    "id": 12762,
+    "name": "Lore hydra ready and extra"
+  },
+  {
+    "id": 12763,
+    "name": "Lore hydra ready timer"
+  },
+  {
+    "id": 12764,
+    "name": "Lore hydra summon"
+  },
+  {
+    "id": 12765,
+    "name": "Lore hydra walk"
+  },
+  {
+    "id": 12766,
+    "name": "Lore hydra regrowth"
+  },
+  {
+    "id": 12767,
+    "name": "Lore iron titan attack"
+  },
+  {
+    "id": 12768,
+    "name": "Lore iron titan death"
+  },
+  {
+    "id": 12769,
+    "name": "Lore iron titan defend"
+  },
+  {
+    "id": 12770,
+    "name": "Lore iron titan ready"
+  },
+  {
+    "id": 12771,
+    "name": "Lore iron titan ready timer"
+  },
+  {
+    "id": 12772,
+    "name": "Lore iron titan summon"
+  },
+  {
+    "id": 12773,
+    "name": "Lore iron titan walk"
+  },
+  {
+    "id": 12774,
+    "name": "Lore titan iron within"
+  },
+  {
+    "id": 12775,
+    "name": "Lore jelly ready"
+  },
+  {
+    "id": 12776,
+    "name": "Lore jelly walk"
+  },
+  {
+    "id": 12777,
+    "name": "Lore jelly attack"
+  },
+  {
+    "id": 12778,
+    "name": "Lore jelly defend"
+  },
+  {
+    "id": 12779,
+    "name": "Lore jelly death"
+  },
+  {
+    "id": 12780,
+    "name": "Lore jelly summon"
+  },
+  {
+    "id": 12781,
+    "name": "Lore jelly ready timer"
+  },
+  {
+    "id": 12782,
+    "name": "Lore jelly dissolve"
+  },
+  {
+    "id": 12783,
+    "name": "Lore karamthulu walk"
+  },
+  {
+    "id": 12784,
+    "name": "Lore karamthulu defend"
+  },
+  {
+    "id": 12785,
+    "name": "Lore karamthulu attack"
+  },
+  {
+    "id": 12786,
+    "name": "Lore karamthulu death"
+  },
+  {
+    "id": 12787,
+    "name": "Lore karamthulu ready timer"
+  },
+  {
+    "id": 12788,
+    "name": "Lore karamthulu ready"
+  },
+  {
+    "id": 12789,
+    "name": "Lore karamthulu summon"
+  },
+  {
+    "id": 12790,
+    "name": "Lore karamthulu water blast"
+  },
+  {
+    "id": 12791,
+    "name": "Lore karamthulu basic range"
+  },
+  {
+    "id": 12792,
+    "name": "Lore karamthulu best range"
+  },
+  {
+    "id": 12793,
+    "name": "Lore lava tytn walk"
+  },
+  {
+    "id": 12794,
+    "name": "Lore lava tytn ready"
+  },
+  {
+    "id": 12795,
+    "name": "Lore lava tytn death"
+  },
+  {
+    "id": 12796,
+    "name": "Lore lava tytn attack"
+  },
+  {
+    "id": 12797,
+    "name": "Lore lava tytn defend"
+  },
+  {
+    "id": 12798,
+    "name": "Lore lava tytn ready timer"
+  },
+  {
+    "id": 12799,
+    "name": "Lore lava tytn obsidian thunder"
+  },
+  {
+    "id": 12800,
+    "name": "Lore lava tytn summon"
+  },
+  {
+    "id": 12801,
+    "name": "Lore locust walk"
+  },
+  {
+    "id": 12802,
+    "name": "Lore locust ready"
+  },
+  {
+    "id": 12803,
+    "name": "Lore locust ready timer"
+  },
+  {
+    "id": 12804,
+    "name": "Lore locust attack"
+  },
+  {
+    "id": 12805,
+    "name": "Lore locust defend"
+  },
+  {
+    "id": 12806,
+    "name": "Lore locust death"
+  },
+  {
+    "id": 12807,
+    "name": "Lore locust summon"
+  },
+  {
+    "id": 12808,
+    "name": "Lore locust special"
+  },
+  {
+    "id": 12809,
+    "name": "Lore locust jump away"
+  },
+  {
+    "id": 12810,
+    "name": "Lore locust jump to"
+  },
+  {
+    "id": 12811,
+    "name": "Lore locust flying"
+  },
+  {
+    "id": 12812,
+    "name": "Lore bird summon"
+  },
+  {
+    "id": 12813,
+    "name": "Lore bird ranged viewing"
+  },
+  {
+    "id": 12814,
+    "name": "Lore bird walk"
+  },
+  {
+    "id": 12815,
+    "name": "Lore bird ready"
+  },
+  {
+    "id": 12816,
+    "name": "Lore bird ready timer"
+  },
+  {
+    "id": 12817,
+    "name": "Lore bird attack"
+  },
+  {
+    "id": 12818,
+    "name": "Lore bird defend"
+  },
+  {
+    "id": 12819,
+    "name": "Lore bird death"
+  },
+  {
+    "id": 12820,
+    "name": "Lore macaw fly away"
+  },
+  {
+    "id": 12821,
+    "name": "Lore macaw fly back"
+  },
+  {
+    "id": 12822,
+    "name": "Lore magpie special"
+  },
+  {
+    "id": 12823,
+    "name": "Lore minotaur ready"
+  },
+  {
+    "id": 12824,
+    "name": "Lore minotaur walk"
+  },
+  {
+    "id": 12825,
+    "name": "Lore minotaur defend"
+  },
+  {
+    "id": 12826,
+    "name": "Lore minotaur attack"
+  },
+  {
+    "id": 12827,
+    "name": "Lore minotaur death"
+  },
+  {
+    "id": 12828,
+    "name": "Lore minotaur special attack"
+  },
+  {
+    "id": 12829,
+    "name": "Lore minotaur summon"
+  },
+  {
+    "id": 12830,
+    "name": "Lore minotaur ready timer"
+  },
+  {
+    "id": 12831,
+    "name": "Lore mosquito attack"
+  },
+  {
+    "id": 12832,
+    "name": "Lore mosquito death"
+  },
+  {
+    "id": 12833,
+    "name": "Lore mosquito defend"
+  },
+  {
+    "id": 12834,
+    "name": "Lore mosquito ready"
+  },
+  {
+    "id": 12835,
+    "name": "Lore mosquito ready timer"
+  },
+  {
+    "id": 12836,
+    "name": "Lore mosquito summon"
+  },
+  {
+    "id": 12837,
+    "name": "Lore mosquito walk"
+  },
+  {
+    "id": 12838,
+    "name": "Lore mosquito teleport out"
+  },
+  {
+    "id": 12839,
+    "name": "Lore mosquito teleport out spot"
+  },
+  {
+    "id": 12840,
+    "name": "Lore mosquito teleport in spot"
+  },
+  {
+    "id": 12841,
+    "name": "Lore mosquito teleport in"
+  },
+  {
+    "id": 12842,
+    "name": "Skill lore obsidian golem walk"
+  },
+  {
+    "id": 12843,
+    "name": "Skill lore obsidian golem ready plus extra"
+  },
+  {
+    "id": 12844,
+    "name": "Skill lore obsidian golem ready timer"
+  },
+  {
+    "id": 12845,
+    "name": "Skill lore obsidian golem summon"
+  },
+  {
+    "id": 12846,
+    "name": "Skill lore obsidian golem attack"
+  },
+  {
+    "id": 12847,
+    "name": "Skill lore obsidian golem defend"
+  },
+  {
+    "id": 12848,
+    "name": "Skill lore obsidian golem death"
+  },
+  {
+    "id": 12849,
+    "name": "Skill lore obsidian golem mountain strength"
+  },
+  {
+    "id": 12850,
+    "name": "Lore mantis crush attack"
+  },
+  {
+    "id": 12851,
+    "name": "Lore mantis death"
+  },
+  {
+    "id": 12852,
+    "name": "Lore mantis defend"
+  },
+  {
+    "id": 12853,
+    "name": "Lore mantis ready and extra"
+  },
+  {
+    "id": 12854,
+    "name": "Lore mantis ready timer"
+  },
+  {
+    "id": 12855,
+    "name": "Lore mantis slash attack"
+  },
+  {
+    "id": 12856,
+    "name": "Lore mantis stab attack"
+  },
+  {
+    "id": 12857,
+    "name": "Lore mantis strike spell"
+  },
+  {
+    "id": 12858,
+    "name": "Lore mantis walk"
+  },
+  {
+    "id": 12859,
+    "name": "Lore mantis summon"
+  },
+  {
+    "id": 12860,
+    "name": "Lore pyrefiend walk"
+  },
+  {
+    "id": 12861,
+    "name": "Lore pyrefiend ready"
+  },
+  {
+    "id": 12862,
+    "name": "Lore pyrefiend death"
+  },
+  {
+    "id": 12863,
+    "name": "Lore pyrefiend ready timer"
+  },
+  {
+    "id": 12864,
+    "name": "Lore pyrefiend attack"
+  },
+  {
+    "id": 12865,
+    "name": "Lore pyrefiend summon"
+  },
+  {
+    "id": 12866,
+    "name": "Lore pyrefiend superheat npc anim"
+  },
+  {
+    "id": 12867,
+    "name": "Lore pyrefiend defend"
+  },
+  {
+    "id": 12868,
+    "name": "Lore pyrefiend log ignite"
+  },
+  {
+    "id": 12869,
+    "name": "Lore ravager attack"
+  },
+  {
+    "id": 12870,
+    "name": "Lore ravager death"
+  },
+  {
+    "id": 12871,
+    "name": "Lore ravager defend"
+  },
+  {
+    "id": 12872,
+    "name": "Lore ravager ready"
+  },
+  {
+    "id": 12873,
+    "name": "Lore ravager ready timer"
+  },
+  {
+    "id": 12874,
+    "name": "Lore ravager summon"
+  },
+  {
+    "id": 12875,
+    "name": "Lore ravager walk"
+  },
+  {
+    "id": 12876,
+    "name": "Lore ravager mining"
+  },
+  {
+    "id": 12877,
+    "name": "Lore ravager dig ground"
+  },
+  {
+    "id": 12878,
+    "name": "Lore ravager cast tele"
+  },
+  {
+    "id": 12879,
+    "name": "Lore lobster attack"
+  },
+  {
+    "id": 12880,
+    "name": "Lore lobster death"
+  },
+  {
+    "id": 12881,
+    "name": "Lore lobster defend"
+  },
+  {
+    "id": 12882,
+    "name": "Lore lobster walk"
+  },
+  {
+    "id": 12883,
+    "name": "Lore lobster ready and extra"
+  },
+  {
+    "id": 12884,
+    "name": "Lore lobster fishing"
+  },
+  {
+    "id": 12885,
+    "name": "Lore lobster crushing claw"
+  },
+  {
+    "id": 12886,
+    "name": "Lore lobster summon"
+  },
+  {
+    "id": 12887,
+    "name": "Lore shifter walk"
+  },
+  {
+    "id": 12888,
+    "name": "Lore shifter ready"
+  },
+  {
+    "id": 12889,
+    "name": "Lore shifter ready timer"
+  },
+  {
+    "id": 12890,
+    "name": "Lore shifter attack"
+  },
+  {
+    "id": 12891,
+    "name": "Lore shifter defend"
+  },
+  {
+    "id": 12892,
+    "name": "Lore shifter death"
+  },
+  {
+    "id": 12893,
+    "name": "Lore shifter summon"
+  },
+  {
+    "id": 12894,
+    "name": "Lore shifter teleport special"
+  },
+  {
+    "id": 12895,
+    "name": "Lore snail summon"
+  },
+  {
+    "id": 12896,
+    "name": "Lore snail ready timer"
+  },
+  {
+    "id": 12897,
+    "name": "Lore snail attack"
+  },
+  {
+    "id": 12898,
+    "name": "Lore snail death"
+  },
+  {
+    "id": 12899,
+    "name": "Lore snail walk"
+  },
+  {
+    "id": 12900,
+    "name": "Lore snail ready and extra"
+  },
+  {
+    "id": 12901,
+    "name": "Lore snail defend"
+  },
+  {
+    "id": 12902,
+    "name": "Lore snail slime attack"
+  },
+  {
+    "id": 12903,
+    "name": "Lore snake attack"
+  },
+  {
+    "id": 12904,
+    "name": "Lore snake death"
+  },
+  {
+    "id": 12905,
+    "name": "Lore snake defend"
+  },
+  {
+    "id": 12906,
+    "name": "Lore snake ready and extra"
+  },
+  {
+    "id": 12907,
+    "name": "Lore snake ready timer"
+  },
+  {
+    "id": 12908,
+    "name": "Lore snake summon"
+  },
+  {
+    "id": 12909,
+    "name": "Lore snake walk"
+  },
+  {
+    "id": 12910,
+    "name": "Lore snake orphedian incubation"
+  },
+  {
+    "id": 12911,
+    "name": "Lore spinner ready"
+  },
+  {
+    "id": 12912,
+    "name": "Lore spinner attack"
+  },
+  {
+    "id": 12913,
+    "name": "Lore spinner defend"
+  },
+  {
+    "id": 12914,
+    "name": "Lore spinner summon"
+  },
+  {
+    "id": 12915,
+    "name": "Lore spinner walk"
+  },
+  {
+    "id": 12916,
+    "name": "Lore spinner death"
+  },
+  {
+    "id": 12917,
+    "name": "Lore spiner heal player"
+  },
+  {
+    "id": 12918,
+    "name": "Lore spinner cast tele"
+  },
+  {
+    "id": 12919,
+    "name": "Lore spinner ready timer"
+  },
+  {
+    "id": 12920,
+    "name": "Lore steel titan attack"
+  },
+  {
+    "id": 12921,
+    "name": "Lore steel titan death"
+  },
+  {
+    "id": 12922,
+    "name": "Lore steel titan defend"
+  },
+  {
+    "id": 12923,
+    "name": "Lore steel titan ready"
+  },
+  {
+    "id": 12924,
+    "name": "Lore steel titan ready timer"
+  },
+  {
+    "id": 12925,
+    "name": "Lore steel titan summon"
+  },
+  {
+    "id": 12926,
+    "name": "Lore steel titan walk"
+  },
+  {
+    "id": 12927,
+    "name": "Lore steel titan steel gaze"
+  },
+  {
+    "id": 12928,
+    "name": "Lore titan steel of legend"
+  },
+  {
+    "id": 12929,
+    "name": "Lore stork ready"
+  },
+  {
+    "id": 12930,
+    "name": "Lore stork walk"
+  },
+  {
+    "id": 12931,
+    "name": "Lore stork ready timer"
+  },
+  {
+    "id": 12932,
+    "name": "Lore stork harpoon"
+  },
+  {
+    "id": 12933,
+    "name": "Lore stork special"
+  },
+  {
+    "id": 12934,
+    "name": "Lore stork summon"
+  },
+  {
+    "id": 12935,
+    "name": "Lore stranger plant ready"
+  },
+  {
+    "id": 12936,
+    "name": "Lore stranger plant defend"
+  },
+  {
+    "id": 12937,
+    "name": "Lore stranger plant ready timer"
+  },
+  {
+    "id": 12938,
+    "name": "Lore stranger plant walk"
+  },
+  {
+    "id": 12939,
+    "name": "Lore stranger plant attack"
+  },
+  {
+    "id": 12940,
+    "name": "Lore stranger plant death"
+  },
+  {
+    "id": 12941,
+    "name": "Lore stranger plant farming"
+  },
+  {
+    "id": 12942,
+    "name": "Lore stranger plant poison blast"
+  },
+  {
+    "id": 12943,
+    "name": "Lore stranger plant special"
+  },
+  {
+    "id": 12944,
+    "name": "Lore stranger plant summon"
+  },
+  {
+    "id": 12945,
+    "name": "Lore swamp titan walk"
+  },
+  {
+    "id": 12946,
+    "name": "Lore swamp titan ready"
+  },
+  {
+    "id": 12947,
+    "name": "Lore swamp titan ready extra"
+  },
+  {
+    "id": 12948,
+    "name": "Lore swamp titan attack"
+  },
+  {
+    "id": 12949,
+    "name": "Lore swamp titan range attack"
+  },
+  {
+    "id": 12950,
+    "name": "Lore swamp titan defend"
+  },
+  {
+    "id": 12951,
+    "name": "Lore swamp titan summon"
+  },
+  {
+    "id": 12952,
+    "name": "Lore swamp titan death"
+  },
+  {
+    "id": 12953,
+    "name": "Lore torcher ready"
+  },
+  {
+    "id": 12954,
+    "name": "Lore torcher walk"
+  },
+  {
+    "id": 12955,
+    "name": "Lore torcher attack"
+  },
+  {
+    "id": 12956,
+    "name": "Lore torcher death"
+  },
+  {
+    "id": 12957,
+    "name": "Lore torcher defend"
+  },
+  {
+    "id": 12958,
+    "name": "Lore torcher summon"
+  },
+  {
+    "id": 12959,
+    "name": "Lore torcher ready timer"
+  },
+  {
+    "id": 12960,
+    "name": "Lore torcher special"
+  },
+  {
+    "id": 12961,
+    "name": "Lore turnip walk"
+  },
+  {
+    "id": 12962,
+    "name": "Lore turnip ready"
+  },
+  {
+    "id": 12963,
+    "name": "Lore turnip ready timer"
+  },
+  {
+    "id": 12964,
+    "name": "Lore turnip attack"
+  },
+  {
+    "id": 12965,
+    "name": "Lore turnip defend"
+  },
+  {
+    "id": 12966,
+    "name": "Lore turnip death"
+  },
+  {
+    "id": 12967,
+    "name": "Lore turnip firebreath attack"
+  },
+  {
+    "id": 12968,
+    "name": "Lore turnip summon"
+  },
+  {
+    "id": 12969,
+    "name": "Lore firebat ready"
+  },
+  {
+    "id": 12970,
+    "name": "Lore firebat walk"
+  },
+  {
+    "id": 12971,
+    "name": "Lore firebat attack"
+  },
+  {
+    "id": 12972,
+    "name": "Lore firebat death"
+  },
+  {
+    "id": 12973,
+    "name": "Lore firebat defend"
+  },
+  {
+    "id": 12974,
+    "name": "Lore firebat summon"
+  },
+  {
+    "id": 12975,
+    "name": "Lore turtle walk"
+  },
+  {
+    "id": 12976,
+    "name": "Lore turtle summon"
+  },
+  {
+    "id": 12977,
+    "name": "Lore turtle ready timer"
+  },
+  {
+    "id": 12978,
+    "name": "Lore turtle ready"
+  },
+  {
+    "id": 12979,
+    "name": "Lore turtle death"
+  },
+  {
+    "id": 12980,
+    "name": "Lore turtle attack"
+  },
+  {
+    "id": 12981,
+    "name": "Lore turtle defend"
+  },
+  {
+    "id": 12982,
+    "name": "Lore turtle adaman shell npc spot"
+  },
+  {
+    "id": 12983,
+    "name": "Lore wolpertinger ready"
+  },
+  {
+    "id": 12984,
+    "name": "Lore wolpertinger walk"
+  },
+  {
+    "id": 12985,
+    "name": "Lore wolpertinger attack"
+  },
+  {
+    "id": 12986,
+    "name": "Lore wolpertinger defend"
+  },
+  {
+    "id": 12987,
+    "name": "Lore wolpertinger death"
+  },
+  {
+    "id": 12988,
+    "name": "Lore wolpertinger ready timer"
+  },
+  {
+    "id": 12989,
+    "name": "Lore wolpertinger power up"
+  },
+  {
+    "id": 12990,
+    "name": "Lore wolpertinger summon"
+  },
+  {
+    "id": 12991,
+    "name": "Lore chick ready"
+  },
+  {
+    "id": 12992,
+    "name": "Lore chick walk"
+  },
+  {
+    "id": 12993,
+    "name": "Lore vulture walk"
+  },
+  {
+    "id": 12994,
+    "name": "Lore vulture ready"
+  },
+  {
+    "id": 12995,
+    "name": "Lore vulture ready timer"
+  },
+  {
+    "id": 12996,
+    "name": "Lore penguin walk adult"
+  },
+  {
+    "id": 12997,
+    "name": "Lore penguin ready adult"
+  },
+  {
+    "id": 12998,
+    "name": "Lore penguin ready adult variation"
+  },
+  {
+    "id": 12999,
+    "name": "Lore penguin walk adult ice slide"
+  },
+  {
+    "id": 13000,
+    "name": "Lore penguin walk baby"
+  },
+  {
+    "id": 13001,
+    "name": "Lore penguin ready baby"
+  },
+  {
+    "id": 13002,
+    "name": "Lore new world monkey walk"
+  },
+  {
+    "id": 13003,
+    "name": "Lore new world monkey ready"
+  },
+  {
+    "id": 13004,
+    "name": "Lore new world monkey ready timer"
+  },
+  {
+    "id": 13005,
+    "name": "Lore new world monkey baby ready"
+  },
+  {
+    "id": 13006,
+    "name": "Lore new world monkey baby ready timer"
+  },
+  {
+    "id": 13007,
+    "name": "Lore new world monkey baby walk"
+  },
+  {
+    "id": 13008,
+    "name": "Lore new world monkey approach"
+  },
+  {
+    "id": 13009,
+    "name": "Lore new world monkey evade"
+  },
+  {
+    "id": 13010,
+    "name": "Lore gecko attack a"
+  },
+  {
+    "id": 13011,
+    "name": "Lore gecko attack b"
+  },
+  {
+    "id": 13012,
+    "name": "Lore gecko attack c"
+  },
+  {
+    "id": 13013,
+    "name": "Lore gecko defend a"
+  },
+  {
+    "id": 13014,
+    "name": "Lore gecko defend b"
+  },
+  {
+    "id": 13015,
+    "name": "Lore gecko defend c"
+  },
+  {
+    "id": 13016,
+    "name": "Lore gecko walk"
+  },
+  {
+    "id": 13017,
+    "name": "Lore gecko walk baby"
+  },
+  {
+    "id": 13018,
+    "name": "Lore gecko ready timer"
+  },
+  {
+    "id": 13019,
+    "name": "Lore gecko ready"
+  },
+  {
+    "id": 13020,
+    "name": "Lore gecko trap evade"
+  },
+  {
+    "id": 13021,
+    "name": "Lore lizard trap approach"
+  },
+  {
+    "id": 13022,
+    "name": "Lore chameleon ready"
+  },
+  {
+    "id": 13023,
+    "name": "Lore chameleon ready timer"
+  },
+  {
+    "id": 13024,
+    "name": "Lore chameleon walk"
+  },
+  {
+    "id": 13025,
+    "name": "Roots giant ants walk"
+  },
+  {
+    "id": 13026,
+    "name": "Roots giant ants ready"
+  },
+  {
+    "id": 13027,
+    "name": "Giant ants attack"
+  },
+  {
+    "id": 13028,
+    "name": "Giant ants death"
+  },
+  {
+    "id": 13029,
+    "name": "Giant ants defend"
+  },
+  {
+    "id": 13030,
+    "name": "Roots giant wasp ready walk"
+  },
+  {
+    "id": 13031,
+    "name": "Roots giant wasp attack"
+  },
+  {
+    "id": 13032,
+    "name": "Roots giant wasp defend"
+  },
+  {
+    "id": 13033,
+    "name": "Roots giant wasp death"
+  },
+  {
+    "id": 13034,
+    "name": "Gren eating pawya"
+  },
+  {
+    "id": 13035,
+    "name": "Gren attack"
+  },
+  {
+    "id": 13036,
+    "name": "Gren ball ready"
+  },
+  {
+    "id": 13037,
+    "name": "Gren curl ball"
+  },
+  {
+    "id": 13038,
+    "name": "Gren evade trap"
+  },
+  {
+    "id": 13039,
+    "name": "Gren ready"
+  },
+  {
+    "id": 13040,
+    "name": "Gren uncurl ball"
+  },
+  {
+    "id": 13041,
+    "name": "Gren walk"
+  },
+  {
+    "id": 13042,
+    "name": "Gren approach trap"
+  },
+  {
+    "id": 13043,
+    "name": "Pawya walk"
+  },
+  {
+    "id": 13044,
+    "name": "Pawya ready"
+  },
+  {
+    "id": 13045,
+    "name": "Pawya defend"
+  },
+  {
+    "id": 13046,
+    "name": "Pawya evade trap"
+  },
+  {
+    "id": 13047,
+    "name": "Pawya death"
+  },
+  {
+    "id": 13048,
+    "name": "Pawya burrowing out"
+  },
+  {
+    "id": 13049,
+    "name": "Pawya burrowing"
+  },
+  {
+    "id": 13050,
+    "name": "Pawya approach trap"
+  },
+  {
+    "id": 13051,
+    "name": "Afr platypus baby death"
+  },
+  {
+    "id": 13052,
+    "name": "Afr platypus baby defend"
+  },
+  {
+    "id": 13053,
+    "name": "Afr platypus baby walk"
+  },
+  {
+    "id": 13054,
+    "name": "Afr platypus death"
+  },
+  {
+    "id": 13055,
+    "name": "Afr platypus defend"
+  },
+  {
+    "id": 13056,
+    "name": "Afr platypus ready and extra"
+  },
+  {
+    "id": 13057,
+    "name": "Afr platypus walk"
+  },
+  {
+    "id": 13058,
+    "name": "Afr platypus attack"
+  },
+  {
+    "id": 13059,
+    "name": "Wolf wolpertinger ready"
+  },
+  {
+    "id": 13060,
+    "name": "Wolf wolpertinger walk"
+  },
+  {
+    "id": 13061,
+    "name": "Wolf giant wolpertinger scared"
+  },
+  {
+    "id": 13062,
+    "name": "Wolf giant wolpertinger desummoned"
+  },
+  {
+    "id": 13063,
+    "name": "Lore cockroach attack a"
+  },
+  {
+    "id": 13064,
+    "name": "Lore cockroach attack b"
+  },
+  {
+    "id": 13065,
+    "name": "Lore cockroach defend a"
+  },
+  {
+    "id": 13066,
+    "name": "Lore cockroach walk"
+  },
+  {
+    "id": 13067,
+    "name": "Lore cockroach ready"
+  },
+  {
+    "id": 13068,
+    "name": "Lore cockroach ready timer"
+  },
+  {
+    "id": 13069,
+    "name": "Scab crocodile walk"
+  },
+  {
+    "id": 13070,
+    "name": "Scab crocodile attack"
+  },
+  {
+    "id": 13071,
+    "name": "Scab crocodile ready"
+  },
+  {
+    "id": 13072,
+    "name": "Scab crocodile defend"
+  },
+  {
+    "id": 13073,
+    "name": "Scab crocodile death"
+  },
+  {
+    "id": 13074,
+    "name": "Skillcapes sailing player anim"
+  },
+  {
+    "id": 13075,
+    "name": "Skillcapes sailing spotanim"
+  },
+  {
+    "id": 13076,
+    "name": "Vfx sailing skillcape"
+  },
+  {
+    "id": 13077,
+    "name": "Human skillcape sailing"
+  },
+  {
+    "id": 13078,
+    "name": "Human pickupfloor and wave"
+  },
+  {
+    "id": 13079,
+    "name": "Human play with pet fish mayor"
+  },
+  {
+    "id": 13080,
+    "name": "Human feed pet fish mayor"
+  },
+  {
+    "id": 13081,
+    "name": "Human talk to pet fish mayor"
+  },
+  {
+    "id": 13082,
+    "name": "Vfx sailing monodon ranged attack impact 01"
+  },
+  {
+    "id": 13083,
+    "name": "Sailing intro human overboard"
+  },
+  {
+    "id": 13084,
+    "name": "Sailing intro anne push"
+  },
+  {
+    "id": 13085,
+    "name": "Rocko karamthulu walk"
+  },
+  {
+    "id": 13086,
+    "name": "Rocko karamthulu ready"
+  },
+  {
+    "id": 13087,
+    "name": "Rocko karamthulu key walk"
+  },
+  {
+    "id": 13088,
+    "name": "Rocko karamthulu key ready"
+  },
+  {
+    "id": 13089,
+    "name": "Rocko waves"
+  },
+  {
+    "id": 13090,
+    "name": "Rocko customs officer throw stew spot"
+  },
+  {
+    "id": 13091,
+    "name": "Rocko ralph multinpc anim"
+  },
+  {
+    "id": 13092,
+    "name": "Rocko silt spot"
+  },
+  {
+    "id": 13093,
+    "name": "Rocko wreckage spot"
+  },
+  {
+    "id": 13094,
+    "name": "Rocko player dive spot"
+  },
+  {
+    "id": 13095,
+    "name": "Rocko smash bottle spot"
+  },
+  {
+    "id": 13096,
+    "name": "Rocko seagull on rock"
+  },
+  {
+    "id": 13097,
+    "name": "Rocko hoovered seagull spot"
+  },
+  {
+    "id": 13098,
+    "name": "Rocko ex parrot recharge spot"
+  },
+  {
+    "id": 13099,
+    "name": "Rocko travelling canball"
+  },
+  {
+    "id": 13100,
+    "name": "Rocko seagull freak out spot"
+  },
+  {
+    "id": 13101,
+    "name": "Rocko quill spot"
+  },
+  {
+    "id": 13102,
+    "name": "Rocko hoover interface"
+  },
+  {
+    "id": 13103,
+    "name": "Rocko customs officer snooze"
+  },
+  {
+    "id": 13104,
+    "name": "Rocko brass hand ready"
+  },
+  {
+    "id": 13105,
+    "name": "Rocko fifty ships mufassah ready"
+  },
+  {
+    "id": 13106,
+    "name": "Rocko fifty ships mufassah walk"
+  },
+  {
+    "id": 13107,
+    "name": "Rocko player tin cup on door"
+  },
+  {
+    "id": 13108,
+    "name": "Rocko rabid jack lift chest pt a"
+  },
+  {
+    "id": 13109,
+    "name": "Rocko rabid jack lift chest pt b"
+  },
+  {
+    "id": 13110,
+    "name": "Rocko customs officer throw stew"
+  },
+  {
+    "id": 13111,
+    "name": "Rocko player scoop silt"
+  },
+  {
+    "id": 13112,
+    "name": "Rocko player crowbar wreckage"
+  },
+  {
+    "id": 13113,
+    "name": "Rocko human walk with files"
+  },
+  {
+    "id": 13114,
+    "name": "Rocko human walk b with files"
+  },
+  {
+    "id": 13115,
+    "name": "Rocko human ready with files"
+  },
+  {
+    "id": 13116,
+    "name": "Rocko human walk left with files"
+  },
+  {
+    "id": 13117,
+    "name": "Rocko human walk right with files"
+  },
+  {
+    "id": 13118,
+    "name": "Rocko player dive"
+  },
+  {
+    "id": 13119,
+    "name": "Rocko player smash bottle"
+  },
+  {
+    "id": 13120,
+    "name": "Rocko player charcoal rub"
+  },
+  {
+    "id": 13121,
+    "name": "Rocko player tap pipe"
+  },
+  {
+    "id": 13122,
+    "name": "Rocko player hoovers bird start"
+  },
+  {
+    "id": 13123,
+    "name": "Rocko player hoovers bird end"
+  },
+  {
+    "id": 13124,
+    "name": "Rocko player exparrot recharge"
+  },
+  {
+    "id": 13125,
+    "name": "Rocko rabid jack treasure walk"
+  },
+  {
+    "id": 13126,
+    "name": "Rocko rabid jack treasure ready"
+  },
+  {
+    "id": 13127,
+    "name": "Rocko rabid jack railing"
+  },
+  {
+    "id": 13128,
+    "name": "Rocko rabid jack impact"
+  },
+  {
+    "id": 13129,
+    "name": "Rocko player wakes deafguy"
+  },
+  {
+    "id": 13130,
+    "name": "Rocko pirate sword attack one"
+  },
+  {
+    "id": 13131,
+    "name": "Trr slash"
+  },
+  {
+    "id": 13132,
+    "name": "Npc quetzal idle 01 silent"
+  },
+  {
+    "id": 13133,
+    "name": "Akd dark piscarilius hand grasp long"
+  },
+  {
+    "id": 13134,
+    "name": "Tob shadow projectile idle"
+  },
+  {
+    "id": 13135,
+    "name": "Verzik phase3 idle pet"
+  },
+  {
+    "id": 13136,
+    "name": "Human cut food"
+  },
+  {
+    "id": 13137,
+    "name": "Human cut food quick"
+  },
+  {
+    "id": 13138,
+    "name": "Human spinningwheel 90"
+  },
+  {
+    "id": 13139,
+    "name": "Human spinningwheel 60"
+  },
+  {
+    "id": 13140,
+    "name": "Fsb pool idle rotated"
+  },
+  {
+    "id": 13141,
+    "name": "Sailing lightning cloud attack"
+  },
+  {
+    "id": 13142,
+    "name": "Camphor blowpipe attack"
+  },
+  {
+    "id": 13143,
+    "name": "Ironwood blowpipe attack"
+  },
+  {
+    "id": 13144,
+    "name": "Rosewood blowpipe attack"
+  },
+  {
+    "id": 13145,
+    "name": "Rosewood blowpipe special attack"
+  },
+  {
+    "id": 13146,
+    "name": "Hunting crab01 trap01 idle"
+  },
+  {
+    "id": 13147,
+    "name": "Hunting crab01 trap01 triggered"
+  },
+  {
+    "id": 13148,
+    "name": "Hunting crab01 trap01 triggered loop"
+  },
+  {
+    "id": 13149,
+    "name": "Hunting searching bushes norestart"
+  },
+  {
+    "id": 13150,
+    "name": "Human fletching huntingbolts chisel single quick"
+  },
+  {
+    "id": 13151,
+    "name": "Npc mining"
+  },
+  {
+    "id": 13152,
+    "name": "Sailing bt telegraph tier1"
+  },
+  {
+    "id": 13153,
+    "name": "Sailing bt telegraph tier2"
+  },
+  {
+    "id": 13154,
+    "name": "Sailing bt telegraph tier3"
+  },
+  {
+    "id": 13155,
+    "name": "Sailing bt rapids idle"
+  },
+  {
+    "id": 13156,
+    "name": "Sailing bt rapids speed boost"
+  },
+  {
+    "id": 13157,
+    "name": "Sailing bt crate proj"
+  },
+  {
+    "id": 13158,
+    "name": "Sailing bt vfx water rapids01 idle01"
+  },
+  {
+    "id": 13159,
+    "name": "Sailing bt vfx water rapids01 gentle01"
+  },
+  {
+    "id": 13160,
+    "name": "Sailing bt vfx water rapids01 strong01"
+  },
+  {
+    "id": 13161,
+    "name": "Sailing bt vfx water rapids01 powerful01"
+  },
+  {
+    "id": 13162,
+    "name": "Sailing bt vfx water rapids01 deadly01"
+  },
+  {
+    "id": 13163,
+    "name": "Bt crystal mote idle 01"
+  },
+  {
+    "id": 13164,
+    "name": "Bt vfx crystal mote idle 01"
+  },
+  {
+    "id": 13165,
+    "name": "Bt sailing boats helm kandarin 1x3 crystal spawn vfx"
+  },
+  {
+    "id": 13166,
+    "name": "Bt sailing boats helm kandarin 2x5 crystal spawn vfx"
+  },
+  {
+    "id": 13167,
+    "name": "Bt sailing boats helm kandarin 3x8 crystal spawn vfx"
+  },
+  {
+    "id": 13168,
+    "name": "Bt crystal resonance attack 01"
+  },
+  {
+    "id": 13169,
+    "name": "Bt crystal resonance attack 01 nosound"
+  },
+  {
+    "id": 13170,
+    "name": "Jubbly jive rock idle 01"
+  },
+  {
+    "id": 13171,
+    "name": "Sailing boat trial flag 2x5 idle 01"
+  },
+  {
+    "id": 13172,
+    "name": "Sailing boat trial flag 2x5 idle 02"
+  },
+  {
+    "id": 13173,
+    "name": "Sailing bt toad proj travel"
+  },
+  {
+    "id": 13174,
+    "name": "Sailing boats crystal extractor kandarin inactive 01"
+  },
+  {
+    "id": 13175,
+    "name": "Sailing boats crystal extractor kandarin active 01"
+  },
+  {
+    "id": 13176,
+    "name": "Sailing human crystal extractor kandarin activate 01"
+  },
+  {
+    "id": 13177,
+    "name": "Sailing boats crystal extractor kandarin extracted 01"
+  },
+  {
+    "id": 13178,
+    "name": "Sailing human crystal extractor kandarin collect 01"
+  },
+  {
+    "id": 13179,
+    "name": "Sailing windgust01"
+  },
+  {
+    "id": 13180,
+    "name": "Npc clam01 spawn01"
+  },
+  {
+    "id": 13181,
+    "name": "Npc clam01 despawn01"
+  },
+  {
+    "id": 13182,
+    "name": "Npc clam01 despawn02"
+  },
+  {
+    "id": 13183,
+    "name": "Npc clam01 close"
+  },
+  {
+    "id": 13184,
+    "name": "Npc clam01 closed idle"
+  },
+  {
+    "id": 13185,
+    "name": "Npc clam01 closed spawn"
+  },
+  {
+    "id": 13186,
+    "name": "Npc clam01 closed despawn"
+  },
+  {
+    "id": 13187,
+    "name": "Npc clam01 open despawn"
+  },
+  {
+    "id": 13188,
+    "name": "Npc clam01 open"
+  },
+  {
+    "id": 13189,
+    "name": "Npc clam01 open idle"
+  },
+  {
+    "id": 13190,
+    "name": "Mermaid idle"
+  },
+  {
+    "id": 13191,
+    "name": "Mermaid dive"
+  },
+  {
+    "id": 13192,
+    "name": "Charting generic angler lure idle"
+  },
+  {
+    "id": 13193,
+    "name": "Charting generic searock idle"
+  },
+  {
+    "id": 13194,
+    "name": "Specular spyglass loc"
+  },
+  {
+    "id": 13195,
+    "name": "Specular spyglass loc alternate"
+  },
+  {
+    "id": 13196,
+    "name": "Current ripple loc"
+  },
+  {
+    "id": 13197,
+    "name": "Current ripple loc 01"
+  },
+  {
+    "id": 13198,
+    "name": "Sailing shark idle01"
+  },
+  {
+    "id": 13199,
+    "name": "Sailing shark attack01"
+  },
+  {
+    "id": 13200,
+    "name": "Sailing shark death01"
+  },
+  {
+    "id": 13201,
+    "name": "Sailing monodon idle01"
+  },
+  {
+    "id": 13202,
+    "name": "Sailing monodon attack01"
+  },
+  {
+    "id": 13203,
+    "name": "Sailing monodon attack02"
+  },
+  {
+    "id": 13204,
+    "name": "Sailing shark death loop01"
+  },
+  {
+    "id": 13205,
+    "name": "Sailing monodon death01"
+  },
+  {
+    "id": 13206,
+    "name": "Sailing monodon death loop01"
+  },
+  {
+    "id": 13207,
+    "name": "Vfx sailing monodon attack02"
+  },
+  {
+    "id": 13208,
+    "name": "Vfx sailing monodon attack02 projectile"
+  },
+  {
+    "id": 13209,
+    "name": "Sailing orca idle01"
+  },
+  {
+    "id": 13210,
+    "name": "Sailing orca attack01"
+  },
+  {
+    "id": 13211,
+    "name": "Sailing orca attack02"
+  },
+  {
+    "id": 13212,
+    "name": "Sailing orca death loop01"
+  },
+  {
+    "id": 13213,
+    "name": "Sailing orca death01"
+  },
+  {
+    "id": 13214,
+    "name": "Npc kraken01 idle01"
+  },
+  {
+    "id": 13215,
+    "name": "Npc kraken01 walk01"
+  },
+  {
+    "id": 13216,
+    "name": "Npc kraken01 walk02"
+  },
+  {
+    "id": 13217,
+    "name": "Npc kraken01 melee01"
+  },
+  {
+    "id": 13218,
+    "name": "Npc kraken01 death01 loop"
+  },
+  {
+    "id": 13219,
+    "name": "Npc kraken01 death01"
+  },
+  {
+    "id": 13220,
+    "name": "Sailing dolphin idle01"
+  },
+  {
+    "id": 13221,
+    "name": "Sailing dolphin attack01"
+  },
+  {
+    "id": 13222,
+    "name": "Sailing dolphin attack02"
+  },
+  {
+    "id": 13223,
+    "name": "Sailing dolphin death01"
+  },
+  {
+    "id": 13224,
+    "name": "Sailing dolphin death loop01"
+  },
+  {
+    "id": 13225,
+    "name": "Npc kraken01 magic01"
+  },
+  {
+    "id": 13226,
+    "name": "Vfx kraken01 magic01"
+  },
+  {
+    "id": 13227,
+    "name": "Vfx kraken01 magic01 projectile"
+  },
+  {
+    "id": 13228,
+    "name": "Npc albatross flying idle 01"
+  },
+  {
+    "id": 13229,
+    "name": "Npc albatross flying attack 01"
+  },
+  {
+    "id": 13230,
+    "name": "Npc albatross flying death 01"
+  },
+  {
+    "id": 13231,
+    "name": "Npc albatross flying death 01 loop"
+  },
+  {
+    "id": 13232,
+    "name": "Npc osprey flying idle 01"
+  },
+  {
+    "id": 13233,
+    "name": "Npc osprey flying attack 01"
+  },
+  {
+    "id": 13234,
+    "name": "Npc osprey flying death 01"
+  },
+  {
+    "id": 13235,
+    "name": "Npc osprey flying death 01 loop"
+  },
+  {
+    "id": 13236,
+    "name": "Npc tern flying idle 01"
+  },
+  {
+    "id": 13237,
+    "name": "Npc tern flying attack 01"
+  },
+  {
+    "id": 13238,
+    "name": "Npc tern flying death 01"
+  },
+  {
+    "id": 13239,
+    "name": "Npc tern flying death 01 loop"
+  },
+  {
+    "id": 13240,
+    "name": "Npc frigatebird flying idle 01"
+  },
+  {
+    "id": 13241,
+    "name": "Npc frigatebird flying attack 01"
+  },
+  {
+    "id": 13242,
+    "name": "Npc frigatebird flying death 01"
+  },
+  {
+    "id": 13243,
+    "name": "Npc frigatebird flying death 01 loop"
+  },
+  {
+    "id": 13244,
+    "name": "Baby sea kraken death"
+  },
+  {
+    "id": 13245,
+    "name": "Npc baby sea kraken death loop"
+  },
+  {
+    "id": 13246,
+    "name": "Npc sea mogre idle01"
+  },
+  {
+    "id": 13247,
+    "name": "Npc sea mogre swimming01"
+  },
+  {
+    "id": 13248,
+    "name": "Npc sea mogre attack melee01"
+  },
+  {
+    "id": 13249,
+    "name": "Npc sea mogre death float"
+  },
+  {
+    "id": 13250,
+    "name": "Npc sea mogre death loop"
+  },
+  {
+    "id": 13251,
+    "name": "Npc sea mogre death sink"
+  },
+  {
+    "id": 13252,
+    "name": "Human repairkit"
+  },
+  {
+    "id": 13253,
+    "name": "Npc stingray01 idle01"
+  },
+  {
+    "id": 13254,
+    "name": "Npc stingray01 walk01"
+  },
+  {
+    "id": 13255,
+    "name": "Npc stingray01 attack01"
+  },
+  {
+    "id": 13256,
+    "name": "Npc stingray01 death01"
+  },
+  {
+    "id": 13257,
+    "name": "Npc stingray01 death loop01"
+  },
+  {
+    "id": 13258,
+    "name": "Npc butterflyray01 idle01"
+  },
+  {
+    "id": 13259,
+    "name": "Npc butterflyray01 walk01"
+  },
+  {
+    "id": 13260,
+    "name": "Npc butterflyray01 attack01"
+  },
+  {
+    "id": 13261,
+    "name": "Npc butterflyray01 death01"
+  },
+  {
+    "id": 13262,
+    "name": "Npc butterflyray01 death loop01"
+  },
+  {
+    "id": 13263,
+    "name": "Npc mantaray01 idle01"
+  },
+  {
+    "id": 13264,
+    "name": "Npc mantaray01 walk01"
+  },
+  {
+    "id": 13265,
+    "name": "Npc mantaray01 attack01"
+  },
+  {
+    "id": 13266,
+    "name": "Npc mantaray01 death01"
+  },
+  {
+    "id": 13267,
+    "name": "Npc mantaray01 death loop01"
+  },
+  {
+    "id": 13268,
+    "name": "Npc eagleray01 idle01"
+  },
+  {
+    "id": 13269,
+    "name": "Npc eagleray01 walk01"
+  },
+  {
+    "id": 13270,
+    "name": "Npc eagleray01 attack01"
+  },
+  {
+    "id": 13271,
+    "name": "Npc eagleray01 death01"
+  },
+  {
+    "id": 13272,
+    "name": "Npc eagleray01 death loop01"
+  },
+  {
+    "id": 13273,
+    "name": "Sailing human loot net cast 01"
+  },
+  {
+    "id": 13274,
+    "name": "Sailing human loot net cast spotanim 01"
+  },
+  {
+    "id": 13275,
+    "name": "Sailing human loot net cast projanim 01"
+  },
+  {
+    "id": 13276,
+    "name": "Sailing human loot net cast impactanim 01"
+  },
+  {
+    "id": 13277,
+    "name": "Sailing npc loot net spotanim 01"
+  },
+  {
+    "id": 13278,
+    "name": "Sailing npc loot net spotanim despawn 01"
+  },
+  {
+    "id": 13279,
+    "name": "Sailing human loot net cast impactanim 02"
+  },
+  {
+    "id": 13280,
+    "name": "Sailing npc loot net spotanim 02"
+  },
+  {
+    "id": 13281,
+    "name": "Sailing npc loot net spotanim despawn 02"
+  },
+  {
+    "id": 13282,
+    "name": "Sailing steering tiller"
+  },
+  {
+    "id": 13283,
+    "name": "Sailing steering wheel"
+  },
+  {
+    "id": 13284,
+    "name": "Sailing helm wheel large01 idle01"
+  },
+  {
+    "id": 13285,
+    "name": "Sailing helm wheel large01 idle02"
+  },
+  {
+    "id": 13286,
+    "name": "Sailing boat sail kandarin 2x5 human trim"
+  },
+  {
+    "id": 13287,
+    "name": "Sailing sail01 small01 idle01"
+  },
+  {
+    "id": 13288,
+    "name": "Sailing sail01 large01 idle01"
+  },
+  {
+    "id": 13289,
+    "name": "Sailing sail01 small01 walk01"
+  },
+  {
+    "id": 13290,
+    "name": "Sailing sail01 large01 walk01"
+  },
+  {
+    "id": 13291,
+    "name": "Sailing sail01 small01 luffing01"
+  },
+  {
+    "id": 13292,
+    "name": "Sailing sail01 large01 luffing01"
+  },
+  {
+    "id": 13293,
+    "name": "Sailing sail01 small01 luffing01 reset01"
+  },
+  {
+    "id": 13294,
+    "name": "Sailing sail01 large01 luffing01 reset01"
+  },
+  {
+    "id": 13295,
+    "name": "Sailing lamp01 large01 idle01"
+  },
+  {
+    "id": 13296,
+    "name": "Sailing lamp01 large01 idle02"
+  },
+  {
+    "id": 13297,
+    "name": "Human sailing sail01 small01 luffing01 reset01"
+  },
+  {
+    "id": 13298,
+    "name": "Human sailing sail01 large01 luffing01 reset01"
+  },
+  {
+    "id": 13299,
+    "name": "Human sailing alpha helm raft01 trim sails03"
+  },
+  {
+    "id": 13300,
+    "name": "Sailing alpha helm raft01 trim sails03"
+  },
+  {
+    "id": 13301,
+    "name": "Human sailing charting telescope01"
+  },
+  {
+    "id": 13302,
+    "name": "Human sailing charting writing01"
+  },
+  {
+    "id": 13303,
+    "name": "Human sailing charting troll01"
+  },
+  {
+    "id": 13304,
+    "name": "Human sailing charting duck pickup01"
+  },
+  {
+    "id": 13305,
+    "name": "Human sailing charting duck place01"
+  },
+  {
+    "id": 13306,
+    "name": "Sailing boats brazier kandarin 1x3 idle 01"
+  },
+  {
+    "id": 13307,
+    "name": "Sailing boats brazier kandarin 2x5 idle 01"
+  },
+  {
+    "id": 13308,
+    "name": "Sailing boats lantern kandarin 1x3 idle01"
+  },
+  {
+    "id": 13309,
+    "name": "Sailing boats lantern kandarin 2x5 idle01"
+  },
+  {
+    "id": 13310,
+    "name": "Human sailing anchor01 small01 drop01"
+  },
+  {
+    "id": 13311,
+    "name": "Sailing facilities anchor01 small01 drop01"
+  },
+  {
+    "id": 13312,
+    "name": "Sailing facilities anchor01 small01 pull01"
+  },
+  {
+    "id": 13313,
+    "name": "Sailing facilities anchor01 small01 active01"
+  },
+  {
+    "id": 13314,
+    "name": "Sailing facilities anchor01 small01 inactive01"
+  },
+  {
+    "id": 13315,
+    "name": "Sailing facilities anchor01 large01 drop01"
+  },
+  {
+    "id": 13316,
+    "name": "Sailing facilities anchor01 large01 pull01"
+  },
+  {
+    "id": 13317,
+    "name": "Human sailing anchor01 large01 pull01"
+  },
+  {
+    "id": 13318,
+    "name": "Human sailing anchor01 small01 pull01"
+  },
+  {
+    "id": 13319,
+    "name": "Sailing facilities anchor01 large01 active01"
+  },
+  {
+    "id": 13320,
+    "name": "Sailing facilities anchor01 large01 inactive01"
+  },
+  {
+    "id": 13321,
+    "name": "Sailing cannon01 small01 idle01"
+  },
+  {
+    "id": 13322,
+    "name": "Sailing cannon01 small01 idle02"
+  },
+  {
+    "id": 13323,
+    "name": "Sailing cannon01 small01 attack01"
+  },
+  {
+    "id": 13324,
+    "name": "Sailing cannon01 small01 idle03"
+  },
+  {
+    "id": 13325,
+    "name": "Human sailing cannon01 small01 engage01"
+  },
+  {
+    "id": 13326,
+    "name": "Human sailing cannon01 small01 attack01"
+  },
+  {
+    "id": 13327,
+    "name": "Human sailing cannon01 small01 idle01"
+  },
+  {
+    "id": 13328,
+    "name": "Vfx sailing cannon01 small01 attack01"
+  },
+  {
+    "id": 13329,
+    "name": "Vfx sailing cannon01 small01 attack02"
+  },
+  {
+    "id": 13330,
+    "name": "Vfx sailing cannon01 small01 attack03"
+  },
+  {
+    "id": 13331,
+    "name": "Vfx sailing cannon01 small01 attack04"
+  },
+  {
+    "id": 13332,
+    "name": "Vfx sailing cannon01 small01 proj01"
+  },
+  {
+    "id": 13333,
+    "name": "Vfx sailing cannon01 small01 impact01"
+  },
+  {
+    "id": 13334,
+    "name": "Sailing alpha helm raft01 inactive01"
+  },
+  {
+    "id": 13335,
+    "name": "Sailing alpha helm raft01 active01"
+  },
+  {
+    "id": 13336,
+    "name": "Sailing alpha helm raft01 active01 loop"
+  },
+  {
+    "id": 13337,
+    "name": "Sailing alpha helm raft01 trim sails01"
+  },
+  {
+    "id": 13338,
+    "name": "Sailing alpha helm raft01 trim sails01 loop"
+  },
+  {
+    "id": 13339,
+    "name": "Sailing alpha helm raft01 trim sails02"
+  },
+  {
+    "id": 13340,
+    "name": "Human sailing alpha helm raft01 active01"
+  },
+  {
+    "id": 13341,
+    "name": "Human sailing alpha helm raft01 active01 loop"
+  },
+  {
+    "id": 13342,
+    "name": "Human sailing alpha helm raft01 trim sails01"
+  },
+  {
+    "id": 13343,
+    "name": "Human sailing alpha helm raft01 trim sails01 loop"
+  },
+  {
+    "id": 13344,
+    "name": "Human sailing alpha helm raft01 trim sails02"
+  },
+  {
+    "id": 13345,
+    "name": "Sailing alpha helm small01 inactive01"
+  },
+  {
+    "id": 13346,
+    "name": "Sailing alpha helm small01 active01"
+  },
+  {
+    "id": 13347,
+    "name": "Sailing alpha helm small01 active01 loop"
+  },
+  {
+    "id": 13348,
+    "name": "Sailing alpha helm small01 trim sails01"
+  },
+  {
+    "id": 13349,
+    "name": "Sailing alpha helm small01 trim sails01 loop"
+  },
+  {
+    "id": 13350,
+    "name": "Sailing alpha helm small01 trim sails02"
+  },
+  {
+    "id": 13351,
+    "name": "Human sailing alpha helm small01 active01"
+  },
+  {
+    "id": 13352,
+    "name": "Human sailing alpha helm small01 active01 loop"
+  },
+  {
+    "id": 13353,
+    "name": "Human sailing alpha helm small01 trim sails01"
+  },
+  {
+    "id": 13354,
+    "name": "Human sailing alpha helm small01 trim sails01 loop"
+  },
+  {
+    "id": 13355,
+    "name": "Human sailing alpha helm small01 trim sails02"
+  },
+  {
+    "id": 13356,
+    "name": "Sailing helm 3x8 inactive01"
+  },
+  {
+    "id": 13357,
+    "name": "Sailing helm 3x8 active01"
+  },
+  {
+    "id": 13358,
+    "name": "Sailing helm 3x8 active01 loop"
+  },
+  {
+    "id": 13359,
+    "name": "Sailing helm 3x8 trim sails01"
+  },
+  {
+    "id": 13360,
+    "name": "Sailing helm 3x8 trim sails01 loop"
+  },
+  {
+    "id": 13361,
+    "name": "Sailing helm 3x8 trim sails02"
+  },
+  {
+    "id": 13362,
+    "name": "Human sailing helm 3x8 active01"
+  },
+  {
+    "id": 13363,
+    "name": "Human sailing helm 3x8 active01 loop"
+  },
+  {
+    "id": 13364,
+    "name": "Human sailing helm 3x8 trim sails01"
+  },
+  {
+    "id": 13365,
+    "name": "Human sailing helm 3x8 trim sails01 loop"
+  },
+  {
+    "id": 13366,
+    "name": "Human sailing helm 3x8 trim sails02"
+  },
+  {
+    "id": 13367,
+    "name": "Sailing boat sail kandarin 1x3 down"
+  },
+  {
+    "id": 13368,
+    "name": "Sailing boat sail kandarin 1x3 half to down"
+  },
+  {
+    "id": 13369,
+    "name": "Sailing boat sail kandarin 1x3 full to down"
+  },
+  {
+    "id": 13370,
+    "name": "Sailing boat sail kandarin 1x3 half"
+  },
+  {
+    "id": 13371,
+    "name": "Sailing boat sail kandarin 1x3 down to half"
+  },
+  {
+    "id": 13372,
+    "name": "Sailing boat sail kandarin 1x3 full to half"
+  },
+  {
+    "id": 13373,
+    "name": "Sailing boat sail kandarin 1x3 full"
+  },
+  {
+    "id": 13374,
+    "name": "Sailing boat sail kandarin 1x3 down to full"
+  },
+  {
+    "id": 13375,
+    "name": "Sailing boat sail kandarin 1x3 half to full"
+  },
+  {
+    "id": 13376,
+    "name": "Sailing boat sail kandarin 2x5 down"
+  },
+  {
+    "id": 13377,
+    "name": "Sailing boat sail kandarin 2x5 half to down"
+  },
+  {
+    "id": 13378,
+    "name": "Sailing boat sail kandarin 2x5 full to down"
+  },
+  {
+    "id": 13379,
+    "name": "Sailing boat sail kandarin 2x5 half"
+  },
+  {
+    "id": 13380,
+    "name": "Sailing boat sail kandarin 2x5 down to half"
+  },
+  {
+    "id": 13381,
+    "name": "Sailing boat sail kandarin 2x5 full to half"
+  },
+  {
+    "id": 13382,
+    "name": "Sailing boat sail kandarin 2x5 full"
+  },
+  {
+    "id": 13383,
+    "name": "Sailing boat sail kandarin 2x5 down to full"
+  },
+  {
+    "id": 13384,
+    "name": "Sailing boat sail kandarin 2x5 half to full"
+  },
+  {
+    "id": 13385,
+    "name": "Sailing boat sail kandarin 3x8 down"
+  },
+  {
+    "id": 13386,
+    "name": "Sailing boat sail kandarin 3x8 half to down"
+  },
+  {
+    "id": 13387,
+    "name": "Sailing boat sail kandarin 3x8 full to down"
+  },
+  {
+    "id": 13388,
+    "name": "Sailing boat sail kandarin 3x8 half"
+  },
+  {
+    "id": 13389,
+    "name": "Sailing boat sail kandarin 3x8 down to half"
+  },
+  {
+    "id": 13390,
+    "name": "Sailing boat sail kandarin 3x8 full to half"
+  },
+  {
+    "id": 13391,
+    "name": "Sailing boat sail kandarin 3x8 full"
+  },
+  {
+    "id": 13392,
+    "name": "Sailing boat sail kandarin 3x8 down to full"
+  },
+  {
+    "id": 13393,
+    "name": "Sailing boat sail kandarin 3x8 half to full"
+  },
+  {
+    "id": 13394,
+    "name": "Sailing boat sail kandarin 3x8 bindpose"
+  },
+  {
+    "id": 13395,
+    "name": "Sailing boat sail kandarin 3x10 furled"
+  },
+  {
+    "id": 13396,
+    "name": "Sailing boat sail kandarin 3x10 furled to down"
+  },
+  {
+    "id": 13397,
+    "name": "Sailing boat sail kandarin 3x10 down to furled"
+  },
+  {
+    "id": 13398,
+    "name": "Sailing boat sail kandarin 3x10 down"
+  },
+  {
+    "id": 13399,
+    "name": "Sailing boat sail kandarin 3x10 half to down"
+  },
+  {
+    "id": 13400,
+    "name": "Sailing boat sail kandarin 3x10 full to down"
+  },
+  {
+    "id": 13401,
+    "name": "Sailing boat sail kandarin 3x10 half"
+  },
+  {
+    "id": 13402,
+    "name": "Sailing boat sail kandarin 3x10 down to half"
+  },
+  {
+    "id": 13403,
+    "name": "Sailing boat sail kandarin 3x10 full to half"
+  },
+  {
+    "id": 13404,
+    "name": "Sailing boat sail kandarin 3x10 full"
+  },
+  {
+    "id": 13405,
+    "name": "Sailing boat sail kandarin 3x10 down to full"
+  },
+  {
+    "id": 13406,
+    "name": "Sailing boat sail kandarin 3x10 half to full"
+  },
+  {
+    "id": 13407,
+    "name": "Vfx wind sail raft01 down01"
+  },
+  {
+    "id": 13408,
+    "name": "Vfx wind sail raft01 half01"
+  },
+  {
+    "id": 13409,
+    "name": "Vfx wind sail raft01 full01"
+  },
+  {
+    "id": 13410,
+    "name": "Vfx wind sail raft01 speedboost01"
+  },
+  {
+    "id": 13411,
+    "name": "Vfx wind sail small01 down01"
+  },
+  {
+    "id": 13412,
+    "name": "Vfx wind sail small01 half01"
+  },
+  {
+    "id": 13413,
+    "name": "Vfx wind sail small01 full01"
+  },
+  {
+    "id": 13414,
+    "name": "Vfx wind sail small01 speedboost01"
+  },
+  {
+    "id": 13415,
+    "name": "Vfx wind sail large01 down01"
+  },
+  {
+    "id": 13416,
+    "name": "Vfx wind sail large01 half01"
+  },
+  {
+    "id": 13417,
+    "name": "Vfx wind sail large01 full01"
+  },
+  {
+    "id": 13418,
+    "name": "Vfx wind sail large01 speedboost01"
+  },
+  {
+    "id": 13419,
+    "name": "Vfx wind windcatcher small01 active"
+  },
+  {
+    "id": 13420,
+    "name": "Vfx wind windcatcher small01 release01"
+  },
+  {
+    "id": 13421,
+    "name": "Boats teleport focus kandarin idle 01"
+  },
+  {
+    "id": 13422,
+    "name": "Sailing windcatcher01 small01 idle01 inactive"
+  },
+  {
+    "id": 13423,
+    "name": "Sailing windcatcher01 small01 idle01 active"
+  },
+  {
+    "id": 13424,
+    "name": "Sailing worldentity boat kandarin 1x3 idle 01"
+  },
+  {
+    "id": 13425,
+    "name": "Sailing worldentity boat kandarin 1x3 sink 01"
+  },
+  {
+    "id": 13426,
+    "name": "Sailing worldentity boat kandarin 2x5 idle 01"
+  },
+  {
+    "id": 13427,
+    "name": "Sailing worldentity boat kandarin 2x5 sink 01"
+  },
+  {
+    "id": 13428,
+    "name": "Sailing worldentity boat kandarin 3x8 idle 01"
+  },
+  {
+    "id": 13429,
+    "name": "Sailing worldentity boat kandarin 3x8 sink 01"
+  },
+  {
+    "id": 13430,
+    "name": "Deep sea trawling shoal shallow"
+  },
+  {
+    "id": 13431,
+    "name": "Deep sea trawling shoal mid"
+  },
+  {
+    "id": 13432,
+    "name": "Deep sea trawling shoal deep"
+  },
+  {
+    "id": 13433,
+    "name": "Deep sea trawling shoal shallow nosound"
+  },
+  {
+    "id": 13434,
+    "name": "Deep sea trawling shoal mid nosound"
+  },
+  {
+    "id": 13435,
+    "name": "Deep sea trawling shoal deep nosound"
+  },
+  {
+    "id": 13436,
+    "name": "Sailing trawling spread bait"
+  },
+  {
+    "id": 13437,
+    "name": "Sailing fathom stone kandarin 2x5 idle 01"
+  },
+  {
+    "id": 13438,
+    "name": "Sailing fathom stone kandarin 2x5 use 01"
+  },
+  {
+    "id": 13439,
+    "name": "Sailing human fathom stone kandarin 2x5 use 01"
+  },
+  {
+    "id": 13440,
+    "name": "Sailing boats trawling net kandarin 2x5 idle01"
+  },
+  {
+    "id": 13441,
+    "name": "Sailing boats trawling net kandarin 2x5 lower level 01"
+  },
+  {
+    "id": 13442,
+    "name": "Sailing boats trawling net kandarin 2x5 lower level 02"
+  },
+  {
+    "id": 13443,
+    "name": "Sailing boats trawling net kandarin 2x5 lower level 03"
+  },
+  {
+    "id": 13444,
+    "name": "Sailing boats trawling net kandarin 2x5 raise level 02"
+  },
+  {
+    "id": 13445,
+    "name": "Sailing boats trawling net kandarin 2x5 raise level 01"
+  },
+  {
+    "id": 13446,
+    "name": "Sailing boats trawling net kandarin 2x5 reset 01"
+  },
+  {
+    "id": 13447,
+    "name": "Sailing human trawling net kandarin 2x5 drop level01"
+  },
+  {
+    "id": 13448,
+    "name": "Sailing human trawling net kandarin 2x5 drop level02"
+  },
+  {
+    "id": 13449,
+    "name": "Sailing human trawling net kandarin 2x5 raise level01"
+  },
+  {
+    "id": 13450,
+    "name": "Sailing human trawling net kandarin 2x5 reset01"
+  },
+  {
+    "id": 13451,
+    "name": "Sailing human trawling net kandarin 2x5 engage01"
+  },
+  {
+    "id": 13452,
+    "name": "Sailing human trawling net kandarin 2x5 idle01"
+  },
+  {
+    "id": 13453,
+    "name": "Sailing boats trawling net kandarin 3x8 idle 01"
+  },
+  {
+    "id": 13454,
+    "name": "Sailing boats trawling net kandarin 3x8 drop 01 complete"
+  },
+  {
+    "id": 13455,
+    "name": "Sailing boats trawling net kandarin 3x8 lower level 01"
+  },
+  {
+    "id": 13456,
+    "name": "Sailing boats trawling net kandarin 3x8 lower level 02"
+  },
+  {
+    "id": 13457,
+    "name": "Sailing boats trawling net kandarin 3x8 lower level 03"
+  },
+  {
+    "id": 13458,
+    "name": "Sailing boats trawling net kandarin 3x8 raise level 02"
+  },
+  {
+    "id": 13459,
+    "name": "Sailing boats trawling net kandarin 3x8 raise level 01"
+  },
+  {
+    "id": 13460,
+    "name": "Sailing boats trawling net kandarin 3x8 reset 01"
+  },
+  {
+    "id": 13461,
+    "name": "Sailing boats trawling net kandarin 3x8 idle 02"
+  },
+  {
+    "id": 13462,
+    "name": "Sailing boats trawling net kandarin 3x8 drop 02 complete"
+  },
+  {
+    "id": 13463,
+    "name": "Sailing boats trawling net kandarin 3x8 lower level 01 port"
+  },
+  {
+    "id": 13464,
+    "name": "Sailing boats trawling net kandarin 3x8 lower level 02 port"
+  },
+  {
+    "id": 13465,
+    "name": "Sailing boats trawling net kandarin 3x8 lower level 03 port"
+  },
+  {
+    "id": 13466,
+    "name": "Sailing boats trawling net kandarin 3x8 raise level 02 port"
+  },
+  {
+    "id": 13467,
+    "name": "Sailing boats trawling net kandarin 3x8 raise level 01 port"
+  },
+  {
+    "id": 13468,
+    "name": "Sailing boats trawling net kandarin 3x8 reset 01 port"
+  },
+  {
+    "id": 13469,
+    "name": "Sailing human trawling net kandarin 3x8 01 complete"
+  },
+  {
+    "id": 13470,
+    "name": "Sailing human trawling net kandarin 3x8 drop level01"
+  },
+  {
+    "id": 13471,
+    "name": "Sailing human trawling net kandarin 3x8 drop level02"
+  },
+  {
+    "id": 13472,
+    "name": "Sailing human trawling net kandarin 3x8 raise level01"
+  },
+  {
+    "id": 13473,
+    "name": "Sailing human trawling net kandarin 3x8 reset01"
+  },
+  {
+    "id": 13474,
+    "name": "Sailing human trawling net kandarin 3x8 engage01"
+  },
+  {
+    "id": 13475,
+    "name": "Sailing human trawling net kandarin 3x8 idle01"
+  },
+  {
+    "id": 13476,
+    "name": "Ti giant wasp ready walk"
+  },
+  {
+    "id": 13477,
+    "name": "Ti giant wasp attack"
+  },
+  {
+    "id": 13478,
+    "name": "Ti giant wasp defend"
+  },
+  {
+    "id": 13479,
+    "name": "Ti giant wasp death"
+  },
+  {
+    "id": 13480,
+    "name": "Ti mantis defend"
+  },
+  {
+    "id": 13481,
+    "name": "Ti mantis death"
+  },
+  {
+    "id": 13482,
+    "name": "Ti mantis slash attack"
+  },
+  {
+    "id": 13483,
+    "name": "Ti mantis stab attack"
+  },
+  {
+    "id": 13484,
+    "name": "Ti mantis strike spell"
+  },
+  {
+    "id": 13485,
+    "name": "Ti mantis walk"
+  },
+  {
+    "id": 13486,
+    "name": "Ti mantis ready"
+  },
+  {
+    "id": 13487,
+    "name": "Ti chameleon ready"
+  },
+  {
+    "id": 13488,
+    "name": "Ti chameleon walk"
+  },
+  {
+    "id": 13489,
+    "name": "Ti toad ready"
+  },
+  {
+    "id": 13490,
+    "name": "Ti toad walk"
+  },
+  {
+    "id": 13491,
+    "name": "Ti lizard walk"
+  },
+  {
+    "id": 13492,
+    "name": "Ti lizard ready"
+  },
+  {
+    "id": 13493,
+    "name": "Ti roots giant ants walk"
+  },
+  {
+    "id": 13494,
+    "name": "Ti roots giant ants ready"
+  },
+  {
+    "id": 13495,
+    "name": "Ti giant ants attack"
+  },
+  {
+    "id": 13496,
+    "name": "Ti giant ants death"
+  },
+  {
+    "id": 13497,
+    "name": "Ti giant ants defend"
+  },
+  {
+    "id": 13498,
+    "name": "Turtle idle01"
+  },
+  {
+    "id": 13499,
+    "name": "Turtle walk01"
+  },
+  {
+    "id": 13500,
+    "name": "Turtle attack01"
+  },
+  {
+    "id": 13501,
+    "name": "Sailing sea hazardous waters fog 01"
+  },
+  {
+    "id": 13502,
+    "name": "Sailing sea hazardous waters fog 02"
+  },
+  {
+    "id": 13503,
+    "name": "Profane waters curse anim"
+  },
+  {
+    "id": 13504,
+    "name": "Profane waters curse anim slow"
+  },
+  {
+    "id": 13505,
+    "name": "Profane waters orb anim"
+  },
+  {
+    "id": 13506,
+    "name": "Profane waters orb anim slow"
+  },
+  {
+    "id": 13507,
+    "name": "Profane waters splash anim"
+  },
+  {
+    "id": 13508,
+    "name": "Profane waters splash anim slow"
+  },
+  {
+    "id": 13509,
+    "name": "Hazardous water sunbaked 01 3x3 idle 01"
+  },
+  {
+    "id": 13510,
+    "name": "Hazardous water sunbaked 01 2x2 idle 01"
+  },
+  {
+    "id": 13511,
+    "name": "Hazardous water sunbaked 01 2x2 idle 02"
+  },
+  {
+    "id": 13512,
+    "name": "Hazardous water sunbaked 01 1x1 idle 01"
+  },
+  {
+    "id": 13513,
+    "name": "Hazardous water sunbaked 01 1x1 idle 02"
+  },
+  {
+    "id": 13514,
+    "name": "Hazardous water cursed idle 01"
+  },
+  {
+    "id": 13515,
+    "name": "Hazardous water cursed 6x3 01 idle 01"
+  },
+  {
+    "id": 13516,
+    "name": "Hazardous water cursed 3x3 01 idle 01"
+  },
+  {
+    "id": 13517,
+    "name": "Hazardous water cursed 3x3 01 idle 02"
+  },
+  {
+    "id": 13518,
+    "name": "Hazardous water cursed 2x2 01 idle 01"
+  },
+  {
+    "id": 13519,
+    "name": "Hazardous water cursed 2x2 01 idle 02"
+  },
+  {
+    "id": 13520,
+    "name": "Hazardous water cursed 1x1 01 idle 01"
+  },
+  {
+    "id": 13521,
+    "name": "Hazardous water cursed 1x1 01 idle 02"
+  },
+  {
+    "id": 13522,
+    "name": "Hazardous water profane 3x3 01 idle 01"
+  },
+  {
+    "id": 13523,
+    "name": "Hazardous water profane 2x2 01 idle 01"
+  },
+  {
+    "id": 13524,
+    "name": "Hazardous water profane 2x2 01 idle 02"
+  },
+  {
+    "id": 13525,
+    "name": "Hazardous water profane 2x2 01 idle 03"
+  },
+  {
+    "id": 13526,
+    "name": "Hazardous water profane 1x1 01 idle 01"
+  },
+  {
+    "id": 13527,
+    "name": "Hazardous water profane 1x1 01 idle 02"
+  },
+  {
+    "id": 13528,
+    "name": "Hazardous water profane 1x1 01 idle 03"
+  },
+  {
+    "id": 13529,
+    "name": "Hazardous water profane 1x1 01 idle 04"
+  },
+  {
+    "id": 13530,
+    "name": "Hazardous water profane 1x1 01 idle 05"
+  },
+  {
+    "id": 13531,
+    "name": "Hazardous water profane 1x1 01 idle 06"
+  },
+  {
+    "id": 13532,
+    "name": "Fetid water goo 01"
+  },
+  {
+    "id": 13533,
+    "name": "Fetid water goo 02"
+  },
+  {
+    "id": 13534,
+    "name": "Fetid water goo 03"
+  },
+  {
+    "id": 13535,
+    "name": "Fetid water goo 04"
+  },
+  {
+    "id": 13536,
+    "name": "Fetid water goo 05"
+  },
+  {
+    "id": 13537,
+    "name": "Fetid water vfx"
+  },
+  {
+    "id": 13538,
+    "name": "Fetid water vfx long"
+  },
+  {
+    "id": 13539,
+    "name": "Fetid water vfx 1x1"
+  },
+  {
+    "id": 13540,
+    "name": "Hazardous water icy idle 01"
+  },
+  {
+    "id": 13541,
+    "name": "Hazardous water boiling 01 3x3 idle 01"
+  },
+  {
+    "id": 13542,
+    "name": "Hazardous water boiling 01 2x2 idle 01"
+  },
+  {
+    "id": 13543,
+    "name": "Hazardous water boiling 01 1x1 idle 01"
+  },
+  {
+    "id": 13544,
+    "name": "Hazardous water boiling 01 1x1 idle 02"
+  },
+  {
+    "id": 13545,
+    "name": "Hazardous water boiling 01 1x1 idle 03"
+  },
+  {
+    "id": 13546,
+    "name": "Hazardous water boiling 01 1x1 idle 04"
+  },
+  {
+    "id": 13547,
+    "name": "Npc castaway dog idle01"
+  },
+  {
+    "id": 13548,
+    "name": "Npc castaway dog walk01"
+  },
+  {
+    "id": 13549,
+    "name": "Npc ocean man idle01"
+  },
+  {
+    "id": 13550,
+    "name": "Clue turtle idle01"
+  },
+  {
+    "id": 13551,
+    "name": "Clue turtle swim01"
+  },
+  {
+    "id": 13552,
+    "name": "Clue turtle dive01"
+  },
+  {
+    "id": 13553,
+    "name": "Npc woman castaway keg01 idle01"
+  },
+  {
+    "id": 13554,
+    "name": "Npc woman castaway trunk01 idle01"
+  },
+  {
+    "id": 13555,
+    "name": "Npc man castaway barrelboat01 idle01"
+  },
+  {
+    "id": 13556,
+    "name": "Npc man castaway debris01 idle01"
+  },
+  {
+    "id": 13557,
+    "name": "Npc wilson castaway idle01"
+  },
+  {
+    "id": 13558,
+    "name": "Random event glow01"
+  },
+  {
+    "id": 13559,
+    "name": "Random event glow spawn01"
+  },
+  {
+    "id": 13560,
+    "name": "Random event glow despawn01"
+  },
+  {
+    "id": 13561,
+    "name": "Buoy idle"
+  },
+  {
+    "id": 13562,
+    "name": "Dock gangplank01"
+  },
+  {
+    "id": 13563,
+    "name": "Buoy dock idle"
+  },
+  {
+    "id": 13564,
+    "name": "Seaweed surface idle01"
+  },
+  {
+    "id": 13565,
+    "name": "Sailing boats salvage hook kandarin 1x3 idle01"
+  },
+  {
+    "id": 13566,
+    "name": "Sailing boats salvage hook kandarin 1x3 drop01"
+  },
+  {
+    "id": 13567,
+    "name": "Sailing boats salvage hook kandarin 1x3 idle02"
+  },
+  {
+    "id": 13568,
+    "name": "Sailing boats salvage hook kandarin 1x3 reset01"
+  },
+  {
+    "id": 13569,
+    "name": "Sailing human salvage hook kandarin 1x3 drop01"
+  },
+  {
+    "id": 13570,
+    "name": "Sailing human salvage hook kandarin 1x3 idle01"
+  },
+  {
+    "id": 13571,
+    "name": "Sailing human salvage hook kandarin 1x3 reset01"
+  },
+  {
+    "id": 13572,
+    "name": "Sailing boats salvage hook kandarin 2x5 idle01"
+  },
+  {
+    "id": 13573,
+    "name": "Sailing boats salvage hook kandarin 2x5 drop01"
+  },
+  {
+    "id": 13574,
+    "name": "Sailing boats salvage hook kandarin 2x5 idle02"
+  },
+  {
+    "id": 13575,
+    "name": "Sailing boats salvage hook kandarin 2x5 reset01"
+  },
+  {
+    "id": 13576,
+    "name": "Sailing human salvage hook kandarin 2x5 drop01"
+  },
+  {
+    "id": 13577,
+    "name": "Sailing human salvage hook kandarin 2x5 idle01"
+  },
+  {
+    "id": 13578,
+    "name": "Sailing human salvage hook kandarin 2x5 reset01"
+  },
+  {
+    "id": 13579,
+    "name": "Sailing boats salvage hook kandarin 3x8 idle01"
+  },
+  {
+    "id": 13580,
+    "name": "Sailing boats salvage hook kandarin 3x8 drop01"
+  },
+  {
+    "id": 13581,
+    "name": "Sailing boats salvage hook kandarin 3x8 idle02"
+  },
+  {
+    "id": 13582,
+    "name": "Sailing boats salvage hook kandarin 3x8 reset01"
+  },
+  {
+    "id": 13583,
+    "name": "Sailing human salvage hook kandarin 3x8 drop01"
+  },
+  {
+    "id": 13584,
+    "name": "Sailing human salvage hook kandarin 3x8 idle01"
+  },
+  {
+    "id": 13585,
+    "name": "Sailing human salvage hook kandarin 3x8 reset01"
+  },
+  {
+    "id": 13586,
+    "name": "Sailing boats salvage hook kandarin ui"
+  },
+  {
+    "id": 13587,
+    "name": "Sailing salvage01 large01 idle01"
+  },
+  {
+    "id": 13588,
+    "name": "Sailing salvage01 large01 drop01"
+  },
+  {
+    "id": 13589,
+    "name": "Sailing salvage01 large01 idle02"
+  },
+  {
+    "id": 13590,
+    "name": "Sailing salvage01 large01 reset01"
+  },
+  {
+    "id": 13591,
+    "name": "Human sailing salvage01 large01 drop01"
+  },
+  {
+    "id": 13592,
+    "name": "Human sailing salvage01 large01 idle01"
+  },
+  {
+    "id": 13593,
+    "name": "Human sailing salvage01 large01 interact01"
+  },
+  {
+    "id": 13594,
+    "name": "Human sailing salvage01 large01 reset01"
+  },
+  {
+    "id": 13595,
+    "name": "Sailing boats salvage hook kandarin 1x3 salvaging01"
+  },
+  {
+    "id": 13596,
+    "name": "Sailing human salvage hook kandarin 1x3 salvaging01"
+  },
+  {
+    "id": 13597,
+    "name": "Sailing human salvage hook kandarin 1x3 inactive01"
+  },
+  {
+    "id": 13598,
+    "name": "Sailing human salvage hook kandarin 1x3 pull01"
+  },
+  {
+    "id": 13599,
+    "name": "Sailing human salvage hook kandarin 1x3 interact01"
+  },
+  {
+    "id": 13600,
+    "name": "Small shipwreck full idle"
+  },
+  {
+    "id": 13601,
+    "name": "Small shipwreck depleted idle"
+  },
+  {
+    "id": 13602,
+    "name": "Small shipwreck full to depleted"
+  },
+  {
+    "id": 13603,
+    "name": "Small shipwreck depleted to full"
+  },
+  {
+    "id": 13604,
+    "name": "Fisherman shipwreck full idle"
+  },
+  {
+    "id": 13605,
+    "name": "Fisherman shipwreck depleted idle"
+  },
+  {
+    "id": 13606,
+    "name": "Fisherman shipwreck full to depleted"
+  },
+  {
+    "id": 13607,
+    "name": "Fisherman shipwreck depleted to full"
+  },
+  {
+    "id": 13608,
+    "name": "Barracuda shipwreck full idle"
+  },
+  {
+    "id": 13609,
+    "name": "Barracuda shipwreck depleted idle"
+  },
+  {
+    "id": 13610,
+    "name": "Barracuda shipwreck full to depleted"
+  },
+  {
+    "id": 13611,
+    "name": "Barracuda shipwreck depleted to full"
+  },
+  {
+    "id": 13612,
+    "name": "Pirate shipwreck full idle"
+  },
+  {
+    "id": 13613,
+    "name": "Pirate shipwreck depleted idle"
+  },
+  {
+    "id": 13614,
+    "name": "Pirate shipwreck full to depleted"
+  },
+  {
+    "id": 13615,
+    "name": "Pirate shipwreck depleted to full"
+  },
+  {
+    "id": 13616,
+    "name": "Mercenary shipwreck full idle"
+  },
+  {
+    "id": 13617,
+    "name": "Mercenary shipwreck depleted idle"
+  },
+  {
+    "id": 13618,
+    "name": "Mercenary shipwreck full to depleted"
+  },
+  {
+    "id": 13619,
+    "name": "Mercenary shipwreck depleted to full"
+  },
+  {
+    "id": 13620,
+    "name": "Merchant shipwreck full idle"
+  },
+  {
+    "id": 13621,
+    "name": "Merchant shipwreck depleted idle"
+  },
+  {
+    "id": 13622,
+    "name": "Merchant shipwreck full to depleted"
+  },
+  {
+    "id": 13623,
+    "name": "Merchant shipwreck depleted to full"
+  },
+  {
+    "id": 13624,
+    "name": "Fremennik shipwreck full idle"
+  },
+  {
+    "id": 13625,
+    "name": "Fremennik shipwreck depleted idle"
+  },
+  {
+    "id": 13626,
+    "name": "Fremennik shipwreck full to depleted"
+  },
+  {
+    "id": 13627,
+    "name": "Fremennik shipwreck depleted to full"
+  },
+  {
+    "id": 13628,
+    "name": "Large shipwreck full idle"
+  },
+  {
+    "id": 13629,
+    "name": "Large shipwreck depleted idle"
+  },
+  {
+    "id": 13630,
+    "name": "Large shipwreck full to depleted"
+  },
+  {
+    "id": 13631,
+    "name": "Large shipwreck depleted to full"
+  },
+  {
+    "id": 13632,
+    "name": "Hh bone ball burst short"
+  },
+  {
+    "id": 13633,
+    "name": "Slayer aquanite walk"
+  },
+  {
+    "id": 13634,
+    "name": "Slayer aquanite ready"
+  },
+  {
+    "id": 13635,
+    "name": "Slayer aquanite death"
+  },
+  {
+    "id": 13636,
+    "name": "Slayer aquanite defend"
+  },
+  {
+    "id": 13637,
+    "name": "Slayer aquanite attack"
+  },
+  {
+    "id": 13638,
+    "name": "Slayer aquanite special"
+  },
+  {
+    "id": 13639,
+    "name": "Slayer aquanite special os"
+  },
+  {
+    "id": 13640,
+    "name": "Slayer sup aquanite walk"
+  },
+  {
+    "id": 13641,
+    "name": "Slayer sup aquanite ready"
+  },
+  {
+    "id": 13642,
+    "name": "Slayer sup aquanite death"
+  },
+  {
+    "id": 13643,
+    "name": "Slayer sup aquanite defend"
+  },
+  {
+    "id": 13644,
+    "name": "Slayer sup aquanite attack"
+  },
+  {
+    "id": 13645,
+    "name": "Slayer sup aquanite special os"
+  },
+  {
+    "id": 13646,
+    "name": "Npc strykewyrm lava01 idle01"
+  },
+  {
+    "id": 13647,
+    "name": "Npc strykewyrm lava01 walk01"
+  },
+  {
+    "id": 13648,
+    "name": "Npc strykewyrm lava01 walk01 reverse"
+  },
+  {
+    "id": 13649,
+    "name": "Npc strykewyrm lava01 walk02"
+  },
+  {
+    "id": 13650,
+    "name": "Npc strykewyrm lava01 emerge01"
+  },
+  {
+    "id": 13651,
+    "name": "Npc strykewyrm lava01 burrow01"
+  },
+  {
+    "id": 13652,
+    "name": "Npc strykewyrm lava01 death01"
+  },
+  {
+    "id": 13653,
+    "name": "Npc strykewyrm lava01 hidden01"
+  },
+  {
+    "id": 13654,
+    "name": "Npc strykewyrm lava01 melee01"
+  },
+  {
+    "id": 13655,
+    "name": "Npc strykewyrm lava01 range01"
+  },
+  {
+    "id": 13656,
+    "name": "Npc strykewyrm lava01 burrow attack01"
+  },
+  {
+    "id": 13657,
+    "name": "Npc strykewyrm lava01 burrow attack02"
+  },
+  {
+    "id": 13658,
+    "name": "Npc strykewyrm lava01 burrow attack03"
+  },
+  {
+    "id": 13659,
+    "name": "Vfx strykewyrm burrowed movement"
+  },
+  {
+    "id": 13660,
+    "name": "Vfx strykewyrm death01"
+  },
+  {
+    "id": 13661,
+    "name": "Vfx strykewyrm flaming rock impact 01"
+  },
+  {
+    "id": 13662,
+    "name": "Vfx strykewyrm burrow attack02"
+  },
+  {
+    "id": 13663,
+    "name": "Vfx strykewyrm burrow attack01"
+  },
+  {
+    "id": 13664,
+    "name": "Vfx strykewyrm emerged movement"
+  },
+  {
+    "id": 13665,
+    "name": "Vfx strykewyrm emerged idle"
+  },
+  {
+    "id": 13666,
+    "name": "Forestry campfire burning jatoba logs"
+  },
+  {
+    "id": 13667,
+    "name": "Forestry campfire burning camphor logs"
+  },
+  {
+    "id": 13668,
+    "name": "Forestry campfire burning ironwood logs"
+  },
+  {
+    "id": 13669,
+    "name": "Forestry campfire burning rosewood logs"
   }
 ]
