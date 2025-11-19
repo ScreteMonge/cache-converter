@@ -20636,7 +20636,7 @@
   {
     "name": "Cannonball travel granite",
     "id": 1443,
-    "modelId": 57706,
+    "modelId": 2413,
     "animationId": -1,
     "resizeX": 128,
     "resizeY": 128,
@@ -20646,7 +20646,7 @@
       57
     ],
     "recolorToFind": [
-      5652
+      12
     ]
   },
   {
@@ -49856,5 +49856,69 @@
     "contrast": 0,
     "recolorToReplace": null,
     "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3560,
+    "modelId": 59819,
+    "animationId": 13076,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3561,
+    "modelId": 29172,
+    "animationId": 2419,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3562,
+    "modelId": 57758,
+    "animationId": 13692,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 60,
+    "contrast": 156,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3563,
+    "modelId": 57758,
+    "animationId": 13693,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 60,
+    "contrast": 156,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3564,
+    "modelId": 47169,
+    "animationId": 5065,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": [
+      -30283
+    ],
+    "recolorToFind": [
+      4267
+    ]
   }
 ]

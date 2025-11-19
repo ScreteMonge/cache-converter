@@ -3576,6 +3576,10 @@
     "name": "Human shearing"
   },
   {
+    "id": 894,
+    "name": "Ghost update tendrill ready thrall"
+  },
+  {
     "id": 895,
     "name": "Human fillbucket sandpit"
   },
@@ -43152,6 +43156,10 @@
     "name": "Huntingfox deadfall catchingtest"
   },
   {
+    "id": 10792,
+    "name": "Ghost update tendrill walk thrall"
+  },
+  {
     "id": 10793,
     "name": "Minnow fishing spot location loop"
   },
@@ -44370,6 +44378,10 @@
   {
     "id": 11100,
     "name": "Human fletching single"
+  },
+  {
+    "id": 11101,
+    "name": "Ghost update tendrill attack thrall"
   },
   {
     "id": 11102,
@@ -46344,6 +46356,10 @@
     "name": "Fx beam huey"
   },
   {
+    "id": 11595,
+    "name": "Ghost update tendrill death thrall"
+  },
+  {
     "id": 11596,
     "name": "Spotanim zebak attack roar short"
   },
@@ -46934,6 +46950,10 @@
   {
     "id": 11743,
     "name": "Brewing add ingredient"
+  },
+  {
+    "id": 11744,
+    "name": "Ghost update tendrill defend thrall"
   },
   {
     "id": 11745,
@@ -54630,5 +54650,109 @@
   {
     "id": 13669,
     "name": "Forestry campfire burning rosewood logs"
+  },
+  {
+    "id": 13670,
+    "name": "Skeleton update champion ready thrall"
+  },
+  {
+    "id": 13671,
+    "name": "Skeleton update champion walk thrall"
+  },
+  {
+    "id": 13672,
+    "name": "Skeleton update champion attack thrall"
+  },
+  {
+    "id": 13673,
+    "name": "Skeleton update champion defend thrall"
+  },
+  {
+    "id": 13674,
+    "name": "Skeleton update champion death thrall"
+  },
+  {
+    "id": 13675,
+    "name": "Zombie update ready normal thrall"
+  },
+  {
+    "id": 13676,
+    "name": "Zombie update walk normal thrall"
+  },
+  {
+    "id": 13677,
+    "name": "Zombie update walk left normal thrall"
+  },
+  {
+    "id": 13678,
+    "name": "Zombie update walk right normal thrall"
+  },
+  {
+    "id": 13679,
+    "name": "Zombie update walkbackwards weapon thrall"
+  },
+  {
+    "id": 13680,
+    "name": "Zombie update death normal thrall"
+  },
+  {
+    "id": 13681,
+    "name": "Zombie update attack normal thrall"
+  },
+  {
+    "id": 13682,
+    "name": "Zombie update defend normal thrall"
+  },
+  {
+    "id": 13683,
+    "name": "Ghost update thrall spawn raised"
+  },
+  {
+    "id": 13684,
+    "name": "Skeleton update thrall spawn raised"
+  },
+  {
+    "id": 13685,
+    "name": "Zombie update thrawl spawn raised"
+  },
+  {
+    "id": 13686,
+    "name": "Sailing boat sail kandarin 3x10 down to full trim"
+  },
+  {
+    "id": 13687,
+    "name": "Sailing boat sail kandarin 3x10 half to full trim"
+  },
+  {
+    "id": 13688,
+    "name": "Sailing boat sail kandarin 3x10 full trim"
+  },
+  {
+    "id": 13689,
+    "name": "Sailing human sail kandarin 3x10 furled to down"
+  },
+  {
+    "id": 13690,
+    "name": "Sailing human sail kandarin 3x10 down to furled"
+  },
+  {
+    "id": 13691,
+    "name": "Sailing human sail kandarin 3x10 trim sails"
+  },
+  {
+    "id": 13692,
+    "name": "Vfx wind sail 3x10 01"
+  },
+  {
+    "id": 13693,
+    "name": "Vfx wind sail 3x10 speedboost01"
+  },
+  {
+    "id": 13694,
+    "name": "Human workbench crafting loop"
+  },
+  {
+    "id": 13695,
+    "name": "Turtle idle01 loop"
   }
 ]

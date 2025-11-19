@@ -5364,6 +5364,12 @@
     "leftHandItem": 0
   },
   {
+    "name": "Unnamed",
+    "id": 894,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
     "name": "Human fillbucket sandpit",
     "id": 895,
     "rightHandItem": 2437,
@@ -64728,6 +64734,12 @@
     "leftHandItem": -1
   },
   {
+    "name": "Unnamed",
+    "id": 10792,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
     "name": "Minnow fishing spot location loop",
     "id": 10793,
     "rightHandItem": -1,
@@ -66556,6 +66568,12 @@
     "id": 11100,
     "rightHandItem": 1458,
     "leftHandItem": 2023
+  },
+  {
+    "name": "Unnamed",
+    "id": 11101,
+    "rightHandItem": -1,
+    "leftHandItem": -1
   },
   {
     "name": "Human pray blessed bone shards 01",
@@ -69516,6 +69534,12 @@
     "leftHandItem": -1
   },
   {
+    "name": "Unnamed",
+    "id": 11595,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
     "name": "Spotanim zebak attack roar short",
     "id": 11596,
     "rightHandItem": -1,
@@ -70402,6 +70426,12 @@
     "id": 11743,
     "rightHandItem": 0,
     "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 11744,
+    "rightHandItem": -1,
+    "leftHandItem": -1
   },
   {
     "name": "Human fishing casting npc",
@@ -81946,5 +81976,161 @@
     "id": 13669,
     "rightHandItem": 0,
     "leftHandItem": 33413
+  },
+  {
+    "name": "Unnamed",
+    "id": 13670,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13671,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13672,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13673,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13674,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13675,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13676,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13677,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13678,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13679,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13680,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13681,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13682,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13683,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13684,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13685,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13686,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13687,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13688,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13689,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 13690,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 13691,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 13692,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13693,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13694,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13695,
+    "rightHandItem": -1,
+    "leftHandItem": -1
   }
 ]
