@@ -79,7 +79,7 @@ def main():
         for spotanim_filenames in os.walk(spotanim_path):
             spotanim_file_list.append(spotanim_filenames)
 
-        naming_data = json.load((open("C:/Users/Matheus/PycharmProjects/cache-converter/.venv/spotanims.json", encoding='utf-8')))
+        naming_data = json.load((open("spotanims.json", encoding='utf-8')))
 
         spotanim_list = []
         for i in range(len(spotanim_filenames[2])):
@@ -137,7 +137,7 @@ def main():
         for seq_filenames in os.walk(seq_path):
             seq_file_list.append(seq_filenames)
 
-        naming_data = json.load((open("C:/Users/Matheus/PycharmProjects/cache-converter/.venv/sequences.json", encoding='utf-8')))
+        naming_data = json.load((open("sequences.json", encoding='utf-8')))
 
         seq_list = []
         for i in range(len(seq_filenames[2])):
