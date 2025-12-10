@@ -32,6 +32,134 @@
     "recolorToFind": null
   },
   {
+    "id": 2,
+    "bodyPartId": 0,
+    "models": [
+      214
+    ],
+    "chatheadModels": [
+      52,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 3,
+    "bodyPartId": 0,
+    "models": [
+      217
+    ],
+    "chatheadModels": [
+      55,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 4,
+    "bodyPartId": 0,
+    "models": [
+      223
+    ],
+    "chatheadModels": [
+      59,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 5,
+    "bodyPartId": 0,
+    "models": [
+      215
+    ],
+    "chatheadModels": [
+      53,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 6,
+    "bodyPartId": 0,
+    "models": [
+      235
+    ],
+    "chatheadModels": [
+      67,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 7,
+    "bodyPartId": 0,
+    "models": [
+      206
+    ],
+    "chatheadModels": [
+      46,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 8,
+    "bodyPartId": 0,
+    "models": [
+      203
+    ],
+    "chatheadModels": [
+      45,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 9,
+    "bodyPartId": 0,
+    "models": [
+      28321
+    ],
+    "chatheadModels": [
+      28386,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
     "id": 10,
     "bodyPartId": 1,
     "models": [
@@ -39,6 +167,1435 @@
     ],
     "chatheadModels": [
       81,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 11,
+    "bodyPartId": 1,
+    "models": [
+      250
+    ],
+    "chatheadModels": [
+      82,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 12,
+    "bodyPartId": 1,
+    "models": [
+      251
+    ],
+    "chatheadModels": [
+      83,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 13,
+    "bodyPartId": 1,
+    "models": [
+      247
+    ],
+    "chatheadModels": [
+      79,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 14,
+    "bodyPartId": 1,
+    "models": [
+      246
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 15,
+    "bodyPartId": 1,
+    "models": [
+      248
+    ],
+    "chatheadModels": [
+      80,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 16,
+    "bodyPartId": 1,
+    "models": [
+      253
+    ],
+    "chatheadModels": [
+      85,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 17,
+    "bodyPartId": 1,
+    "models": [
+      252
+    ],
+    "chatheadModels": [
+      84,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 18,
+    "bodyPartId": 2,
+    "models": [
+      28515
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 19,
+    "bodyPartId": 2,
+    "models": [
+      28515,
+      322
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 20,
+    "bodyPartId": 2,
+    "models": [
+      28515,
+      326
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 21,
+    "bodyPartId": 2,
+    "models": [
+      28515,
+      320
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 22,
+    "bodyPartId": 2,
+    "models": [
+      28515,
+      327
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 23,
+    "bodyPartId": 2,
+    "models": [
+      28515,
+      324
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 24,
+    "bodyPartId": 2,
+    "models": [
+      28551
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 25,
+    "bodyPartId": 2,
+    "models": [
+      28582
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 26,
+    "bodyPartId": 3,
+    "models": [
+      26632
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 27,
+    "bodyPartId": 3,
+    "models": [
+      26634
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 28,
+    "bodyPartId": 3,
+    "models": [
+      26619
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 29,
+    "bodyPartId": 3,
+    "models": [
+      26630
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 30,
+    "bodyPartId": 3,
+    "models": [
+      27154
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 31,
+    "bodyPartId": 3,
+    "models": [
+      26618
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 32,
+    "bodyPartId": 3,
+    "models": [
+      28342
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 33,
+    "bodyPartId": 4,
+    "models": [
+      176
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 34,
+    "bodyPartId": 4,
+    "models": [
+      10218
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 35,
+    "bodyPartId": 4,
+    "models": [
+      176
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 36,
+    "bodyPartId": 5,
+    "models": [
+      28285
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 37,
+    "bodyPartId": 5,
+    "models": [
+      28337
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 38,
+    "bodyPartId": 5,
+    "models": [
+      27639
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 39,
+    "bodyPartId": 5,
+    "models": [
+      28346
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 40,
+    "bodyPartId": 5,
+    "models": [
+      28212
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 41,
+    "bodyPartId": 5,
+    "models": [
+      28336
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 42,
+    "bodyPartId": 6,
+    "models": [
+      181
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 43,
+    "bodyPartId": 6,
+    "models": [
+      183
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 44,
+    "bodyPartId": 6,
+    "models": [
+      183
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 45,
+    "bodyPartId": 7,
+    "models": [
+      403
+    ],
+    "chatheadModels": [
+      120,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 46,
+    "bodyPartId": 7,
+    "models": [
+      378
+    ],
+    "chatheadModels": [
+      103,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 47,
+    "bodyPartId": 7,
+    "models": [
+      387
+    ],
+    "chatheadModels": [
+      110,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 48,
+    "bodyPartId": 7,
+    "models": [
+      390
+    ],
+    "chatheadModels": [
+      113,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 49,
+    "bodyPartId": 7,
+    "models": [
+      393
+    ],
+    "chatheadModels": [
+      115,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 50,
+    "bodyPartId": 7,
+    "models": [
+      399
+    ],
+    "chatheadModels": [
+      118,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 51,
+    "bodyPartId": 7,
+    "models": [
+      391
+    ],
+    "chatheadModels": [
+      114,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 52,
+    "bodyPartId": 7,
+    "models": [
+      408
+    ],
+    "chatheadModels": [
+      125,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 53,
+    "bodyPartId": 7,
+    "models": [
+      382
+    ],
+    "chatheadModels": [
+      105,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 54,
+    "bodyPartId": 7,
+    "models": [
+      379
+    ],
+    "chatheadModels": [
+      104,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 55,
+    "bodyPartId": 7,
+    "models": [
+      28350
+    ],
+    "chatheadModels": [
+      28402,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 56,
+    "bodyPartId": 9,
+    "models": [
+      18554
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 57,
+    "bodyPartId": 9,
+    "models": [
+      15945
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 58,
+    "bodyPartId": 9,
+    "models": [
+      15939
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 59,
+    "bodyPartId": 9,
+    "models": [
+      18914
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 60,
+    "bodyPartId": 9,
+    "models": [
+      18560
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 61,
+    "bodyPartId": 10,
+    "models": [
+      3476
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 62,
+    "bodyPartId": 10,
+    "models": [
+      10685
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 63,
+    "bodyPartId": 10,
+    "models": [
+      10692
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 64,
+    "bodyPartId": 10,
+    "models": [
+      3848
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 65,
+    "bodyPartId": 10,
+    "models": [
+      487
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 66,
+    "bodyPartId": 10,
+    "models": [
+      28364
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 67,
+    "bodyPartId": 11,
+    "models": [
+      353
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 68,
+    "bodyPartId": 11,
+    "models": [
+      10706
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 69,
+    "bodyPartId": 11,
+    "models": [
+      353
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 70,
+    "bodyPartId": 12,
+    "models": [
+      14423
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 71,
+    "bodyPartId": 12,
+    "models": [
+      433
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 72,
+    "bodyPartId": 12,
+    "models": [
+      15925
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 73,
+    "bodyPartId": 12,
+    "models": [
+      14421
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 74,
+    "bodyPartId": 12,
+    "models": [
+      14397
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 75,
+    "bodyPartId": 12,
+    "models": [
+      14424
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 76,
+    "bodyPartId": 12,
+    "models": [
+      14395
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 77,
+    "bodyPartId": 12,
+    "models": [
+      429
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 78,
+    "bodyPartId": 12,
+    "models": [
+      28358
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 79,
+    "bodyPartId": 13,
+    "models": [
+      358
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 80,
+    "bodyPartId": 13,
+    "models": [
+      360
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 81,
+    "bodyPartId": 13,
+    "models": [
+      360
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 82,
+    "bodyPartId": 6,
+    "models": [
+      7117
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 83,
+    "bodyPartId": 13,
+    "models": [
+      7118
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 84,
+    "bodyPartId": 3,
+    "models": [
+      28345
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 85,
+    "bodyPartId": 3,
+    "models": [
+      28343
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 86,
+    "bodyPartId": 3,
+    "models": [
+      28340
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 87,
+    "bodyPartId": 3,
+    "models": [
+      28344
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 88,
+    "bodyPartId": 3,
+    "models": [
+      28341
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 89,
+    "bodyPartId": 9,
+    "models": [
+      28375
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 90,
+    "bodyPartId": 9,
+    "models": [
+      28372
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 91,
+    "bodyPartId": 9,
+    "models": [
+      28370
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 92,
+    "bodyPartId": 9,
+    "models": [
+      28371
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 93,
+    "bodyPartId": 9,
+    "models": [
+      18555
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 94,
+    "bodyPartId": 9,
+    "models": [
+      18559
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 95,
+    "bodyPartId": 10,
+    "models": [
+      28365
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 96,
+    "bodyPartId": 10,
+    "models": [
+      28368
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 97,
+    "bodyPartId": 10,
+    "models": [
+      28366
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 98,
+    "bodyPartId": 10,
+    "models": [
+      28367
+    ],
+    "chatheadModels": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "id": 99,
+    "bodyPartId": 10,
+    "models": [
+      28369
+    ],
+    "chatheadModels": [
+      -1,
       -1,
       -1,
       -1,
@@ -208,22 +1765,6 @@
     "recolorToFind": null
   },
   {
-    "id": 11,
-    "bodyPartId": 1,
-    "models": [
-      250
-    ],
-    "chatheadModels": [
-      82,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
     "id": 110,
     "bodyPartId": 2,
     "models": [
@@ -375,22 +1916,6 @@
     ],
     "chatheadModels": [
       16441,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 12,
-    "bodyPartId": 1,
-    "models": [
-      251
-    ],
-    "chatheadModels": [
-      83,
       -1,
       -1,
       -1,
@@ -560,22 +2085,6 @@
     "recolorToFind": null
   },
   {
-    "id": 13,
-    "bodyPartId": 1,
-    "models": [
-      247
-    ],
-    "chatheadModels": [
-      79,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
     "id": 130,
     "bodyPartId": 0,
     "models": [
@@ -724,22 +2233,6 @@
     "bodyPartId": 12,
     "models": [
       28363
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 14,
-    "bodyPartId": 1,
-    "models": [
-      246
     ],
     "chatheadModels": [
       -1,
@@ -912,22 +2405,6 @@
     "recolorToFind": null
   },
   {
-    "id": 15,
-    "bodyPartId": 1,
-    "models": [
-      248
-    ],
-    "chatheadModels": [
-      80,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
     "id": 150,
     "bodyPartId": 0,
     "models": [
@@ -1079,22 +2556,6 @@
     ],
     "chatheadModels": [
       47898,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 16,
-    "bodyPartId": 1,
-    "models": [
-      253
-    ],
-    "chatheadModels": [
-      85,
       -1,
       -1,
       -1,
@@ -1264,22 +2725,6 @@
     "recolorToFind": null
   },
   {
-    "id": 17,
-    "bodyPartId": 1,
-    "models": [
-      252
-    ],
-    "chatheadModels": [
-      84,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
     "id": 170,
     "bodyPartId": 7,
     "models": [
@@ -1431,22 +2876,6 @@
     ],
     "chatheadModels": [
       47923,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 18,
-    "bodyPartId": 2,
-    "models": [
-      28515
-    ],
-    "chatheadModels": [
-      -1,
       -1,
       -1,
       -1,
@@ -1616,23 +3045,6 @@
     "recolorToFind": null
   },
   {
-    "id": 19,
-    "bodyPartId": 2,
-    "models": [
-      28515,
-      322
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
     "id": 190,
     "bodyPartId": 7,
     "models": [
@@ -1784,39 +3196,6 @@
     ],
     "chatheadModels": [
       47926,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 2,
-    "bodyPartId": 0,
-    "models": [
-      214
-    ],
-    "chatheadModels": [
-      52,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 20,
-    "bodyPartId": 2,
-    "models": [
-      28515,
-      326
-    ],
-    "chatheadModels": [
-      -1,
       -1,
       -1,
       -1,
@@ -1986,23 +3365,6 @@
     "recolorToFind": null
   },
   {
-    "id": 21,
-    "bodyPartId": 2,
-    "models": [
-      28515,
-      320
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
     "id": 210,
     "bodyPartId": 0,
     "models": [
@@ -2154,23 +3516,6 @@
     ],
     "chatheadModels": [
       47863,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 22,
-    "bodyPartId": 2,
-    "models": [
-      28515,
-      327
-    ],
-    "chatheadModels": [
-      -1,
       -1,
       -1,
       -1,
@@ -2340,23 +3685,6 @@
     "recolorToFind": null
   },
   {
-    "id": 23,
-    "bodyPartId": 2,
-    "models": [
-      28515,
-      324
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
     "id": 230,
     "bodyPartId": 0,
     "models": [
@@ -2508,22 +3836,6 @@
     ],
     "chatheadModels": [
       47854,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 24,
-    "bodyPartId": 2,
-    "models": [
-      28551
-    ],
-    "chatheadModels": [
-      -1,
       -1,
       -1,
       -1,
@@ -2693,22 +4005,6 @@
     "recolorToFind": null
   },
   {
-    "id": 25,
-    "bodyPartId": 2,
-    "models": [
-      28582
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
     "id": 250,
     "bodyPartId": 10,
     "models": [
@@ -2857,22 +4153,6 @@
     "bodyPartId": 2,
     "models": [
       28547
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 26,
-    "bodyPartId": 3,
-    "models": [
-      26632
     ],
     "chatheadModels": [
       -1,
@@ -3050,22 +4330,6 @@
     "recolorToFind": null
   },
   {
-    "id": 27,
-    "bodyPartId": 3,
-    "models": [
-      26634
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
     "id": 270,
     "bodyPartId": 9,
     "models": [
@@ -3214,22 +4478,6 @@
     "bodyPartId": 12,
     "models": [
       14426
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 28,
-    "bodyPartId": 3,
-    "models": [
-      26619
     ],
     "chatheadModels": [
       -1,
@@ -3402,22 +4650,6 @@
     "recolorToFind": null
   },
   {
-    "id": 29,
-    "bodyPartId": 3,
-    "models": [
-      26630
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
     "id": 290,
     "bodyPartId": 5,
     "models": [
@@ -3578,38 +4810,6 @@
     "recolorToFind": null
   },
   {
-    "id": 3,
-    "bodyPartId": 0,
-    "models": [
-      217
-    ],
-    "chatheadModels": [
-      55,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 30,
-    "bodyPartId": 3,
-    "models": [
-      27154
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
     "id": 300,
     "bodyPartId": 8,
     "models": [
@@ -3713,1206 +4913,6 @@
     ],
     "chatheadModels": [
       28389,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 31,
-    "bodyPartId": 3,
-    "models": [
-      26618
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 32,
-    "bodyPartId": 3,
-    "models": [
-      28342
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 33,
-    "bodyPartId": 4,
-    "models": [
-      176
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 34,
-    "bodyPartId": 4,
-    "models": [
-      10218
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 35,
-    "bodyPartId": 4,
-    "models": [
-      176
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 36,
-    "bodyPartId": 5,
-    "models": [
-      28285
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 37,
-    "bodyPartId": 5,
-    "models": [
-      28337
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 38,
-    "bodyPartId": 5,
-    "models": [
-      27639
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 39,
-    "bodyPartId": 5,
-    "models": [
-      28346
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 4,
-    "bodyPartId": 0,
-    "models": [
-      223
-    ],
-    "chatheadModels": [
-      59,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 40,
-    "bodyPartId": 5,
-    "models": [
-      28212
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 41,
-    "bodyPartId": 5,
-    "models": [
-      28336
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 42,
-    "bodyPartId": 6,
-    "models": [
-      181
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 43,
-    "bodyPartId": 6,
-    "models": [
-      183
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 44,
-    "bodyPartId": 6,
-    "models": [
-      183
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 45,
-    "bodyPartId": 7,
-    "models": [
-      403
-    ],
-    "chatheadModels": [
-      120,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 46,
-    "bodyPartId": 7,
-    "models": [
-      378
-    ],
-    "chatheadModels": [
-      103,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 47,
-    "bodyPartId": 7,
-    "models": [
-      387
-    ],
-    "chatheadModels": [
-      110,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 48,
-    "bodyPartId": 7,
-    "models": [
-      390
-    ],
-    "chatheadModels": [
-      113,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 49,
-    "bodyPartId": 7,
-    "models": [
-      393
-    ],
-    "chatheadModels": [
-      115,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 5,
-    "bodyPartId": 0,
-    "models": [
-      215
-    ],
-    "chatheadModels": [
-      53,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 50,
-    "bodyPartId": 7,
-    "models": [
-      399
-    ],
-    "chatheadModels": [
-      118,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 51,
-    "bodyPartId": 7,
-    "models": [
-      391
-    ],
-    "chatheadModels": [
-      114,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 52,
-    "bodyPartId": 7,
-    "models": [
-      408
-    ],
-    "chatheadModels": [
-      125,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 53,
-    "bodyPartId": 7,
-    "models": [
-      382
-    ],
-    "chatheadModels": [
-      105,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 54,
-    "bodyPartId": 7,
-    "models": [
-      379
-    ],
-    "chatheadModels": [
-      104,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 55,
-    "bodyPartId": 7,
-    "models": [
-      28350
-    ],
-    "chatheadModels": [
-      28402,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 56,
-    "bodyPartId": 9,
-    "models": [
-      18554
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 57,
-    "bodyPartId": 9,
-    "models": [
-      15945
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 58,
-    "bodyPartId": 9,
-    "models": [
-      15939
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 59,
-    "bodyPartId": 9,
-    "models": [
-      18914
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 6,
-    "bodyPartId": 0,
-    "models": [
-      235
-    ],
-    "chatheadModels": [
-      67,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 60,
-    "bodyPartId": 9,
-    "models": [
-      18560
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 61,
-    "bodyPartId": 10,
-    "models": [
-      3476
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 62,
-    "bodyPartId": 10,
-    "models": [
-      10685
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 63,
-    "bodyPartId": 10,
-    "models": [
-      10692
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 64,
-    "bodyPartId": 10,
-    "models": [
-      3848
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 65,
-    "bodyPartId": 10,
-    "models": [
-      487
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 66,
-    "bodyPartId": 10,
-    "models": [
-      28364
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 67,
-    "bodyPartId": 11,
-    "models": [
-      353
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 68,
-    "bodyPartId": 11,
-    "models": [
-      10706
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 69,
-    "bodyPartId": 11,
-    "models": [
-      353
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 7,
-    "bodyPartId": 0,
-    "models": [
-      206
-    ],
-    "chatheadModels": [
-      46,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 70,
-    "bodyPartId": 12,
-    "models": [
-      14423
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 71,
-    "bodyPartId": 12,
-    "models": [
-      433
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 72,
-    "bodyPartId": 12,
-    "models": [
-      15925
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 73,
-    "bodyPartId": 12,
-    "models": [
-      14421
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 74,
-    "bodyPartId": 12,
-    "models": [
-      14397
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 75,
-    "bodyPartId": 12,
-    "models": [
-      14424
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 76,
-    "bodyPartId": 12,
-    "models": [
-      14395
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 77,
-    "bodyPartId": 12,
-    "models": [
-      429
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 78,
-    "bodyPartId": 12,
-    "models": [
-      28358
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 79,
-    "bodyPartId": 13,
-    "models": [
-      358
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 8,
-    "bodyPartId": 0,
-    "models": [
-      203
-    ],
-    "chatheadModels": [
-      45,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 80,
-    "bodyPartId": 13,
-    "models": [
-      360
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 81,
-    "bodyPartId": 13,
-    "models": [
-      360
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 82,
-    "bodyPartId": 6,
-    "models": [
-      7117
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 83,
-    "bodyPartId": 13,
-    "models": [
-      7118
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 84,
-    "bodyPartId": 3,
-    "models": [
-      28345
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 85,
-    "bodyPartId": 3,
-    "models": [
-      28343
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 86,
-    "bodyPartId": 3,
-    "models": [
-      28340
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 87,
-    "bodyPartId": 3,
-    "models": [
-      28344
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 88,
-    "bodyPartId": 3,
-    "models": [
-      28341
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 89,
-    "bodyPartId": 9,
-    "models": [
-      28375
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 9,
-    "bodyPartId": 0,
-    "models": [
-      28321
-    ],
-    "chatheadModels": [
-      28386,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 90,
-    "bodyPartId": 9,
-    "models": [
-      28372
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 91,
-    "bodyPartId": 9,
-    "models": [
-      28370
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 92,
-    "bodyPartId": 9,
-    "models": [
-      28371
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 93,
-    "bodyPartId": 9,
-    "models": [
-      18555
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 94,
-    "bodyPartId": 9,
-    "models": [
-      18559
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 95,
-    "bodyPartId": 10,
-    "models": [
-      28365
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 96,
-    "bodyPartId": 10,
-    "models": [
-      28368
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 97,
-    "bodyPartId": 10,
-    "models": [
-      28366
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 98,
-    "bodyPartId": 10,
-    "models": [
-      28367
-    ],
-    "chatheadModels": [
-      -1,
-      -1,
-      -1,
-      -1,
-      -1
-    ],
-    "recolorToReplace": null,
-    "recolorToFind": null
-  },
-  {
-    "id": 99,
-    "bodyPartId": 10,
-    "models": [
-      28369
-    ],
-    "chatheadModels": [
-      -1,
       -1,
       -1,
       -1,

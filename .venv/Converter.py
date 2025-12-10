@@ -68,7 +68,12 @@ def main():
                 pass
 
         kit_out = open("kit.json", "w")
-        json.dump(kit_list, kit_out, indent=2)
+
+        json_file = json.dumps(kit_list)
+        data = json.loads(json_file)
+        sorted_file = sorted(data, key=lambda x: x['id'])
+        json.dump(sorted_file, kit_out, indent=2)
+
         kit_out.close()
         print("Finished kit")
 
@@ -236,7 +241,12 @@ def obj(directory, perform_obj):
                 pass
 
         obj_out = open("object_defs.json", "w")
-        json.dump(obj_list, obj_out, indent=2)
+
+        json_file = json.dumps(obj_list)
+        data = json.loads(json_file)
+        sorted_file = sorted(data, key=lambda x: x['id'])
+        json.dump(sorted_file, obj_out, indent=2)
+
         obj_out.close()
         print("Finished obj")
 
@@ -313,7 +323,12 @@ def item(directory, perform_item):
                 pass
 
         item_out = open("item_defs.json", "w")
-        json.dump(item_list, item_out, indent=2)
+
+        json_file = json.dumps(item_list)
+        data = json.loads(json_file)
+        sorted_file = sorted(data, key=lambda x: x['id'])
+        json.dump(sorted_file, item_out, indent=2)
+
         item_out.close()
         print("Finished item")
 
@@ -380,7 +395,12 @@ def npc(directory, perform_npc):
                 pass
 
         npc_out = open("npc_defs.json", "w")
-        json.dump(npc_list, npc_out, indent=2)
+
+        json_file = json.dumps(npc_list)
+        data = json.loads(json_file)
+        sorted_file = sorted(data, key=lambda x: x['id'])
+        json.dump(sorted_file, npc_out, indent=2)
+
         npc_out.close()
         print("Finished npc")
 
