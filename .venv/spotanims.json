@@ -49920,5 +49920,497 @@
     "recolorToFind": [
       4267
     ]
+  },
+  {
+    "name": "Unnamed",
+    "id": 3565,
+    "modelId": 28458,
+    "animationId": 13708,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3566,
+    "modelId": 28458,
+    "animationId": 13709,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3567,
+    "modelId": 28458,
+    "animationId": 13710,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3568,
+    "modelId": 28458,
+    "animationId": 13711,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3569,
+    "modelId": 28458,
+    "animationId": 13712,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3570,
+    "modelId": 28458,
+    "animationId": 13713,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3571,
+    "modelId": 28458,
+    "animationId": 13714,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3572,
+    "modelId": 59956,
+    "animationId": 7084,
+    "resizeX": 100,
+    "resizeY": 100,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3573,
+    "modelId": 59956,
+    "animationId": 7085,
+    "resizeX": 100,
+    "resizeY": 100,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3574,
+    "modelId": 59965,
+    "animationId": 647,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 100,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3575,
+    "modelId": 60034,
+    "animationId": 13730,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3576,
+    "modelId": 6434,
+    "animationId": 13731,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 60,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3577,
+    "modelId": 60035,
+    "animationId": 13732,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3578,
+    "modelId": 60033,
+    "animationId": 13733,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3579,
+    "modelId": 60036,
+    "animationId": 13734,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3580,
+    "modelId": 3853,
+    "animationId": 13774,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3581,
+    "modelId": 3855,
+    "animationId": 13775,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3582,
+    "modelId": 3093,
+    "animationId": 669,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 75,
+    "contrast": 75,
+    "recolorToReplace": [
+      30949
+    ],
+    "recolorToFind": [
+      -10338
+    ]
+  },
+  {
+    "name": "Unnamed",
+    "id": 3583,
+    "modelId": 3094,
+    "animationId": 670,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 75,
+    "contrast": 75,
+    "recolorToReplace": [
+      30949
+    ],
+    "recolorToFind": [
+      -10338
+    ]
+  },
+  {
+    "name": "Unnamed",
+    "id": 3584,
+    "modelId": 60069,
+    "animationId": 6602,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3585,
+    "modelId": 51259,
+    "animationId": 11025,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 60,
+    "recolorToReplace": [
+      -31629,
+      -31629,
+      -31629
+    ],
+    "recolorToFind": [
+      -30795,
+      -30760,
+      21458
+    ]
+  },
+  {
+    "name": "Unnamed",
+    "id": 3586,
+    "modelId": 51259,
+    "animationId": 11026,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 60,
+    "recolorToReplace": [
+      -31629,
+      -31629,
+      -31629
+    ],
+    "recolorToFind": [
+      -30795,
+      -30760,
+      21458
+    ]
+  },
+  {
+    "name": "Unnamed",
+    "id": 3587,
+    "modelId": 59402,
+    "animationId": 13802,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3588,
+    "modelId": 60119,
+    "animationId": 13808,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3589,
+    "modelId": 60119,
+    "animationId": 13809,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3590,
+    "modelId": 60119,
+    "animationId": 13810,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3591,
+    "modelId": 60110,
+    "animationId": 13805,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3592,
+    "modelId": 60109,
+    "animationId": 13805,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3593,
+    "modelId": 60108,
+    "animationId": 13805,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3594,
+    "modelId": 60110,
+    "animationId": 13804,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3595,
+    "modelId": 60109,
+    "animationId": 13804,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3596,
+    "modelId": 60108,
+    "animationId": 13804,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3597,
+    "modelId": 60110,
+    "animationId": 13807,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3598,
+    "modelId": 60109,
+    "animationId": 13807,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3599,
+    "modelId": 60108,
+    "animationId": 13807,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3600,
+    "modelId": 60110,
+    "animationId": 13806,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3601,
+    "modelId": 60109,
+    "animationId": 13806,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3602,
+    "modelId": 60108,
+    "animationId": 13806,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
+    "id": 3603,
+    "modelId": 60111,
+    "animationId": 13812,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
   }
 ]

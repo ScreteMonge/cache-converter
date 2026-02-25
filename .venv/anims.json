@@ -54774,5 +54774,469 @@
   {
     "id": 13700,
     "name": "Human xmas25 christmas dinner attack"
+  },
+  {
+    "id": 13701,
+    "name": "Human deadman annihilation reward teleport full"
+  },
+  {
+    "id": 13702,
+    "name": "Human deadman annihilation reward teleport 01"
+  },
+  {
+    "id": 13703,
+    "name": "Human deadman annihilation reward teleport 02"
+  },
+  {
+    "id": 13704,
+    "name": "Human deadman annihilation reward teleport 03"
+  },
+  {
+    "id": 13705,
+    "name": "Human deadman annihilation reward teleport 04"
+  },
+  {
+    "id": 13706,
+    "name": "Human deadman annihilation reward teleport 05"
+  },
+  {
+    "id": 13707,
+    "name": "Human deadman annihilation reward teleport 06"
+  },
+  {
+    "id": 13708,
+    "name": "Deadman 2026 home tele spotanim full"
+  },
+  {
+    "id": 13709,
+    "name": "Deadman 2026 home tele spotanim 01"
+  },
+  {
+    "id": 13710,
+    "name": "Deadman 2026 home tele spotanim 02"
+  },
+  {
+    "id": 13711,
+    "name": "Deadman 2026 home tele spotanim 03"
+  },
+  {
+    "id": 13712,
+    "name": "Deadman 2026 home tele spotanim 04"
+  },
+  {
+    "id": 13713,
+    "name": "Deadman 2026 home tele spotanim 05"
+  },
+  {
+    "id": 13714,
+    "name": "Deadman 2026 home tele spotanim 06"
+  },
+  {
+    "id": 13715,
+    "name": "Deadman 2026 sotd special toxic uncharged"
+  },
+  {
+    "id": 13716,
+    "name": "Deadman 2026 sotd special toxic charged"
+  },
+  {
+    "id": 13717,
+    "name": "Zuk spawn no rock"
+  },
+  {
+    "id": 13718,
+    "name": "Fever spider death"
+  },
+  {
+    "id": 13719,
+    "name": "25th portal swirl"
+  },
+  {
+    "id": 13720,
+    "name": "Dragon ready old"
+  },
+  {
+    "id": 13721,
+    "name": "Dragon walk old"
+  },
+  {
+    "id": 13722,
+    "name": "Dragon attack old"
+  },
+  {
+    "id": 13723,
+    "name": "Dragon block old"
+  },
+  {
+    "id": 13724,
+    "name": "Dragon head attack old"
+  },
+  {
+    "id": 13725,
+    "name": "Dragon firebreath all attack old"
+  },
+  {
+    "id": 13726,
+    "name": "Dragon firebreath left attack old"
+  },
+  {
+    "id": 13727,
+    "name": "Dragon firebreath right attack old"
+  },
+  {
+    "id": 13728,
+    "name": "Dragon firebreath middle attack old"
+  },
+  {
+    "id": 13729,
+    "name": "Dragon death old"
+  },
+  {
+    "id": 13730,
+    "name": "Dragon firebreath old"
+  },
+  {
+    "id": 13731,
+    "name": "Dragon ranged attacks old"
+  },
+  {
+    "id": 13732,
+    "name": "Dragon icebreath attack old"
+  },
+  {
+    "id": 13733,
+    "name": "Dragon acidbreath attack old"
+  },
+  {
+    "id": 13734,
+    "name": "Dragon triple firebreath attack old"
+  },
+  {
+    "id": 13735,
+    "name": "Babydragon ready old"
+  },
+  {
+    "id": 13736,
+    "name": "Babydragon walk old"
+  },
+  {
+    "id": 13737,
+    "name": "Babydragon walkbackwards old"
+  },
+  {
+    "id": 13738,
+    "name": "Babydragon walkleft old"
+  },
+  {
+    "id": 13739,
+    "name": "Babydragon walkright old"
+  },
+  {
+    "id": 13740,
+    "name": "Babydragon attack old"
+  },
+  {
+    "id": 13741,
+    "name": "Babydragon block old"
+  },
+  {
+    "id": 13742,
+    "name": "Babydragon death old"
+  },
+  {
+    "id": 13743,
+    "name": "Demon ready old"
+  },
+  {
+    "id": 13744,
+    "name": "Demon walk old"
+  },
+  {
+    "id": 13745,
+    "name": "Demon attack old"
+  },
+  {
+    "id": 13746,
+    "name": "Demon block old"
+  },
+  {
+    "id": 13747,
+    "name": "Demon death old"
+  },
+  {
+    "id": 13748,
+    "name": "Demon death greater old"
+  },
+  {
+    "id": 13749,
+    "name": "Scorpion ready old"
+  },
+  {
+    "id": 13750,
+    "name": "Scorpion walk old"
+  },
+  {
+    "id": 13751,
+    "name": "Scorpion attack old"
+  },
+  {
+    "id": 13752,
+    "name": "Scorpion parry old"
+  },
+  {
+    "id": 13753,
+    "name": "Scorpion death old"
+  },
+  {
+    "id": 13754,
+    "name": "Ork walk"
+  },
+  {
+    "id": 13755,
+    "name": "Ork attack"
+  },
+  {
+    "id": 13756,
+    "name": "Ork block"
+  },
+  {
+    "id": 13757,
+    "name": "Ork ready"
+  },
+  {
+    "id": 13758,
+    "name": "Ork death"
+  },
+  {
+    "id": 13759,
+    "name": "Lizardman walk"
+  },
+  {
+    "id": 13760,
+    "name": "Lizardman attack"
+  },
+  {
+    "id": 13761,
+    "name": "Lizardman block"
+  },
+  {
+    "id": 13762,
+    "name": "Lizardman ready"
+  },
+  {
+    "id": 13763,
+    "name": "Lizardman death"
+  },
+  {
+    "id": 13764,
+    "name": "Cave bug fade walk"
+  },
+  {
+    "id": 13765,
+    "name": "Bigmo ready"
+  },
+  {
+    "id": 13766,
+    "name": "Bigmo talk"
+  },
+  {
+    "id": 13767,
+    "name": "Bigmo chathead talking"
+  },
+  {
+    "id": 13768,
+    "name": "Bigmo chathead laugh"
+  },
+  {
+    "id": 13769,
+    "name": "Kalphite crackedopen old"
+  },
+  {
+    "id": 13770,
+    "name": "Kalphite attack claws old"
+  },
+  {
+    "id": 13771,
+    "name": "Kalphite queen ranged attack old"
+  },
+  {
+    "id": 13772,
+    "name": "Kalphite lightning old"
+  },
+  {
+    "id": 13773,
+    "name": "Kalphite flying lightning old"
+  },
+  {
+    "id": 13774,
+    "name": "Kalphite glow old"
+  },
+  {
+    "id": 13775,
+    "name": "Kalphite queen glow old"
+  },
+  {
+    "id": 13776,
+    "name": "25th spotlight pulsate 1"
+  },
+  {
+    "id": 13777,
+    "name": "25th spotlight pulsate 2"
+  },
+  {
+    "id": 13778,
+    "name": "Cow boss charge"
+  },
+  {
+    "id": 13779,
+    "name": "Cow boss ghost charge"
+  },
+  {
+    "id": 13780,
+    "name": "Cow boss heavy breath"
+  },
+  {
+    "id": 13781,
+    "name": "Cow boss idle"
+  },
+  {
+    "id": 13782,
+    "name": "Cow boss walk"
+  },
+  {
+    "id": 13783,
+    "name": "Cow boss attack"
+  },
+  {
+    "id": 13784,
+    "name": "Cow boss death"
+  },
+  {
+    "id": 13785,
+    "name": "Cow boss stomp"
+  },
+  {
+    "id": 13786,
+    "name": "Cow boss ghost stomp"
+  },
+  {
+    "id": 13787,
+    "name": "Cow boss defend"
+  },
+  {
+    "id": 13788,
+    "name": "Cow boss despawn lowprio"
+  },
+  {
+    "id": 13789,
+    "name": "Cow boss despawn highprio"
+  },
+  {
+    "id": 13790,
+    "name": "Cow boss spawn"
+  },
+  {
+    "id": 13791,
+    "name": "Cow boss spirit stomp"
+  },
+  {
+    "id": 13792,
+    "name": "Cow boss ghost spirit stomp"
+  },
+  {
+    "id": 13793,
+    "name": "Cow boss charging fade in fade out"
+  },
+  {
+    "id": 13794,
+    "name": "Cow boss ghost charging fade in fade out"
+  },
+  {
+    "id": 13795,
+    "name": "Cow boss charge start fade out"
+  },
+  {
+    "id": 13796,
+    "name": "Cow boss ghost charge start fade out"
+  },
+  {
+    "id": 13797,
+    "name": "Cow boss charge end fade in"
+  },
+  {
+    "id": 13798,
+    "name": "Cow boss ghost charge end fade in"
+  },
+  {
+    "id": 13799,
+    "name": "Cow boss stomp fade in"
+  },
+  {
+    "id": 13800,
+    "name": "Cow boss ghost stomp fade in"
+  },
+  {
+    "id": 13801,
+    "name": "Cowboss pet emote"
+  },
+  {
+    "id": 13802,
+    "name": "Cowboss pet emote spotanim"
+  },
+  {
+    "id": 13803,
+    "name": "Cowboss pet emote charge"
+  },
+  {
+    "id": 13804,
+    "name": "Milk impact"
+  },
+  {
+    "id": 13805,
+    "name": "Milk orb static"
+  },
+  {
+    "id": 13806,
+    "name": "Milk orb spawn"
+  },
+  {
+    "id": 13807,
+    "name": "Milk orb drop"
+  },
+  {
+    "id": 13808,
+    "name": "Vfx cowboss stomp impact01"
+  },
+  {
+    "id": 13809,
+    "name": "Vfx cowboss stomp impact02"
+  },
+  {
+    "id": 13810,
+    "name": "Vfx cowboss stomp impact03"
+  },
+  {
+    "id": 13811,
+    "name": "Human cowboss teleport"
+  },
+  {
+    "id": 13812,
+    "name": "Vfx human cowboss teleport"
+  },
+  {
+    "id": 13813,
+    "name": "Vfx human cowboss teleport loop"
+  },
+  {
+    "id": 13814,
+    "name": "Vfx human cowboss teleport exit"
+  },
+  {
+    "id": 13815,
+    "name": "Human cowquest sick"
+  },
+  {
+    "id": 13816,
+    "name": "Human spider silk crafting"
   }
 ]
