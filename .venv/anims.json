@@ -4705,11 +4705,11 @@
   },
   {
     "id": 1176,
-    "name": "Kalphite queen ready"
+    "name": "Sailing ballistic attractor idle off"
   },
   {
     "id": 1177,
-    "name": "Kalphite queen attack mandibles"
+    "name": "Sailing ballistic attractor idle on"
   },
   {
     "id": 1178,
@@ -4717,19 +4717,15 @@
   },
   {
     "id": 1179,
-    "name": "Kalphite queen block"
+    "name": "Sailing human salvage hook kandarin 1x3 drop01 crew"
   },
   {
     "id": 1180,
-    "name": "Kalphite queen still"
+    "name": "Sailing human salvage hook kandarin 2x5 drop01 crew"
   },
   {
     "id": 1181,
-    "name": "Kalphite queen rising"
-  },
-  {
-    "id": 1182,
-    "name": "Kalphite queen death"
+    "name": "Sailing human salvage hook kandarin 3x8 drop01 crew"
   },
   {
     "id": 1183,
@@ -4746,10 +4742,6 @@
   {
     "id": 1186,
     "name": "Kalphite block"
-  },
-  {
-    "id": 1187,
-    "name": "Kalphite crackopen"
   },
   {
     "id": 1188,
@@ -7094,34 +7086,6 @@
   {
     "id": 1773,
     "name": "Giant eagle fly"
-  },
-  {
-    "id": 1774,
-    "name": "Cave bug walks"
-  },
-  {
-    "id": 1775,
-    "name": "Cave bug defend"
-  },
-  {
-    "id": 1776,
-    "name": "Cave bug idle"
-  },
-  {
-    "id": 1777,
-    "name": "Cave bug attack"
-  },
-  {
-    "id": 1778,
-    "name": "Cave bug death"
-  },
-  {
-    "id": 1779,
-    "name": "Cave bug fade in"
-  },
-  {
-    "id": 1780,
-    "name": "Cave bug fade out"
   },
   {
     "id": 1781,
@@ -11884,18 +11848,6 @@
     "name": "Champions ghoul skull travel"
   },
   {
-    "id": 2971,
-    "name": "Champions lesserdemon ready"
-  },
-  {
-    "id": 2972,
-    "name": "Champions lesserdemon slash"
-  },
-  {
-    "id": 2973,
-    "name": "Champions lesserdemon fire cast"
-  },
-  {
     "id": 2974,
     "name": "Champions lesserdemon fire launch"
   },
@@ -11906,18 +11858,6 @@
   {
     "id": 2976,
     "name": "Champions grill"
-  },
-  {
-    "id": 2977,
-    "name": "Champion lesserdemon ready"
-  },
-  {
-    "id": 2978,
-    "name": "Champion lesserdemon slash"
-  },
-  {
-    "id": 2979,
-    "name": "Champion lesserdemon fire cast"
   },
   {
     "id": 2980,
@@ -54846,242 +54786,6 @@
   {
     "id": 13718,
     "name": "Fever spider death"
-  },
-  {
-    "id": 13719,
-    "name": "25th portal swirl"
-  },
-  {
-    "id": 13720,
-    "name": "Dragon ready old"
-  },
-  {
-    "id": 13721,
-    "name": "Dragon walk old"
-  },
-  {
-    "id": 13722,
-    "name": "Dragon attack old"
-  },
-  {
-    "id": 13723,
-    "name": "Dragon block old"
-  },
-  {
-    "id": 13724,
-    "name": "Dragon head attack old"
-  },
-  {
-    "id": 13725,
-    "name": "Dragon firebreath all attack old"
-  },
-  {
-    "id": 13726,
-    "name": "Dragon firebreath left attack old"
-  },
-  {
-    "id": 13727,
-    "name": "Dragon firebreath right attack old"
-  },
-  {
-    "id": 13728,
-    "name": "Dragon firebreath middle attack old"
-  },
-  {
-    "id": 13729,
-    "name": "Dragon death old"
-  },
-  {
-    "id": 13730,
-    "name": "Dragon firebreath old"
-  },
-  {
-    "id": 13731,
-    "name": "Dragon ranged attacks old"
-  },
-  {
-    "id": 13732,
-    "name": "Dragon icebreath attack old"
-  },
-  {
-    "id": 13733,
-    "name": "Dragon acidbreath attack old"
-  },
-  {
-    "id": 13734,
-    "name": "Dragon triple firebreath attack old"
-  },
-  {
-    "id": 13735,
-    "name": "Babydragon ready old"
-  },
-  {
-    "id": 13736,
-    "name": "Babydragon walk old"
-  },
-  {
-    "id": 13737,
-    "name": "Babydragon walkbackwards old"
-  },
-  {
-    "id": 13738,
-    "name": "Babydragon walkleft old"
-  },
-  {
-    "id": 13739,
-    "name": "Babydragon walkright old"
-  },
-  {
-    "id": 13740,
-    "name": "Babydragon attack old"
-  },
-  {
-    "id": 13741,
-    "name": "Babydragon block old"
-  },
-  {
-    "id": 13742,
-    "name": "Babydragon death old"
-  },
-  {
-    "id": 13743,
-    "name": "Demon ready old"
-  },
-  {
-    "id": 13744,
-    "name": "Demon walk old"
-  },
-  {
-    "id": 13745,
-    "name": "Demon attack old"
-  },
-  {
-    "id": 13746,
-    "name": "Demon block old"
-  },
-  {
-    "id": 13747,
-    "name": "Demon death old"
-  },
-  {
-    "id": 13748,
-    "name": "Demon death greater old"
-  },
-  {
-    "id": 13749,
-    "name": "Scorpion ready old"
-  },
-  {
-    "id": 13750,
-    "name": "Scorpion walk old"
-  },
-  {
-    "id": 13751,
-    "name": "Scorpion attack old"
-  },
-  {
-    "id": 13752,
-    "name": "Scorpion parry old"
-  },
-  {
-    "id": 13753,
-    "name": "Scorpion death old"
-  },
-  {
-    "id": 13754,
-    "name": "Ork walk"
-  },
-  {
-    "id": 13755,
-    "name": "Ork attack"
-  },
-  {
-    "id": 13756,
-    "name": "Ork block"
-  },
-  {
-    "id": 13757,
-    "name": "Ork ready"
-  },
-  {
-    "id": 13758,
-    "name": "Ork death"
-  },
-  {
-    "id": 13759,
-    "name": "Lizardman walk"
-  },
-  {
-    "id": 13760,
-    "name": "Lizardman attack"
-  },
-  {
-    "id": 13761,
-    "name": "Lizardman block"
-  },
-  {
-    "id": 13762,
-    "name": "Lizardman ready"
-  },
-  {
-    "id": 13763,
-    "name": "Lizardman death"
-  },
-  {
-    "id": 13764,
-    "name": "Cave bug fade walk"
-  },
-  {
-    "id": 13765,
-    "name": "Bigmo ready"
-  },
-  {
-    "id": 13766,
-    "name": "Bigmo talk"
-  },
-  {
-    "id": 13767,
-    "name": "Bigmo chathead talking"
-  },
-  {
-    "id": 13768,
-    "name": "Bigmo chathead laugh"
-  },
-  {
-    "id": 13769,
-    "name": "Kalphite crackedopen old"
-  },
-  {
-    "id": 13770,
-    "name": "Kalphite attack claws old"
-  },
-  {
-    "id": 13771,
-    "name": "Kalphite queen ranged attack old"
-  },
-  {
-    "id": 13772,
-    "name": "Kalphite lightning old"
-  },
-  {
-    "id": 13773,
-    "name": "Kalphite flying lightning old"
-  },
-  {
-    "id": 13774,
-    "name": "Kalphite glow old"
-  },
-  {
-    "id": 13775,
-    "name": "Kalphite queen glow old"
-  },
-  {
-    "id": 13776,
-    "name": "25th spotlight pulsate 1"
-  },
-  {
-    "id": 13777,
-    "name": "25th spotlight pulsate 2"
   },
   {
     "id": 13778,
