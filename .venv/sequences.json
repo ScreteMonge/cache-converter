@@ -7092,6 +7092,12 @@
     "leftHandItem": 0
   },
   {
+    "name": "Unnamed",
+    "id": 1182,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
     "name": "Kalphite ready",
     "id": 1183,
     "rightHandItem": -1,
@@ -7112,6 +7118,12 @@
   {
     "name": "Kalphite block",
     "id": 1186,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 1187,
     "rightHandItem": -1,
     "leftHandItem": -1
   },
@@ -10630,6 +10642,48 @@
     "id": 1773,
     "rightHandItem": -1,
     "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 1774,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 1775,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 1776,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 1777,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 1778,
+    "rightHandItem": -1,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 1779,
+    "rightHandItem": -1,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 1780,
+    "rightHandItem": -1,
+    "leftHandItem": 0
   },
   {
     "name": "Cave littlebug walk",

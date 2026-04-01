@@ -50043,6 +50043,18 @@
   },
   {
     "name": "Unnamed",
+    "id": 3575,
+    "modelId": 16938,
+    "animationId": 1778,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 10,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Unnamed",
     "id": 3585,
     "modelId": 51259,
     "animationId": 11025,
