@@ -11884,6 +11884,18 @@
     "name": "Champions ghoul skull travel"
   },
   {
+    "id": 2971,
+    "name": "Leagues 6 hespori vine impact 01"
+  },
+  {
+    "id": 2972,
+    "name": "Vfx player leagues 6 magic fire spell"
+  },
+  {
+    "id": 2973,
+    "name": "Npc djinn 01 combo merge"
+  },
+  {
     "id": 2974,
     "name": "Champions lesserdemon fire launch"
   },
@@ -11894,6 +11906,18 @@
   {
     "id": 2976,
     "name": "Champions grill"
+  },
+  {
+    "id": 2977,
+    "name": "League mastery unlock"
+  },
+  {
+    "id": 2978,
+    "name": "Sage idle cage 01"
+  },
+  {
+    "id": 2979,
+    "name": "Sage idle cage 02"
   },
   {
     "id": 2980,
@@ -54824,6 +54848,242 @@
     "name": "Fever spider death"
   },
   {
+    "id": 13719,
+    "name": "Transmutation relic upgrade spotanim01"
+  },
+  {
+    "id": 13720,
+    "name": "Transmutation relic downgrade spotanim01"
+  },
+  {
+    "id": 13721,
+    "name": "Transmutation cast"
+  },
+  {
+    "id": 13722,
+    "name": "Transmutation cast downgrade"
+  },
+  {
+    "id": 13723,
+    "name": "Vfx hotfoot01"
+  },
+  {
+    "id": 13724,
+    "name": "Vfx soul harvest01"
+  },
+  {
+    "id": 13725,
+    "name": "Vfx impersonation mark01"
+  },
+  {
+    "id": 13726,
+    "name": "Impersonation marking01"
+  },
+  {
+    "id": 13727,
+    "name": "Evil eye cast01"
+  },
+  {
+    "id": 13728,
+    "name": "Vfx evil eye01"
+  },
+  {
+    "id": 13729,
+    "name": "Trailbound teleport01"
+  },
+  {
+    "id": 13730,
+    "name": "Vfx trailbound smoke01"
+  },
+  {
+    "id": 13731,
+    "name": "Vfx bank heist teleport01"
+  },
+  {
+    "id": 13732,
+    "name": "Bank heist01"
+  },
+  {
+    "id": 13733,
+    "name": "Mastery ui scroll reading01"
+  },
+  {
+    "id": 13734,
+    "name": "Vfx mastery ui scroll reading01"
+  },
+  {
+    "id": 13735,
+    "name": "Mastery ui scroll putaway01"
+  },
+  {
+    "id": 13736,
+    "name": "Vfx mastery ui scroll putaway01"
+  },
+  {
+    "id": 13737,
+    "name": "Vfx mastery regenerating runes01"
+  },
+  {
+    "id": 13738,
+    "name": "Hotfoot grace teleport"
+  },
+  {
+    "id": 13739,
+    "name": "Vfx mastery health regen"
+  },
+  {
+    "id": 13740,
+    "name": "Vfx mastery shield"
+  },
+  {
+    "id": 13741,
+    "name": "Vfx echo arrow"
+  },
+  {
+    "id": 13742,
+    "name": "Mastery ranged max hit cap vfx"
+  },
+  {
+    "id": 13743,
+    "name": "Mastery ranged max hit cap venator vfx"
+  },
+  {
+    "id": 13744,
+    "name": "Leagues 6 range mastery echo"
+  },
+  {
+    "id": 13745,
+    "name": "Leagues 6 range mastery echo left"
+  },
+  {
+    "id": 13746,
+    "name": "Leagues 6 range mastery echo right"
+  },
+  {
+    "id": 13747,
+    "name": "Leagues 6 melee mastery vfx slash"
+  },
+  {
+    "id": 13748,
+    "name": "Leagues 6 melee mastery vfx crush"
+  },
+  {
+    "id": 13749,
+    "name": "Leagues 6 melee mastery vfx stab"
+  },
+  {
+    "id": 13750,
+    "name": "Vfx kings barrage projectile"
+  },
+  {
+    "id": 13751,
+    "name": "Vfx kings barrage impact"
+  },
+  {
+    "id": 13752,
+    "name": "Vfx kings barrage projectile single"
+  },
+  {
+    "id": 13753,
+    "name": "Human karambit attack"
+  },
+  {
+    "id": 13754,
+    "name": "Human karambit spec"
+  },
+  {
+    "id": 13755,
+    "name": "Human karambit inspect"
+  },
+  {
+    "id": 13756,
+    "name": "Vfx flames of cerberus"
+  },
+  {
+    "id": 13757,
+    "name": "Vfx lithic sceptre shatter spotanim 01"
+  },
+  {
+    "id": 13758,
+    "name": "Vfx lithic sceptre shatter spotanim 02"
+  },
+  {
+    "id": 13759,
+    "name": "Vfx lithic sceptre shatter spotanim 03"
+  },
+  {
+    "id": 13760,
+    "name": "Vfx human lithic sceptre spotanim"
+  },
+  {
+    "id": 13761,
+    "name": "Human lithic sceptre spec 01"
+  },
+  {
+    "id": 13762,
+    "name": "Human infernal tecpatl spec"
+  },
+  {
+    "id": 13763,
+    "name": "Human infernal tecpatl attack"
+  },
+  {
+    "id": 13764,
+    "name": "Leagues 6 home teleport player 01"
+  },
+  {
+    "id": 13765,
+    "name": "Leagues 6 home teleport spotanim 01"
+  },
+  {
+    "id": 13766,
+    "name": "Leagues 6 home teleport player 02"
+  },
+  {
+    "id": 13767,
+    "name": "Leagues 6 home teleport spotanim 02"
+  },
+  {
+    "id": 13768,
+    "name": "Leagues 6 home teleport player 03"
+  },
+  {
+    "id": 13769,
+    "name": "Leagues 6 home teleport spotanim 03"
+  },
+  {
+    "id": 13770,
+    "name": "Leagues 6 home teleport player 04"
+  },
+  {
+    "id": 13771,
+    "name": "Leagues 6 home teleport spotanim 04"
+  },
+  {
+    "id": 13772,
+    "name": "Leagues 6 home teleport player 05"
+  },
+  {
+    "id": 13773,
+    "name": "Leagues 6 home teleport spotanim 05"
+  },
+  {
+    "id": 13774,
+    "name": "Leagues 6 home teleport player 06"
+  },
+  {
+    "id": 13775,
+    "name": "Leagues 6 home teleport spotanim 06"
+  },
+  {
+    "id": 13776,
+    "name": "Leagues 6 home teleport player 07"
+  },
+  {
+    "id": 13777,
+    "name": "Leagues 6 home teleport spotanim 07"
+  },
+  {
     "id": 13778,
     "name": "Cow boss charge"
   },
@@ -54978,5 +55238,221 @@
   {
     "id": 13816,
     "name": "Human spider silk crafting"
+  },
+  {
+    "id": 13817,
+    "name": "Leagues 6 home teleport player 08"
+  },
+  {
+    "id": 13818,
+    "name": "Leagues 6 home teleport spotanim 08"
+  },
+  {
+    "id": 13819,
+    "name": "Leagues 6 home teleport player"
+  },
+  {
+    "id": 13820,
+    "name": "Leagues 6 home teleport spotanim"
+  },
+  {
+    "id": 13821,
+    "name": "Human ibans orn walk f"
+  },
+  {
+    "id": 13822,
+    "name": "Human ibans orn walk l"
+  },
+  {
+    "id": 13823,
+    "name": "Human ibans orn walk r"
+  },
+  {
+    "id": 13824,
+    "name": "Human ibans orn walk b"
+  },
+  {
+    "id": 13825,
+    "name": "Human ibans orn run f"
+  },
+  {
+    "id": 13826,
+    "name": "Human ibans orn ready"
+  },
+  {
+    "id": 13827,
+    "name": "Human ibans orn melee"
+  },
+  {
+    "id": 13828,
+    "name": "Human ibans orn sea cast"
+  },
+  {
+    "id": 13829,
+    "name": "Human ibans orn swamp cast"
+  },
+  {
+    "id": 13830,
+    "name": "Human ibans orn cast"
+  },
+  {
+    "id": 13831,
+    "name": "Demon butler leagues idle"
+  },
+  {
+    "id": 13832,
+    "name": "Demon butler leagues walk"
+  },
+  {
+    "id": 13833,
+    "name": "Leagues 6 thrall imp magic spawn"
+  },
+  {
+    "id": 13834,
+    "name": "Leagues 6 thrall imp magic spawn vfx spotanim"
+  },
+  {
+    "id": 13835,
+    "name": "Leagues 6 thrall imp ranged spawn"
+  },
+  {
+    "id": 13836,
+    "name": "Leagues 6 thrall imp ranged spawn vfx spotanim"
+  },
+  {
+    "id": 13837,
+    "name": "Leagues 6 thrall imp melee spawn"
+  },
+  {
+    "id": 13838,
+    "name": "Leagues 6 thrall imp melee spawn vfx spotanim"
+  },
+  {
+    "id": 13839,
+    "name": "Leagues 6 thrall imp magic idle"
+  },
+  {
+    "id": 13840,
+    "name": "Leagues 6 thrall imp ranged idle"
+  },
+  {
+    "id": 13841,
+    "name": "Leagues 6 thrall imp melee idle"
+  },
+  {
+    "id": 13842,
+    "name": "Leagues 6 thrall imp magic walk"
+  },
+  {
+    "id": 13843,
+    "name": "Leagues 6 thrall imp ranged walk"
+  },
+  {
+    "id": 13844,
+    "name": "Leagues 6 thrall imp melee walk"
+  },
+  {
+    "id": 13845,
+    "name": "Leagues 6 thrall imp magic run"
+  },
+  {
+    "id": 13846,
+    "name": "Leagues 6 thrall imp ranged run"
+  },
+  {
+    "id": 13847,
+    "name": "Leagues 6 thrall imp melee run"
+  },
+  {
+    "id": 13848,
+    "name": "Leagues 6 thrall imp magic attack"
+  },
+  {
+    "id": 13849,
+    "name": "Leagues 6 thrall imp magic attack 02"
+  },
+  {
+    "id": 13850,
+    "name": "Leagues 6 thrall imp ranged attack"
+  },
+  {
+    "id": 13851,
+    "name": "Leagues 6 thrall imp melee attack"
+  },
+  {
+    "id": 13852,
+    "name": "Leagues 6 thrall imp magic despawn"
+  },
+  {
+    "id": 13853,
+    "name": "Leagues 6 thrall imp magic despawn vfx spotanim"
+  },
+  {
+    "id": 13854,
+    "name": "Leagues 6 thrall imp ranged despawn"
+  },
+  {
+    "id": 13855,
+    "name": "Leagues 6 thrall imp ranged despawn vfx spotanim"
+  },
+  {
+    "id": 13856,
+    "name": "Leagues 6 thrall imp melee despawn"
+  },
+  {
+    "id": 13857,
+    "name": "Leagues 6 thrall imp melee despawn vfx spotanim"
+  },
+  {
+    "id": 13858,
+    "name": "Leagues 6 thrall imp magic transition vfx spotanim"
+  },
+  {
+    "id": 13859,
+    "name": "Leagues 6 thrall imp ranged transition vfx spotanim"
+  },
+  {
+    "id": 13860,
+    "name": "Leagues 6 thrall imp melee transition vfx spotanim"
+  },
+  {
+    "id": 13861,
+    "name": "Leagues 6 thrall imp magic attack vfx projanim"
+  },
+  {
+    "id": 13862,
+    "name": "Leagues 6 imp lesser idle"
+  },
+  {
+    "id": 13863,
+    "name": "Leagues 6 imp lesser walk"
+  },
+  {
+    "id": 13864,
+    "name": "Leagues 6 imp lesser 01 idle 01"
+  },
+  {
+    "id": 13865,
+    "name": "Leagues 6 imp lesser 02 idle 01"
+  },
+  {
+    "id": 13866,
+    "name": "Leagues 6 imp lesser 02 walk 01"
+  },
+  {
+    "id": 13867,
+    "name": "Leagues 6 imp lesser 03 idle 01"
+  },
+  {
+    "id": 13868,
+    "name": "Leagues 6 imp lesser 04 idle 01"
+  },
+  {
+    "id": 13869,
+    "name": "Human mining demonic pact"
+  },
+  {
+    "id": 13870,
+    "name": "Human woodcutting demonic pact"
   }
 ]
