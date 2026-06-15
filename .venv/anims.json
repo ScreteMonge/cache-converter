@@ -55454,5 +55454,157 @@
   {
     "id": 13870,
     "name": "Human woodcutting demonic pact"
+  },
+  {
+    "id": 13871,
+    "name": "Vfx cannonball incendary01 projectile"
+  },
+  {
+    "id": 13872,
+    "name": "Vfx cannonball chainshot01 projectile"
+  },
+  {
+    "id": 13873,
+    "name": "Vfx sailing cannon01 small01 chainshot01 impact01"
+  },
+  {
+    "id": 13874,
+    "name": "Vfx sailing cannon01 small01 incendary01 impact01"
+  },
+  {
+    "id": 13875,
+    "name": "Sailing boat sail kandarin 1x3 down offset"
+  },
+  {
+    "id": 13876,
+    "name": "Sailing boat sail kandarin 1x3 half to down offset"
+  },
+  {
+    "id": 13877,
+    "name": "Sailing boat sail kandarin 1x3 full to down offset"
+  },
+  {
+    "id": 13878,
+    "name": "Sailing boat sail kandarin 1x3 half offset"
+  },
+  {
+    "id": 13879,
+    "name": "Sailing boat sail kandarin 1x3 down to half offset"
+  },
+  {
+    "id": 13880,
+    "name": "Sailing boat sail kandarin 1x3 full to half offset"
+  },
+  {
+    "id": 13881,
+    "name": "Sailing boat sail kandarin 1x3 full offset"
+  },
+  {
+    "id": 13882,
+    "name": "Sailing boat sail kandarin 1x3 down to full offset"
+  },
+  {
+    "id": 13883,
+    "name": "Sailing boat sail kandarin 1x3 half to full offset"
+  },
+  {
+    "id": 13884,
+    "name": "Sailing boat sail kandarin 2x5 down offset"
+  },
+  {
+    "id": 13885,
+    "name": "Sailing boat sail kandarin 2x5 half to down offset"
+  },
+  {
+    "id": 13886,
+    "name": "Sailing boat sail kandarin 2x5 full to down offset"
+  },
+  {
+    "id": 13887,
+    "name": "Sailing boat sail kandarin 2x5 half offset"
+  },
+  {
+    "id": 13888,
+    "name": "Sailing boat sail kandarin 2x5 down to half offset"
+  },
+  {
+    "id": 13889,
+    "name": "Sailing boat sail kandarin 2x5 full to half offset"
+  },
+  {
+    "id": 13890,
+    "name": "Sailing boat sail kandarin 2x5 full offset"
+  },
+  {
+    "id": 13891,
+    "name": "Sailing boat sail kandarin 2x5 down to full offset"
+  },
+  {
+    "id": 13892,
+    "name": "Sailing boat sail kandarin 2x5 half to full offset"
+  },
+  {
+    "id": 13893,
+    "name": "Sailing boat sail kandarin 3x8 down offset"
+  },
+  {
+    "id": 13894,
+    "name": "Sailing boat sail kandarin 3x8 half to down offset"
+  },
+  {
+    "id": 13895,
+    "name": "Sailing boat sail kandarin 3x8 full to down offset"
+  },
+  {
+    "id": 13896,
+    "name": "Sailing boat sail kandarin 3x8 half offset"
+  },
+  {
+    "id": 13897,
+    "name": "Sailing boat sail kandarin 3x8 down to half offset"
+  },
+  {
+    "id": 13898,
+    "name": "Sailing boat sail kandarin 3x8 full to half offset"
+  },
+  {
+    "id": 13899,
+    "name": "Sailing boat sail kandarin 3x8 full offset"
+  },
+  {
+    "id": 13900,
+    "name": "Sailing boat sail kandarin 3x8 down to full offset"
+  },
+  {
+    "id": 13901,
+    "name": "Sailing boat sail kandarin 3x8 half to full offset"
+  },
+  {
+    "id": 13902,
+    "name": "League 6 home teleport scroll read"
+  },
+  {
+    "id": 13903,
+    "name": "Chair sit ready throne 8"
+  },
+  {
+    "id": 13904,
+    "name": "Chair eat throne 8"
+  },
+  {
+    "id": 13905,
+    "name": "Slayer tots charge orn"
+  },
+  {
+    "id": 13906,
+    "name": "Slayer tots charge toxic orn"
+  },
+  {
+    "id": 13907,
+    "name": "Slayer tots i charge orn"
+  },
+  {
+    "id": 13908,
+    "name": "Slayer tots i charge toxic orn"
   }
 ]
