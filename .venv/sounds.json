@@ -4421,7 +4421,7 @@
   },
   {
     "id": "1105",
-    "name": "FT_rainbutt"
+    "name": "FT_raincloud"
   },
   {
     "id": "1106",
@@ -14669,7 +14669,7 @@
   },
   {
     "id": "3679",
-    "name": "grim_bgsound_buttbreeze"
+    "name": "grim_bgsound_cloudbreeze"
   },
   {
     "id": "3680",
@@ -18149,7 +18149,7 @@
   },
   {
     "id": "4551",
-    "name": "lore_dust_butt_impact"
+    "name": "lore_dust_cloud_impact"
   },
   {
     "id": "4552",
@@ -18697,7 +18697,7 @@
   },
   {
     "id": "4688",
-    "name": "lore_dust_butt"
+    "name": "lore_dust_cloud"
   },
   {
     "id": "4689",
@@ -22900,6 +22900,10 @@
     "name": "toa_alla_teleport_appear_spear_01"
   },
   {
+    "id": "5740",
+    "name": "easter25_searching_sit_knee_02"
+  },
+  {
     "id": "5741",
     "name": "toa_akka_attack_magic_sword_abstract_movement_01"
   },
@@ -23254,10 +23258,6 @@
   {
     "id": "5829",
     "name": "toa_zebak_roar_single_tremor_01"
-  },
-  {
-    "id": "5830",
-    "name": "toa_zebak_attack_jaw_shut_02"
   },
   {
     "id": "5831",
@@ -24234,10 +24234,6 @@
   {
     "id": "6074",
     "name": "toa_wardens_death_failed_punch_02"
-  },
-  {
-    "id": "6075",
-    "name": "toa_wardens_melee_sword_strike_02"
   },
   {
     "id": "6076",
@@ -26645,7 +26641,7 @@
   },
   {
     "id": "6677",
-    "name": "sotn_butt_explode_01"
+    "name": "sotn_cloud_explode_01"
   },
   {
     "id": "6678",
@@ -28504,6 +28500,10 @@
     "name": "dt2_vardorvis_entangled_damage_impact_01"
   },
   {
+    "id": "7142",
+    "name": "easter25_bowling_ball_impact_02"
+  },
+  {
     "id": "7143",
     "name": "dt2_vardorvis_head_scream_tentacle_spawn_07"
   },
@@ -29036,6 +29036,10 @@
     "name": "dt2_whisperer_att_screech_rise_stutter_01"
   },
   {
+    "id": "7276",
+    "name": "easter25_bowling_ball_travel_03"
+  },
+  {
     "id": "7277",
     "name": "dt2_whisperer_melee_right_woosh_03"
   },
@@ -29366,6 +29370,10 @@
   {
     "id": "7359",
     "name": "dt2_whisperer_melee_player_impact_01"
+  },
+  {
+    "id": "7360",
+    "name": "easter25_searching_stand_02"
   },
   {
     "id": "7361",
@@ -29846,6 +29854,10 @@
   {
     "id": "7480",
     "name": "dt2_whisperer_all_eggs_hatch_lavrae_return_06"
+  },
+  {
+    "id": "7481",
+    "name": "easter25_searching_03"
   },
   {
     "id": "7482",
@@ -34934,6 +34946,10 @@
   {
     "id": "8753",
     "name": "varl_pm_blood_magic_combo_bass_whoosh_02"
+  },
+  {
+    "id": "8754",
+    "name": "easter25_searching_sit_knee_01"
   },
   {
     "id": "8755",
@@ -40312,6 +40328,390 @@
     "name": "xmas_2024_dog_awoo_01"
   },
   {
+    "id": "10099",
+    "name": "rt_deadeye_prayer_scroll_particles_01"
+  },
+  {
+    "id": "10100",
+    "name": "rt_mystic_vigour_activate"
+  },
+  {
+    "id": "10101",
+    "name": "rt_deadeye_prayer_activate"
+  },
+  {
+    "id": "10102",
+    "name": "rt_branda_loot_collect_01"
+  },
+  {
+    "id": "10103",
+    "name": "rt_twin_giant_soul_amulet_teleport_01"
+  },
+  {
+    "id": "10104",
+    "name": "rt_deadeye_prayer_scroll_mystic_rigour_fire_01"
+  },
+  {
+    "id": "10105",
+    "name": "rt_deadeye_prayer_activate_08"
+  },
+  {
+    "id": "10106",
+    "name": "rt_twin_flame_create_01"
+  },
+  {
+    "id": "10107",
+    "name": "rt_twin_flame_create_02"
+  },
+  {
+    "id": "10108",
+    "name": "rt_eldric_loot_collect_01"
+  },
+  {
+    "id": "10109",
+    "name": "rt_eldric_ice_king_death_melt_02"
+  },
+  {
+    "id": "10110",
+    "name": "rt_eldric_ice_king_staff_move_01"
+  },
+  {
+    "id": "10111",
+    "name": "rt_eldric_ice_king_attack_summon_down_01"
+  },
+  {
+    "id": "10112",
+    "name": "rt_eldric_ice_king_attack_summon_up_01"
+  },
+  {
+    "id": "10113",
+    "name": "rt_eldric_ice_king_special_aoe_attack_up_whoosh_01"
+  },
+  {
+    "id": "10114",
+    "name": "rt_eldric_ice_king_melee_attack_stomp_01"
+  },
+  {
+    "id": "10115",
+    "name": "rt_eldric_ice_king_attack_summon_down_02"
+  },
+  {
+    "id": "10116",
+    "name": "rt_eldric_ice_king_loc_attack_spawn_01"
+  },
+  {
+    "id": "10117",
+    "name": "rt_eldric_ice_king_loc_attack_explode_01"
+  },
+  {
+    "id": "10118",
+    "name": "rt_eldric_ice_king_loc_attack_spikes_01"
+  },
+  {
+    "id": "10119",
+    "name": "rt_eldric_ice_king_loc_attack_despawn_01"
+  },
+  {
+    "id": "10120",
+    "name": "rt_eldric_ice_king_death_ice_shatter_01"
+  },
+  {
+    "id": "10121",
+    "name": "rt_eldric_ice_king_death_melt_01"
+  },
+  {
+    "id": "10122",
+    "name": "rt_eldric_ice_king_spawn_start_01"
+  },
+  {
+    "id": "10123",
+    "name": "rt_eldric_ice_king_death_moan_01"
+  },
+  {
+    "id": "10124",
+    "name": "rt_eldric_ice_king_death_staff_land_01"
+  },
+  {
+    "id": "10125",
+    "name": "rt_eldric_ice_king_death_melt_blue_spark_01"
+  },
+  {
+    "id": "10126",
+    "name": "rt_eldric_ice_king_teleport_01"
+  },
+  {
+    "id": "10127",
+    "name": "rt_eldric_ice_king_melee_attack_whoosh_down"
+  },
+  {
+    "id": "10128",
+    "name": "rt_eldric_ice_king_attack_summon_02_up_01"
+  },
+  {
+    "id": "10129",
+    "name": "rt_eldric_ice_king_attack_summon_02_down_01"
+  },
+  {
+    "id": "10130",
+    "name": "rt_eldric_ice_king_spawn_up_01"
+  },
+  {
+    "id": "10131",
+    "name": "rt_eldric_death_sting_02"
+  },
+  {
+    "id": "10132",
+    "name": "rt_eldric_ice_king_melee_attack_whoosh_up_01"
+  },
+  {
+    "id": "10133",
+    "name": "rt_eldric_death_sting_01"
+  },
+  {
+    "id": "10134",
+    "name": "rt_eldric_ice_king_death_ice_shatter_02"
+  },
+  {
+    "id": "10135",
+    "name": "rt_eldric_ice_king_special_aoe_attack_up_01"
+  },
+  {
+    "id": "10136",
+    "name": "rt_eldric_ice_king_special_aoe_attack_down_01"
+  },
+  {
+    "id": "10137",
+    "name": "rt_eldric_ice_king_death_fall_impact_01"
+  },
+  {
+    "id": "10138",
+    "name": "rt_eldric_ice_king_special_aoe_attack_down_whoosh_impact_01"
+  },
+  {
+    "id": "10139",
+    "name": "rt_bosses_defend_01"
+  },
+  {
+    "id": "10140",
+    "name": "rt_branda_queen_teleport_staff_move_01"
+  },
+  {
+    "id": "10141",
+    "name": "rt_branda_queen_teleport_01"
+  },
+  {
+    "id": "10142",
+    "name": "rt_branda_queen_spawn_staff_move_01"
+  },
+  {
+    "id": "10143",
+    "name": "rt_branda_death_fire_01"
+  },
+  {
+    "id": "10144",
+    "name": "rt_branda_inactive_fire_01"
+  },
+  {
+    "id": "10145",
+    "name": "rt_branda_queen_spawn_attack_summon_1_up_01"
+  },
+  {
+    "id": "10146",
+    "name": "rt_branda_queen_loc_attack_despawn_02"
+  },
+  {
+    "id": "10147",
+    "name": "rt_branda_queen_loc_attack_spawn_01"
+  },
+  {
+    "id": "10148",
+    "name": "rt_branda_queen_loc_attack_spawn_02"
+  },
+  {
+    "id": "10149",
+    "name": "rt_branda_king_death_fall_impact_01"
+  },
+  {
+    "id": "10150",
+    "name": "rt_branda_death_fire_02"
+  },
+  {
+    "id": "10151",
+    "name": "rt_brandaqueen_special_aoe_attack_down_whoosh_01"
+  },
+  {
+    "id": "10152",
+    "name": "rt_brandaqueen_special_aoe_attack_up_01"
+  },
+  {
+    "id": "10153",
+    "name": "rt_brandaqueen_special_aoe_attack_up_02"
+  },
+  {
+    "id": "10154",
+    "name": "rt_brandaqueen_special_aoe_attack_down_01"
+  },
+  {
+    "id": "10155",
+    "name": "rt_branda_fire_queen_special_aoe_attack_down_whoosh_impact_01"
+  },
+  {
+    "id": "10156",
+    "name": "rt_branda_queen_attack_summon_2_down_01"
+  },
+  {
+    "id": "10157",
+    "name": "rt_branda_queen_melee_attack_stomp_01"
+  },
+  {
+    "id": "10158",
+    "name": "rt_branda_queen_melee_attack_whoosh_down"
+  },
+  {
+    "id": "10159",
+    "name": "rt_branda_queen_attack_summon_2_up_01"
+  },
+  {
+    "id": "10160",
+    "name": "rt_branda_queen_spawn_flames_01"
+  },
+  {
+    "id": "10161",
+    "name": "rt_branda_queen_spawn_attack_summon_1_down_01"
+  },
+  {
+    "id": "10162",
+    "name": "rt_branda_death_fire_fade_out_01"
+  },
+  {
+    "id": "10163",
+    "name": "rt_branda_queen_spawn_01"
+  },
+  {
+    "id": "10164",
+    "name": "rt_branda_fire_queen_special_aoe_attack_down_whoosh_impact_01_lower"
+  },
+  {
+    "id": "10165",
+    "name": "rt_branda_queen_melee_attack_whoosh_up_01"
+  },
+  {
+    "id": "10166",
+    "name": "rt_ice_minion_attack_02"
+  },
+  {
+    "id": "10167",
+    "name": "rt_fire_minion_attack_01_d"
+  },
+  {
+    "id": "10168",
+    "name": "rt_fire_minion_attack_01"
+  },
+  {
+    "id": "10169",
+    "name": "rt_fire_minion_attack_01_b"
+  },
+  {
+    "id": "10170",
+    "name": "rt_ice_minion_attack_01_b"
+  },
+  {
+    "id": "10171",
+    "name": "rt_ice_minion_attack_02_d"
+  },
+  {
+    "id": "10172",
+    "name": "rt_ice_minion_spawn_01"
+  },
+  {
+    "id": "10173",
+    "name": "rt_fire_minion_attack_02"
+  },
+  {
+    "id": "10174",
+    "name": "rt_fire_minion_death_02"
+  },
+  {
+    "id": "10175",
+    "name": "rt_ice_minion_attack_01_d"
+  },
+  {
+    "id": "10176",
+    "name": "rt_ice_minion_attack_02_c"
+  },
+  {
+    "id": "10177",
+    "name": "rt_fire_minion_attack_02_d"
+  },
+  {
+    "id": "10178",
+    "name": "rt_fire_minion_death_01"
+  },
+  {
+    "id": "10179",
+    "name": "rt_fire_minion_attack_02_b"
+  },
+  {
+    "id": "10180",
+    "name": "rt_ice_minion_explode_build_01"
+  },
+  {
+    "id": "10181",
+    "name": "rt_fire_minion_attack_02_c"
+  },
+  {
+    "id": "10182",
+    "name": "rt_ice_minion_death_01"
+  },
+  {
+    "id": "10183",
+    "name": "rt_ice_minion_attack_01"
+  },
+  {
+    "id": "10184",
+    "name": "rt_fire_minion_explosion_01"
+  },
+  {
+    "id": "10185",
+    "name": "rt_fire_minion_attack_01_c"
+  },
+  {
+    "id": "10186",
+    "name": "rt_fire_minion_explosion_02"
+  },
+  {
+    "id": "10187",
+    "name": "rt_ice_minion_explode_boom_01"
+  },
+  {
+    "id": "10188",
+    "name": "rt_ice_minion_attack_02_b"
+  },
+  {
+    "id": "10189",
+    "name": "rt_ice_minion_attack_01_c"
+  },
+  {
+    "id": "10190",
+    "name": "rt_fire_minion_spawn_01"
+  },
+  {
+    "id": "10191",
+    "name": "rt_deadeye_prayer_scroll_end_sizzle_03"
+  },
+  {
+    "id": "10192",
+    "name": "rt_deadeye_prayer_scroll_whoosh_01"
+  },
+  {
+    "id": "10193",
+    "name": "rt_twin_giant_soul_amulet_teleport_02"
+  },
+  {
+    "id": "10194",
+    "name": "rt_deadeye_prayer_activate_10"
+  },
+  {
     "id": "10195",
     "name": "toa_akkha_akkha_shadow_spawn_01"
   },
@@ -40334,5 +40734,5153 @@
   {
     "id": "10200",
     "name": "dt2_whisperer_leeches_post_charge_01"
+  },
+  {
+    "id": "10201",
+    "name": "easter25_searching_fall_02"
+  },
+  {
+    "id": "10202",
+    "name": "easter25_bowling_ball_impact_01"
+  },
+  {
+    "id": "10203",
+    "name": "easter25_bowling_ball_travel_00"
+  },
+  {
+    "id": "10204",
+    "name": "easter25_searching_stand_01"
+  },
+  {
+    "id": "10205",
+    "name": "easter25_searching_stand_03"
+  },
+  {
+    "id": "10206",
+    "name": "easter25_searching_02"
+  },
+  {
+    "id": "10207",
+    "name": "easter25_bowling_ball_travel_02"
+  },
+  {
+    "id": "10208",
+    "name": "easter25_bowling_ball_travel_01"
+  },
+  {
+    "id": "10209",
+    "name": "easter25_bowling_ball_impact_03"
+  },
+  {
+    "id": "10210",
+    "name": "easter25_searching_01"
+  },
+  {
+    "id": "10211",
+    "name": "easter25_searching_fall_01"
+  },
+  {
+    "id": "10212",
+    "name": "yama_shadow_spike_02"
+  },
+  {
+    "id": "10213",
+    "name": "yama_non_combat_summon_01"
+  },
+  {
+    "id": "10214",
+    "name": "yama_ranged_attack_player_02"
+  },
+  {
+    "id": "10215",
+    "name": "yama_fire_wave_02"
+  },
+  {
+    "id": "10216",
+    "name": "yama_magic_fire_attack_player_explode_01"
+  },
+  {
+    "id": "10217",
+    "name": "yama_red_void_flare_explode_01"
+  },
+  {
+    "id": "10218",
+    "name": "yama_meteor_fall_01"
+  },
+  {
+    "id": "10219",
+    "name": "yama_meteor_fall_03"
+  },
+  {
+    "id": "10220",
+    "name": "yama_soulflame_horn_whoosh_01"
+  },
+  {
+    "id": "10221",
+    "name": "yama_flaming_rock_01"
+  },
+  {
+    "id": "10222",
+    "name": "yama_glyph_shadow_deactivate"
+  },
+  {
+    "id": "10223",
+    "name": "yama_shadow_root_stomp_01"
+  },
+  {
+    "id": "10224",
+    "name": "yama_unique_loot"
+  },
+  {
+    "id": "10225",
+    "name": "yama_meteor_impact"
+  },
+  {
+    "id": "10226",
+    "name": "yama_glyph_shadow_activate"
+  },
+  {
+    "id": "10227",
+    "name": "yama_non_combat_summon_arm_raise_01"
+  },
+  {
+    "id": "10228",
+    "name": "yama_shadow_wave_pre_attack_01"
+  },
+  {
+    "id": "10229",
+    "name": "yama_glyph_fire_activate"
+  },
+  {
+    "id": "10230",
+    "name": "yama_flaming_rock_02"
+  },
+  {
+    "id": "10231",
+    "name": "yama_glyph_fire_deactivate"
+  },
+  {
+    "id": "10232",
+    "name": "yama_shadow_root_stomp_02"
+  },
+  {
+    "id": "10233",
+    "name": "yama_soulflame_horn_fire_01"
+  },
+  {
+    "id": "10234",
+    "name": "yama_fire_projectile"
+  },
+  {
+    "id": "10235",
+    "name": "yama_hand_click_05"
+  },
+  {
+    "id": "10236",
+    "name": "yama_soulflame_horn_buff_01"
+  },
+  {
+    "id": "10237",
+    "name": "yama_fire_wave_pre_attack_01"
+  },
+  {
+    "id": "10238",
+    "name": "yama_shadow_wave_04"
+  },
+  {
+    "id": "10239",
+    "name": "yama_red_void_flare_death_01"
+  },
+  {
+    "id": "10240",
+    "name": "yama_death_fire"
+  },
+  {
+    "id": "10241",
+    "name": "yama_unique_loot_02"
+  },
+  {
+    "id": "10242",
+    "name": "yama_fs"
+  },
+  {
+    "id": "10243",
+    "name": "yama_tele_away"
+  },
+  {
+    "id": "10244",
+    "name": "yama_flaming_rock_fall_01"
+  },
+  {
+    "id": "10245",
+    "name": "yama_shadow_spike_03"
+  },
+  {
+    "id": "10246",
+    "name": "yama_shadow_spike_impact_01"
+  },
+  {
+    "id": "10247",
+    "name": "yama_melee_attack"
+  },
+  {
+    "id": "10248",
+    "name": "yama_death_hand_whoosh_01"
+  },
+  {
+    "id": "10249",
+    "name": "yama_red_void_flare_explode_pre_01"
+  },
+  {
+    "id": "10250",
+    "name": "yama_tele_shrink"
+  },
+  {
+    "id": "10251",
+    "name": "yama_hand_click_louder_05"
+  },
+  {
+    "id": "10252",
+    "name": "yama_ranged_attack_player_explosion_01"
+  },
+  {
+    "id": "10253",
+    "name": "yama_red_void_flare_spawn_01"
+  },
+  {
+    "id": "10254",
+    "name": "yama_ranged_pre_attack_01"
+  },
+  {
+    "id": "10255",
+    "name": "yama_flaming_rock_impact_01"
+  },
+  {
+    "id": "10256",
+    "name": "yama_shadow_root_stomp_layer_01"
+  },
+  {
+    "id": "10257",
+    "name": "yama_meteor_fall_02"
+  },
+  {
+    "id": "10258",
+    "name": "yama_combat_summon_01"
+  },
+  {
+    "id": "10259",
+    "name": "yama_axe_strike_ground_shadow_flume"
+  },
+  {
+    "id": "10260",
+    "name": "yama_stomp_impact_02"
+  },
+  {
+    "id": "10261",
+    "name": "yama_magic_fire_pre_attack_01"
+  },
+  {
+    "id": "10262",
+    "name": "yama_stomp_impact"
+  },
+  {
+    "id": "10263",
+    "name": "yama_magic_fire_attack_player_01"
+  },
+  {
+    "id": "10264",
+    "name": "yama_magic_fire_pre_attack_click_01"
+  },
+  {
+    "id": "10265",
+    "name": "yama_aoe_rock_impact_01"
+  },
+  {
+    "id": "10266",
+    "name": "yama_special_attack_axe_spin"
+  },
+  {
+    "id": "10267",
+    "name": "yama_shadow_spike_01"
+  },
+  {
+    "id": "10268",
+    "name": "yama_aoe_attack_shadow_wave_01"
+  },
+  {
+    "id": "10269",
+    "name": "yama_death_vo_02"
+  },
+  {
+    "id": "10270",
+    "name": "yama_shadow_root_projectile_01"
+  },
+  {
+    "id": "10271",
+    "name": "yama_axe_strike_ground_impact"
+  },
+  {
+    "id": "10272",
+    "name": "yama_ranged_attack_player_01"
+  },
+  {
+    "id": "10273",
+    "name": "yama_shadow_root_projectile_impact_01"
+  },
+  {
+    "id": "10274",
+    "name": "yama_axe_strike_ground_grunt_01"
+  },
+  {
+    "id": "10275",
+    "name": "yama_death_hand_impact_01"
+  },
+  {
+    "id": "10276",
+    "name": "yama_axe_stomp_ground_grunt_01"
+  },
+  {
+    "id": "10277",
+    "name": "yama_death_vo_01"
+  },
+  {
+    "id": "10278",
+    "name": "yama_aoe_attack_falling_rock_02"
+  },
+  {
+    "id": "10279",
+    "name": "delve_boss_entrance_roar_01"
+  },
+  {
+    "id": "10280",
+    "name": "delve_boss_despawn_06"
+  },
+  {
+    "id": "10281",
+    "name": "delve_boss_area_node_spawn_01"
+  },
+  {
+    "id": "10282",
+    "name": "delve_boss_std_range_attack_whoosh_01"
+  },
+  {
+    "id": "10283",
+    "name": "delve_boss_attack_slam_impact_vfx_01"
+  },
+  {
+    "id": "10284",
+    "name": "delve_boss_demonic_grub_land_01"
+  },
+  {
+    "id": "10285",
+    "name": "delve_boss_burrow_explosion_01"
+  },
+  {
+    "id": "10286",
+    "name": "delve_boss_burrowed_borrow_07"
+  },
+  {
+    "id": "10287",
+    "name": "delve_boss_attack_slam_charge_02"
+  },
+  {
+    "id": "10288",
+    "name": "delve_boss_area_node_pop_01"
+  },
+  {
+    "id": "10289",
+    "name": "delve_boss_attack_slam_charge_01"
+  },
+  {
+    "id": "10290",
+    "name": "delve_boss_burrowed_borrow_03"
+  },
+  {
+    "id": "10291",
+    "name": "delve_boss_std_rock_attack_02"
+  },
+  {
+    "id": "10292",
+    "name": "delve_boss_std_rock_attack_01"
+  },
+  {
+    "id": "10293",
+    "name": "delve_boss_burrow_explosion_02"
+  },
+  {
+    "id": "10294",
+    "name": "delve_boss_burrowed_borrow_01"
+  },
+  {
+    "id": "10295",
+    "name": "delve_boss_attack_beam_impact_03"
+  },
+  {
+    "id": "10296",
+    "name": "delve_boss_burrowed_emerge_03"
+  },
+  {
+    "id": "10297",
+    "name": "delve_boss_std_rock_attack_impact_01"
+  },
+  {
+    "id": "10298",
+    "name": "delve_boss_std_range_attack_hiss_01"
+  },
+  {
+    "id": "10299",
+    "name": "delve_boss_attack_melee_01"
+  },
+  {
+    "id": "10300",
+    "name": "delve_boss_attack_melee_03"
+  },
+  {
+    "id": "10301",
+    "name": "delve_boss_burrow_rocks_fall_01"
+  },
+  {
+    "id": "10302",
+    "name": "delve_boss_attack_beam_fire_02"
+  },
+  {
+    "id": "10303",
+    "name": "delve_boss_burrow_rumble_01"
+  },
+  {
+    "id": "10304",
+    "name": "delve_boss_attack_beam_fire_01"
+  },
+  {
+    "id": "10305",
+    "name": "delve_boss_burrowed_emerge_hiss_05"
+  },
+  {
+    "id": "10306",
+    "name": "delve_boss_burrowed_borrow_hiss_01"
+  },
+  {
+    "id": "10307",
+    "name": "delve_boss_attack_melee_02"
+  },
+  {
+    "id": "10308",
+    "name": "delve_boss_area_node_death_01"
+  },
+  {
+    "id": "10309",
+    "name": "delve_boss_burrowed_emerge_04"
+  },
+  {
+    "id": "10310",
+    "name": "delve_boss_area_node_death_02"
+  },
+  {
+    "id": "10311",
+    "name": "delve_boss_eye_of_ayak_impact_04"
+  },
+  {
+    "id": "10312",
+    "name": "doom_craft_item_collect_02"
+  },
+  {
+    "id": "10313",
+    "name": "delve_boss_eye_of_ayak_impact_01"
+  },
+  {
+    "id": "10314",
+    "name": "doom_craft_explode_01"
+  },
+  {
+    "id": "10315",
+    "name": "doom_craft_search_part_01"
+  },
+  {
+    "id": "10316",
+    "name": "doom_craft_search_part_03"
+  },
+  {
+    "id": "10317",
+    "name": "doom_craft_search_part_02"
+  },
+  {
+    "id": "10318",
+    "name": "delve_boss_eye_of_ayak_whoosh_01"
+  },
+  {
+    "id": "10319",
+    "name": "delve_boss_eye_of_ayak_impact_03"
+  },
+  {
+    "id": "10320",
+    "name": "doom_craft_wipe_01"
+  },
+  {
+    "id": "10321",
+    "name": "doom_craft_wipe_02"
+  },
+  {
+    "id": "10322",
+    "name": "delve_boss_eye_of_ayak_impact_02"
+  },
+  {
+    "id": "10323",
+    "name": "doom_craft_item_collect_01"
+  },
+  {
+    "id": "10324",
+    "name": "doom_craft_item_place_01"
+  },
+  {
+    "id": "10325",
+    "name": "delve_boss_eye_of_ayak_02"
+  },
+  {
+    "id": "10326",
+    "name": "delve_boss_eye_of_ayak_whoosh_03"
+  },
+  {
+    "id": "10327",
+    "name": "delve_boss_eye_of_ayak_03"
+  },
+  {
+    "id": "10328",
+    "name": "doom_craft_sizzle_particles_01"
+  },
+  {
+    "id": "10329",
+    "name": "delve_boss_eye_of_ayak_whoosh_02"
+  },
+  {
+    "id": "10330",
+    "name": "delve_boss_eye_of_ayak_01"
+  },
+  {
+    "id": "10331",
+    "name": "delve_boss_std_rock_attack_explosion_01"
+  },
+  {
+    "id": "10332",
+    "name": "delve_boss_burrowed_borrow_05"
+  },
+  {
+    "id": "10333",
+    "name": "delve_boss_burrowed_emerge_02"
+  },
+  {
+    "id": "10334",
+    "name": "delve_boss_attack_beam_fire_03"
+  },
+  {
+    "id": "10335",
+    "name": "delve_boss_demonic_grub_spawn_01"
+  },
+  {
+    "id": "10336",
+    "name": "delve_boss_despawn_01"
+  },
+  {
+    "id": "10337",
+    "name": "delve_boss_attack_slam_hiss_01"
+  },
+  {
+    "id": "10338",
+    "name": "delve_boss_std_rock_shield_open_01"
+  },
+  {
+    "id": "10339",
+    "name": "delve_boss_attack_slam_scream_01"
+  },
+  {
+    "id": "10340",
+    "name": "delve_boss_attack_beam_charge_01"
+  },
+  {
+    "id": "10341",
+    "name": "delve_boss_std_range_attack_spit_02"
+  },
+  {
+    "id": "10342",
+    "name": "delve_boss_demonic_grub_fall_01"
+  },
+  {
+    "id": "10343",
+    "name": "delve_boss_burrow_explosion_hiss_01"
+  },
+  {
+    "id": "10344",
+    "name": "delve_boss_attack_beam_fire_04"
+  },
+  {
+    "id": "10345",
+    "name": "delve_boss_hit_01"
+  },
+  {
+    "id": "10346",
+    "name": "delve_boss_attack_beam_charge_02"
+  },
+  {
+    "id": "10347",
+    "name": "delve_boss_despawn_04"
+  },
+  {
+    "id": "10348",
+    "name": "delve_boss_despawn_scream_01"
+  },
+  {
+    "id": "10349",
+    "name": "delve_boss_burrow_movement_02"
+  },
+  {
+    "id": "10350",
+    "name": "delve_boss_shield_spawn_01"
+  },
+  {
+    "id": "10351",
+    "name": "delve_boss_area_node_pop_02"
+  },
+  {
+    "id": "10352",
+    "name": "delve_boss_demonic_grub_walk_01"
+  },
+  {
+    "id": "10353",
+    "name": "delve_boss_despawn_05"
+  },
+  {
+    "id": "10354",
+    "name": "delve_boss_attack_slam_charge_hiss_01"
+  },
+  {
+    "id": "10355",
+    "name": "delve_boss_attack_slam_whoosh_01"
+  },
+  {
+    "id": "10356",
+    "name": "delve_boss_burrowed_borrow_04"
+  },
+  {
+    "id": "10357",
+    "name": "delve_boss_burrow_movement_01"
+  },
+  {
+    "id": "10358",
+    "name": "delve_boss_burrowed_emerge_01"
+  },
+  {
+    "id": "10359",
+    "name": "delve_boss_attack_slam_impact_01"
+  },
+  {
+    "id": "10360",
+    "name": "delve_boss_burrowed_borrow_06"
+  },
+  {
+    "id": "10361",
+    "name": "delve_boss_attack_beam_impact_01"
+  },
+  {
+    "id": "10362",
+    "name": "delve_boss_std_rock_attack_hiss_01"
+  },
+  {
+    "id": "10363",
+    "name": "delve_boss_attack_beam_charge_hiss_01"
+  },
+  {
+    "id": "10364",
+    "name": "delve_boss_attack_beam_cancel_01"
+  },
+  {
+    "id": "10365",
+    "name": "delve_boss_despawn_07"
+  },
+  {
+    "id": "10366",
+    "name": "delve_boss_burrowed_borrow_02"
+  },
+  {
+    "id": "10367",
+    "name": "delve_boss_std_range_attack_spit_03"
+  },
+  {
+    "id": "10368",
+    "name": "delve_boss_attack_slam_impact_vfx_02"
+  },
+  {
+    "id": "10369",
+    "name": "delve_boss_attack_beam_impact_02"
+  },
+  {
+    "id": "10370",
+    "name": "delve_boss_despawn_08"
+  },
+  {
+    "id": "10371",
+    "name": "delve_boss_std_rock_attack_whoosh_01"
+  },
+  {
+    "id": "10372",
+    "name": "delve_boss_burrow_rock_impact_01"
+  },
+  {
+    "id": "10373",
+    "name": "delve_boss_despawn_02"
+  },
+  {
+    "id": "10374",
+    "name": "delve_boss_despawn_03"
+  },
+  {
+    "id": "10375",
+    "name": "delve_boss_std_range_attack_spit_01"
+  },
+  {
+    "id": "10376",
+    "name": "fletch_act_ent_fs_02"
+  },
+  {
+    "id": "10377",
+    "name": "fletch_act_spirit_animal_fade_out_01"
+  },
+  {
+    "id": "10378",
+    "name": "fletch_act_spirit_animal_fade_out_02"
+  },
+  {
+    "id": "10379",
+    "name": "fletch_act_ent_worship_magic_particles_01"
+  },
+  {
+    "id": "10380",
+    "name": "fletch_act_ent_worship_wood_creak_01"
+  },
+  {
+    "id": "10381",
+    "name": "fletch_act_ent_admire_sigh_02"
+  },
+  {
+    "id": "10382",
+    "name": "fletch_act_ent_worship_wood_creak_down_01"
+  },
+  {
+    "id": "10383",
+    "name": "fletch_act_ent_trial_plant_spawn_02"
+  },
+  {
+    "id": "10384",
+    "name": "fletch_act_carve_totem"
+  },
+  {
+    "id": "10385",
+    "name": "fletch_act_ent_step_on_plant_ent_buffed_01"
+  },
+  {
+    "id": "10386",
+    "name": "fletch_act_spirit_animal_fade_in_02"
+  },
+  {
+    "id": "10387",
+    "name": "fletch_act_ent_worship_wood_arm_raise_01"
+  },
+  {
+    "id": "10388",
+    "name": "fletch_act_ent_fs_01"
+  },
+  {
+    "id": "10389",
+    "name": "fletch_act_ent_worship_magic_particles_02"
+  },
+  {
+    "id": "10390",
+    "name": "fletch_act_ent_plant_inactive_despawn_01"
+  },
+  {
+    "id": "10391",
+    "name": "fletch_act_ent_trial_plant_spawn_01"
+  },
+  {
+    "id": "10392",
+    "name": "fletch_act_spirit_animal_fade_in_01"
+  },
+  {
+    "id": "10393",
+    "name": "fletch_act_ent_step_on_plant_buff_01"
+  },
+  {
+    "id": "10394",
+    "name": "fletch_act_ent_trial_plant_spawn_circle_01"
+  },
+  {
+    "id": "10395",
+    "name": "fletch_act_ent_trial_plant_spawn_grit_01"
+  },
+  {
+    "id": "10396",
+    "name": "duo_cult_protection_despawn_01"
+  },
+  {
+    "id": "10397",
+    "name": "duo_cult_magic_special_attack_player_impact_01"
+  },
+  {
+    "id": "10398",
+    "name": "duo_cult_protection_circle_low_whoosh_01"
+  },
+  {
+    "id": "10399",
+    "name": "duo_cult_protection_circle_whoosh_02"
+  },
+  {
+    "id": "10400",
+    "name": "duo_cult_magic_waterblast_hit_low_vol_01"
+  },
+  {
+    "id": "10401",
+    "name": "duo_cult_magic_special_attack_charge_01"
+  },
+  {
+    "id": "10402",
+    "name": "duo_cult_special_range_attack_land_impact_01"
+  },
+  {
+    "id": "10403",
+    "name": "duo_cult_protection_sizzle_01"
+  },
+  {
+    "id": "10404",
+    "name": "duo_cult_magic_special_attack_projectile_01"
+  },
+  {
+    "id": "10405",
+    "name": "duo_cult_protection_circle_whoosh_01"
+  },
+  {
+    "id": "10406",
+    "name": "duo_cult_magic_special_attack_clap_01"
+  },
+  {
+    "id": "10407",
+    "name": "duo_cult_special_range_attack_proj_01"
+  },
+  {
+    "id": "10408",
+    "name": "duo_cult_protection_circle_whoosh_03"
+  },
+  {
+    "id": "10409",
+    "name": "duo_cult_protection_circle_rotate_01"
+  },
+  {
+    "id": "10410",
+    "name": "mok_water_dungeon_stream_02"
+  },
+  {
+    "id": "10411",
+    "name": "mok_water_fountains_01"
+  },
+  {
+    "id": "10412",
+    "name": "mok_water_dungeon_stream_03"
+  },
+  {
+    "id": "10413",
+    "name": "mok_water_dungeon_stream_01"
+  },
+  {
+    "id": "10414",
+    "name": "v3_custodian_stalker_superior_howl_01"
+  },
+  {
+    "id": "10415",
+    "name": "v3_custodian_stalker_juve_sp_attack_01_a"
+  },
+  {
+    "id": "10416",
+    "name": "v3_custodian_stalker_superior_sp_attack_stomp_01"
+  },
+  {
+    "id": "10417",
+    "name": "v3_custodian_stalker_elder_death_impact_01"
+  },
+  {
+    "id": "10418",
+    "name": "v3_custodian_stalker_superior_sp_attack_scream_01"
+  },
+  {
+    "id": "10419",
+    "name": "v3_custodian_stalker_elder_howl_01"
+  },
+  {
+    "id": "10420",
+    "name": "v3_custodian_stalker_mature_defend_01"
+  },
+  {
+    "id": "10421",
+    "name": "v3_custodian_stalker_mature_sp_attack_vfx_01"
+  },
+  {
+    "id": "10422",
+    "name": "v3_custodian_stalker_elder_attack_stomp_01_"
+  },
+  {
+    "id": "10423",
+    "name": "v3_custodian_stalker_elder_attack_01_b"
+  },
+  {
+    "id": "10424",
+    "name": "v3_custodian_stalker_juve_defend_01"
+  },
+  {
+    "id": "10425",
+    "name": "v3_custodian_stalker_juve_attack_01_b"
+  },
+  {
+    "id": "10426",
+    "name": "v3_custodian_stalker_elder_death_fall_01"
+  },
+  {
+    "id": "10427",
+    "name": "v3_custodian_stalker_elder_sp_attack_scream_01"
+  },
+  {
+    "id": "10428",
+    "name": "v3_custodian_stalker_juve_sp_attack_stomp_01"
+  },
+  {
+    "id": "10429",
+    "name": "v3_custodian_stalker_juve_death_growl_01"
+  },
+  {
+    "id": "10430",
+    "name": "v3_custodian_stalker_superior_death_growl_01"
+  },
+  {
+    "id": "10431",
+    "name": "v3_custodian_stalker_superior_attack_01_b"
+  },
+  {
+    "id": "10432",
+    "name": "v3_custodian_stalker_elder_defend_01"
+  },
+  {
+    "id": "10433",
+    "name": "v3_custodian_stalker_juve_death_fall_01"
+  },
+  {
+    "id": "10434",
+    "name": "v3_custodian_stalker_mature_attack_01_a"
+  },
+  {
+    "id": "10435",
+    "name": "v3_custodian_stalker_juve_attack_01_a"
+  },
+  {
+    "id": "10436",
+    "name": "v3_custodian_stalker_elder_death_growl_01"
+  },
+  {
+    "id": "10437",
+    "name": "v3_custodian_stalker_mature_sp_attack_stomp_01"
+  },
+  {
+    "id": "10438",
+    "name": "v3_custodian_stalker_superior_death_impact_01"
+  },
+  {
+    "id": "10439",
+    "name": "v3_custodian_stalker_superior_attack_stomp_01_"
+  },
+  {
+    "id": "10440",
+    "name": "v3_custodian_stalker_elder_sp_attack_stomp_01"
+  },
+  {
+    "id": "10441",
+    "name": "v3_custodian_stalker_mature_death_growl_01"
+  },
+  {
+    "id": "10442",
+    "name": "v3_custodian_stalker_mature_sp_attack_01_a"
+  },
+  {
+    "id": "10443",
+    "name": "v3_custodian_stalker_juve_death_fall_02"
+  },
+  {
+    "id": "10444",
+    "name": "v3_custodian_stalker_elder_sp_attack_vfx_01"
+  },
+  {
+    "id": "10445",
+    "name": "v3_custodian_stalker_mature_death_fall_01"
+  },
+  {
+    "id": "10446",
+    "name": "v3_custodian_stalker_juve_sp_attack_scream_01"
+  },
+  {
+    "id": "10447",
+    "name": "v3_custodian_stalker_mature_sp_attack_scream_01"
+  },
+  {
+    "id": "10448",
+    "name": "v3_custodian_stalker_mature_attack_01_b"
+  },
+  {
+    "id": "10449",
+    "name": "v3_custodian_stalker_superior_sp_attack_01_a"
+  },
+  {
+    "id": "10450",
+    "name": "v3_custodian_stalker_juve_sp_attack_vfx_01"
+  },
+  {
+    "id": "10451",
+    "name": "v3_custodian_stalker_elder_attack_01_a"
+  },
+  {
+    "id": "10452",
+    "name": "v3_custodian_stalker_superior_sp_attack_vfx_02"
+  },
+  {
+    "id": "10453",
+    "name": "v3_custodian_stalker_superior_attack_01_a"
+  },
+  {
+    "id": "10454",
+    "name": "v3_custodian_stalker_juve_death_impact_01"
+  },
+  {
+    "id": "10455",
+    "name": "v3_custodian_stalker_mature_death_impact_01"
+  },
+  {
+    "id": "10456",
+    "name": "v3_custodian_stalker_superior_defend_01"
+  },
+  {
+    "id": "10457",
+    "name": "v3_custodian_stalker_superior_death_fall_01"
+  },
+  {
+    "id": "10458",
+    "name": "v3_custodian_stalker_superior_sp_attack_vfx_01"
+  },
+  {
+    "id": "10459",
+    "name": "v3_custodian_stalker_mature_attack_stomp_01_"
+  },
+  {
+    "id": "10460",
+    "name": "v3_custodian_stalker_elder_sp_attack_01_a"
+  },
+  {
+    "id": "10461",
+    "name": "varl_tfd_quest_ennius_weilds_sword_01"
+  },
+  {
+    "id": "10462",
+    "name": "varl_puzzles_completion_01"
+  },
+  {
+    "id": "10463",
+    "name": "varl_tfd_quest_janus_death_fall_impact_01"
+  },
+  {
+    "id": "10464",
+    "name": "varl_puzzles_complete_rumble_ping"
+  },
+  {
+    "id": "10465",
+    "name": "varl_moon_puzzle_offering_kindling_01"
+  },
+  {
+    "id": "10466",
+    "name": "varl_moon_puzzle_fire_sizzle_01"
+  },
+  {
+    "id": "10467",
+    "name": "varl_puzzles_complete_01"
+  },
+  {
+    "id": "10468",
+    "name": "cut_branch"
+  },
+  {
+    "id": "10469",
+    "name": "varl_tfd_quest_itzla_player_stomp_01"
+  },
+  {
+    "id": "10470",
+    "name": "old_one_teleport"
+  },
+  {
+    "id": "10471",
+    "name": "varl_moon_puzzle_fire_spawn_01"
+  },
+  {
+    "id": "10472",
+    "name": "varl_tfd_quest_queen_kills_jannus_01"
+  },
+  {
+    "id": "10473",
+    "name": "open_pouch"
+  },
+  {
+    "id": "10474",
+    "name": "trap_set"
+  },
+  {
+    "id": "10475",
+    "name": "varl_puzzles_sun_fire_spawn_01"
+  },
+  {
+    "id": "10476",
+    "name": "varl_moon_puzzle_error_fire_burn_01"
+  },
+  {
+    "id": "10477",
+    "name": "varl_puzzles_complete_rumble_01"
+  },
+  {
+    "id": "10478",
+    "name": "earthbound_tecpatl_.slash"
+  },
+  {
+    "id": "10479",
+    "name": "chamber_guard_combat_dash_02"
+  },
+  {
+    "id": "10480",
+    "name": "chamber_guard_combat_dash_duck_01"
+  },
+  {
+    "id": "10481",
+    "name": "chamber_guard_combat_strike_dust_01"
+  },
+  {
+    "id": "10482",
+    "name": "varl_III_toucan_wing_flap_04"
+  },
+  {
+    "id": "10483",
+    "name": "varl_III_jaguar_roar_03"
+  },
+  {
+    "id": "10484",
+    "name": "varl_III_ocelot_attack_roar_01"
+  },
+  {
+    "id": "10485",
+    "name": "varl_III_monkey_squirrel_call_01"
+  },
+  {
+    "id": "10486",
+    "name": "varl_III_boar_idle_01"
+  },
+  {
+    "id": "10487",
+    "name": "varl_III_ocelot_idle_purr_01"
+  },
+  {
+    "id": "10488",
+    "name": "varl_III_toucan_wing_flap_03"
+  },
+  {
+    "id": "10489",
+    "name": "varl_III_jaguar_death_01"
+  },
+  {
+    "id": "10490",
+    "name": "varl_III_toucan_wing_flap_02"
+  },
+  {
+    "id": "10491",
+    "name": "varl_III_hippo_idle_growl_03"
+  },
+  {
+    "id": "10492",
+    "name": "varl_III_hippo_idle_growl_02"
+  },
+  {
+    "id": "10493",
+    "name": "varl_III_parrot_wing_flap_04"
+  },
+  {
+    "id": "10494",
+    "name": "varl_III_jaguar_roar_02"
+  },
+  {
+    "id": "10495",
+    "name": "varl_III_parrot_wing_flap_01"
+  },
+  {
+    "id": "10496",
+    "name": "varl_III_boar_idle_02"
+  },
+  {
+    "id": "10497",
+    "name": "varl_III_boar_idle_03"
+  },
+  {
+    "id": "10498",
+    "name": "varl_III_jaguar_defend_01"
+  },
+  {
+    "id": "10499",
+    "name": "varl_III_parrot_wing_flap_03"
+  },
+  {
+    "id": "10500",
+    "name": "varl_III_hippo_idle_growl_01"
+  },
+  {
+    "id": "10501",
+    "name": "varl_III_monkey_squirrel_01"
+  },
+  {
+    "id": "10502",
+    "name": "varl_III_parrot_wing_flap_02"
+  },
+  {
+    "id": "10503",
+    "name": "varl_III_toucan_wing_flap_01"
+  },
+  {
+    "id": "10504",
+    "name": "varl_iii_earth_nagua_break_rockfall_impact_01"
+  },
+  {
+    "id": "10505",
+    "name": "varl_iii_earth_nagua_attack_sword_shring_02"
+  },
+  {
+    "id": "10506",
+    "name": "varl_iii_earth_nagua_break_rockfall_01"
+  },
+  {
+    "id": "10507",
+    "name": "varl_iii_earth_nagua_reinforce_rock_body_impact_01"
+  },
+  {
+    "id": "10508",
+    "name": "varl_iii_earth_nagua_reinforce_rock_low_woosh_01"
+  },
+  {
+    "id": "10509",
+    "name": "varl_iii_earth_nagua_attack_first_swipe_02"
+  },
+  {
+    "id": "10510",
+    "name": "varl_iii_earth_nagua_reinforce_rock_grate_01"
+  },
+  {
+    "id": "10511",
+    "name": "varl_iii_earth_nagua_attack_sword_shring_01"
+  },
+  {
+    "id": "10512",
+    "name": "varl_iii_earth_nagua_attack_first_swipe_01"
+  },
+  {
+    "id": "10513",
+    "name": "varl_iii_earth_nagua_death_01"
+  },
+  {
+    "id": "10514",
+    "name": "varl_iii_earth_nagua_reinforce_rock_woosh_01"
+  },
+  {
+    "id": "10515",
+    "name": "egg_crack_01"
+  },
+  {
+    "id": "10516",
+    "name": "egg_falling_01"
+  },
+  {
+    "id": "10517",
+    "name": "egg_slam_whoosh_01"
+  },
+  {
+    "id": "10518",
+    "name": "egg_alan_fall_impact_02"
+  },
+  {
+    "id": "10519",
+    "name": "egg_falling_offset02_shorter"
+  },
+  {
+    "id": "10520",
+    "name": "egg_splat_01"
+  },
+  {
+    "id": "10521",
+    "name": "egg_alan_fall_death_01"
+  },
+  {
+    "id": "10522",
+    "name": "egg_alan_fall_impact_01"
+  },
+  {
+    "id": "10523",
+    "name": "gem_stone_crab_attack_impact_01"
+  },
+  {
+    "id": "10524",
+    "name": "gem_stone_crab_despawn_dig_02"
+  },
+  {
+    "id": "10525",
+    "name": "gem_stone_crab_despawn_drop_01"
+  },
+  {
+    "id": "10526",
+    "name": "gem_stone_crab_death_idle_05"
+  },
+  {
+    "id": "10527",
+    "name": "gem_stone_crab_hit_01"
+  },
+  {
+    "id": "10528",
+    "name": "gem_stone_crab_spawn_claw_03"
+  },
+  {
+    "id": "10529",
+    "name": "gem_stone_crab_attack_up_01"
+  },
+  {
+    "id": "10530",
+    "name": "gem_stone_crab_despawn_dig_03"
+  },
+  {
+    "id": "10531",
+    "name": "gem_stone_crab_spawn_ground_break_01"
+  },
+  {
+    "id": "10532",
+    "name": "gem_stone_crab_spawn_rumble_01"
+  },
+  {
+    "id": "10533",
+    "name": "gem_stone_crab_spawn_scuttle_02"
+  },
+  {
+    "id": "10534",
+    "name": "gem_stone_crab_spawn_claw_02"
+  },
+  {
+    "id": "10535",
+    "name": "gem_stone_crab_spawn_scuttle_01"
+  },
+  {
+    "id": "10536",
+    "name": "gem_stone_crab_death_idle_04"
+  },
+  {
+    "id": "10537",
+    "name": "gem_stone_crab_disintegrate_01"
+  },
+  {
+    "id": "10538",
+    "name": "gem_stone_crab_spawn_legs_02"
+  },
+  {
+    "id": "10539",
+    "name": "gem_stone_crab_spawn_dig_01"
+  },
+  {
+    "id": "10540",
+    "name": "gem_stone_crab_spawn_legs_01"
+  },
+  {
+    "id": "10541",
+    "name": "gem_stone_crab_death_idle_03"
+  },
+  {
+    "id": "10542",
+    "name": "gem_stone_crab_dig_01"
+  },
+  {
+    "id": "10543",
+    "name": "gem_stone_crab_spawn_rumble_03"
+  },
+  {
+    "id": "10544",
+    "name": "gem_stone_crab_attack_up_02"
+  },
+  {
+    "id": "10545",
+    "name": "gem_stone_crab_attack_down_01"
+  },
+  {
+    "id": "10546",
+    "name": "gem_stone_crab_attack_impact_02"
+  },
+  {
+    "id": "10547",
+    "name": "gem_stone_crab_spawn_claw_01"
+  },
+  {
+    "id": "10548",
+    "name": "gem_stone_crab_spawn_rumble_02"
+  },
+  {
+    "id": "10549",
+    "name": "gem_stone_crab_death_idle_01"
+  },
+  {
+    "id": "10550",
+    "name": "gem_stone_crab_despawn_dig_04"
+  },
+  {
+    "id": "10551",
+    "name": "gem_stone_crab_despawn_dig_01"
+  },
+  {
+    "id": "10552",
+    "name": "gem_stone_crab_spawn_dig_02"
+  },
+  {
+    "id": "10553",
+    "name": "gem_stone_crab_death_idle_02"
+  },
+  {
+    "id": "10554",
+    "name": "ennius_combat_aoe_att_prep_01"
+  },
+  {
+    "id": "10555",
+    "name": "ennius_combat_aoe_player_fire_spawn_02"
+  },
+  {
+    "id": "10556",
+    "name": "ennius_combat_aoe_player_fire_spawn_01"
+  },
+  {
+    "id": "10557",
+    "name": "ennius_combat_linear_sword_charge_01"
+  },
+  {
+    "id": "10558",
+    "name": "ennius_combat_linear_lift_sword_01"
+  },
+  {
+    "id": "10559",
+    "name": "ennius_combat_prayer_deactivated_01"
+  },
+  {
+    "id": "10560",
+    "name": "ennius_combat_aoe_sword_burn_01"
+  },
+  {
+    "id": "10561",
+    "name": "ennius_combat_linear_floor_cracks_spawn_01"
+  },
+  {
+    "id": "10562",
+    "name": "ennius_combat_linear_fire_spawn_01"
+  },
+  {
+    "id": "10563",
+    "name": "ennius_combat_aoe_jump_01"
+  },
+  {
+    "id": "10564",
+    "name": "ennius_combat_linear_sword_impact_01"
+  },
+  {
+    "id": "10565",
+    "name": "ennius_combat_aoe_area_fire_spawn_01"
+  },
+  {
+    "id": "10566",
+    "name": "metzli_water_cast_staff_splash_proj_01"
+  },
+  {
+    "id": "10567",
+    "name": "metzli_transform_sun_01"
+  },
+  {
+    "id": "10568",
+    "name": "metzli_aoe_cast_fire_spawn_01"
+  },
+  {
+    "id": "10569",
+    "name": "metzli_aoe_cast_sword_burn_01"
+  },
+  {
+    "id": "10570",
+    "name": "metzli_water_wall_despawn_02"
+  },
+  {
+    "id": "10571",
+    "name": "metzli_fire_walk_despawn_01"
+  },
+  {
+    "id": "10572",
+    "name": "metzli_enranged_bow_prep_01"
+  },
+  {
+    "id": "10573",
+    "name": "metzli_teleport_despawn_01"
+  },
+  {
+    "id": "10574",
+    "name": "metzli_water_cast_staff_splash_01"
+  },
+  {
+    "id": "10575",
+    "name": "metzli_aoe_cast_jump_01"
+  },
+  {
+    "id": "10576",
+    "name": "metzli_fire_ring_rising_02"
+  },
+  {
+    "id": "10577",
+    "name": "metzli_water_wall_despawn_01"
+  },
+  {
+    "id": "10578",
+    "name": "metzli_water_ring_rising_02"
+  },
+  {
+    "id": "10579",
+    "name": "metzli_fire_cross_spawn_01"
+  },
+  {
+    "id": "10580",
+    "name": "metzli_teleport_aoe_prep_01"
+  },
+  {
+    "id": "10581",
+    "name": "metzli_fire_walk_burn_01"
+  },
+  {
+    "id": "10582",
+    "name": "metzli_water_wall_spawn_01"
+  },
+  {
+    "id": "10583",
+    "name": "metzli_fire_walk_spawn_01"
+  },
+  {
+    "id": "10584",
+    "name": "metzli_fire_quadrant_spawn_01"
+  },
+  {
+    "id": "10585",
+    "name": "metzli_teleport_spawn_01"
+  },
+  {
+    "id": "10586",
+    "name": "metzli_water_cast_staff_prep_01"
+  },
+  {
+    "id": "10587",
+    "name": "metzli_aoe_cast_player_fire_spawn_01"
+  },
+  {
+    "id": "10588",
+    "name": "metzli_cutscene_fire_row_jump_01"
+  },
+  {
+    "id": "10589",
+    "name": "metzli_water_cast_waterblast_hit_01"
+  },
+  {
+    "id": "10590",
+    "name": "metzli_no_escape_rumble_01"
+  },
+  {
+    "id": "10591",
+    "name": "metzli_enranged_fire_proj_01"
+  },
+  {
+    "id": "10592",
+    "name": "metzli_cutscene_fire_row_spawn_01"
+  },
+  {
+    "id": "10593",
+    "name": "metzli_water_ring_spawn_01"
+  },
+  {
+    "id": "10594",
+    "name": "metzli_water_wall_flow_01"
+  },
+  {
+    "id": "10595",
+    "name": "metzli_fire_ring_rising_01"
+  },
+  {
+    "id": "10596",
+    "name": "metzli_water_ring_rising_01"
+  },
+  {
+    "id": "10597",
+    "name": "metzli_aoe_cast_area_fire_spawn_01"
+  },
+  {
+    "id": "10598",
+    "name": "metzli_stomp_impact_01"
+  },
+  {
+    "id": "10599",
+    "name": "metzli_fire_ring_spawn_01"
+  },
+  {
+    "id": "10600",
+    "name": "earthbound_tecpatl_stab_01"
+  },
+  {
+    "id": "10601",
+    "name": "arkan_blade_special_attack_01"
+  },
+  {
+    "id": "10602",
+    "name": "jigsaw_place"
+  },
+  {
+    "id": "10603",
+    "name": "jigsaw_move"
+  },
+  {
+    "id": "10605",
+    "name": "hw25_chair_spin_01"
+  },
+  {
+    "id": "10606",
+    "name": "hw25_chair_spin_02"
+  },
+  {
+    "id": "10607",
+    "name": "hw25_chair_spin_03"
+  },
+  {
+    "id": "10608",
+    "name": "hw25_chair_spin_04"
+  },
+  {
+    "id": "10609",
+    "name": "hw25_chair_spin_05"
+  },
+  {
+    "id": "10610",
+    "name": "rocko_bolts"
+  },
+  {
+    "id": "10611",
+    "name": "rocko_bore_hole"
+  },
+  {
+    "id": "10612",
+    "name": "rocko_cannon_blast"
+  },
+  {
+    "id": "10613",
+    "name": "rocko_cannonball_fly"
+  },
+  {
+    "id": "10614",
+    "name": "rocko_charcoal_rubbing"
+  },
+  {
+    "id": "10615",
+    "name": "rocko_crowbar_wreckage"
+  },
+  {
+    "id": "10616",
+    "name": "rocko_hoover_seagull"
+  },
+  {
+    "id": "10617",
+    "name": "rocko_hurl_fish_stew"
+  },
+  {
+    "id": "10618",
+    "name": "rocko_lore_ex_parrot"
+  },
+  {
+    "id": "10619",
+    "name": "rocko_parrot_recharge"
+  },
+  {
+    "id": "10620",
+    "name": "rocko_player_tap_pipe"
+  },
+  {
+    "id": "10621",
+    "name": "rocko_puzzle_move_piece"
+  },
+  {
+    "id": "10622",
+    "name": "rocko_seagull_firing"
+  },
+  {
+    "id": "10623",
+    "name": "rocko_seagull_land_on_perch"
+  },
+  {
+    "id": "10624",
+    "name": "rocko_smash_bottle"
+  },
+  {
+    "id": "10625",
+    "name": "rocko_swim"
+  },
+  {
+    "id": "10626",
+    "name": "rocko_tapping"
+  },
+  {
+    "id": "10627",
+    "name": "rocko_tapping_furious"
+  },
+  {
+    "id": "10628",
+    "name": "rocko_tin_cup_on_bars_A"
+  },
+  {
+    "id": "10629",
+    "name": "rocko_tin_cup_on_bars_B"
+  },
+  {
+    "id": "10630",
+    "name": "roots_ants_soldier_attack"
+  },
+  {
+    "id": "10631",
+    "name": "roots_ants_soldier_death"
+  },
+  {
+    "id": "10632",
+    "name": "roots_ants_soldier_defend"
+  },
+  {
+    "id": "10633",
+    "name": "roots_ants_worker_attack"
+  },
+  {
+    "id": "10634",
+    "name": "roots_ants_worker_death"
+  },
+  {
+    "id": "10635",
+    "name": "roots_ants_worker_defend"
+  },
+  {
+    "id": "10636",
+    "name": "roots_break_pot"
+  },
+  {
+    "id": "10637",
+    "name": "roots_climb_maze"
+  },
+  {
+    "id": "10638",
+    "name": "roots_crawl_through"
+  },
+  {
+    "id": "10639",
+    "name": "roots_dog_bark"
+  },
+  {
+    "id": "10640",
+    "name": "roots_dog_whine"
+  },
+  {
+    "id": "10641",
+    "name": "roots_frog_attack"
+  },
+  {
+    "id": "10642",
+    "name": "roots_frog_death"
+  },
+  {
+    "id": "10643",
+    "name": "roots_frog_defend"
+  },
+  {
+    "id": "10644",
+    "name": "roots_insect_buzz_loop"
+  },
+  {
+    "id": "10645",
+    "name": "roots_machete_chop"
+  },
+  {
+    "id": "10646",
+    "name": "roots_mosquito_1"
+  },
+  {
+    "id": "10647",
+    "name": "roots_mosquito_10"
+  },
+  {
+    "id": "10648",
+    "name": "roots_mosquito_11"
+  },
+  {
+    "id": "10649",
+    "name": "roots_mosquito_2"
+  },
+  {
+    "id": "10650",
+    "name": "roots_mosquito_3"
+  },
+  {
+    "id": "10651",
+    "name": "roots_mosquito_4"
+  },
+  {
+    "id": "10652",
+    "name": "roots_mosquito_5"
+  },
+  {
+    "id": "10653",
+    "name": "roots_mosquito_6"
+  },
+  {
+    "id": "10654",
+    "name": "roots_mosquito_7"
+  },
+  {
+    "id": "10655",
+    "name": "roots_mosquito_8"
+  },
+  {
+    "id": "10656",
+    "name": "roots_mosquito_9"
+  },
+  {
+    "id": "10657",
+    "name": "roots_open_package"
+  },
+  {
+    "id": "10658",
+    "name": "roots_parrot_attack"
+  },
+  {
+    "id": "10659",
+    "name": "roots_parrot_death"
+  },
+  {
+    "id": "10660",
+    "name": "roots_parrot_defend"
+  },
+  {
+    "id": "10661",
+    "name": "roots_plant_grow"
+  },
+  {
+    "id": "10662",
+    "name": "roots_plant_wilt"
+  },
+  {
+    "id": "10663",
+    "name": "roots_pot_to_pot"
+  },
+  {
+    "id": "10664",
+    "name": "roots_rooted"
+  },
+  {
+    "id": "10665",
+    "name": "roots_snake_attack"
+  },
+  {
+    "id": "10666",
+    "name": "roots_snake_loop"
+  },
+  {
+    "id": "10667",
+    "name": "roots_squeeze"
+  },
+  {
+    "id": "10668",
+    "name": "roots_take_vine_cutting"
+  },
+  {
+    "id": "10669",
+    "name": "roots_toucan_attack"
+  },
+  {
+    "id": "10670",
+    "name": "roots_toucan_death"
+  },
+  {
+    "id": "10671",
+    "name": "roots_toucan_defend"
+  },
+  {
+    "id": "10672",
+    "name": "roots_vine_attack"
+  },
+  {
+    "id": "10673",
+    "name": "roots_vine_chop"
+  },
+  {
+    "id": "10674",
+    "name": "roots_vine_death"
+  },
+  {
+    "id": "10675",
+    "name": "roots_vine_defend"
+  },
+  {
+    "id": "10676",
+    "name": "roots_vine_mature"
+  },
+  {
+    "id": "10677",
+    "name": "roots_vine_ranged"
+  },
+  {
+    "id": "10678",
+    "name": "roots_vine_special_hit"
+  },
+  {
+    "id": "10679",
+    "name": "roots_wasp_attack"
+  },
+  {
+    "id": "10680",
+    "name": "roots_wasp_bgsound"
+  },
+  {
+    "id": "10681",
+    "name": "roots_wasp_death"
+  },
+  {
+    "id": "10682",
+    "name": "roots_wasp_defend"
+  },
+  {
+    "id": "10683",
+    "name": "roots_wasp_nest"
+  },
+  {
+    "id": "10684",
+    "name": "sailing_anchor_drop_01"
+  },
+  {
+    "id": "10685",
+    "name": "sailing_anchor_player_bend_down_01"
+  },
+  {
+    "id": "10686",
+    "name": "sailing_anchor_player_throw_01"
+  },
+  {
+    "id": "10687",
+    "name": "sailing_anchor_pull_clang_01"
+  },
+  {
+    "id": "10688",
+    "name": "sailing_anchor_pull_creak_01"
+  },
+  {
+    "id": "10689",
+    "name": "sailing_anchor_pull_splash_01"
+  },
+  {
+    "id": "10690",
+    "name": "sailing_anchor_rope_end_01"
+  },
+  {
+    "id": "10691",
+    "name": "sailing_anchor_rope_move_01"
+  },
+  {
+    "id": "10692",
+    "name": "sailing_anchor_rope_move_02"
+  },
+  {
+    "id": "10693",
+    "name": "sailing_anchor_splash_01"
+  },
+  {
+    "id": "10694",
+    "name": "barracuda_collect_rum_01"
+  },
+  {
+    "id": "10695",
+    "name": "barracuda_collect_rum_02"
+  },
+  {
+    "id": "10696",
+    "name": "barracuda_collect_rum_03"
+  },
+  {
+    "id": "10697",
+    "name": "barracuda_deliver_rum_01"
+  },
+  {
+    "id": "10698",
+    "name": "barracuda_rapid_boost_01"
+  },
+  {
+    "id": "10699",
+    "name": "barracuda_rapid_boost_02"
+  },
+  {
+    "id": "10700",
+    "name": "barracuda_trials_boat_damage_01"
+  },
+  {
+    "id": "10701",
+    "name": "barracuda_trials_collect_crate_01"
+  },
+  {
+    "id": "10702",
+    "name": "barracuda_trials_collect_crate_02"
+  },
+  {
+    "id": "10703",
+    "name": "barracuda_trials_collect_crate_03"
+  },
+  {
+    "id": "10704",
+    "name": "barracuda_trials_collect_crate_04"
+  },
+  {
+    "id": "10705",
+    "name": "barracuda_trials_storm_01"
+  },
+  {
+    "id": "10706",
+    "name": "barracuda_trials_thunder_01"
+  },
+  {
+    "id": "10707",
+    "name": "barracuda_trials_thunder_02"
+  },
+  {
+    "id": "10708",
+    "name": "barracuda_trials_thunder_03"
+  },
+  {
+    "id": "10709",
+    "name": "bt_fetid_water_goo_bubble1_despawn_01"
+  },
+  {
+    "id": "10710",
+    "name": "bt_fetid_water_goo_bubble1_despawn_02"
+  },
+  {
+    "id": "10711",
+    "name": "bt_fetid_water_goo_bubble1_despawn_03"
+  },
+  {
+    "id": "10712",
+    "name": "bt_fetid_water_goo_bubble2_01"
+  },
+  {
+    "id": "10713",
+    "name": "bt_fetid_water_goo_bubble2_despawn_01"
+  },
+  {
+    "id": "10714",
+    "name": "bt_fetid_water_goo_bubble3_01"
+  },
+  {
+    "id": "10715",
+    "name": "bt_fetid_water_goo_bubble3_02"
+  },
+  {
+    "id": "10716",
+    "name": "bt_fetid_water_goo_bubble3_03"
+  },
+  {
+    "id": "10717",
+    "name": "bt_fetid_water_goo_bubble3_despawn_01"
+  },
+  {
+    "id": "10718",
+    "name": "bt_fetid_water_goo_bubble3_despawn_02"
+  },
+  {
+    "id": "10719",
+    "name": "bt_fetid_water_goo_bubble4_01"
+  },
+  {
+    "id": "10720",
+    "name": "bt_fetid_water_goo_bubble4_02"
+  },
+  {
+    "id": "10721",
+    "name": "bt_fetid_water_goo_bubble4_03"
+  },
+  {
+    "id": "10722",
+    "name": "bt_fetid_water_goo_bubble5_01"
+  },
+  {
+    "id": "10723",
+    "name": "bt_fetid_water_goo_bubble_01"
+  },
+  {
+    "id": "10724",
+    "name": "bt_fetid_water_goo_bubble_02"
+  },
+  {
+    "id": "10725",
+    "name": "bt_fetid_water_goo_bubble_03"
+  },
+  {
+    "id": "10726",
+    "name": "bt_fetid_water_goo_bubble_despawn4_01"
+  },
+  {
+    "id": "10727",
+    "name": "bt_fetid_water_goo_bubble_despawn4_02"
+  },
+  {
+    "id": "10728",
+    "name": "bt_fetid_water_goo_bubble_despawn4_03"
+  },
+  {
+    "id": "10729",
+    "name": "bt_fetid_water_goo_bubble_despawn5_01"
+  },
+  {
+    "id": "10730",
+    "name": "bt_fetid_water_goo_bubble_despawn_01"
+  },
+  {
+    "id": "10731",
+    "name": "bt_gwenith_glide_crystal_helm_smash_01"
+  },
+  {
+    "id": "10732",
+    "name": "bt_gwenith_glide_crystal_helm_spawn_despawn_01"
+  },
+  {
+    "id": "10733",
+    "name": "bt_gwenith_glide_crystal_helm_spawn_despawn_02"
+  },
+  {
+    "id": "10734",
+    "name": "bt_gwenith_glide_crystal_mote_pulse_01"
+  },
+  {
+    "id": "10735",
+    "name": "bt_gwenith_glide_crystal_mote_pulse_02"
+  },
+  {
+    "id": "10736",
+    "name": "bt_gwenith_glide_crystal_mote_pulse_03"
+  },
+  {
+    "id": "10737",
+    "name": "bt_gwenith_glide_crystal_mote_pulse_04"
+  },
+  {
+    "id": "10738",
+    "name": "bt_gwenith_glide_crystal_mote_pulse_05"
+  },
+  {
+    "id": "10739",
+    "name": "bt_gwenith_glide_crystal_pulse_01"
+  },
+  {
+    "id": "10740",
+    "name": "bt_gwenith_glide_ice_spawn_01"
+  },
+  {
+    "id": "10741",
+    "name": "bt_gwenith_glide_ice_spawn_02"
+  },
+  {
+    "id": "10742",
+    "name": "bt_gwenith_glide_portal_loop_01"
+  },
+  {
+    "id": "10743",
+    "name": "bt_gwenith_glide_portal_transition_01"
+  },
+  {
+    "id": "10744",
+    "name": "bt_gwenith_glide_portal_transition_02"
+  },
+  {
+    "id": "10745",
+    "name": "bt_gwenith_glide_portal_transition_03"
+  },
+  {
+    "id": "10746",
+    "name": "bt_gwenith_glide_portal_transition_04"
+  },
+  {
+    "id": "10747",
+    "name": "bt_gwenith_glide_portal_transition_05"
+  },
+  {
+    "id": "10748",
+    "name": "bt_gwenith_glide_portal_transition_06"
+  },
+  {
+    "id": "10749",
+    "name": "bt_gwenith_glide_portal_transition_07"
+  },
+  {
+    "id": "10750",
+    "name": "bt_jubby_jive_goo_bubble_01"
+  },
+  {
+    "id": "10751",
+    "name": "bt_jubby_jive_toad_throw_01"
+  },
+  {
+    "id": "10752",
+    "name": "bt_jubby_jive_toad_throw_02"
+  },
+  {
+    "id": "10753",
+    "name": "sailing_remove_customisation_01"
+  },
+  {
+    "id": "10754",
+    "name": "sailing_disembarking_01"
+  },
+  {
+    "id": "10755",
+    "name": "sailing_dock_ship_02"
+  },
+  {
+    "id": "10756",
+    "name": "sailing_docking_anchor_drop_01"
+  },
+  {
+    "id": "10757",
+    "name": "sailing_docking_anchor_drop_02"
+  },
+  {
+    "id": "10758",
+    "name": "sailing_docking_anchor_drop_03"
+  },
+  {
+    "id": "10759",
+    "name": "sailing_boss_gryphon_death_flap_01"
+  },
+  {
+    "id": "10760",
+    "name": "sailing_boss_gryphon_death_impact_01"
+  },
+  {
+    "id": "10761",
+    "name": "sailing_boss_gryphon_death_scream_01"
+  },
+  {
+    "id": "10762",
+    "name": "sailing_boss_gryphon_defend_01"
+  },
+  {
+    "id": "10763",
+    "name": "sailing_boss_gryphon_melee_hit_01"
+  },
+  {
+    "id": "10764",
+    "name": "sailing_boss_gryphon_ranged_down_01"
+  },
+  {
+    "id": "10765",
+    "name": "sailing_boss_gryphon_ranged_impact_01"
+  },
+  {
+    "id": "10766",
+    "name": "sailing_boss_gryphon_ranged_up_01"
+  },
+  {
+    "id": "10767",
+    "name": "sailing_boss_gryphon_scream_01"
+  },
+  {
+    "id": "10768",
+    "name": "sailing_boss_gryphon_spit_01"
+  },
+  {
+    "id": "10769",
+    "name": "sailing_boss_gryphon_spit_02"
+  },
+  {
+    "id": "10770",
+    "name": "sailing_boss_gryphon_spit_impact_01"
+  },
+  {
+    "id": "10771",
+    "name": "sailing_boss_ww_exit_01"
+  },
+  {
+    "id": "10772",
+    "name": "sailing_boss_ww_flap_01"
+  },
+  {
+    "id": "10773",
+    "name": "sailing_boss_ww_flap_02"
+  },
+  {
+    "id": "10774",
+    "name": "sailing_boss_ww_land_01"
+  },
+  {
+    "id": "10775",
+    "name": "sailing_boss_ww_loop_01"
+  },
+  {
+    "id": "10776",
+    "name": "sailing_boss_ww_loop_active_01"
+  },
+  {
+    "id": "10777",
+    "name": "sailing_boss_ww_loop_active_lvl_1"
+  },
+  {
+    "id": "10778",
+    "name": "sailing_boss_ww_loop_active_lvl_2"
+  },
+  {
+    "id": "10779",
+    "name": "sailing_boss_ww_loop_active_lvl_3"
+  },
+  {
+    "id": "10780",
+    "name": "sailing_boss_ww_loop_active_lvl_4"
+  },
+  {
+    "id": "10781",
+    "name": "sailing_boss_ww_loop_active_lvl_5"
+  },
+  {
+    "id": "10782",
+    "name": "sailing_boss_ww_loop_inactive_lvl_5"
+  },
+  {
+    "id": "10783",
+    "name": "sailing_boss_ww_scream_01"
+  },
+  {
+    "id": "10784",
+    "name": "sailing_boss_ww_scream_02"
+  },
+  {
+    "id": "10785",
+    "name": "sailing_gryphon_death_flap_01"
+  },
+  {
+    "id": "10786",
+    "name": "sailing_gryphon_death_impact_01"
+  },
+  {
+    "id": "10787",
+    "name": "sailing_gryphon_death_scream_01"
+  },
+  {
+    "id": "10788",
+    "name": "sailing_gryphon_defend_01"
+  },
+  {
+    "id": "10789",
+    "name": "sailing_gryphon_melee_hit_01"
+  },
+  {
+    "id": "10790",
+    "name": "sailing_gryphon_scream_01"
+  },
+  {
+    "id": "10791",
+    "name": "sailing_coins_02"
+  },
+  {
+    "id": "10792",
+    "name": "sailing_kandarin_raft_tiller_01"
+  },
+  {
+    "id": "10793",
+    "name": "sailing_kandarin_raft_tiller_02"
+  },
+  {
+    "id": "10794",
+    "name": "sailing_luffing_01"
+  },
+  {
+    "id": "10795",
+    "name": "sailing_luffing_loose_sail_01"
+  },
+  {
+    "id": "10796",
+    "name": "sailing_luffing_loose_sail_03"
+  },
+  {
+    "id": "10797",
+    "name": "sailing_mermaid_diving_01"
+  },
+  {
+    "id": "10798",
+    "name": "sailing_mermaid_diving_02"
+  },
+  {
+    "id": "10799",
+    "name": "sailing_mogre_death_float_01"
+  },
+  {
+    "id": "10800",
+    "name": "sailing_mogre_defend_01"
+  },
+  {
+    "id": "10801",
+    "name": "sailing_mogre_defend_02"
+  },
+  {
+    "id": "10802",
+    "name": "sailing_mogre_melee_attack_01"
+  },
+  {
+    "id": "10803",
+    "name": "sailing_monodon_attack_01"
+  },
+  {
+    "id": "10804",
+    "name": "sailing_monodon_attack_02"
+  },
+  {
+    "id": "10805",
+    "name": "sailing_monodon_ranged_attack_01"
+  },
+  {
+    "id": "10806",
+    "name": "sailing_monodon_ranged_attack_impact_01"
+  },
+  {
+    "id": "10807",
+    "name": "sailing_boat_tiller_01"
+  },
+  {
+    "id": "10808",
+    "name": "sailing_boat_tiller_02"
+  },
+  {
+    "id": "10809",
+    "name": "sailing_boat_tiller_turn_02"
+  },
+  {
+    "id": "10810",
+    "name": "sailing_boat_tiller_turn_03"
+  },
+  {
+    "id": "10811",
+    "name": "sailing_boat_tiller_turn_05"
+  },
+  {
+    "id": "10812",
+    "name": "sailing_boat_tiller_turn_06"
+  },
+  {
+    "id": "10813",
+    "name": "sailing_boat_tiller_turn_07"
+  },
+  {
+    "id": "10814",
+    "name": "sailing_boat_tiller_turn_08"
+  },
+  {
+    "id": "10815",
+    "name": "sailing_boat_tiller_turn_09"
+  },
+  {
+    "id": "10816",
+    "name": "sailing_boat_tiller_turn_10"
+  },
+  {
+    "id": "10817",
+    "name": "sailing_boat_tiller_turn_11"
+  },
+  {
+    "id": "10818",
+    "name": "sailing_boat_tiller_turn_12"
+  },
+  {
+    "id": "10819",
+    "name": "sailing_boat_tiller_turn_13"
+  },
+  {
+    "id": "10820",
+    "name": "sailing_boat_tiller_turn_180_01"
+  },
+  {
+    "id": "10821",
+    "name": "sailing_boat_tiller_turn_180_02"
+  },
+  {
+    "id": "10822",
+    "name": "sailing_boat_tiller_turn_180_03"
+  },
+  {
+    "id": "10823",
+    "name": "sailing_boat_tiller_turn_180_04"
+  },
+  {
+    "id": "10824",
+    "name": "sailing_boat_tiller_turn_180_05"
+  },
+  {
+    "id": "10825",
+    "name": "sailing_boat_tiller_turn_180_06"
+  },
+  {
+    "id": "10826",
+    "name": "sailing_boat_tiller_turn_180_07"
+  },
+  {
+    "id": "10827",
+    "name": "sailing_boat_tiller_turn_180_08"
+  },
+  {
+    "id": "10828",
+    "name": "sailing_boat_tiller_turn_180_09"
+  },
+  {
+    "id": "10829",
+    "name": "sailing_boat_tiller_turn_180_10"
+  },
+  {
+    "id": "10830",
+    "name": "sailing_boat_wheel_01"
+  },
+  {
+    "id": "10831",
+    "name": "sailing_sail_down_to_full_01"
+  },
+  {
+    "id": "10832",
+    "name": "sailing_sail_down_to_half_01"
+  },
+  {
+    "id": "10833",
+    "name": "sailing_sail_full_to_down_01"
+  },
+  {
+    "id": "10834",
+    "name": "sailing_sail_full_to_half_01"
+  },
+  {
+    "id": "10835",
+    "name": "sailing_sail_half_to_down_01"
+  },
+  {
+    "id": "10836",
+    "name": "sailing_sail_half_to_full_01"
+  },
+  {
+    "id": "10837",
+    "name": "sailing_sail_luffing_01"
+  },
+  {
+    "id": "10838",
+    "name": "sailing_sail_luffing_02"
+  },
+  {
+    "id": "10839",
+    "name": "sailing_sail_luffing_03"
+  },
+  {
+    "id": "10840",
+    "name": "sailing_sail_speed_boost_01"
+  },
+  {
+    "id": "10841",
+    "name": "sailing_sail_speed_boost_02"
+  },
+  {
+    "id": "10842",
+    "name": "sailing_sail_trim_01"
+  },
+  {
+    "id": "10843",
+    "name": "sailing_salvage_added_to_inventory_01"
+  },
+  {
+    "id": "10844",
+    "name": "sailing_salvage_added_to_inventory_02"
+  },
+  {
+    "id": "10845",
+    "name": "sailing_salvage_added_to_inventory_03"
+  },
+  {
+    "id": "10846",
+    "name": "sailing_salvage_added_to_inventory_04"
+  },
+  {
+    "id": "10847",
+    "name": "sailing_salvage_added_to_inventory_05"
+  },
+  {
+    "id": "10848",
+    "name": "sailing_salvage_hook_drop_reel_click_02"
+  },
+  {
+    "id": "10849",
+    "name": "sailing_salvage_hook_drop_reel_click_03"
+  },
+  {
+    "id": "10850",
+    "name": "sailing_salvage_hook_drop_reel_click_04"
+  },
+  {
+    "id": "10851",
+    "name": "sailing_salvage_hook_drop_reel_click_05"
+  },
+  {
+    "id": "10852",
+    "name": "sailing_salvage_hook_drop_reel_click_06"
+  },
+  {
+    "id": "10853",
+    "name": "sailing_salvage_hook_drop_reel_click_stop_02"
+  },
+  {
+    "id": "10854",
+    "name": "sailing_salvage_hook_movement_01"
+  },
+  {
+    "id": "10855",
+    "name": "sailing_salvage_hook_movement_02"
+  },
+  {
+    "id": "10856",
+    "name": "sailing_salvage_hook_movement_03"
+  },
+  {
+    "id": "10857",
+    "name": "sailing_salvage_hook_movement_04"
+  },
+  {
+    "id": "10858",
+    "name": "sailing_salvage_hook_movement_05"
+  },
+  {
+    "id": "10859",
+    "name": "sailing_salvage_hook_movement_06"
+  },
+  {
+    "id": "10860",
+    "name": "sailing_salvage_item_added_01"
+  },
+  {
+    "id": "10861",
+    "name": "sailing_salvage_item_added_02"
+  },
+  {
+    "id": "10862",
+    "name": "sailing_salvage_item_added_03"
+  },
+  {
+    "id": "10863",
+    "name": "sailing_salvage_item_added_04"
+  },
+  {
+    "id": "10864",
+    "name": "sailing_salvage_sorting"
+  },
+  {
+    "id": "10865",
+    "name": "sailing_salvage_sorting_02"
+  },
+  {
+    "id": "10866",
+    "name": "sailing_salvage_sorting_03"
+  },
+  {
+    "id": "10867",
+    "name": "sailing_salvage_sorting_04"
+  },
+  {
+    "id": "10868",
+    "name": "sailing_salvage_sorting_05"
+  },
+  {
+    "id": "10869",
+    "name": "sailing_salvage_sorting_06"
+  },
+  {
+    "id": "10870",
+    "name": "sailing_salvaging_hook_reset_01"
+  },
+  {
+    "id": "10871",
+    "name": "sailing_salvaging_idle_01"
+  },
+  {
+    "id": "10872",
+    "name": "sailing_salvaging_reset_01"
+  },
+  {
+    "id": "10873",
+    "name": "sailing_salvaging_sorting_01"
+  },
+  {
+    "id": "10874",
+    "name": "sailing_shark_death_01"
+  },
+  {
+    "id": "10875",
+    "name": "sailing_shark_death_float_up_01"
+  },
+  {
+    "id": "10876",
+    "name": "sailing_shark_idle_01"
+  },
+  {
+    "id": "10877",
+    "name": "sailing_shark_idle_02"
+  },
+  {
+    "id": "10878",
+    "name": "sailing_shark_idle_03"
+  },
+  {
+    "id": "10879",
+    "name": "sailing_shark_idle_04"
+  },
+  {
+    "id": "10880",
+    "name": "sailing_shark_idle_05"
+  },
+  {
+    "id": "10881",
+    "name": "sailing_shark_idle_06"
+  },
+  {
+    "id": "10882",
+    "name": "sailing_shark_melee_01"
+  },
+  {
+    "id": "10883",
+    "name": "sailing_shark_melee_splash_01"
+  },
+  {
+    "id": "10884",
+    "name": "sailing_shark_melee_start_01"
+  },
+  {
+    "id": "10885",
+    "name": "sailing_tortugan_death_fall_01"
+  },
+  {
+    "id": "10886",
+    "name": "sailing_tortugan_death_scream_01"
+  },
+  {
+    "id": "10887",
+    "name": "sailing_tortugan_death_step_01"
+  },
+  {
+    "id": "10888",
+    "name": "sailing_tortugan_death_step_02"
+  },
+  {
+    "id": "10889",
+    "name": "sailing_tortugan_staff_stab_01"
+  },
+  {
+    "id": "10890",
+    "name": "sailing_trawling_net_idle_01"
+  },
+  {
+    "id": "10891",
+    "name": "sailing_trawling_net_idle_02"
+  },
+  {
+    "id": "10892",
+    "name": "sailing_trawling_net_idle_03"
+  },
+  {
+    "id": "10893",
+    "name": "sailing_trawling_net_idle_04"
+  },
+  {
+    "id": "10894",
+    "name": "sailing_wind_catcher_01"
+  },
+  {
+    "id": "10895",
+    "name": "sailing_wind_catcher_02"
+  },
+  {
+    "id": "10896",
+    "name": "sailing_wind_catcher_disable_01"
+  },
+  {
+    "id": "10897",
+    "name": "sailing_wind_catcher_disable_02"
+  },
+  {
+    "id": "10898",
+    "name": "sailing_wind_catcher_enable_01"
+  },
+  {
+    "id": "10899",
+    "name": "sailing_wind_catcher_enable_02"
+  },
+  {
+    "id": "10900",
+    "name": "boat_retrieve_cast"
+  },
+  {
+    "id": "10901",
+    "name": "sailing_cannon_fire_01"
+  },
+  {
+    "id": "10902",
+    "name": "sailing_cannon_impact_01"
+  },
+  {
+    "id": "10903",
+    "name": "sailing_close_cargo_point_01"
+  },
+  {
+    "id": "10904",
+    "name": "sailing_deposit_cargo"
+  },
+  {
+    "id": "10905",
+    "name": "sailing_deposit_cargo_UI"
+  },
+  {
+    "id": "10906",
+    "name": "sailing_open_cargo_point"
+  },
+  {
+    "id": "10907",
+    "name": "sailing_open_cargo_point_02"
+  },
+  {
+    "id": "10908",
+    "name": "sailing_pick_up_cargo_01"
+  },
+  {
+    "id": "10909",
+    "name": "albatross_attack_01"
+  },
+  {
+    "id": "10910",
+    "name": "albatross_death_01"
+  },
+  {
+    "id": "10911",
+    "name": "albatross_defend_01"
+  },
+  {
+    "id": "10912",
+    "name": "dolphin_attack_01"
+  },
+  {
+    "id": "10913",
+    "name": "dolphin_death_01"
+  },
+  {
+    "id": "10914",
+    "name": "dolphin_defend_01"
+  },
+  {
+    "id": "10915",
+    "name": "frigate_attack_01"
+  },
+  {
+    "id": "10916",
+    "name": "frigate_death_01"
+  },
+  {
+    "id": "10917",
+    "name": "frigate_defend_01"
+  },
+  {
+    "id": "10918",
+    "name": "hermit_crab_attack_01"
+  },
+  {
+    "id": "10919",
+    "name": "hermit_crab_death_01"
+  },
+  {
+    "id": "10920",
+    "name": "hermit_crab_defend_01"
+  },
+  {
+    "id": "10921",
+    "name": "orca_attack_01"
+  },
+  {
+    "id": "10922",
+    "name": "orca_attack_02"
+  },
+  {
+    "id": "10923",
+    "name": "orca_death_01"
+  },
+  {
+    "id": "10924",
+    "name": "orca_defend_01"
+  },
+  {
+    "id": "10925",
+    "name": "osprey_attack_01"
+  },
+  {
+    "id": "10926",
+    "name": "osprey_death_01"
+  },
+  {
+    "id": "10927",
+    "name": "osprey_defend_01"
+  },
+  {
+    "id": "10928",
+    "name": "pygmy_kraken_attack_01"
+  },
+  {
+    "id": "10929",
+    "name": "pygmy_kraken_attack_02"
+  },
+  {
+    "id": "10930",
+    "name": "pygmy_kraken_death_01"
+  },
+  {
+    "id": "10931",
+    "name": "pygmy_kraken_defend_01"
+  },
+  {
+    "id": "10932",
+    "name": "ray_attack_01"
+  },
+  {
+    "id": "10933",
+    "name": "ray_attack_02"
+  },
+  {
+    "id": "10934",
+    "name": "ray_death_01"
+  },
+  {
+    "id": "10935",
+    "name": "ray_defend_01"
+  },
+  {
+    "id": "10936",
+    "name": "tern_attack_01"
+  },
+  {
+    "id": "10937",
+    "name": "tern_death_01"
+  },
+  {
+    "id": "10938",
+    "name": "tern_defend_01"
+  },
+  {
+    "id": "10939",
+    "name": "deep_sea_trawling_deep_fish_bubbles_01"
+  },
+  {
+    "id": "10940",
+    "name": "deep_sea_trawling_deep_fish_bubbles_02"
+  },
+  {
+    "id": "10941",
+    "name": "deep_sea_trawling_deep_fish_bubbles_03"
+  },
+  {
+    "id": "10942",
+    "name": "deep_sea_trawling_deep_fish_bubbles_04"
+  },
+  {
+    "id": "10943",
+    "name": "deep_sea_trawling_mid_fish_bubbles_01"
+  },
+  {
+    "id": "10944",
+    "name": "deep_sea_trawling_mid_fish_bubbles_02"
+  },
+  {
+    "id": "10945",
+    "name": "deep_sea_trawling_mid_fish_bubbles_03"
+  },
+  {
+    "id": "10946",
+    "name": "deep_sea_trawling_mid_fish_bubbles_04"
+  },
+  {
+    "id": "10947",
+    "name": "deep_sea_trawling_shallow_fish_bubbles_01"
+  },
+  {
+    "id": "10948",
+    "name": "deep_sea_trawling_shallow_fish_bubbles_02"
+  },
+  {
+    "id": "10949",
+    "name": "deep_sea_trawling_shallow_fish_bubbles_03"
+  },
+  {
+    "id": "10950",
+    "name": "deep_sea_trawling_shallow_fish_bubbles_04"
+  },
+  {
+    "id": "10951",
+    "name": "deep_sea_trawling_shallow_fish_swim_01"
+  },
+  {
+    "id": "10952",
+    "name": "deep_sea_trawling_shallow_fish_swim_02"
+  },
+  {
+    "id": "10953",
+    "name": "deep_sea_trawling_shallow_fish_swim_03"
+  },
+  {
+    "id": "10954",
+    "name": "sailing_horn_of_plenty_blow_01"
+  },
+  {
+    "id": "10955",
+    "name": "sailing_horn_of_plenty_blow_uncharged_01"
+  },
+  {
+    "id": "10956",
+    "name": "ard_amb_crashing_waves_01"
+  },
+  {
+    "id": "10957",
+    "name": "ard_amb_crashing_waves_02"
+  },
+  {
+    "id": "10958",
+    "name": "ard_amb_crashing_waves_03"
+  },
+  {
+    "id": "10959",
+    "name": "ard_amb_crashing_waves_04"
+  },
+  {
+    "id": "10960",
+    "name": "ard_amb_crashing_waves_05"
+  },
+  {
+    "id": "10961",
+    "name": "ard_amb_crashing_waves_06"
+  },
+  {
+    "id": "10962",
+    "name": "ard_amb_gull_01"
+  },
+  {
+    "id": "10963",
+    "name": "ard_amb_gull_02"
+  },
+  {
+    "id": "10964",
+    "name": "ard_amb_gull_03"
+  },
+  {
+    "id": "10965",
+    "name": "ard_amb_gull_04"
+  },
+  {
+    "id": "10966",
+    "name": "ardent_ocean_water_loop_01"
+  },
+  {
+    "id": "10967",
+    "name": "gentle_island_wind_01"
+  },
+  {
+    "id": "10968",
+    "name": "sailing_capsized_01"
+  },
+  {
+    "id": "10969",
+    "name": "sailing_chance_encounter"
+  },
+  {
+    "id": "10970",
+    "name": "sailing_chance_encounter_glow_01"
+  },
+  {
+    "id": "10971",
+    "name": "sailing_chance_encounter_glow_loop_01"
+  },
+  {
+    "id": "10972",
+    "name": "sailing_player_fall_drop_01"
+  },
+  {
+    "id": "10973",
+    "name": "sailing_player_fall_drop_02"
+  },
+  {
+    "id": "10974",
+    "name": "sailing_player_fall_footsteps_01"
+  },
+  {
+    "id": "10975",
+    "name": "sailing_player_fall_water_splash_01"
+  },
+  {
+    "id": "10976",
+    "name": "sailing_player_fall_whoosh_01"
+  },
+  {
+    "id": "10977",
+    "name": "sailing_player_pushed_01"
+  },
+  {
+    "id": "10978",
+    "name": "sailing_player_pushed_02"
+  },
+  {
+    "id": "10979",
+    "name": "sailing_player_pushed_03"
+  },
+  {
+    "id": "10980",
+    "name": "sailing_player_pushed_04"
+  },
+  {
+    "id": "10981",
+    "name": "sailing_player_pushed_contact_01a"
+  },
+  {
+    "id": "10982",
+    "name": "shipwreck_despawn_01"
+  },
+  {
+    "id": "10983",
+    "name": "shipwreck_idle_creak_01"
+  },
+  {
+    "id": "10984",
+    "name": "shipwreck_idle_creak_02"
+  },
+  {
+    "id": "10985",
+    "name": "shipwreck_idle_creak_03"
+  },
+  {
+    "id": "10986",
+    "name": "shipwreck_idle_creak_04"
+  },
+  {
+    "id": "10987",
+    "name": "shipwreck_idle_creak_05"
+  },
+  {
+    "id": "10988",
+    "name": "shipwreck_idle_creak_06"
+  },
+  {
+    "id": "10989",
+    "name": "shipwreck_spawn_01"
+  },
+  {
+    "id": "10990",
+    "name": "sailing_skill_bell_01"
+  },
+  {
+    "id": "10991",
+    "name": "sailing_skill_bell_02"
+  },
+  {
+    "id": "10992",
+    "name": "sailing_skill_cape_water_bubbles_01"
+  },
+  {
+    "id": "10993",
+    "name": "sailing_skill_cape_water_bubbles_02"
+  },
+  {
+    "id": "10994",
+    "name": "sailing_skill_cape_water_spawn_01"
+  },
+  {
+    "id": "10995",
+    "name": "sailing_skill_human_jump_01"
+  },
+  {
+    "id": "10996",
+    "name": "sailing_skill_human_land_01"
+  },
+  {
+    "id": "10997",
+    "name": "sailing_skill_kraken_spawn_01"
+  },
+  {
+    "id": "10998",
+    "name": "sailing_skill_kraken_spawn_02"
+  },
+  {
+    "id": "10999",
+    "name": "sailing_skill_kraken_spawn_ending_vox_01"
+  },
+  {
+    "id": "11000",
+    "name": "sailing_skill_player_rotate_01"
+  },
+  {
+    "id": "11001",
+    "name": "sailing_skill_shark_bubbles_01"
+  },
+  {
+    "id": "11002",
+    "name": "sailing_skill_shark_swim_01"
+  },
+  {
+    "id": "11003",
+    "name": "sailing_skill_shark_swim_02"
+  },
+  {
+    "id": "11004",
+    "name": "sailing_skill_shark_swim_03#"
+  },
+  {
+    "id": "11005",
+    "name": "sailing_skill_shark_swim_03"
+  },
+  {
+    "id": "11006",
+    "name": "sailing_skill_telescope_open_01"
+  },
+  {
+    "id": "11007",
+    "name": "sailing_skill_telescope_open_02"
+  },
+  {
+    "id": "11008",
+    "name": "sailing_skill_telescope_open_03"
+  },
+  {
+    "id": "11009",
+    "name": "sailing_skill_telescope_open_04"
+  },
+  {
+    "id": "11010",
+    "name": "sailing_skill_telescope_open_05"
+  },
+  {
+    "id": "11011",
+    "name": "sailing_skill_water_circle_01"
+  },
+  {
+    "id": "11012",
+    "name": "sailing_skill_water_ocean_circle_01"
+  },
+  {
+    "id": "11013",
+    "name": "sailing_skill_water_splash_end_01"
+  },
+  {
+    "id": "11014",
+    "name": "sailing_skill_wind_01"
+  },
+  {
+    "id": "11015",
+    "name": "sailing_skill_wood_creak_01"
+  },
+  {
+    "id": "11016",
+    "name": "sailing_skill_wood_creak_02"
+  },
+  {
+    "id": "11017",
+    "name": "sailing_skill_wood_creak_03"
+  },
+  {
+    "id": "11018",
+    "name": "rag2_aquanite_attack"
+  },
+  {
+    "id": "11019",
+    "name": "rag2_aquanite_attack_2"
+  },
+  {
+    "id": "11020",
+    "name": "rag2_aquanite_attack_3"
+  },
+  {
+    "id": "11021",
+    "name": "rag2_aquanite_attack_4"
+  },
+  {
+    "id": "11022",
+    "name": "rag2_aquanite_attack_5"
+  },
+  {
+    "id": "11023",
+    "name": "rag2_aquanite_death"
+  },
+  {
+    "id": "11024",
+    "name": "rag2_aquanite_hit"
+  },
+  {
+    "id": "11025",
+    "name": "rag2_aquanite_spot_splat_1"
+  },
+  {
+    "id": "11026",
+    "name": "rag2_aquanite_spot_splat_2"
+  },
+  {
+    "id": "11027",
+    "name": "rag2_aquanite_spot_splat_3"
+  },
+  {
+    "id": "11028",
+    "name": "rag2_boss_bone_break"
+  },
+  {
+    "id": "11029",
+    "name": "rag2_boss_chain_clang_1"
+  },
+  {
+    "id": "11030",
+    "name": "rag2_boss_chain_clang_2"
+  },
+  {
+    "id": "11031",
+    "name": "rag2_boss_chain_clang_3"
+  },
+  {
+    "id": "11032",
+    "name": "rag2_boss_chain_clang_4"
+  },
+  {
+    "id": "11033",
+    "name": "rag2_boss_death_bone_clatter"
+  },
+  {
+    "id": "11034",
+    "name": "rag2_boss_fall"
+  },
+  {
+    "id": "11035",
+    "name": "rag2_boss_hit"
+  },
+  {
+    "id": "11036",
+    "name": "rag2_boss_hit2"
+  },
+  {
+    "id": "11037",
+    "name": "rag2_boss_hit3"
+  },
+  {
+    "id": "11038",
+    "name": "rag2_boss_laugh"
+  },
+  {
+    "id": "11039",
+    "name": "rag2_boss_roar"
+  },
+  {
+    "id": "11040",
+    "name": "rag2_boss_severed_limb_jump"
+  },
+  {
+    "id": "11041",
+    "name": "rag2_boss_spell_cast"
+  },
+  {
+    "id": "11042",
+    "name": "rag2_boss_swipe"
+  },
+  {
+    "id": "11043",
+    "name": "rag2_boss_swipe2"
+  },
+  {
+    "id": "11044",
+    "name": "rag2_boss_swipe3"
+  },
+  {
+    "id": "11045",
+    "name": "rag2_left_hand_walk_1"
+  },
+  {
+    "id": "11046",
+    "name": "rag2_left_hand_walk_2"
+  },
+  {
+    "id": "11047",
+    "name": "rag2_put_fur_on_rack"
+  },
+  {
+    "id": "11048",
+    "name": "rag2_tail_walk_1"
+  },
+  {
+    "id": "11049",
+    "name": "rag2_teleport_soil"
+  },
+  {
+    "id": "11050",
+    "name": "rag2_teleport_swipe"
+  },
+  {
+    "id": "11051",
+    "name": "strykewryms_knockback"
+  },
+  {
+    "id": "11052",
+    "name": "strykewryrms_player_stamp"
+  },
+  {
+    "id": "11053",
+    "name": "strykewyrms_attack_1"
+  },
+  {
+    "id": "11054",
+    "name": "strykewyrms_attack_2"
+  },
+  {
+    "id": "11055",
+    "name": "strykewyrms_attack_3"
+  },
+  {
+    "id": "11056",
+    "name": "strykewyrms_attack_4"
+  },
+  {
+    "id": "11057",
+    "name": "strykewyrms_attack_5"
+  },
+  {
+    "id": "11058",
+    "name": "strykewyrms_attack_6"
+  },
+  {
+    "id": "11059",
+    "name": "strykewyrms_attack_7"
+  },
+  {
+    "id": "11060",
+    "name": "strykewyrms_attack_impact_1"
+  },
+  {
+    "id": "11061",
+    "name": "strykewyrms_attack_impact_2"
+  },
+  {
+    "id": "11062",
+    "name": "strykewyrms_attack_impact_3"
+  },
+  {
+    "id": "11063",
+    "name": "strykewyrms_attack_impact_4"
+  },
+  {
+    "id": "11064",
+    "name": "strykewyrms_death"
+  },
+  {
+    "id": "11065",
+    "name": "strykewyrms_desert_bgsound"
+  },
+  {
+    "id": "11066",
+    "name": "strykewyrms_desert_spot_1"
+  },
+  {
+    "id": "11067",
+    "name": "strykewyrms_desert_spot_2"
+  },
+  {
+    "id": "11068",
+    "name": "strykewyrms_desert_spot_3"
+  },
+  {
+    "id": "11069",
+    "name": "strykewyrms_desert_spot_4"
+  },
+  {
+    "id": "11070",
+    "name": "strykewyrms_dive"
+  },
+  {
+    "id": "11071",
+    "name": "strykewyrms_hit"
+  },
+  {
+    "id": "11072",
+    "name": "strykewyrms_ice_bgsound"
+  },
+  {
+    "id": "11073",
+    "name": "strykewyrms_ice_spot_1"
+  },
+  {
+    "id": "11074",
+    "name": "strykewyrms_ice_spot_2"
+  },
+  {
+    "id": "11075",
+    "name": "strykewyrms_ice_spot_3"
+  },
+  {
+    "id": "11076",
+    "name": "strykewyrms_ice_spot_4"
+  },
+  {
+    "id": "11077",
+    "name": "strykewyrms_ice_spot_5"
+  },
+  {
+    "id": "11078",
+    "name": "strykewyrms_ice_spot_6"
+  },
+  {
+    "id": "11079",
+    "name": "strykewyrms_jungle_bgsound"
+  },
+  {
+    "id": "11080",
+    "name": "strykewyrms_jungle_spot_A1"
+  },
+  {
+    "id": "11081",
+    "name": "strykewyrms_jungle_spot_A2"
+  },
+  {
+    "id": "11082",
+    "name": "strykewyrms_jungle_spot_A3"
+  },
+  {
+    "id": "11083",
+    "name": "strykewyrms_jungle_spot_B1"
+  },
+  {
+    "id": "11084",
+    "name": "strykewyrms_jungle_spot_B2"
+  },
+  {
+    "id": "11085",
+    "name": "strykewyrms_jungle_spot_B3"
+  },
+  {
+    "id": "11086",
+    "name": "strykewyrms_shreek"
+  },
+  {
+    "id": "11087",
+    "name": "strykewyrms_staff_of_light_special"
+  },
+  {
+    "id": "11088",
+    "name": "hal_sep_lightning_trap_5_low_volume"
+  },
+  {
+    "id": "11089",
+    "name": "sailing_sail_down_to_full_02"
+  },
+  {
+    "id": "11090",
+    "name": "sailing_salvage_hook_raft_human_drop_01"
+  },
+  {
+    "id": "11091",
+    "name": "sailing_salvage_hook_raft_idle_01"
+  },
+  {
+    "id": "11092",
+    "name": "sailing_salvage_hook_raft_idle_02"
+  },
+  {
+    "id": "11093",
+    "name": "sailing_salvage_hook_raft_idle_03"
+  },
+  {
+    "id": "11094",
+    "name": "sailing_shark_defend_01"
+  },
+  {
+    "id": "11095",
+    "name": "sailing_loot_net_move_01"
+  },
+  {
+    "id": "11096",
+    "name": "sailing_loot_net_splash_01"
+  },
+  {
+    "id": "11097",
+    "name": "sailing_loot_net_throw_01"
+  },
+  {
+    "id": "11098",
+    "name": "ard_amb_gull_05"
+  },
+  {
+    "id": "11099",
+    "name": "ard_amb_gull_06"
+  },
+  {
+    "id": "11100",
+    "name": "ard_amb_gull_07"
+  },
+  {
+    "id": "11101",
+    "name": "ard_amb_gull_08"
+  },
+  {
+    "id": "11102",
+    "name": "ard_amb_gull_09"
+  },
+  {
+    "id": "11103",
+    "name": "ard_amb_gull_10"
+  },
+  {
+    "id": "11104",
+    "name": "ard_amb_gull_11"
+  },
+  {
+    "id": "11105",
+    "name": "ard_amb_gull_12"
+  },
+  {
+    "id": "11106",
+    "name": "fetid_waters_swamp_gas_01"
+  },
+  {
+    "id": "11107",
+    "name": "fetid_waters_swamp_gas_02"
+  },
+  {
+    "id": "11108",
+    "name": "fetid_waters_water_wind_loop_01"
+  },
+  {
+    "id": "11109",
+    "name": "flecked_waters_crystals_01"
+  },
+  {
+    "id": "11110",
+    "name": "flecked_waters_crystals_02"
+  },
+  {
+    "id": "11111",
+    "name": "flecked_waters_crystals_03"
+  },
+  {
+    "id": "11112",
+    "name": "flecked_waters_crystals_04"
+  },
+  {
+    "id": "11113",
+    "name": "flecked_waters_crystals_05"
+  },
+  {
+    "id": "11114",
+    "name": "flecked_waters_crystals_06"
+  },
+  {
+    "id": "11115",
+    "name": "flecked_waters_crystals_07"
+  },
+  {
+    "id": "11116",
+    "name": "flecked_waters_crystals_08"
+  },
+  {
+    "id": "11117",
+    "name": "flecked_waters_icy_wind_01"
+  },
+  {
+    "id": "11118",
+    "name": "profane_waters_water_wind_loop_01"
+  },
+  {
+    "id": "11119",
+    "name": "stormy_seas_water_wind_loop_01"
+  },
+  {
+    "id": "11120",
+    "name": "sunbaked_seas_water_wind_loop_01"
+  },
+  {
+    "id": "11121",
+    "name": "tangled_kelp_seaweed_01"
+  },
+  {
+    "id": "11122",
+    "name": "tangled_kelp_seaweed_02"
+  },
+  {
+    "id": "11123",
+    "name": "tangled_kelp_seaweed_03"
+  },
+  {
+    "id": "11124",
+    "name": "tangled_kelp_seaweed_04"
+  },
+  {
+    "id": "11125",
+    "name": "tangled_kelp_seaweed_05"
+  },
+  {
+    "id": "11126",
+    "name": "tangled_kelp_seaweed_06"
+  },
+  {
+    "id": "11127",
+    "name": "tangled_kelp_seaweed_07"
+  },
+  {
+    "id": "11128",
+    "name": "tangled_kelp_seaweed_08"
+  },
+  {
+    "id": "11129",
+    "name": "tangled_kelp_seaweed_09"
+  },
+  {
+    "id": "11130",
+    "name": "tangled_kelp_seaweed_10"
+  },
+  {
+    "id": "11131",
+    "name": "tangled_kelp_seaweed_11"
+  },
+  {
+    "id": "11132",
+    "name": "tangled_kelp_seaweed_12"
+  },
+  {
+    "id": "11133",
+    "name": "tangled_kelp_seaweed_13"
+  },
+  {
+    "id": "11134",
+    "name": "tangled_kelp_seaweed_14"
+  },
+  {
+    "id": "11135",
+    "name": "tangled_kelp_water_wind_loop_01"
+  },
+  {
+    "id": "11136",
+    "name": "northern_ocean_amb_creature_groan_01"
+  },
+  {
+    "id": "11137",
+    "name": "northern_ocean_amb_creature_groan_02"
+  },
+  {
+    "id": "11138",
+    "name": "northern_ocean_amb_creature_groan_03"
+  },
+  {
+    "id": "11139",
+    "name": "northern_ocean_amb_creature_groan_04"
+  },
+  {
+    "id": "11140",
+    "name": "northern_ocean_amb_creature_groan_05"
+  },
+  {
+    "id": "11141",
+    "name": "northern_ocean_amb_icy_seas_wind_01"
+  },
+  {
+    "id": "11142",
+    "name": "sunset_ocean_amb_waves_01"
+  },
+  {
+    "id": "11143",
+    "name": "sunset_ocean_amb_waves_02"
+  },
+  {
+    "id": "11144",
+    "name": "sunset_ocean_amb_waves_03"
+  },
+  {
+    "id": "11145",
+    "name": "sunset_ocean_amb_waves_04"
+  },
+  {
+    "id": "11146",
+    "name": "sunset_ocean_amb_waves_05"
+  },
+  {
+    "id": "11147",
+    "name": "sunset_ocean_amb_wind_water_loop_01"
+  },
+  {
+    "id": "11148",
+    "name": "unquiet_ocean_amb_distant_creature_moan_01"
+  },
+  {
+    "id": "11149",
+    "name": "unquiet_ocean_amb_distant_creature_moan_02"
+  },
+  {
+    "id": "11150",
+    "name": "unquiet_ocean_amb_distant_creature_moan_03"
+  },
+  {
+    "id": "11151",
+    "name": "unquiet_ocean_amb_distant_creature_moan_04"
+  },
+  {
+    "id": "11152",
+    "name": "unquiet_ocean_amb_distant_creature_moan_05"
+  },
+  {
+    "id": "11153",
+    "name": "unquiet_ocean_amb_distant_creature_moan_06"
+  },
+  {
+    "id": "11154",
+    "name": "unquiet_ocean_amb_distant_creature_moan_07"
+  },
+  {
+    "id": "11155",
+    "name": "unquiet_ocean_amb_distant_creature_moan_08"
+  },
+  {
+    "id": "11156",
+    "name": "unquiet_ocean_amb_water_drops_01"
+  },
+  {
+    "id": "11157",
+    "name": "unquiet_ocean_amb_water_drops_02"
+  },
+  {
+    "id": "11158",
+    "name": "unquiet_ocean_amb_water_drops_03"
+  },
+  {
+    "id": "11159",
+    "name": "unquiet_ocean_amb_water_drops_04"
+  },
+  {
+    "id": "11160",
+    "name": "unquiet_ocean_amb_water_drops_05"
+  },
+  {
+    "id": "11161",
+    "name": "unquiet_ocean_amb_water_drops_06"
+  },
+  {
+    "id": "11162",
+    "name": "unquiet_ocean_amb_water_drops_07"
+  },
+  {
+    "id": "11163",
+    "name": "unquiet_ocean_amb_water_drops_08"
+  },
+  {
+    "id": "11164",
+    "name": "unquiet_ocean_amb_water_wind_loop_01"
+  },
+  {
+    "id": "11165",
+    "name": "sailing_boat_no_damage_01"
+  },
+  {
+    "id": "11166",
+    "name": "sailing_charting_small_task_complete_01"
+  },
+  {
+    "id": "11167",
+    "name": "sailing_charting_small_task_complete_02"
+  },
+  {
+    "id": "11168",
+    "name": "sailing_charting_small_task_complete_03"
+  },
+  {
+    "id": "11169",
+    "name": "sailing_charting_small_task_complete_04"
+  },
+  {
+    "id": "11170",
+    "name": "sailing_charting_small_task_complete_05"
+  },
+  {
+    "id": "11171",
+    "name": "dm26_alarm_lever_impact_01"
+  },
+  {
+    "id": "11172",
+    "name": "dm26_alarm_lever_spawn_01"
+  },
+  {
+    "id": "11173",
+    "name": "dm26_arm_up_01"
+  },
+  {
+    "id": "11174",
+    "name": "dm26_chest_despawn_01"
+  },
+  {
+    "id": "11175",
+    "name": "dm26_chest_landing_impact_01"
+  },
+  {
+    "id": "11176",
+    "name": "dm26_chest_lid_open_01"
+  },
+  {
+    "id": "11177",
+    "name": "dm26_chest_orb_spawn_01"
+  },
+  {
+    "id": "11178",
+    "name": "dm26_chest_red_beam_01"
+  },
+  {
+    "id": "11179",
+    "name": "dm26_empty_box_despawn_01"
+  },
+  {
+    "id": "11180",
+    "name": "dm26_empty_box_spawn_01"
+  },
+  {
+    "id": "11181",
+    "name": "dm26_hand_on_lever_01"
+  },
+  {
+    "id": "11182",
+    "name": "dm26_player_fall_01"
+  },
+  {
+    "id": "11183",
+    "name": "dm26_player_head_move_01"
+  },
+  {
+    "id": "11184",
+    "name": "dm26_player_head_move_02"
+  },
+  {
+    "id": "11185",
+    "name": "dm26_player_head_move_pop_01"
+  },
+  {
+    "id": "11186",
+    "name": "dm26_player_head_move_pop_02"
+  },
+  {
+    "id": "11187",
+    "name": "dm26_player_lever_clunk_01"
+  },
+  {
+    "id": "11188",
+    "name": "dm26_player_lever_down_01"
+  },
+  {
+    "id": "11189",
+    "name": "dm26_player_move_01"
+  },
+  {
+    "id": "11190",
+    "name": "dm26_player_move_02"
+  },
+  {
+    "id": "11191",
+    "name": "dm26_player_move_03"
+  },
+  {
+    "id": "11192",
+    "name": "dm26_player_move_04"
+  },
+  {
+    "id": "11193",
+    "name": "dm26_player_tremble"
+  },
+  {
+    "id": "11194",
+    "name": "dm26_player_tremble_01"
+  },
+  {
+    "id": "11195",
+    "name": "dm26_player_tremble_02"
+  },
+  {
+    "id": "11196",
+    "name": "dm26_player_tremble_03"
+  },
+  {
+    "id": "11197",
+    "name": "dm26_player_tremble_04"
+  },
+  {
+    "id": "11198",
+    "name": "dm26_player_tremble_05"
+  },
+  {
+    "id": "11199",
+    "name": "dm26_star_shape_01"
+  },
+  {
+    "id": "11200",
+    "name": "dm26_trinket_of_truity_01"
+  },
+  {
+    "id": "11201",
+    "name": "dm26_trinket_of_truity_02"
+  },
+  {
+    "id": "11202",
+    "name": "dm26_trinket_of_truity_uncharged_01"
+  },
+  {
+    "id": "11203",
+    "name": "cb_boss_att_head_whoosh_01"
+  },
+  {
+    "id": "11204",
+    "name": "cb_boss_att_roar_01"
+  },
+  {
+    "id": "11205",
+    "name": "cb_boss_att_roar_02"
+  },
+  {
+    "id": "11206",
+    "name": "cb_boss_att_roar_03"
+  },
+  {
+    "id": "11207",
+    "name": "cb_boss_att_roar_04"
+  },
+  {
+    "id": "11208",
+    "name": "cb_boss_att_stomp_01"
+  },
+  {
+    "id": "11209",
+    "name": "cb_boss_att_stomp_02"
+  },
+  {
+    "id": "11210",
+    "name": "cb_boss_growl_01"
+  },
+  {
+    "id": "11211",
+    "name": "cb_boss_moo_02"
+  },
+  {
+    "id": "11212",
+    "name": "cb_boss_moo_angry_01"
+  },
+  {
+    "id": "11213",
+    "name": "cb_boss_snort_01"
+  },
+  {
+    "id": "11214",
+    "name": "cb_boss_spawn_01"
+  },
+  {
+    "id": "11215",
+    "name": "cb_boss_spirit_roar_01"
+  },
+  {
+    "id": "11216",
+    "name": "cb_boss_spirit_roar_02"
+  },
+  {
+    "id": "11217",
+    "name": "cb_boss_spirit_roar_03"
+  },
+  {
+    "id": "11218",
+    "name": "cb_boss_spirit_roar_04"
+  },
+  {
+    "id": "11219",
+    "name": "cb_boss_stomp_fade_in_impact_01"
+  },
+  {
+    "id": "11220",
+    "name": "cb_charge_end_fade_in_long_roar_01"
+  },
+  {
+    "id": "11221",
+    "name": "cb_charge_gallop_double_step_01"
+  },
+  {
+    "id": "11222",
+    "name": "cb_charge_gallop_double_step_quiet_01"
+  },
+  {
+    "id": "11223",
+    "name": "cb_charge_gallop_double_step_quiet_slow_01"
+  },
+  {
+    "id": "11224",
+    "name": "cb_charge_gallop_double_step_quiet_slow_02"
+  },
+  {
+    "id": "11225",
+    "name": "cb_charge_gallop_step_01"
+  },
+  {
+    "id": "11226",
+    "name": "cb_charge_gallop_step_02"
+  },
+  {
+    "id": "11227",
+    "name": "cb_charge_gallop_stop_step_01"
+  },
+  {
+    "id": "11228",
+    "name": "cb_charge_gallop_stop_step_02"
+  },
+  {
+    "id": "11229",
+    "name": "cb_charge_legs_down_impact_01"
+  },
+  {
+    "id": "11230",
+    "name": "cb_charge_roar_01"
+  },
+  {
+    "id": "11231",
+    "name": "cb_charge_roar_02"
+  },
+  {
+    "id": "11232",
+    "name": "cb_charge_roar_03"
+  },
+  {
+    "id": "11233",
+    "name": "cb_charge_roar_04"
+  },
+  {
+    "id": "11234",
+    "name": "cb_charge_roar_05"
+  },
+  {
+    "id": "11235",
+    "name": "cb_charge_scrape_foot_01"
+  },
+  {
+    "id": "11236",
+    "name": "cb_charge_start_fade_out_foot_raise_01"
+  },
+  {
+    "id": "11237",
+    "name": "cb_charge_start_fade_out_foot_scrape_01"
+  },
+  {
+    "id": "11238",
+    "name": "cb_charge_start_fade_out_roar_01"
+  },
+  {
+    "id": "11239",
+    "name": "cb_charge_start_gallop_01"
+  },
+  {
+    "id": "11240",
+    "name": "cb_charge_start_gallop_02"
+  },
+  {
+    "id": "11241",
+    "name": "cb_charge_start_gallop_03"
+  },
+  {
+    "id": "11242",
+    "name": "cb_charging_fadein_gallop_01"
+  },
+  {
+    "id": "11243",
+    "name": "cb_charging_fadein_gallop_02"
+  },
+  {
+    "id": "11244",
+    "name": "cb_coloured_projectile_impact_01"
+  },
+  {
+    "id": "11245",
+    "name": "cb_death_impact_01"
+  },
+  {
+    "id": "11246",
+    "name": "cb_death_moan_01"
+  },
+  {
+    "id": "11247",
+    "name": "cb_ghost_charge_roar_01"
+  },
+  {
+    "id": "11248",
+    "name": "cb_ghost_charge_roar_02"
+  },
+  {
+    "id": "11249",
+    "name": "cb_ghost_charge_roar_03"
+  },
+  {
+    "id": "11250",
+    "name": "cb_ghost_charge_roar_04"
+  },
+  {
+    "id": "11251",
+    "name": "cb_ghost_charging_fade_in_fade_out_whoosh_01"
+  },
+  {
+    "id": "11252",
+    "name": "cb_ghost_charging_fade_in_fade_out_whoosh_02"
+  },
+  {
+    "id": "11253",
+    "name": "cb_ghost_charging_fade_in_fade_out_whoosh_03"
+  },
+  {
+    "id": "11254",
+    "name": "cb_ghost_charging_fade_in_fade_out_whoosh_04"
+  },
+  {
+    "id": "11255",
+    "name": "cb_ghost_chrage_whoosh_02"
+  },
+  {
+    "id": "11256",
+    "name": "cb_ghost_chrage_whoosh_03"
+  },
+  {
+    "id": "11257",
+    "name": "cb_ghost_chrage_whoosh_04"
+  },
+  {
+    "id": "11258",
+    "name": "cb_ghost_chrage_whoosh_05"
+  },
+  {
+    "id": "11259",
+    "name": "cb_ghost_chrage_whoosh_06"
+  },
+  {
+    "id": "11260",
+    "name": "cb_ghost_moan_01"
+  },
+  {
+    "id": "11261",
+    "name": "cb_ghost_moan_02"
+  },
+  {
+    "id": "11262",
+    "name": "cb_ghost_moan_03"
+  },
+  {
+    "id": "11263",
+    "name": "cb_ghost_moan_04"
+  },
+  {
+    "id": "11264",
+    "name": "cb_ghost_moan_05"
+  },
+  {
+    "id": "11265",
+    "name": "cb_highprio_spawn_01"
+  },
+  {
+    "id": "11266",
+    "name": "cb_lowprio_spawn_01"
+  },
+  {
+    "id": "11267",
+    "name": "cb_nostrils_breath_in_01"
+  },
+  {
+    "id": "11268",
+    "name": "cb_nostrils_flare_01"
+  },
+  {
+    "id": "11269",
+    "name": "cb_special_attack_notifier_01"
+  },
+  {
+    "id": "11270",
+    "name": "cb_spirit_stomp_impact_01"
+  },
+  {
+    "id": "11271",
+    "name": "cb_spirit_stomp_impact_02"
+  },
+  {
+    "id": "11272",
+    "name": "cb_spirit_stomp_impact_03"
+  },
+  {
+    "id": "11273",
+    "name": "cb_spirit_stomp_impact_04"
+  },
+  {
+    "id": "11274",
+    "name": "cb_stomp_fade_in_01"
+  },
+  {
+    "id": "11275",
+    "name": "cb_stomp_fade_in_leg_impact_01"
+  },
+  {
+    "id": "11276",
+    "name": "cb_stomp_fade_in_roar_01"
+  },
+  {
+    "id": "11277",
+    "name": "cb_stomp_fade_in_roar_02"
+  },
+  {
+    "id": "11278",
+    "name": "cb_stomp_fade_in_roar_03"
+  },
+  {
+    "id": "11279",
+    "name": "cb_stomp_fade_in_small_step_01"
+  },
+  {
+    "id": "11280",
+    "name": "cb_stomp_fade_in_stomp_impact_01"
+  },
+  {
+    "id": "11281",
+    "name": "cb_stomp_leg_impacts_01"
+  },
+  {
+    "id": "11282",
+    "name": "cb_stomp_roar_01"
+  },
+  {
+    "id": "11283",
+    "name": "cb_stomp_roar_long_01"
+  },
+  {
+    "id": "11284",
+    "name": "cb_teleport_jump_01"
+  },
+  {
+    "id": "11285",
+    "name": "cb_teleport_jump_splash_01"
+  },
+  {
+    "id": "11286",
+    "name": "cb_teleport_jump_splash_spawn_01"
+  },
+  {
+    "id": "11287",
+    "name": "cb_test_roar_01"
+  },
+  {
+    "id": "11288",
+    "name": "veilied_kraken_death"
+  },
+  {
+    "id": "11289",
+    "name": "veilied_kraken_tentacle_whip_combi"
+  },
+  {
+    "id": "11290",
+    "name": "veilied_kraken_tentacle_whip_combi_02"
+  },
+  {
+    "id": "11303",
+    "name": "l6_barb_mining_animation_01"
+  },
+  {
+    "id": "11304",
+    "name": "l6_barb_mining_animation_02"
+  },
+  {
+    "id": "11305",
+    "name": "l6_barb_mining_last_pull_01"
+  },
+  {
+    "id": "11306",
+    "name": "l6_barb_mining_last_pull_02"
+  },
+  {
+    "id": "11307",
+    "name": "l6_barb_mining_pull_01"
+  },
+  {
+    "id": "11308",
+    "name": "l6_barb_mining_pull_02"
+  },
+  {
+    "id": "11309",
+    "name": "l6_barb_woodcutting_impact_01"
+  },
+  {
+    "id": "11310",
+    "name": "l6_barb_woodcutting_swing_01"
+  },
+  {
+    "id": "11311",
+    "name": "l6_barbarian_mining_heavy_rock_mine_01"
+  },
+  {
+    "id": "11312",
+    "name": "l6_barbarian_mining_heavy_rock_mine_02"
+  },
+  {
+    "id": "11313",
+    "name": "l6_butlers_bell_ring_01"
+  },
+  {
+    "id": "11314",
+    "name": "l6_fang_of_hound_attack_01"
+  },
+  {
+    "id": "11315",
+    "name": "l6_fang_of_hound_attack_02"
+  },
+  {
+    "id": "11316",
+    "name": "l6_fang_of_hound_attack_03"
+  },
+  {
+    "id": "11317",
+    "name": "l6_fang_of_hound_special_attack_01"
+  },
+  {
+    "id": "11318",
+    "name": "l6_fang_of_hound_special_attack_02"
+  },
+  {
+    "id": "11319",
+    "name": "l6_fang_of_hound_special_fire_spawn_01"
+  },
+  {
+    "id": "11320",
+    "name": "l6_home_tele_arm_human_grab_01"
+  },
+  {
+    "id": "11321",
+    "name": "l6_home_tele_arm_pull_human_down_01"
+  },
+  {
+    "id": "11322",
+    "name": "l6_home_tele_arm_spawn_01"
+  },
+  {
+    "id": "11323",
+    "name": "l6_home_tele_arm_spawn_whoosh_01"
+  },
+  {
+    "id": "11324",
+    "name": "l6_home_tele_fire_01"
+  },
+  {
+    "id": "11325",
+    "name": "l6_home_tele_imp_demon_roar_01"
+  },
+  {
+    "id": "11326",
+    "name": "l6_home_tele_imp_despawn_01"
+  },
+  {
+    "id": "11327",
+    "name": "l6_home_tele_imp_despawn_02"
+  },
+  {
+    "id": "11328",
+    "name": "l6_home_tele_imp_fly_01"
+  },
+  {
+    "id": "11329",
+    "name": "l6_home_tele_imp_footstep_01"
+  },
+  {
+    "id": "11330",
+    "name": "l6_home_tele_imp_footstep_02"
+  },
+  {
+    "id": "11331",
+    "name": "l6_home_tele_imp_footstep_03"
+  },
+  {
+    "id": "11332",
+    "name": "l6_home_tele_imp_footstep_04"
+  },
+  {
+    "id": "11333",
+    "name": "l6_home_tele_imp_footstep_05"
+  },
+  {
+    "id": "11334",
+    "name": "l6_home_tele_imp_footstep_06"
+  },
+  {
+    "id": "11335",
+    "name": "l6_home_tele_imp_footstep_07"
+  },
+  {
+    "id": "11336",
+    "name": "l6_home_tele_imp_footstep_08"
+  },
+  {
+    "id": "11337",
+    "name": "l6_home_tele_imp_jump_01"
+  },
+  {
+    "id": "11338",
+    "name": "l6_home_tele_imp_rotate_01"
+  },
+  {
+    "id": "11339",
+    "name": "l6_home_tele_imp_spawn_01"
+  },
+  {
+    "id": "11340",
+    "name": "l6_home_tele_imp_spawn_02"
+  },
+  {
+    "id": "11341",
+    "name": "l6_home_tele_imp_spawn_03"
+  },
+  {
+    "id": "11342",
+    "name": "l6_home_tele_imp_spawn_04"
+  },
+  {
+    "id": "11343",
+    "name": "l6_home_tele_imp_spawn_05"
+  },
+  {
+    "id": "11344",
+    "name": "l6_home_tele_sign_spawn_01"
+  },
+  {
+    "id": "11345",
+    "name": "l6_hotfoot_fire_spawn_01"
+  },
+  {
+    "id": "11346",
+    "name": "l6_hotfoot_jump_01"
+  },
+  {
+    "id": "11347",
+    "name": "l6_hotfoot_jump_02"
+  },
+  {
+    "id": "11348",
+    "name": "l6_iban_staff_cast_01"
+  },
+  {
+    "id": "11349",
+    "name": "l6_iban_staff_cast_02"
+  },
+  {
+    "id": "11350",
+    "name": "l6_iban_staff_charge_01"
+  },
+  {
+    "id": "11351",
+    "name": "l6_iban_staff_charge_02"
+  },
+  {
+    "id": "11352",
+    "name": "l6_iban_staff_charge_03"
+  },
+  {
+    "id": "11353",
+    "name": "l6_iban_staff_charge_04"
+  },
+  {
+    "id": "11354",
+    "name": "l6_iban_staff_charge_05"
+  },
+  {
+    "id": "11355",
+    "name": "l6_iban_staff_charge_06"
+  },
+  {
+    "id": "11356",
+    "name": "l6_iban_staff_charge_07"
+  },
+  {
+    "id": "11357",
+    "name": "l6_iban_staff_charge_08"
+  },
+  {
+    "id": "11358",
+    "name": "l6_iban_staff_charge_09"
+  },
+  {
+    "id": "11359",
+    "name": "l6_iban_staff_charge_10"
+  },
+  {
+    "id": "11360",
+    "name": "l6_iban_staff_charge_particles_01"
+  },
+  {
+    "id": "11361",
+    "name": "l6_iban_staff_charge_tremelo_01"
+  },
+  {
+    "id": "11362",
+    "name": "l6_iban_staff_charge_whoosh_01"
+  },
+  {
+    "id": "11363",
+    "name": "l6_iban_staff_melee_impact_01"
+  },
+  {
+    "id": "11364",
+    "name": "l6_iban_staff_raise_01"
+  },
+  {
+    "id": "11365",
+    "name": "l6_iban_staff_return_01"
+  },
+  {
+    "id": "11366",
+    "name": "l6_iban_staff_return_02"
+  },
+  {
+    "id": "11367",
+    "name": "l6_iban_staff_rock_movement_01"
+  },
+  {
+    "id": "11368",
+    "name": "l6_iban_staff_whoosh_01"
+  },
+  {
+    "id": "11369",
+    "name": "l6_ibanblast_impact_01"
+  },
+  {
+    "id": "11370",
+    "name": "l6_imp_mage_despawn_jump_01"
+  },
+  {
+    "id": "11371",
+    "name": "l6_imp_mage_despawn_splash_01"
+  },
+  {
+    "id": "11372",
+    "name": "l6_imp_mage_fly_down_spawn_01"
+  },
+  {
+    "id": "11373",
+    "name": "l6_imp_mage_spawn_01"
+  },
+  {
+    "id": "11374",
+    "name": "l6_imp_mage_transition_01"
+  },
+  {
+    "id": "11375",
+    "name": "l6_imp_magic_attack_jump_01"
+  },
+  {
+    "id": "11376",
+    "name": "l6_imp_magic_attack_projectile_01"
+  },
+  {
+    "id": "11377",
+    "name": "l6_imp_magic_attack_projectile_fly_01"
+  },
+  {
+    "id": "11378",
+    "name": "l6_imp_magic_attack_projectile_fly_02"
+  },
+  {
+    "id": "11379",
+    "name": "l6_imp_melee_attack_axe_impact_01"
+  },
+  {
+    "id": "11380",
+    "name": "l6_imp_melee_attack_axe_impact_02"
+  },
+  {
+    "id": "11381",
+    "name": "l6_imp_melee_attack_axe_whoosh_01"
+  },
+  {
+    "id": "11382",
+    "name": "l6_imp_melee_attack_jump_01"
+  },
+  {
+    "id": "11383",
+    "name": "l6_imp_melee_despawn_fire_01"
+  },
+  {
+    "id": "11384",
+    "name": "l6_imp_melee_fire_rock_fall_01"
+  },
+  {
+    "id": "11385",
+    "name": "l6_imp_melee_fire_rock_fall_impact_01"
+  },
+  {
+    "id": "11386",
+    "name": "l6_imp_melee_fire_rock_fall_impact_02"
+  },
+  {
+    "id": "11387",
+    "name": "l6_imp_melee_fire_rock_fall_impact_03"
+  },
+  {
+    "id": "11388",
+    "name": "l6_imp_melee_transition_01"
+  },
+  {
+    "id": "11389",
+    "name": "l6_imp_range_despawn_dig_01"
+  },
+  {
+    "id": "11390",
+    "name": "l6_imp_range_despawn_dig_02"
+  },
+  {
+    "id": "11391",
+    "name": "l6_imp_range_despawn_dig_03"
+  },
+  {
+    "id": "11392",
+    "name": "l6_imp_range_despawn_dig_04"
+  },
+  {
+    "id": "11393",
+    "name": "l6_imp_range_despawn_dig_05"
+  },
+  {
+    "id": "11394",
+    "name": "l6_imp_range_despawn_dig_rumble_01"
+  },
+  {
+    "id": "11395",
+    "name": "l6_imp_range_spawn_ground_break"
+  },
+  {
+    "id": "11396",
+    "name": "l6_imp_range_spawn_jump_01"
+  },
+  {
+    "id": "11397",
+    "name": "l6_imp_range_transition_01"
+  },
+  {
+    "id": "11398",
+    "name": "l6_imp_ranged_attack_arrow_throw_01"
+  },
+  {
+    "id": "11399",
+    "name": "l6_imp_ranged_attack_jump_01"
+  },
+  {
+    "id": "11400",
+    "name": "l6_lesser_jump_01"
+  },
+  {
+    "id": "11401",
+    "name": "l6_lesser_land_01"
+  },
+  {
+    "id": "11402",
+    "name": "l6_lesser_stone_hit_01"
+  },
+  {
+    "id": "11403",
+    "name": "l6_lesser_stone_hit_02"
+  },
+  {
+    "id": "11404",
+    "name": "l6_lesser_stone_hit_03"
+  },
+  {
+    "id": "11405",
+    "name": "l6_lesser_stone_hit_033"
+  },
+  {
+    "id": "11406",
+    "name": "l6_lesser_stone_hit_04"
+  },
+  {
+    "id": "11407",
+    "name": "l6_lesser_stone_hit_05"
+  },
+  {
+    "id": "11408",
+    "name": "l6_lesser_stone_hit_06"
+  },
+  {
+    "id": "11409",
+    "name": "l6_lithic_spectre_attack_01"
+  },
+  {
+    "id": "11410",
+    "name": "l6_lithic_spectre_impact_01"
+  },
+  {
+    "id": "11411",
+    "name": "l6_lithic_spectre_lightning_01"
+  },
+  {
+    "id": "11412",
+    "name": "l6_mastery_apply_changes_01"
+  },
+  {
+    "id": "11413",
+    "name": "l6_mastery_final_node_01"
+  },
+  {
+    "id": "11414",
+    "name": "l6_mastery_mage_fire_spell_01"
+  },
+  {
+    "id": "11415",
+    "name": "l6_mastery_mage_regenerating_runes_01"
+  },
+  {
+    "id": "11416",
+    "name": "l6_mastery_mage_regenerating_runes_whoosh_02"
+  },
+  {
+    "id": "11417",
+    "name": "l6_mastery_mage_regenerating_runes_whosoh_01"
+  },
+  {
+    "id": "11418",
+    "name": "l6_mastery_mage_regenerating_runes_whosoh_02"
+  },
+  {
+    "id": "11419",
+    "name": "l6_mastery_mask_spawn_01"
+  },
+  {
+    "id": "11420",
+    "name": "l6_mastery_ranged_echo_angled_despawn_01"
+  },
+  {
+    "id": "11421",
+    "name": "l6_mastery_ranged_echo_angled_spawn_01"
+  },
+  {
+    "id": "11422",
+    "name": "l6_mastery_ranged_echo_despawn_01"
+  },
+  {
+    "id": "11423",
+    "name": "l6_mastery_ranged_echo_spawn_01"
+  },
+  {
+    "id": "11424",
+    "name": "l6_mastery_scroll_behind_back_01"
+  },
+  {
+    "id": "11425",
+    "name": "l6_mastery_scroll_pull_away_01"
+  },
+  {
+    "id": "11426",
+    "name": "l6_mastery_scroll_pull_out_01"
+  },
+  {
+    "id": "11427",
+    "name": "l6_mastery_scroll_pull_out_02"
+  },
+  {
+    "id": "11428",
+    "name": "l6_mastery_shield_01"
+  },
+  {
+    "id": "11429",
+    "name": "l6_mastery_tree_node_select_01"
+  },
+  {
+    "id": "11430",
+    "name": "l6_mastery_tree_node_select_02"
+  },
+  {
+    "id": "11431",
+    "name": "l6_mastery_tree_node_select_03"
+  },
+  {
+    "id": "11432",
+    "name": "l6_mastery_undo_changes_01"
+  },
+  {
+    "id": "11433",
+    "name": "l6_mastery_undo_changes_02"
+  },
+  {
+    "id": "11434",
+    "name": "l6_mastery_undo_changes_03"
+  },
+  {
+    "id": "11435",
+    "name": "l6_mastery_undo_changes_04"
+  },
+  {
+    "id": "11436",
+    "name": "l6_melee_mastery_crush_proh_whoosh_01"
+  },
+  {
+    "id": "11437",
+    "name": "l6_melee_mastery_crush_proj_whoosh_01"
+  },
+  {
+    "id": "11438",
+    "name": "l6_melee_mastery_crush_proj_whoosh_explosion_impact_01"
+  },
+  {
+    "id": "11439",
+    "name": "l6_melee_mastery_fire_spawn_01"
+  },
+  {
+    "id": "11440",
+    "name": "l6_melee_mastery_proj_impact_01"
+  },
+  {
+    "id": "11441",
+    "name": "l6_melee_mastery_proj_whoosh_01"
+  },
+  {
+    "id": "11442",
+    "name": "l6_melee_mastery_slash_01"
+  },
+  {
+    "id": "11443",
+    "name": "l6_minions_whistle_call_01"
+  },
+  {
+    "id": "11444",
+    "name": "l6_regen_yellow_particles_01"
+  },
+  {
+    "id": "11445",
+    "name": "l6_regen_yellow_ring_01"
+  },
+  {
+    "id": "11446",
+    "name": "l6_sigil_of_life_fire_ending_01"
+  },
+  {
+    "id": "11447",
+    "name": "l6_sigil_of_life_fire_spawn_01"
+  },
+  {
+    "id": "11448",
+    "name": "l6_sigil_of_life_fire_spawn_02"
+  },
+  {
+    "id": "11449",
+    "name": "l6_soul_harvest_boom_01"
+  },
+  {
+    "id": "11450",
+    "name": "l6_soul_harvest_ghost_vox_01"
+  },
+  {
+    "id": "11451",
+    "name": "l6_soul_harvest_ghost_vox_02"
+  },
+  {
+    "id": "11452",
+    "name": "l6_soul_harvest_torso_drop_01"
+  },
+  {
+    "id": "11453",
+    "name": "l6_soul_harvest_torso_particles_01"
+  },
+  {
+    "id": "11454",
+    "name": "l6_soul_harvest_torso_particles_02"
+  },
+  {
+    "id": "11455",
+    "name": "l6_tecpatl_attack_01"
+  },
+  {
+    "id": "11456",
+    "name": "l6_tecpatl_attack_02"
+  },
+  {
+    "id": "11457",
+    "name": "l6_tecpatl_special_attack_part_01"
+  },
+  {
+    "id": "11458",
+    "name": "l6_tecpatl_special_attack_part_02"
+  },
+  {
+    "id": "11459",
+    "name": "l6_tecpatl_special_attack_part_03"
+  },
+  {
+    "id": "11460",
+    "name": "l6_tecpatl_special_attack_part_04"
+  },
+  {
+    "id": "11461",
+    "name": "l6_teleport_bank_heist_chest_spawn_01"
+  },
+  {
+    "id": "11462",
+    "name": "l6_teleport_bank_heist_creak_01"
+  },
+  {
+    "id": "11463",
+    "name": "l6_teleport_bank_heist_human_fall_01"
+  },
+  {
+    "id": "11464",
+    "name": "l6_teleport_bank_heist_lava_01"
+  },
+  {
+    "id": "11465",
+    "name": "l6_teleport_bank_heist_lock_01"
+  },
+  {
+    "id": "11466",
+    "name": "l6_teleport_eye_despawn_01"
+  },
+  {
+    "id": "11467",
+    "name": "l6_teleport_eye_spawn_01"
+  },
+  {
+    "id": "11468",
+    "name": "l6_teleport_trail_bound_despawn_01"
+  },
+  {
+    "id": "11469",
+    "name": "l6_teleport_trail_bound_short_step_01"
+  },
+  {
+    "id": "11470",
+    "name": "l6_teleport_trail_bound_short_step_02"
+  },
+  {
+    "id": "11471",
+    "name": "l6_teleport_trail_bound_short_step_03"
+  },
+  {
+    "id": "11472",
+    "name": "l6_teleport_trail_bound_short_step_04"
+  },
+  {
+    "id": "11473",
+    "name": "l6_teleport_trail_bound_step_01"
+  },
+  {
+    "id": "11474",
+    "name": "l6_teleport_trail_bound_step_02"
+  },
+  {
+    "id": "11475",
+    "name": "l6_teleport_trail_bound_step_03"
+  },
+  {
+    "id": "11476",
+    "name": "l6_teleport_trail_bound_step_04"
+  },
+  {
+    "id": "11477",
+    "name": "l6_transumation_relic_downgrade_02"
+  },
+  {
+    "id": "11478",
+    "name": "l6_transumation_relic_downgrade_despawn_01"
+  },
+  {
+    "id": "11479",
+    "name": "l6_transumation_relic_downgrade_high_02"
+  },
+  {
+    "id": "11480",
+    "name": "l6_transumation_relic_upgrade_bass_01"
+  },
+  {
+    "id": "11481",
+    "name": "l6_transumation_relic_upgrade_bass_02"
+  },
+  {
+    "id": "11482",
+    "name": "l6_transumation_relic_upgrade_despawn_01"
+  },
+  {
+    "id": "11483",
+    "name": "l6_transumation_relic_upgrade_despawn_02"
+  },
+  {
+    "id": "11484",
+    "name": "l6_transumation_relic_upgrade_high_01"
+  },
+  {
+    "id": "11485",
+    "name": "l6_transumation_relic_upgrade_red_text_01"
+  },
+  {
+    "id": "11486",
+    "name": "l6_transumation_relic_upgrade_whooshes_01"
+  },
+  {
+    "id": "11487",
+    "name": "l6_yama_lair_cave_rumble_loop_01"
+  },
+  {
+    "id": "11488",
+    "name": "l6_yama_melody_01"
+  },
+  {
+    "id": "11513",
+    "name": "trr_cannon_ball_boat_impact_01"
+  },
+  {
+    "id": "11514",
+    "name": "trr_cannon_ball_boat_impact_02"
+  },
+  {
+    "id": "11515",
+    "name": "trr_cannon_ball_chainshot_proj_01"
+  },
+  {
+    "id": "11516",
+    "name": "trr_cannon_ball_chainshot_proj_02"
+  },
+  {
+    "id": "11517",
+    "name": "trr_cannon_ball_chainshot_proj_03"
+  },
+  {
+    "id": "11518",
+    "name": "trr_cannon_ball_incendary_impact_01"
+  },
+  {
+    "id": "11519",
+    "name": "trr_cannon_ball_incendary_proj_01"
+  },
+  {
+    "id": "11520",
+    "name": "trr_cannon_ball_incendary_proj_02"
+  },
+  {
+    "id": "11521",
+    "name": "trr_cannon_ball_incendary_proj_03"
+  },
+  {
+    "id": "11522",
+    "name": "trr_cannon_ball_incendary_proj_04"
+  },
+  {
+    "id": "11541",
+    "name": "toa_wardens_melee_sword_strike_02"
+  },
+  {
+    "id": "11542",
+    "name": "toa_zebak_attack_jaw_shut_02"
   }
 ]
