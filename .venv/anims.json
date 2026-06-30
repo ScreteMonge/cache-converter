@@ -2264,10 +2264,6 @@
     "name": "Chatbored4"
   },
   {
-    "id": 566,
-    "name": "Shortchatneu1"
-  },
-  {
     "id": 567,
     "name": "Chathap1"
   },
@@ -2314,10 +2310,6 @@
   {
     "id": 578,
     "name": "Chatcon4"
-  },
-  {
-    "id": 579,
-    "name": "Chatidleneu1"
   },
   {
     "id": 580,
@@ -2416,10 +2408,6 @@
     "name": "Chatdrunk4"
   },
   {
-    "id": 604,
-    "name": "Evilidle1"
-  },
-  {
     "id": 605,
     "name": "Chatlaugh1"
   },
@@ -2434,10 +2422,6 @@
   {
     "id": 608,
     "name": "Chatlaugh4"
-  },
-  {
-    "id": 609,
-    "name": "Evillaugh1"
   },
   {
     "id": 610,
@@ -7964,10 +7948,6 @@
     "name": "Dragon ranged attacks"
   },
   {
-    "id": 1991,
-    "name": "Icthal daze"
-  },
-  {
     "id": 1992,
     "name": "Ic pit jump"
   },
@@ -13284,10 +13264,6 @@
     "name": "Mole mud splat interface"
   },
   {
-    "id": 3321,
-    "name": "Chat human sleep"
-  },
-  {
     "id": 3322,
     "name": "Zygomite adult walk"
   },
@@ -18346,22 +18322,6 @@
   {
     "id": 4586,
     "name": "Eyeglo mind meld player"
-  },
-  {
-    "id": 4587,
-    "name": "Eyeglo mind meld chathead 1"
-  },
-  {
-    "id": 4588,
-    "name": "Eyeglo mind meld chathead 2"
-  },
-  {
-    "id": 4589,
-    "name": "Eyeglo mind meld chathead 3"
-  },
-  {
-    "id": 4590,
-    "name": "Eyeglo mind meld chathead 4"
   },
   {
     "id": 4591,
@@ -34158,18 +34118,6 @@
   {
     "id": 8541,
     "name": "Emote explore"
-  },
-  {
-    "id": 8542,
-    "name": "Evillaugh updated1"
-  },
-  {
-    "id": 8543,
-    "name": "Evillaugh updated2"
-  },
-  {
-    "id": 8544,
-    "name": "Evilidle updated3"
   },
   {
     "id": 8545,
@@ -55606,5 +55554,2085 @@
   {
     "id": 13908,
     "name": "Slayer tots i charge toxic orn"
+  },
+  {
+    "id": 13909,
+    "name": "Human sun prayer walkmerge"
+  },
+  {
+    "id": 13910,
+    "name": "Yama loc glyph pulsing fire spawn"
+  },
+  {
+    "id": 13911,
+    "name": "Yama loc glyph pulsing fire"
+  },
+  {
+    "id": 13912,
+    "name": "Yama loc glyph active fire"
+  },
+  {
+    "id": 13913,
+    "name": "Leech fly"
+  },
+  {
+    "id": 13914,
+    "name": "Ur maggot larvae fly"
+  },
+  {
+    "id": 13915,
+    "name": "Vyrelord run"
+  },
+  {
+    "id": 13916,
+    "name": "Vyrelord claw walkmerged"
+  },
+  {
+    "id": 13917,
+    "name": "Vyrelord summon walkmerge"
+  },
+  {
+    "id": 13918,
+    "name": "Vyrelord trapped end"
+  },
+  {
+    "id": 13919,
+    "name": "Myq6 vyrelord knockback"
+  },
+  {
+    "id": 13920,
+    "name": "Area harmless ear cover noend"
+  },
+  {
+    "id": 13921,
+    "name": "Area harmless ear cover end"
+  },
+  {
+    "id": 13922,
+    "name": "Maggot king screech"
+  },
+  {
+    "id": 13923,
+    "name": "Vfx maggot king screech 01"
+  },
+  {
+    "id": 13924,
+    "name": "Vfx maggot king screech 02"
+  },
+  {
+    "id": 13925,
+    "name": "Maggot king meleeattack"
+  },
+  {
+    "id": 13926,
+    "name": "Npc maggot king idle 01"
+  },
+  {
+    "id": 13927,
+    "name": "Npc maggot king walk forward 01"
+  },
+  {
+    "id": 13928,
+    "name": "Npc maggot king walk forward melee 01"
+  },
+  {
+    "id": 13929,
+    "name": "Npc maggot king walk backward 01"
+  },
+  {
+    "id": 13930,
+    "name": "Npc maggot king walk backward melee 01"
+  },
+  {
+    "id": 13931,
+    "name": "Npc maggot king walk right 01"
+  },
+  {
+    "id": 13932,
+    "name": "Npc maggot king walk left 01"
+  },
+  {
+    "id": 13933,
+    "name": "Maggot king rangeattack"
+  },
+  {
+    "id": 13934,
+    "name": "Maggot king mageattack"
+  },
+  {
+    "id": 13935,
+    "name": "Npc maggot king pet walk forward 01"
+  },
+  {
+    "id": 13936,
+    "name": "Npc maggot king death 01"
+  },
+  {
+    "id": 13937,
+    "name": "Npc maggot king death 02"
+  },
+  {
+    "id": 13938,
+    "name": "Npc maggot king death 03"
+  },
+  {
+    "id": 13939,
+    "name": "Vfx maggot king death 01"
+  },
+  {
+    "id": 13940,
+    "name": "Maggot king blood projectile big"
+  },
+  {
+    "id": 13941,
+    "name": "Maggot king blood projectile small"
+  },
+  {
+    "id": 13942,
+    "name": "Maggot king blood ground hit"
+  },
+  {
+    "id": 13943,
+    "name": "Maggot king blood ground idle"
+  },
+  {
+    "id": 13944,
+    "name": "Maggot king blood ground despawn"
+  },
+  {
+    "id": 13945,
+    "name": "Human craft rupture start"
+  },
+  {
+    "id": 13946,
+    "name": "Human craft rupture end"
+  },
+  {
+    "id": 13947,
+    "name": "Stymphike hunting hide"
+  },
+  {
+    "id": 13948,
+    "name": "Human venator screech impact"
+  },
+  {
+    "id": 13949,
+    "name": "Chatang idle"
+  },
+  {
+    "id": 13950,
+    "name": "Chatbored idle"
+  },
+  {
+    "id": 13951,
+    "name": "Chat concerned"
+  },
+  {
+    "id": 13952,
+    "name": "Chat concerned idle"
+  },
+  {
+    "id": 13953,
+    "name": "Chatcon idle"
+  },
+  {
+    "id": 13954,
+    "name": "Chat determined"
+  },
+  {
+    "id": 13955,
+    "name": "Chat determined idle"
+  },
+  {
+    "id": 13956,
+    "name": "Chat disgruntled"
+  },
+  {
+    "id": 13957,
+    "name": "Chat disgruntled idle"
+  },
+  {
+    "id": 13958,
+    "name": "Chat distant"
+  },
+  {
+    "id": 13959,
+    "name": "Chat distant idle"
+  },
+  {
+    "id": 13960,
+    "name": "Chatdrunk idle"
+  },
+  {
+    "id": 13961,
+    "name": "Chat embarassed"
+  },
+  {
+    "id": 13962,
+    "name": "Chat embarassed idle"
+  },
+  {
+    "id": 13963,
+    "name": "Chat evillaugh"
+  },
+  {
+    "id": 13964,
+    "name": "Chat evil idle"
+  },
+  {
+    "id": 13965,
+    "name": "Chat furious"
+  },
+  {
+    "id": 13966,
+    "name": "Chat furious idle"
+  },
+  {
+    "id": 13967,
+    "name": "Chatneu idle"
+  },
+  {
+    "id": 13968,
+    "name": "Chat pleased"
+  },
+  {
+    "id": 13969,
+    "name": "Chat pleased idle"
+  },
+  {
+    "id": 13970,
+    "name": "Chatquiz idle"
+  },
+  {
+    "id": 13971,
+    "name": "Chatsad idle"
+  },
+  {
+    "id": 13972,
+    "name": "Chatscared idle"
+  },
+  {
+    "id": 13973,
+    "name": "Chat shattered"
+  },
+  {
+    "id": 13974,
+    "name": "Chat shattered idle"
+  },
+  {
+    "id": 13975,
+    "name": "Chatshifty idle"
+  },
+  {
+    "id": 13976,
+    "name": "Chatshock idle"
+  },
+  {
+    "id": 13977,
+    "name": "Chat sleep"
+  },
+  {
+    "id": 13978,
+    "name": "Chat smug"
+  },
+  {
+    "id": 13979,
+    "name": "Chat smug idle"
+  },
+  {
+    "id": 13980,
+    "name": "Chat suspecting"
+  },
+  {
+    "id": 13981,
+    "name": "Chat suspecting idle"
+  },
+  {
+    "id": 13982,
+    "name": "Chat telepathy 1"
+  },
+  {
+    "id": 13983,
+    "name": "Chat telepathy 2"
+  },
+  {
+    "id": 13984,
+    "name": "Chat telepathy 3"
+  },
+  {
+    "id": 13985,
+    "name": "Chat telepathy 4"
+  },
+  {
+    "id": 13986,
+    "name": "Chat terrified"
+  },
+  {
+    "id": 13987,
+    "name": "Chat tired"
+  },
+  {
+    "id": 13988,
+    "name": "Chat tired idle"
+  },
+  {
+    "id": 13989,
+    "name": "Chat trance"
+  },
+  {
+    "id": 13990,
+    "name": "Bear rework run"
+  },
+  {
+    "id": 13991,
+    "name": "Human reachforladder walkmerge"
+  },
+  {
+    "id": 13992,
+    "name": "Human death fade"
+  },
+  {
+    "id": 13993,
+    "name": "Human distant idle"
+  },
+  {
+    "id": 13994,
+    "name": "Human concerned idle"
+  },
+  {
+    "id": 13995,
+    "name": "Human pleased idle"
+  },
+  {
+    "id": 13996,
+    "name": "Human suspecting idle"
+  },
+  {
+    "id": 13997,
+    "name": "Human disgruntled idle"
+  },
+  {
+    "id": 13998,
+    "name": "Human disgruntled idle noheld"
+  },
+  {
+    "id": 13999,
+    "name": "Human determined idle"
+  },
+  {
+    "id": 14000,
+    "name": "Human smug idle"
+  },
+  {
+    "id": 14001,
+    "name": "Human confused idle"
+  },
+  {
+    "id": 14002,
+    "name": "Human confused idle noheld"
+  },
+  {
+    "id": 14003,
+    "name": "Human dazed walk"
+  },
+  {
+    "id": 14004,
+    "name": "Human dazed ready"
+  },
+  {
+    "id": 14005,
+    "name": "Human dazed run"
+  },
+  {
+    "id": 14006,
+    "name": "Ds2 tidal spawn slow"
+  },
+  {
+    "id": 14007,
+    "name": "Ds2 tidal despawn fast"
+  },
+  {
+    "id": 14008,
+    "name": "Fris geyser inactive"
+  },
+  {
+    "id": 14009,
+    "name": "Ballista defend walkmerge"
+  },
+  {
+    "id": 14010,
+    "name": "Ballista defend then die walkmerge"
+  },
+  {
+    "id": 14011,
+    "name": "Npc bat dire idle 01"
+  },
+  {
+    "id": 14012,
+    "name": "Npc bat dire attack melee 01"
+  },
+  {
+    "id": 14013,
+    "name": "Npc bat dire death 01"
+  },
+  {
+    "id": 14014,
+    "name": "Npc wyrd01 ready01"
+  },
+  {
+    "id": 14015,
+    "name": "Npc wyrd02 ready01"
+  },
+  {
+    "id": 14016,
+    "name": "Npc wyrd01 walk01"
+  },
+  {
+    "id": 14017,
+    "name": "Npc wyrd02 walk01"
+  },
+  {
+    "id": 14018,
+    "name": "Npc wyrd01 punch right"
+  },
+  {
+    "id": 14019,
+    "name": "Npc wyrd01 punch left"
+  },
+  {
+    "id": 14020,
+    "name": "Npc wyrd02 melee01"
+  },
+  {
+    "id": 14021,
+    "name": "Npc wyrd01 tantrum01"
+  },
+  {
+    "id": 14022,
+    "name": "Npc wyrd01 tantrum02"
+  },
+  {
+    "id": 14023,
+    "name": "Npc wyrd01 screech01"
+  },
+  {
+    "id": 14024,
+    "name": "Npc wyrd01 screech02"
+  },
+  {
+    "id": 14025,
+    "name": "Npc wyrd01 screech03"
+  },
+  {
+    "id": 14026,
+    "name": "Vfx wyrd magic shield 01"
+  },
+  {
+    "id": 14027,
+    "name": "Vfx wyrd tantrum 01"
+  },
+  {
+    "id": 14028,
+    "name": "Vfx wyrd tantrum mirrored 01"
+  },
+  {
+    "id": 14029,
+    "name": "Vfx wyrd tantrum 02"
+  },
+  {
+    "id": 14030,
+    "name": "Vfx wyrd tantrum mirrored 02"
+  },
+  {
+    "id": 14031,
+    "name": "Vfx wyrd blood pool spawn 01"
+  },
+  {
+    "id": 14032,
+    "name": "Vfx wyrd blood pool idle 01"
+  },
+  {
+    "id": 14033,
+    "name": "Vfx wyrd blood pool despawn 01"
+  },
+  {
+    "id": 14034,
+    "name": "Vfx wyrd blood pool lightning strike 01"
+  },
+  {
+    "id": 14035,
+    "name": "Vfx wyrd roar01"
+  },
+  {
+    "id": 14036,
+    "name": "Npc wyrd01 booth ready01"
+  },
+  {
+    "id": 14037,
+    "name": "Npc wyrd01 breakout01"
+  },
+  {
+    "id": 14038,
+    "name": "Locanim wyrd booth drakan shatter"
+  },
+  {
+    "id": 14039,
+    "name": "Locanim wyrd booth drakan idle"
+  },
+  {
+    "id": 14040,
+    "name": "Locanim wyrd booth drakan idle broken"
+  },
+  {
+    "id": 14041,
+    "name": "Npc venator idle01"
+  },
+  {
+    "id": 14042,
+    "name": "Npc venator walk01"
+  },
+  {
+    "id": 14043,
+    "name": "Npc venator size 2 walk01"
+  },
+  {
+    "id": 14044,
+    "name": "Npc venator run01"
+  },
+  {
+    "id": 14045,
+    "name": "Npc venator death01"
+  },
+  {
+    "id": 14046,
+    "name": "Npc venator melee attack01"
+  },
+  {
+    "id": 14047,
+    "name": "Npc superior venator melee attack01"
+  },
+  {
+    "id": 14048,
+    "name": "Npc superior venator death01"
+  },
+  {
+    "id": 14049,
+    "name": "Npc venator spit attack01"
+  },
+  {
+    "id": 14050,
+    "name": "Npc venator special01"
+  },
+  {
+    "id": 14051,
+    "name": "Vfx venator roar spotanim01"
+  },
+  {
+    "id": 14052,
+    "name": "Npc efaritay hallow idle 01"
+  },
+  {
+    "id": 14053,
+    "name": "Npc efaritay hallow walk 01"
+  },
+  {
+    "id": 14054,
+    "name": "Npc efaritay hallow run 01"
+  },
+  {
+    "id": 14055,
+    "name": "Npc efaritay hallow take off 01"
+  },
+  {
+    "id": 14056,
+    "name": "Npc efaritay hallow land 01"
+  },
+  {
+    "id": 14057,
+    "name": "Npc efaritay hallow attack melee 01"
+  },
+  {
+    "id": 14058,
+    "name": "Npc efaritay hallow attack melee 01 loud"
+  },
+  {
+    "id": 14059,
+    "name": "Npc efaritay hallow attack magic 01"
+  },
+  {
+    "id": 14060,
+    "name": "Npc efaritay hallow attack magic 01 loud"
+  },
+  {
+    "id": 14061,
+    "name": "Vfx efaritay hallow attack magic 01"
+  },
+  {
+    "id": 14062,
+    "name": "Npc efaritay hallow attack summon 01"
+  },
+  {
+    "id": 14063,
+    "name": "Npc efaritay hallow attack summon 01 loud"
+  },
+  {
+    "id": 14064,
+    "name": "Vfx npc efaritay hallow attack summon 01"
+  },
+  {
+    "id": 14065,
+    "name": "Npc efaritay hallow attack maintain spell start 01"
+  },
+  {
+    "id": 14066,
+    "name": "Npc efaritay hallow attack maintain spell end 01"
+  },
+  {
+    "id": 14067,
+    "name": "Npc efaritay hallow attack maintain spell 01"
+  },
+  {
+    "id": 14068,
+    "name": "Npc efaritay hallow trapped idle 01"
+  },
+  {
+    "id": 14069,
+    "name": "Npc efaritay hallow trapped transition 01"
+  },
+  {
+    "id": 14070,
+    "name": "Npc efaritay hallow summon portal 01"
+  },
+  {
+    "id": 14071,
+    "name": "Vfx efaritay hallow summon portal 01"
+  },
+  {
+    "id": 14072,
+    "name": "Npc efaritay hallow trapped drained 01"
+  },
+  {
+    "id": 14073,
+    "name": "Cutscene vfx lowerniel drakan summon portal"
+  },
+  {
+    "id": 14074,
+    "name": "Vfx aranei magic cast"
+  },
+  {
+    "id": 14075,
+    "name": "Vfx aranei magic projectile"
+  },
+  {
+    "id": 14076,
+    "name": "Vfx aranei magic impact"
+  },
+  {
+    "id": 14077,
+    "name": "Aranei drakan bridge cutscene incinerate death"
+  },
+  {
+    "id": 14078,
+    "name": "Aranei drakan bridge cutscene spear off bridge"
+  },
+  {
+    "id": 14079,
+    "name": "Aranei drakan bridge cutscene strangle bridge"
+  },
+  {
+    "id": 14080,
+    "name": "Aranei drakan bridge cutscene death sunspear"
+  },
+  {
+    "id": 14081,
+    "name": "Aranei drakan bridge cutscene spellcast barrier"
+  },
+  {
+    "id": 14082,
+    "name": "Loc drakan bridge cutscene spellcast barrier"
+  },
+  {
+    "id": 14083,
+    "name": "Loc drakan bridge barrier idle"
+  },
+  {
+    "id": 14084,
+    "name": "Loc drakan bridge barrier despawn"
+  },
+  {
+    "id": 14085,
+    "name": "Aranei magic cast"
+  },
+  {
+    "id": 14086,
+    "name": "Aranei sword slash then def then die"
+  },
+  {
+    "id": 14087,
+    "name": "Aranei sword fail then def then die"
+  },
+  {
+    "id": 14088,
+    "name": "Aranei sword def then die"
+  },
+  {
+    "id": 14089,
+    "name": "Human weapons aranei magic made sword idle"
+  },
+  {
+    "id": 14090,
+    "name": "Human weapons aranei magic made sword walk"
+  },
+  {
+    "id": 14091,
+    "name": "Human weapons aranei magic made sword run"
+  },
+  {
+    "id": 14092,
+    "name": "Human weapons aranei magic made sword unsheath"
+  },
+  {
+    "id": 14093,
+    "name": "Human weapons aranei magic made sword unsheath loud"
+  },
+  {
+    "id": 14094,
+    "name": "Human weapons aranei magic made sword unsheath silent"
+  },
+  {
+    "id": 14095,
+    "name": "Human weapons aranei magic made sword sheath"
+  },
+  {
+    "id": 14096,
+    "name": "Human weapons aranei magic made sword slash"
+  },
+  {
+    "id": 14097,
+    "name": "Aranei sword def"
+  },
+  {
+    "id": 14098,
+    "name": "Aranei death"
+  },
+  {
+    "id": 14099,
+    "name": "Myq6 idle then start spell"
+  },
+  {
+    "id": 14100,
+    "name": "Myq6 idle then start spell longer"
+  },
+  {
+    "id": 14101,
+    "name": "Myq6 start spell"
+  },
+  {
+    "id": 14102,
+    "name": "Myq6 stand and start spell"
+  },
+  {
+    "id": 14103,
+    "name": "Myq6 end spell"
+  },
+  {
+    "id": 14104,
+    "name": "Myq6 end spell and take knee"
+  },
+  {
+    "id": 14105,
+    "name": "Myq6 end spell and die"
+  },
+  {
+    "id": 14106,
+    "name": "Myq6 on knees"
+  },
+  {
+    "id": 14107,
+    "name": "Myq6 maintain spell"
+  },
+  {
+    "id": 14108,
+    "name": "Myq6 maintain portal spell"
+  },
+  {
+    "id": 14109,
+    "name": "Myq6 start portal spell"
+  },
+  {
+    "id": 14110,
+    "name": "Myq6 end portal spell"
+  },
+  {
+    "id": 14111,
+    "name": "Myq6 end portal spell quick"
+  },
+  {
+    "id": 14112,
+    "name": "Myq6 end portal spell and die"
+  },
+  {
+    "id": 14113,
+    "name": "Myq6 sleeping"
+  },
+  {
+    "id": 14114,
+    "name": "Npc leechfin swim01"
+  },
+  {
+    "id": 14115,
+    "name": "Vfx blood magic bolt spawn left01"
+  },
+  {
+    "id": 14116,
+    "name": "Vfx blood magic bolt spawn left02"
+  },
+  {
+    "id": 14117,
+    "name": "Vfx blood magic bolt spawn left03"
+  },
+  {
+    "id": 14118,
+    "name": "Vfx blood magic bolt spawn right01"
+  },
+  {
+    "id": 14119,
+    "name": "Vfx blood magic bolt spawn right02"
+  },
+  {
+    "id": 14120,
+    "name": "Vfx blood magic bolt spawn right03"
+  },
+  {
+    "id": 14121,
+    "name": "Vfx blood magic bolt spawn overhead01"
+  },
+  {
+    "id": 14122,
+    "name": "Vfx blood magic bolt projectile base01"
+  },
+  {
+    "id": 14123,
+    "name": "Vfx blood magic bolt projectile left01"
+  },
+  {
+    "id": 14124,
+    "name": "Vfx blood magic bolt projectile left02"
+  },
+  {
+    "id": 14125,
+    "name": "Vfx blood magic bolt projectile left03"
+  },
+  {
+    "id": 14126,
+    "name": "Vfx blood magic bolt projectile right01"
+  },
+  {
+    "id": 14127,
+    "name": "Vfx blood magic bolt projectile right02"
+  },
+  {
+    "id": 14128,
+    "name": "Vfx blood magic bolt projectile right03"
+  },
+  {
+    "id": 14129,
+    "name": "Vfx blood magic bolt projectile overhead01"
+  },
+  {
+    "id": 14130,
+    "name": "Vfx blood magic bolt impact01"
+  },
+  {
+    "id": 14131,
+    "name": "Vfx lowerniel drakan spotanim test left"
+  },
+  {
+    "id": 14132,
+    "name": "Vfx lowerniel drakan spotanim test right"
+  },
+  {
+    "id": 14133,
+    "name": "Vfx drakan blood combo left"
+  },
+  {
+    "id": 14134,
+    "name": "Vfx drakan blood combo right"
+  },
+  {
+    "id": 14135,
+    "name": "Vfx drakan blood combo left old"
+  },
+  {
+    "id": 14136,
+    "name": "Vfx drakan blood combo right old"
+  },
+  {
+    "id": 14137,
+    "name": "Vfx drakan blood combo particle left01"
+  },
+  {
+    "id": 14138,
+    "name": "Vfx drakan blood combo particle right01"
+  },
+  {
+    "id": 14139,
+    "name": "Vfx drakan blood combo particle left01 slow"
+  },
+  {
+    "id": 14140,
+    "name": "Vfx drakan blood combo particle right01 slow"
+  },
+  {
+    "id": 14141,
+    "name": "Myq6 glint spot"
+  },
+  {
+    "id": 14142,
+    "name": "Dr dodge visuals"
+  },
+  {
+    "id": 14143,
+    "name": "Myq6 vampire attack"
+  },
+  {
+    "id": 14144,
+    "name": "Myq6 vanescula unconscious"
+  },
+  {
+    "id": 14145,
+    "name": "Myq6 safalaan unconscious"
+  },
+  {
+    "id": 14146,
+    "name": "Myq6 veliaf throw up"
+  },
+  {
+    "id": 14147,
+    "name": "Myq6 veliaf throw up idle"
+  },
+  {
+    "id": 14148,
+    "name": "Myq6 safalaan carry idle"
+  },
+  {
+    "id": 14149,
+    "name": "Myq6 safalaan carry walk"
+  },
+  {
+    "id": 14150,
+    "name": "Myq6 safalaan carry run"
+  },
+  {
+    "id": 14151,
+    "name": "Myq6 safalaan carry walk test"
+  },
+  {
+    "id": 14152,
+    "name": "Myq6 veliaf throw up start"
+  },
+  {
+    "id": 14153,
+    "name": "Myq6 veliaf throw up end"
+  },
+  {
+    "id": 14154,
+    "name": "Myq6 veliaf throw up full"
+  },
+  {
+    "id": 14155,
+    "name": "Myq6 veliaf throw up full quick"
+  },
+  {
+    "id": 14156,
+    "name": "Myq6 stand and start spell jump"
+  },
+  {
+    "id": 14157,
+    "name": "Myq6 aranei spell cast sequence"
+  },
+  {
+    "id": 14158,
+    "name": "Vampyrium blood serpent walk"
+  },
+  {
+    "id": 14159,
+    "name": "Vampyrium blood serpent bite"
+  },
+  {
+    "id": 14160,
+    "name": "Vampyrium blood serpent idle"
+  },
+  {
+    "id": 14161,
+    "name": "Myq6 sanguidae idle 01"
+  },
+  {
+    "id": 14162,
+    "name": "Myq6 sanguidae attack 01"
+  },
+  {
+    "id": 14163,
+    "name": "Myq6 sanguidae walk 01"
+  },
+  {
+    "id": 14164,
+    "name": "Myq6 sanguidae death"
+  },
+  {
+    "id": 14165,
+    "name": "Myq6 sanguidae spawn"
+  },
+  {
+    "id": 14166,
+    "name": "Myq6 vanescula unconscious ground"
+  },
+  {
+    "id": 14167,
+    "name": "Portal vampyrium01 spawn01"
+  },
+  {
+    "id": 14168,
+    "name": "Portal vampyrium01 spawn01 fast"
+  },
+  {
+    "id": 14169,
+    "name": "Portal vampyrium01 despawn01"
+  },
+  {
+    "id": 14170,
+    "name": "Portal vampyrium01 idle01"
+  },
+  {
+    "id": 14171,
+    "name": "Portal vampyrium01 spawn to idle01"
+  },
+  {
+    "id": 14172,
+    "name": "Portal vampyrium01 full sequence"
+  },
+  {
+    "id": 14173,
+    "name": "Portal vampyrium01 spawn02"
+  },
+  {
+    "id": 14174,
+    "name": "Portal vampyrium01 spawn02 fast"
+  },
+  {
+    "id": 14175,
+    "name": "Portal vampyrium01 despawn02"
+  },
+  {
+    "id": 14176,
+    "name": "Portal vampyrium01 idle02"
+  },
+  {
+    "id": 14177,
+    "name": "Portal vampyrium01 spawn to idle02"
+  },
+  {
+    "id": 14178,
+    "name": "Maxilla beast walk"
+  },
+  {
+    "id": 14179,
+    "name": "Maxilla beast run"
+  },
+  {
+    "id": 14180,
+    "name": "Maxilla beast attack"
+  },
+  {
+    "id": 14181,
+    "name": "Maxilla beast defend"
+  },
+  {
+    "id": 14182,
+    "name": "Maxilla beast death"
+  },
+  {
+    "id": 14183,
+    "name": "Feyal vyre walk"
+  },
+  {
+    "id": 14184,
+    "name": "Feyal vyre ready"
+  },
+  {
+    "id": 14185,
+    "name": "Feyal vyre attack"
+  },
+  {
+    "id": 14186,
+    "name": "Feyal vyre defend"
+  },
+  {
+    "id": 14187,
+    "name": "Feyal vyre death"
+  },
+  {
+    "id": 14188,
+    "name": "Feral vyre despawn"
+  },
+  {
+    "id": 14189,
+    "name": "Feral vyre spawn"
+  },
+  {
+    "id": 14190,
+    "name": "Myq6 crow idle"
+  },
+  {
+    "id": 14191,
+    "name": "Myq6 crow attack"
+  },
+  {
+    "id": 14192,
+    "name": "Myq6 crow death"
+  },
+  {
+    "id": 14193,
+    "name": "Impaler deer attack"
+  },
+  {
+    "id": 14194,
+    "name": "Impaler deer death"
+  },
+  {
+    "id": 14195,
+    "name": "Vfx drakan blood combo particle spin01 fast"
+  },
+  {
+    "id": 14196,
+    "name": "Vfx drakan blood combo particle spin01 slow"
+  },
+  {
+    "id": 14197,
+    "name": "Vfx drakan underglow"
+  },
+  {
+    "id": 14198,
+    "name": "Vfx drakan underglow 45"
+  },
+  {
+    "id": 14199,
+    "name": "Vfx drakan underglow 30"
+  },
+  {
+    "id": 14200,
+    "name": "Myq6 feral vyre spotanim"
+  },
+  {
+    "id": 14201,
+    "name": "Jovkai door rumble"
+  },
+  {
+    "id": 14202,
+    "name": "Jovkai door single rumble a"
+  },
+  {
+    "id": 14203,
+    "name": "Jovkai door single rumble b"
+  },
+  {
+    "id": 14204,
+    "name": "Jovkai door open"
+  },
+  {
+    "id": 14205,
+    "name": "Jovkai door idle"
+  },
+  {
+    "id": 14206,
+    "name": "Jovkai door open idle"
+  },
+  {
+    "id": 14207,
+    "name": "Myq6 arenei shield glow idle"
+  },
+  {
+    "id": 14208,
+    "name": "Myq6 arenei shield glow idle longer"
+  },
+  {
+    "id": 14209,
+    "name": "Myq6 arenei shield glow spawn"
+  },
+  {
+    "id": 14210,
+    "name": "Myq6 arenei shield glow idle then despawn"
+  },
+  {
+    "id": 14211,
+    "name": "Myq6 arenei shield glow despawn"
+  },
+  {
+    "id": 14212,
+    "name": "Vfx efaritay hallow door defend01"
+  },
+  {
+    "id": 14213,
+    "name": "Vfx efarity hallow door defend02"
+  },
+  {
+    "id": 14214,
+    "name": "Myq6 aranei shield glow door despawn"
+  },
+  {
+    "id": 14215,
+    "name": "Vfx efarity hallow door defend00"
+  },
+  {
+    "id": 14216,
+    "name": "Altar drakan01 lab01 idle"
+  },
+  {
+    "id": 14217,
+    "name": "Vfx drakan wing restore cutscene"
+  },
+  {
+    "id": 14218,
+    "name": "Sangvesti bridge lower loop"
+  },
+  {
+    "id": 14219,
+    "name": "Sangvesti bridge raise loop"
+  },
+  {
+    "id": 14220,
+    "name": "Sangvesti bridge lower"
+  },
+  {
+    "id": 14221,
+    "name": "Sangvesti bridge raise"
+  },
+  {
+    "id": 14222,
+    "name": "Myq6 human trapped"
+  },
+  {
+    "id": 14223,
+    "name": "Myq6 human trapped end"
+  },
+  {
+    "id": 14224,
+    "name": "Myq6 human trapped idle"
+  },
+  {
+    "id": 14225,
+    "name": "Wallkit drakan01 closed idle"
+  },
+  {
+    "id": 14226,
+    "name": "Wallkit drakan01 open"
+  },
+  {
+    "id": 14227,
+    "name": "Wallkit drakan01 open idle"
+  },
+  {
+    "id": 14228,
+    "name": "Myq6 safalaan trapped"
+  },
+  {
+    "id": 14229,
+    "name": "Myq6 safalaan trapped end"
+  },
+  {
+    "id": 14230,
+    "name": "Myq6 safalaan trapped idle"
+  },
+  {
+    "id": 14231,
+    "name": "Myq6 crank wheel"
+  },
+  {
+    "id": 14232,
+    "name": "Myq6 crank wheel end"
+  },
+  {
+    "id": 14233,
+    "name": "Human myq6 agility sprint f"
+  },
+  {
+    "id": 14234,
+    "name": "Human myq6 agility slide f"
+  },
+  {
+    "id": 14235,
+    "name": "Human myq6 agility stile"
+  },
+  {
+    "id": 14236,
+    "name": "Human myq6 agility sprint transition"
+  },
+  {
+    "id": 14237,
+    "name": "Human myq6 agility run"
+  },
+  {
+    "id": 14238,
+    "name": "Human myq6 wyrd roll"
+  },
+  {
+    "id": 14239,
+    "name": "Myq6 strafe"
+  },
+  {
+    "id": 14240,
+    "name": "Human myq6 agility hillslide f"
+  },
+  {
+    "id": 14241,
+    "name": "Human myq6 agility slide fail"
+  },
+  {
+    "id": 14242,
+    "name": "Vfx veliaf sick"
+  },
+  {
+    "id": 14243,
+    "name": "Vfx veliaf sick puddle"
+  },
+  {
+    "id": 14244,
+    "name": "Human weapons hallowed flail01 attack01"
+  },
+  {
+    "id": 14245,
+    "name": "Human weapons hallowed flail01 walk f"
+  },
+  {
+    "id": 14246,
+    "name": "Human weapons hallowed flail01 run f"
+  },
+  {
+    "id": 14247,
+    "name": "Human weapons hallowed flail01 defend"
+  },
+  {
+    "id": 14248,
+    "name": "Human weapons hallowed flail01 ready01"
+  },
+  {
+    "id": 14249,
+    "name": "Human weapons hallowed flail01 attack02"
+  },
+  {
+    "id": 14250,
+    "name": "Burgh human holding cast hallowed flail"
+  },
+  {
+    "id": 14251,
+    "name": "Human weapons crimson kisten ready01"
+  },
+  {
+    "id": 14252,
+    "name": "Human weapons crimson kisten walk f"
+  },
+  {
+    "id": 14253,
+    "name": "Human weapons crimson kisten attack"
+  },
+  {
+    "id": 14254,
+    "name": "Human weapons crimson kisten run f"
+  },
+  {
+    "id": 14255,
+    "name": "Human weapons crimson kisten special"
+  },
+  {
+    "id": 14256,
+    "name": "Vfx crimson kisten special"
+  },
+  {
+    "id": 14257,
+    "name": "Human weapons crimson kisten def"
+  },
+  {
+    "id": 14258,
+    "name": "Human weapons hallowed flail01 turnonspot"
+  },
+  {
+    "id": 14259,
+    "name": "Human weapons sunspear spec"
+  },
+  {
+    "id": 14260,
+    "name": "Human felling charge slow01"
+  },
+  {
+    "id": 14261,
+    "name": "Human felling charge slow02"
+  },
+  {
+    "id": 14262,
+    "name": "Human felling charge fast01"
+  },
+  {
+    "id": 14263,
+    "name": "Human felling swing01"
+  },
+  {
+    "id": 14264,
+    "name": "Human felling botch01"
+  },
+  {
+    "id": 14265,
+    "name": "Human felling tap01"
+  },
+  {
+    "id": 14266,
+    "name": "Bloodwood tree idle 01"
+  },
+  {
+    "id": 14267,
+    "name": "Npc letvek idle01"
+  },
+  {
+    "id": 14268,
+    "name": "Npc letvek walk01"
+  },
+  {
+    "id": 14269,
+    "name": "Letvek boxtrap catching"
+  },
+  {
+    "id": 14270,
+    "name": "Letvek boxtrap catching east"
+  },
+  {
+    "id": 14271,
+    "name": "Letvek boxtrap catching south"
+  },
+  {
+    "id": 14272,
+    "name": "Letvek boxtrap catching west"
+  },
+  {
+    "id": 14273,
+    "name": "Letvek boxtrap ready"
+  },
+  {
+    "id": 14274,
+    "name": "Letvek boxtrap failed"
+  },
+  {
+    "id": 14275,
+    "name": "Npc letvek approach"
+  },
+  {
+    "id": 14276,
+    "name": "Npc letvek backoff"
+  },
+  {
+    "id": 14277,
+    "name": "Tree darkwood01 attacking01"
+  },
+  {
+    "id": 14278,
+    "name": "Stymphike landing"
+  },
+  {
+    "id": 14279,
+    "name": "Stymphike takeoff"
+  },
+  {
+    "id": 14280,
+    "name": "Stymphike death"
+  },
+  {
+    "id": 14281,
+    "name": "Stymphike idle"
+  },
+  {
+    "id": 14282,
+    "name": "Bush stymphike shake"
+  },
+  {
+    "id": 14283,
+    "name": "Bush stymphike shake long"
+  },
+  {
+    "id": 14284,
+    "name": "Human stymphike rustle"
+  },
+  {
+    "id": 14285,
+    "name": "Human stymphike idle"
+  },
+  {
+    "id": 14286,
+    "name": "Human stymphike idle start"
+  },
+  {
+    "id": 14287,
+    "name": "Portal vampyrium wyrd enter"
+  },
+  {
+    "id": 14288,
+    "name": "Portal vampyrium wyrd enter quick"
+  },
+  {
+    "id": 14289,
+    "name": "Vfx drakan wing cutscene"
+  },
+  {
+    "id": 14290,
+    "name": "Npc wyrd portal cutscene"
+  },
+  {
+    "id": 14291,
+    "name": "Cutscene lowerniel drakan wyrd 01"
+  },
+  {
+    "id": 14292,
+    "name": "Cutscene lowerniel drakan wyrd 02"
+  },
+  {
+    "id": 14293,
+    "name": "Vfx drakan wing cutscene idle"
+  },
+  {
+    "id": 14294,
+    "name": "Vfx wyrd portal cutscene blood"
+  },
+  {
+    "id": 14295,
+    "name": "Vfx wyrd portal cutscene blood idle"
+  },
+  {
+    "id": 14296,
+    "name": "Npc wyrd cutscene injured floor idle"
+  },
+  {
+    "id": 14297,
+    "name": "Npc wyrd cutscene transform 01"
+  },
+  {
+    "id": 14298,
+    "name": "Npc wyrd cutscene transform 02"
+  },
+  {
+    "id": 14299,
+    "name": "Npc wyrd cutscene standing idle"
+  },
+  {
+    "id": 14300,
+    "name": "Npc lowerniel drakan idle01"
+  },
+  {
+    "id": 14301,
+    "name": "Npc lowerniel drakan idle lame wing01"
+  },
+  {
+    "id": 14302,
+    "name": "Npc lowerniel drakan walk01"
+  },
+  {
+    "id": 14303,
+    "name": "Npc lowerniel drakan walk01 lame wing01"
+  },
+  {
+    "id": 14304,
+    "name": "Npc lowerniel drakan 30 run01"
+  },
+  {
+    "id": 14305,
+    "name": "Npc lowerniel drakan 30 run lame wing01"
+  },
+  {
+    "id": 14306,
+    "name": "Npc lowerniel drakan 45 run01"
+  },
+  {
+    "id": 14307,
+    "name": "Npc lowerniel drakan 45 run lame wing01"
+  },
+  {
+    "id": 14308,
+    "name": "Npc lowerniel drakan 45 follow lame wing01"
+  },
+  {
+    "id": 14309,
+    "name": "Npc lowerniel drakan melee attack01"
+  },
+  {
+    "id": 14310,
+    "name": "Npc lowerniel drakan melee attack lame wing01"
+  },
+  {
+    "id": 14311,
+    "name": "Npc lowerniel drakan magic attack01"
+  },
+  {
+    "id": 14312,
+    "name": "Npc lowerniel drakan magic attack lame wing01"
+  },
+  {
+    "id": 14313,
+    "name": "Npc lowerniel drakan phase out idle blood wing01"
+  },
+  {
+    "id": 14314,
+    "name": "Npc lowerniel drakan phase in idle blood wing01"
+  },
+  {
+    "id": 14315,
+    "name": "Npc lowerniel drakan phase out idle lame wing01"
+  },
+  {
+    "id": 14316,
+    "name": "Npc lowerniel drakan phase in idle lame wing01"
+  },
+  {
+    "id": 14317,
+    "name": "Npc lowerniel drakan idle to telegraph loop01"
+  },
+  {
+    "id": 14318,
+    "name": "Npc lowerniel drakan idle to telegraph loop lame wing01"
+  },
+  {
+    "id": 14319,
+    "name": "Npc lowerniel drakan combo telegraph to ready01"
+  },
+  {
+    "id": 14320,
+    "name": "Npc lowerniel drakan combo telegraph to ready lame wing01"
+  },
+  {
+    "id": 14321,
+    "name": "Npc lowerniel drakan combo left jab01"
+  },
+  {
+    "id": 14322,
+    "name": "Npc lowerniel drakan combo left jab lame wing01"
+  },
+  {
+    "id": 14323,
+    "name": "Npc lowerniel drakan combo right jab01"
+  },
+  {
+    "id": 14324,
+    "name": "Npc lowerniel drakan combo right jab lame wing01"
+  },
+  {
+    "id": 14325,
+    "name": "Npc lowerniel drakan combo spin01"
+  },
+  {
+    "id": 14326,
+    "name": "Npc lowerniel drakan combo spin lame wing01"
+  },
+  {
+    "id": 14327,
+    "name": "Lowerniel drakan stab hit telegraph01"
+  },
+  {
+    "id": 14328,
+    "name": "Lowerniel drakan stab hit telegraph lame wing01"
+  },
+  {
+    "id": 14329,
+    "name": "Lowerniel drakan stab hit stab01"
+  },
+  {
+    "id": 14330,
+    "name": "Lowerniel drakan stab hit stab lame wing01"
+  },
+  {
+    "id": 14331,
+    "name": "Lowerniel drakan stab hit stab afterimage01"
+  },
+  {
+    "id": 14332,
+    "name": "Lowerniel drakan stab hit stab afterimage lame wing01"
+  },
+  {
+    "id": 14333,
+    "name": "Lowerniel drakan swipe hit telegraph01"
+  },
+  {
+    "id": 14334,
+    "name": "Lowerniel drakan swipe hit telegraph lame wing01"
+  },
+  {
+    "id": 14335,
+    "name": "Lowerniel drakan swipe hit swipe01"
+  },
+  {
+    "id": 14336,
+    "name": "Lowerniel drakan swipe hit swipe lame wing01"
+  },
+  {
+    "id": 14337,
+    "name": "Lowerniel drakan swipe hit swipe afterimage01"
+  },
+  {
+    "id": 14338,
+    "name": "Lowerniel drakan swipe hit swipe afterimage lame wing01"
+  },
+  {
+    "id": 14339,
+    "name": "Npc lowerniel drakan death01"
+  },
+  {
+    "id": 14340,
+    "name": "Npc lowerniel drakan death final frame01"
+  },
+  {
+    "id": 14341,
+    "name": "Cutscene lowerniel drakan idle recreation01"
+  },
+  {
+    "id": 14342,
+    "name": "Cutscene lowerniel drakan idle recreation lame wing01"
+  },
+  {
+    "id": 14343,
+    "name": "Cutscene lowerniel drakan walk recreation01"
+  },
+  {
+    "id": 14344,
+    "name": "Cutscene lowerniel drakan walk recreation lame wing01"
+  },
+  {
+    "id": 14345,
+    "name": "Cutscene lowerniel drakan dramatic walk recreation01"
+  },
+  {
+    "id": 14346,
+    "name": "Cutscene lowerniel drakan dramatic walk recreation lame wing01"
+  },
+  {
+    "id": 14347,
+    "name": "Cutscene lowerniel drakan obliterate recreation01"
+  },
+  {
+    "id": 14348,
+    "name": "Cutscene lowerniel drakan obliterate recreation lame wing01"
+  },
+  {
+    "id": 14349,
+    "name": "Cutscene lowerniel drakan incinerate recreation01"
+  },
+  {
+    "id": 14350,
+    "name": "Cutscene lowerniel drakan incinerate recreation lame wing01"
+  },
+  {
+    "id": 14351,
+    "name": "Cutscene lowerniel drakan imprison recreation01"
+  },
+  {
+    "id": 14352,
+    "name": "Cutscene lowerniel drakan imprison recreation lame wing01"
+  },
+  {
+    "id": 14353,
+    "name": "Cutscene lowerniel drakan spawn recreation lame wing01"
+  },
+  {
+    "id": 14354,
+    "name": "Cutscene lowerniel drakan despawn recreation lame wing01"
+  },
+  {
+    "id": 14355,
+    "name": "Lowerniel drakan cutscene part01"
+  },
+  {
+    "id": 14356,
+    "name": "Lowerniel drakan cutscene part02"
+  },
+  {
+    "id": 14357,
+    "name": "Lowerniel drakan cutscene part02 afterimage01"
+  },
+  {
+    "id": 14358,
+    "name": "Lowerniel drakan cutscene part02 afterimage02"
+  },
+  {
+    "id": 14359,
+    "name": "Lowerniel drakan cutscene well sit stand01"
+  },
+  {
+    "id": 14360,
+    "name": "Lowerniel drakan cutscene sunspear dramatic01"
+  },
+  {
+    "id": 14361,
+    "name": "Lowerniel drakan cutscene sunspear dramatic01 silent"
+  },
+  {
+    "id": 14362,
+    "name": "Lowerniel drakan cutscene sunspear snappy01"
+  },
+  {
+    "id": 14363,
+    "name": "Lowerniel drakan cutscene well sit stand idle01"
+  },
+  {
+    "id": 14364,
+    "name": "Lowerniel drakan cutscene restore wing01"
+  },
+  {
+    "id": 14365,
+    "name": "Lowerniel drakan cutscene portal summon01"
+  },
+  {
+    "id": 14366,
+    "name": "Lowerniel drakan cutscene portal summon idle01"
+  },
+  {
+    "id": 14367,
+    "name": "Lowerniel drakan cutscene portal summon return to idle01"
+  },
+  {
+    "id": 14368,
+    "name": "Vfx lowerniel drakan blood wing dodge left"
+  },
+  {
+    "id": 14369,
+    "name": "Vfx lowerniel drakan blood wing dodge right"
+  },
+  {
+    "id": 14370,
+    "name": "Vfx lowerniel drakan blood wing dodge back"
+  },
+  {
+    "id": 14371,
+    "name": "Vfx lowerniel drakan lame wing dodge left"
+  },
+  {
+    "id": 14372,
+    "name": "Vfx lowerniel drakan lame wing dodge right"
+  },
+  {
+    "id": 14373,
+    "name": "Vfx lowerniel drakan lame wing dodge back"
+  },
+  {
+    "id": 14374,
+    "name": "Vfx lowerniel drakan barrier lightning01"
+  },
+  {
+    "id": 14375,
+    "name": "Vfx lowerniel drakan portal summon01"
+  },
+  {
+    "id": 14376,
+    "name": "Vfx lowerniel drakan barrier lightning loop01"
+  },
+  {
+    "id": 14377,
+    "name": "Vfx lowerniel drakan barrier stab01"
+  },
+  {
+    "id": 14378,
+    "name": "Druidicspirit human bloom diamond"
+  },
+  {
+    "id": 14379,
+    "name": "Druidicspirit human bloom blisterwood sickle enhanced"
+  },
+  {
+    "id": 14380,
+    "name": "Druidicspirit human bloom hallowed flail"
+  },
+  {
+    "id": 14381,
+    "name": "Nylocas queen idle"
+  },
+  {
+    "id": 14382,
+    "name": "Nylocas queen walk"
+  },
+  {
+    "id": 14383,
+    "name": "Nylocas queen melee"
+  },
+  {
+    "id": 14384,
+    "name": "Nylocas queen summon"
+  },
+  {
+    "id": 14385,
+    "name": "Nylocas queen ranged"
+  },
+  {
+    "id": 14386,
+    "name": "Nylocas queen magic"
+  },
+  {
+    "id": 14387,
+    "name": "Top spider melee attack quiet"
+  },
+  {
+    "id": 14388,
+    "name": "Top spider melee death quiet"
+  },
+  {
+    "id": 14389,
+    "name": "Top spider ranged death quiet"
+  },
+  {
+    "id": 14390,
+    "name": "Top spider ranged attack quiet"
+  },
+  {
+    "id": 14391,
+    "name": "Top spider ranged meleeattack quiet"
+  },
+  {
+    "id": 14392,
+    "name": "Top spider magic attack quiet"
+  },
+  {
+    "id": 14393,
+    "name": "Top spider magic meleeattack quiet"
+  },
+  {
+    "id": 14394,
+    "name": "Top spider magic death quiet"
+  },
+  {
+    "id": 14395,
+    "name": "Knockback 30"
+  },
+  {
+    "id": 14396,
+    "name": "Knockback 50"
+  },
+  {
+    "id": 14397,
+    "name": "Npc quetzal headbob"
+  },
+  {
+    "id": 14398,
+    "name": "Surok king roald attack walkmerge"
+  },
+  {
+    "id": 14399,
+    "name": "Maiden spawn"
+  },
+  {
+    "id": 14400,
+    "name": "Vfx maiden spawn"
+  },
+  {
+    "id": 14401,
+    "name": "Myq6 maiden death b"
+  },
+  {
+    "id": 14402,
+    "name": "Myq6 tob maiden pool well spawn 01"
+  },
+  {
+    "id": 14403,
+    "name": "Vfx myq6 tob maiden pool well spawn 01"
+  },
+  {
+    "id": 14404,
+    "name": "Myq6 tob maiden pool well idle 01"
+  },
+  {
+    "id": 14405,
+    "name": "Myq6 tob maiden pool well death 01"
+  },
+  {
+    "id": 14406,
+    "name": "Verzik phase3 attack summon"
+  },
+  {
+    "id": 14407,
+    "name": "Ropeswing long m"
+  },
+  {
+    "id": 14408,
+    "name": "Human throwrope up snake"
+  },
+  {
+    "id": 14409,
+    "name": "Human sword slash then def then die"
+  },
+  {
+    "id": 14410,
+    "name": "Human sword def then die"
+  },
+  {
+    "id": 14411,
+    "name": "Human sword slash then def then die quick"
+  },
+  {
+    "id": 14412,
+    "name": "Human sword def then die quick"
+  },
+  {
+    "id": 14413,
+    "name": "Human createfire single"
+  },
+  {
+    "id": 14414,
+    "name": "Human fletching single no items"
+  },
+  {
+    "id": 14415,
+    "name": "Human fletching single no items silent"
+  },
+  {
+    "id": 14416,
+    "name": "Human herbing vial only"
+  },
+  {
+    "id": 14417,
+    "name": "Human explodingvial noheld"
+  },
+  {
+    "id": 14418,
+    "name": "Human squeeze"
+  },
+  {
+    "id": 14419,
+    "name": "Strike casting quick"
+  },
+  {
+    "id": 14420,
+    "name": "Blast impact quick"
+  },
+  {
+    "id": 14421,
+    "name": "Blast impact quickest"
+  },
+  {
+    "id": 14422,
+    "name": "Stunned 2cycle"
+  },
+  {
+    "id": 14423,
+    "name": "Stunned 3cycle"
+  },
+  {
+    "id": 14424,
+    "name": "Stunned 4cycle"
+  },
+  {
+    "id": 14425,
+    "name": "Human teleport other impact priority"
+  },
+  {
+    "id": 14426,
+    "name": "Human teleport other casting priority"
+  },
+  {
+    "id": 14427,
+    "name": "Human pray lowprio"
+  },
+  {
+    "id": 14428,
+    "name": "Gg debris shadow 30"
   }
 ]

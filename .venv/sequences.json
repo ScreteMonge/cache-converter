@@ -3396,12 +3396,6 @@
     "leftHandItem": -1
   },
   {
-    "name": "Shortchatneu1",
-    "id": 566,
-    "rightHandItem": -1,
-    "leftHandItem": -1
-  },
-  {
     "name": "Chathap1",
     "id": 567,
     "rightHandItem": -1,
@@ -3470,12 +3464,6 @@
   {
     "name": "Chatcon4",
     "id": 578,
-    "rightHandItem": -1,
-    "leftHandItem": -1
-  },
-  {
-    "name": "Chatidleneu1",
-    "id": 579,
     "rightHandItem": -1,
     "leftHandItem": -1
   },
@@ -3624,12 +3612,6 @@
     "leftHandItem": -1
   },
   {
-    "name": "Evilidle1",
-    "id": 604,
-    "rightHandItem": -1,
-    "leftHandItem": -1
-  },
-  {
     "name": "Chatlaugh1",
     "id": 605,
     "rightHandItem": -1,
@@ -3650,12 +3632,6 @@
   {
     "name": "Chatlaugh4",
     "id": 608,
-    "rightHandItem": -1,
-    "leftHandItem": -1
-  },
-  {
-    "name": "Evillaugh1",
-    "id": 609,
     "rightHandItem": -1,
     "leftHandItem": -1
   },
@@ -11946,12 +11922,6 @@
     "leftHandItem": -1
   },
   {
-    "name": "Icthal daze",
-    "id": 1991,
-    "rightHandItem": -1,
-    "leftHandItem": -1
-  },
-  {
     "name": "Ic pit jump",
     "id": 1992,
     "rightHandItem": -1,
@@ -19926,12 +19896,6 @@
     "leftHandItem": -1
   },
   {
-    "name": "Chat human sleep",
-    "id": 3321,
-    "rightHandItem": -1,
-    "leftHandItem": -1
-  },
-  {
     "name": "Zygomite adult walk",
     "id": 3322,
     "rightHandItem": -1,
@@ -27518,30 +27482,6 @@
   {
     "name": "Eyeglo mind meld player",
     "id": 4586,
-    "rightHandItem": -1,
-    "leftHandItem": -1
-  },
-  {
-    "name": "Eyeglo mind meld chathead 1",
-    "id": 4587,
-    "rightHandItem": -1,
-    "leftHandItem": -1
-  },
-  {
-    "name": "Eyeglo mind meld chathead 2",
-    "id": 4588,
-    "rightHandItem": -1,
-    "leftHandItem": -1
-  },
-  {
-    "name": "Eyeglo mind meld chathead 3",
-    "id": 4589,
-    "rightHandItem": -1,
-    "leftHandItem": -1
-  },
-  {
-    "name": "Eyeglo mind meld chathead 4",
-    "id": 4590,
     "rightHandItem": -1,
     "leftHandItem": -1
   },
@@ -51238,24 +51178,6 @@
     "id": 8541,
     "rightHandItem": 0,
     "leftHandItem": 24999
-  },
-  {
-    "name": "Evillaugh updated1",
-    "id": 8542,
-    "rightHandItem": -1,
-    "leftHandItem": -1
-  },
-  {
-    "name": "Evillaugh updated2",
-    "id": 8543,
-    "rightHandItem": -1,
-    "leftHandItem": -1
-  },
-  {
-    "name": "Evilidle updated3",
-    "id": 8544,
-    "rightHandItem": -1,
-    "leftHandItem": -1
   },
   {
     "name": "Nightmare staff volatile hit",
@@ -83410,5 +83332,3125 @@
     "id": 13908,
     "rightHandItem": 33830,
     "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 13909,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 13910,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13911,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13912,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13913,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13914,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13915,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13916,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13917,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13918,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13919,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13920,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13921,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13922,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13923,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13924,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13925,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13926,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13927,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13928,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13929,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13930,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13931,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13932,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13933,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13934,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13935,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13936,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13937,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13938,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13939,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13940,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13941,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13942,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13943,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13944,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13945,
+    "rightHandItem": 34159,
+    "leftHandItem": 34160
+  },
+  {
+    "name": "Unnamed",
+    "id": 13946,
+    "rightHandItem": 34162,
+    "leftHandItem": 34161
+  },
+  {
+    "name": "Unnamed",
+    "id": 13947,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13948,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 13949,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13950,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13951,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13952,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13953,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13954,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13955,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13956,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13957,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13958,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13959,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13960,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13961,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13962,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13963,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13964,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13965,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13966,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13967,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13968,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13969,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13970,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13971,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13972,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13973,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13974,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13975,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13976,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13977,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13978,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13979,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13980,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13981,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13982,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13983,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13984,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13985,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13986,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13987,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13988,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13989,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13990,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13991,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 13992,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 13993,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13994,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13995,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13996,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13997,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 13998,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 13999,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14000,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14001,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14002,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14003,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14004,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14005,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14006,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14007,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14008,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14009,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14010,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14011,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14012,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14013,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14014,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14015,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14016,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14017,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14018,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14019,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14020,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14021,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14022,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14023,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14024,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14025,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14026,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14027,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14028,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14029,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14030,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14031,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14032,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14033,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14034,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14035,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14036,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14037,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14038,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14039,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14040,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14041,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14042,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14043,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14044,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14045,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14046,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14047,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14048,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14049,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14050,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14051,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14052,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14053,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14054,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14055,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14056,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14057,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14058,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14059,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14060,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14061,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14062,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14063,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14064,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14065,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14066,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14067,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14068,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14069,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14070,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14071,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14072,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14073,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14074,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14075,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14076,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14077,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14078,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14079,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14080,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14081,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14082,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14083,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14084,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14085,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14086,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14087,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14088,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14089,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14090,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14091,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14092,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14093,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14094,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14095,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14096,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14097,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14098,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14099,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14100,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14101,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14102,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14103,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14104,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14105,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14106,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14107,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14108,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14109,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14110,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14111,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14112,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14113,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14114,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14115,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14116,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14117,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14118,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14119,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14120,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14121,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14122,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14123,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14124,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14125,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14126,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14127,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14128,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14129,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14130,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14131,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14132,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14133,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14134,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14135,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14136,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14137,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14138,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14139,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14140,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14141,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14142,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14143,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14144,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14145,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14146,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14147,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14148,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14149,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14150,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14151,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14152,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14153,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14154,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14155,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14156,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14157,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14158,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14159,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14160,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14161,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14162,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14163,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14164,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14165,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14166,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14167,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14168,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14169,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14170,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14171,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14172,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14173,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14174,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14175,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14176,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14177,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14178,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14179,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14180,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14181,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14182,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14183,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14184,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14185,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14186,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14187,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14188,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14189,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14190,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14191,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14192,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14193,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14194,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14195,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14196,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14197,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14198,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14199,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14200,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14201,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14202,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14203,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14204,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14205,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14206,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14207,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14208,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14209,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14210,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14211,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14212,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14213,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14214,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14215,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14216,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14217,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14218,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14219,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14220,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14221,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14222,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14223,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14224,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14225,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14226,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14227,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14228,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14229,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14230,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14231,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14232,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14233,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14234,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14235,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14236,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14237,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14238,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14239,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14240,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14241,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14242,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14243,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14244,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14245,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14246,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14247,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14248,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14249,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14250,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14251,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14252,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14253,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14254,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14255,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14256,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14257,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14258,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14259,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14260,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14261,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14262,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14263,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14264,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14265,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14266,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14267,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14268,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14269,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14270,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14271,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14272,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14273,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14274,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14275,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14276,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14277,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14278,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14279,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14280,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14281,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14282,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14283,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14284,
+    "rightHandItem": -1,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14285,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14286,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14287,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14288,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14289,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14290,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14291,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14292,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14293,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14294,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14295,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14296,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14297,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14298,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14299,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14300,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14301,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14302,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14303,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14304,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14305,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14306,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14307,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14308,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14309,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14310,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14311,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14312,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14313,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14314,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14315,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14316,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14317,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14318,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14319,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14320,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14321,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14322,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14323,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14324,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14325,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14326,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14327,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14328,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14329,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14330,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14331,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14332,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14333,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14334,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14335,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14336,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14337,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14338,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14339,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14340,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14341,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14342,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14343,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14344,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14345,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14346,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14347,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14348,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14349,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14350,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14351,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14352,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14353,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14354,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14355,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14356,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14357,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14358,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14359,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14360,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14361,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14362,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14363,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14364,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14365,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14366,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14367,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14368,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14369,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14370,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14371,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14372,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14373,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14374,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14375,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14376,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14377,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14378,
+    "rightHandItem": 34221,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14379,
+    "rightHandItem": 34225,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14380,
+    "rightHandItem": 34230,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14381,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14382,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14383,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14384,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14385,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14386,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14387,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14388,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14389,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14390,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14391,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14392,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14393,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14394,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14395,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14396,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14397,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14398,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14399,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14400,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14401,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14402,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14403,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14404,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14405,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14406,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14407,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14408,
+    "rightHandItem": 34304,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14409,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14410,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14411,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14412,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14413,
+    "rightHandItem": 1102,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14414,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14415,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14416,
+    "rightHandItem": 0,
+    "leftHandItem": 741
+  },
+  {
+    "name": "Unnamed",
+    "id": 14417,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14418,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14419,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14420,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14421,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14422,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14423,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14424,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14425,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14426,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14427,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14428,
+    "rightHandItem": -1,
+    "leftHandItem": -1
   }
 ]

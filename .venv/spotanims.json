@@ -25998,30 +25998,6 @@
     ]
   },
   {
-    "name": "Vanstrom bloodveld spawn",
-    "id": 1792,
-    "modelId": 7732,
-    "animationId": 1535,
-    "resizeX": 96,
-    "resizeY": 96,
-    "ambient": 50,
-    "contrast": 50,
-    "recolorToReplace": [
-      943,
-      953,
-      836,
-      819,
-      813
-    ],
-    "recolorToFind": [
-      -14417,
-      -14533,
-      -14520,
-      569,
-      689
-    ]
-  },
-  {
     "name": "Vanstrom enrage powerup",
     "id": 1793,
     "modelId": 28081,
@@ -46486,7 +46462,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 old one teleother",
     "id": 3295,
     "modelId": 5801,
     "animationId": 1817,
@@ -46502,7 +46478,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 door spell",
     "id": 3296,
     "modelId": 3111,
     "animationId": 687,
@@ -46520,7 +46496,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx vmq4 projectile magic water cast01",
     "id": 3297,
     "modelId": 56748,
     "animationId": 12262,
@@ -46532,7 +46508,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 projectile cultist magic water 01",
     "id": 3298,
     "modelId": 56744,
     "animationId": 12263,
@@ -46544,7 +46520,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 impact cultist magic water 01",
     "id": 3299,
     "modelId": 56513,
     "animationId": 12264,
@@ -46556,7 +46532,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx vmq4 projectile magic water cast02",
     "id": 3300,
     "modelId": 56747,
     "animationId": 12266,
@@ -46568,7 +46544,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 projectile cultist magic water 02",
     "id": 3301,
     "modelId": 56744,
     "animationId": 12267,
@@ -46580,7 +46556,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 impact cultist magic water 02",
     "id": 3302,
     "modelId": 56510,
     "animationId": 12268,
@@ -46592,7 +46568,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 projectile cultist ranged fire 01",
     "id": 3303,
     "modelId": 56536,
     "animationId": 12269,
@@ -46604,7 +46580,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 impact cultist ranged fire 01",
     "id": 3304,
     "modelId": 17012,
     "animationId": 12270,
@@ -46616,7 +46592,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 protection cultist magic absorb",
     "id": 3305,
     "modelId": 56738,
     "animationId": 12274,
@@ -46628,7 +46604,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx vmq4 ennius lines special",
     "id": 3306,
     "modelId": 56538,
     "animationId": 12276,
@@ -46640,7 +46616,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx vmq4 ennius fire loc marker spawn",
     "id": 3307,
     "modelId": 56532,
     "animationId": 12279,
@@ -46652,7 +46628,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx vmq4 ennius fire loc spawn",
     "id": 3308,
     "modelId": 55960,
     "animationId": 12280,
@@ -46664,7 +46640,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx vmq4 ennius cast",
     "id": 3309,
     "modelId": 56535,
     "animationId": 12278,
@@ -46676,7 +46652,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx vmq4 ennius fire explosion",
     "id": 3310,
     "modelId": 56534,
     "animationId": 12280,
@@ -46688,7 +46664,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 protection ennius cast",
     "id": 3311,
     "modelId": 56742,
     "animationId": 12281,
@@ -46700,7 +46676,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx vmq4 metzli magic water cast01",
     "id": 3312,
     "modelId": 56749,
     "animationId": 12232,
@@ -46712,7 +46688,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 projectile metzli magic water 01",
     "id": 3313,
     "modelId": 56745,
     "animationId": 12263,
@@ -46724,7 +46700,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 impact cultist magic water 03",
     "id": 3314,
     "modelId": 56512,
     "animationId": 12264,
@@ -46736,7 +46712,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx vmq4 projectile magic water cast04",
     "id": 3315,
     "modelId": 56746,
     "animationId": 12266,
@@ -46748,7 +46724,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 projectile cultist magic water 04",
     "id": 3316,
     "modelId": 56745,
     "animationId": 12267,
@@ -46760,7 +46736,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 impact cultist magic water 04",
     "id": 3317,
     "modelId": 56509,
     "animationId": 12268,
@@ -46772,7 +46748,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx vmq4 cultist ranged fire launch 01",
     "id": 3318,
     "modelId": 56536,
     "animationId": 12227,
@@ -46784,7 +46760,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 impact metzli ranged fire 01",
     "id": 3319,
     "modelId": 50025,
     "animationId": 10641,
@@ -46796,7 +46772,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx vmq4 metzli ranged fire launch enraged 01",
     "id": 3320,
     "modelId": 56536,
     "animationId": 12229,
@@ -46808,7 +46784,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx vmq4 metzli ranged fire projectile enraged 01",
     "id": 3321,
     "modelId": 56536,
     "animationId": 12230,
@@ -46820,7 +46796,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx vmq4 metzli cast",
     "id": 3322,
     "modelId": 56535,
     "animationId": 12234,
@@ -46832,7 +46808,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx vmq4 metzli fire wall cast",
     "id": 3323,
     "modelId": 56537,
     "animationId": 12235,
@@ -46844,7 +46820,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx vmq4 metzli water wall cast",
     "id": 3324,
     "modelId": 56741,
     "animationId": 12240,
@@ -46856,7 +46832,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 teleport metzli reappear idle 01",
     "id": 3325,
     "modelId": 56743,
     "animationId": 12247,
@@ -46868,7 +46844,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 teleport metzli disappear despawn 01",
     "id": 3326,
     "modelId": 56743,
     "animationId": 12246,
@@ -46880,7 +46856,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 transform metzli sun",
     "id": 3327,
     "modelId": 56503,
     "animationId": 12248,
@@ -46892,7 +46868,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 transform metzli moon",
     "id": 3328,
     "modelId": 56505,
     "animationId": 12249,
@@ -46904,7 +46880,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 metzli sun fire",
     "id": 3329,
     "modelId": 26594,
     "animationId": 6647,
@@ -46916,7 +46892,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 metzli moon fire",
     "id": 3330,
     "modelId": 26594,
     "animationId": 6647,
@@ -46936,7 +46912,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 ennius fire",
     "id": 3331,
     "modelId": 26594,
     "animationId": 6647,
@@ -46948,7 +46924,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 chamber guard smoke01",
     "id": 3332,
     "modelId": 51211,
     "animationId": 12302,
@@ -46960,7 +46936,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 chamber guard smoke02",
     "id": 3333,
     "modelId": 51211,
     "animationId": 12302,
@@ -46972,7 +46948,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 chamber guard smoke03",
     "id": 3334,
     "modelId": 51211,
     "animationId": 12302,
@@ -46984,7 +46960,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 chamber guard smoke04",
     "id": 3335,
     "modelId": 51211,
     "animationId": 12302,
@@ -46996,7 +46972,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 arkan blade special spotanim",
     "id": 3336,
     "modelId": 56538,
     "animationId": 12298,
@@ -47008,7 +46984,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 arkan blade special spotanim f",
     "id": 3337,
     "modelId": 56538,
     "animationId": 12298,
@@ -47020,7 +46996,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 puzzle fire despawn 01",
     "id": 3338,
     "modelId": 56533,
     "animationId": 12257,
@@ -47032,7 +47008,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 puzzle fire despawn 02",
     "id": 3339,
     "modelId": 56531,
     "animationId": 12257,
@@ -47044,7 +47020,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 puzzle fire spawn 01",
     "id": 3340,
     "modelId": 56533,
     "animationId": 12255,
@@ -47056,7 +47032,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 puzzle fire spawn 02",
     "id": 3341,
     "modelId": 56531,
     "animationId": 12255,
@@ -47068,7 +47044,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 sun teleport spotanim",
     "id": 3342,
     "modelId": 40204,
     "animationId": 8689,
@@ -47084,7 +47060,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 sun teleport spotanim short",
     "id": 3343,
     "modelId": 40204,
     "animationId": 8689,
@@ -47100,7 +47076,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vmq4 moon teleport spotanim",
     "id": 3344,
     "modelId": 40204,
     "animationId": 8689,
@@ -47116,7 +47092,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Entangle impact no red",
     "id": 3345,
     "modelId": 3128,
     "animationId": 12341,
@@ -47128,7 +47104,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx djinn blue magic player spotanim 01 large",
     "id": 3346,
     "modelId": 51259,
     "animationId": 11025,
@@ -47140,7 +47116,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx nature spirit bison spawn",
     "id": 3347,
     "modelId": 56739,
     "animationId": 12349,
@@ -47152,7 +47128,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx nature spirit bison despawn",
     "id": 3348,
     "modelId": 56739,
     "animationId": 12350,
@@ -47164,7 +47140,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx nature spirit jaguar spawn",
     "id": 3349,
     "modelId": 56739,
     "animationId": 12351,
@@ -47176,7 +47152,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx nature spirit jaguar despawn",
     "id": 3350,
     "modelId": 56739,
     "animationId": 12352,
@@ -47188,7 +47164,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx nature spirit eagle spawn",
     "id": 3351,
     "modelId": 56739,
     "animationId": 12353,
@@ -47200,7 +47176,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx nature spirit eagle despawn",
     "id": 3352,
     "modelId": 56739,
     "animationId": 12354,
@@ -47212,7 +47188,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx nature spirit snake spawn",
     "id": 3353,
     "modelId": 56739,
     "animationId": 12355,
@@ -47224,7 +47200,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx nature spirit snake despawn",
     "id": 3354,
     "modelId": 56739,
     "animationId": 12356,
@@ -47236,7 +47212,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx nature spirit wolf spawn",
     "id": 3355,
     "modelId": 56739,
     "animationId": 12357,
@@ -47248,7 +47224,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx nature spirit wolf despawn",
     "id": 3356,
     "modelId": 56739,
     "animationId": 12358,
@@ -47260,7 +47236,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx nature spirit scorpion spawn",
     "id": 3357,
     "modelId": 56739,
     "animationId": 12359,
@@ -47272,7 +47248,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx nature spirit scorpion despawn",
     "id": 3358,
     "modelId": 56739,
     "animationId": 12360,
@@ -47284,7 +47260,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx ent auburn reward spawn 01",
     "id": 3359,
     "modelId": 56506,
     "animationId": 12512,
@@ -47296,7 +47272,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Spotanim player custodian stalker superior special",
     "id": 3360,
     "modelId": 49303,
     "animationId": 12393,
@@ -47308,7 +47284,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Spotanim player custodian stalker elder special",
     "id": 3361,
     "modelId": 56530,
     "animationId": 12392,
@@ -47320,7 +47296,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Spotanim player custodian stalker mature special",
     "id": 3362,
     "modelId": 56530,
     "animationId": 12392,
@@ -47332,7 +47308,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Spotanim player custodian stalker juvenile special",
     "id": 3363,
     "modelId": 56530,
     "animationId": 12392,
@@ -47344,7 +47320,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx ayak player special spotanim",
     "id": 3364,
     "modelId": 28457,
     "animationId": 12395,
@@ -47356,7 +47332,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx ayak impact special spotanim",
     "id": 3365,
     "modelId": 28454,
     "animationId": 12396,
@@ -47368,7 +47344,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx ayak player normal spotanim",
     "id": 3366,
     "modelId": 28453,
     "animationId": 12399,
@@ -47380,7 +47356,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx ayak normal projectile",
     "id": 3367,
     "modelId": 28450,
     "animationId": 12398,
@@ -47392,7 +47368,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx ayak normal impact",
     "id": 3368,
     "modelId": 28450,
     "animationId": 12400,
@@ -47404,7 +47380,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Spotanim confliction craft",
     "id": 3369,
     "modelId": 56474,
     "animationId": 12404,
@@ -47416,7 +47392,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom area slam",
     "id": 3370,
     "modelId": 56475,
     "animationId": 12423,
@@ -47428,7 +47404,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx dom burrowed movement",
     "id": 3371,
     "modelId": 56475,
     "animationId": 12424,
@@ -47440,7 +47416,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx dom burrowed emerge",
     "id": 3372,
     "modelId": 56475,
     "animationId": 12425,
@@ -47452,7 +47428,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx dom burrowed explosion",
     "id": 3373,
     "modelId": 56475,
     "animationId": 12426,
@@ -47464,7 +47440,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx dom burrowed explosion aoe",
     "id": 3374,
     "modelId": 56476,
     "animationId": 12427,
@@ -47476,7 +47452,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx dom burrow",
     "id": 3375,
     "modelId": 56475,
     "animationId": 12428,
@@ -47488,7 +47464,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx dom burrow idle",
     "id": 3376,
     "modelId": 56475,
     "animationId": 12429,
@@ -47500,7 +47476,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx dom despawn",
     "id": 3377,
     "modelId": 56475,
     "animationId": 12430,
@@ -47512,7 +47488,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx standard projectile melee",
     "id": 3378,
     "modelId": 8951,
     "animationId": 5358,
@@ -47524,7 +47500,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx standard projectile magic",
     "id": 3379,
     "modelId": 56344,
     "animationId": 5358,
@@ -47536,7 +47512,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx standard projectile range",
     "id": 3380,
     "modelId": 56343,
     "animationId": 5358,
@@ -47548,7 +47524,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx standard impact melee",
     "id": 3381,
     "modelId": 57136,
     "animationId": 914,
@@ -47560,7 +47536,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx standard impact magic",
     "id": 3382,
     "modelId": 57135,
     "animationId": 914,
@@ -47572,7 +47548,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx standard impact range",
     "id": 3383,
     "modelId": 57134,
     "animationId": 914,
@@ -47584,7 +47560,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile launch range",
     "id": 3384,
     "modelId": 56498,
     "animationId": 12438,
@@ -47596,7 +47572,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile launch magic",
     "id": 3385,
     "modelId": 56491,
     "animationId": 12438,
@@ -47608,7 +47584,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile split range",
     "id": 3386,
     "modelId": 56498,
     "animationId": 12439,
@@ -47620,7 +47596,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile split magic",
     "id": 3387,
     "modelId": 56491,
     "animationId": 12439,
@@ -47632,7 +47608,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile projectile01",
     "id": 3388,
     "modelId": 56479,
     "animationId": 12440,
@@ -47644,7 +47620,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile projectile02",
     "id": 3389,
     "modelId": 56485,
     "animationId": 12440,
@@ -47656,7 +47632,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile projectile03",
     "id": 3390,
     "modelId": 56486,
     "animationId": 12440,
@@ -47668,7 +47644,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile projectile04",
     "id": 3391,
     "modelId": 56482,
     "animationId": 12440,
@@ -47680,7 +47656,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile projectile05",
     "id": 3392,
     "modelId": 56484,
     "animationId": 12440,
@@ -47692,7 +47668,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile projectile06",
     "id": 3393,
     "modelId": 56481,
     "animationId": 12440,
@@ -47704,7 +47680,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile projectile07",
     "id": 3394,
     "modelId": 56483,
     "animationId": 12440,
@@ -47716,7 +47692,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile projectile08",
     "id": 3395,
     "modelId": 56480,
     "animationId": 12440,
@@ -47728,7 +47704,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile projectile alt01",
     "id": 3396,
     "modelId": 56479,
     "animationId": 12441,
@@ -47740,7 +47716,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile projectile alt02",
     "id": 3397,
     "modelId": 56485,
     "animationId": 12441,
@@ -47752,7 +47728,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile projectile alt03",
     "id": 3398,
     "modelId": 56486,
     "animationId": 12441,
@@ -47764,7 +47740,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile projectile alt04",
     "id": 3399,
     "modelId": 56482,
     "animationId": 12441,
@@ -47776,7 +47752,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile projectile alt05",
     "id": 3400,
     "modelId": 56484,
     "animationId": 12441,
@@ -47788,7 +47764,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile projectile alt06",
     "id": 3401,
     "modelId": 56481,
     "animationId": 12441,
@@ -47800,7 +47776,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile projectile alt07",
     "id": 3402,
     "modelId": 56483,
     "animationId": 12441,
@@ -47812,7 +47788,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile projectile alt08",
     "id": 3403,
     "modelId": 56480,
     "animationId": 12441,
@@ -47824,7 +47800,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx rock projectile impact",
     "id": 3404,
     "modelId": 56498,
     "animationId": 12442,
@@ -47836,7 +47812,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx area slam 01",
     "id": 3405,
     "modelId": 56408,
     "animationId": 12443,
@@ -47848,7 +47824,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx area slam 02",
     "id": 3406,
     "modelId": 56408,
     "animationId": 12444,
@@ -47860,7 +47836,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx area slam 03",
     "id": 3407,
     "modelId": 56408,
     "animationId": 12445,
@@ -47872,7 +47848,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx area slam 04",
     "id": 3408,
     "modelId": 56408,
     "animationId": 12446,
@@ -47884,7 +47860,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx beam attack head 01",
     "id": 3409,
     "modelId": 56478,
     "animationId": 12447,
@@ -47896,7 +47872,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx beam middle segment 01",
     "id": 3410,
     "modelId": 56478,
     "animationId": 12448,
@@ -47908,7 +47884,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx beam end segment 01",
     "id": 3411,
     "modelId": 56478,
     "animationId": 12449,
@@ -47920,7 +47896,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx beam charge up 01",
     "id": 3412,
     "modelId": 56477,
     "animationId": 12451,
@@ -47932,7 +47908,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx beam impact 01",
     "id": 3413,
     "modelId": 56478,
     "animationId": 12450,
@@ -47944,7 +47920,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx beam charge up burrow 01",
     "id": 3414,
     "modelId": 56477,
     "animationId": 12452,
@@ -47956,7 +47932,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss burrowed movement telegraph",
     "id": 3415,
     "modelId": 56489,
     "animationId": 12454,
@@ -47968,7 +47944,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss burrowed telegraph spawn",
     "id": 3416,
     "modelId": 56489,
     "animationId": 12455,
@@ -47980,7 +47956,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx demonic grub spawn",
     "id": 3417,
     "modelId": 56462,
     "animationId": 12457,
@@ -47992,7 +47968,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx demonic grub explosion01",
     "id": 3418,
     "modelId": 56407,
     "animationId": 12460,
@@ -48004,7 +47980,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx demonic grub explosion02",
     "id": 3419,
     "modelId": 56407,
     "animationId": 12461,
@@ -48016,7 +47992,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx demonic grub explosion03",
     "id": 3420,
     "modelId": 56407,
     "animationId": 12462,
@@ -48028,7 +48004,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx demonic grub explosion04",
     "id": 3421,
     "modelId": 56407,
     "animationId": 12463,
@@ -48040,7 +48016,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx demonic grub explosion05",
     "id": 3422,
     "modelId": 56407,
     "animationId": 12464,
@@ -48052,7 +48028,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx demonic grub explosion06",
     "id": 3423,
     "modelId": 56407,
     "animationId": 12465,
@@ -48064,7 +48040,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx demonic grub explosion07",
     "id": 3424,
     "modelId": 56407,
     "animationId": 12466,
@@ -48076,7 +48052,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx demonic grub explosion08",
     "id": 3425,
     "modelId": 56407,
     "animationId": 12467,
@@ -48088,7 +48064,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx demonic grub player impact01",
     "id": 3426,
     "modelId": 56504,
     "animationId": 12468,
@@ -48100,7 +48076,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx demonic grub absorption splat01",
     "id": 3427,
     "modelId": 56412,
     "animationId": 8099,
@@ -48112,7 +48088,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx demonic grub absorption splat diagonal01",
     "id": 3428,
     "modelId": 56410,
     "animationId": 8099,
@@ -48124,7 +48100,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood splat n",
     "id": 3429,
     "modelId": 56412,
     "animationId": 12469,
@@ -48136,7 +48112,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood splat e",
     "id": 3430,
     "modelId": 56412,
     "animationId": 12469,
@@ -48148,7 +48124,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood splat s",
     "id": 3431,
     "modelId": 56412,
     "animationId": 12469,
@@ -48160,7 +48136,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood splat w",
     "id": 3432,
     "modelId": 56412,
     "animationId": 12469,
@@ -48172,7 +48148,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood splat nw",
     "id": 3433,
     "modelId": 56412,
     "animationId": 12469,
@@ -48184,7 +48160,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood splat ne",
     "id": 3434,
     "modelId": 56410,
     "animationId": 12469,
@@ -48196,7 +48172,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood splat se",
     "id": 3435,
     "modelId": 56410,
     "animationId": 12469,
@@ -48208,7 +48184,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood splat sw",
     "id": 3436,
     "modelId": 56410,
     "animationId": 12469,
@@ -48220,7 +48196,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood splat despawn n",
     "id": 3437,
     "modelId": 56412,
     "animationId": 12470,
@@ -48232,7 +48208,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood splat despawn e",
     "id": 3438,
     "modelId": 56412,
     "animationId": 12470,
@@ -48244,7 +48220,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood splat despawn s",
     "id": 3439,
     "modelId": 56412,
     "animationId": 12470,
@@ -48256,7 +48232,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood splat despawn w",
     "id": 3440,
     "modelId": 56412,
     "animationId": 12470,
@@ -48268,7 +48244,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood splat despawn nw",
     "id": 3441,
     "modelId": 56410,
     "animationId": 12470,
@@ -48280,7 +48256,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood splat despawn ne",
     "id": 3442,
     "modelId": 56410,
     "animationId": 12470,
@@ -48292,7 +48268,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood splat despawn se",
     "id": 3443,
     "modelId": 56410,
     "animationId": 12470,
@@ -48304,7 +48280,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood splat despawn sw",
     "id": 3444,
     "modelId": 56410,
     "animationId": 12470,
@@ -48316,7 +48292,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom boss blood projectile",
     "id": 3445,
     "modelId": 56410,
     "animationId": 8133,
@@ -48328,7 +48304,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom mound",
     "id": 3446,
     "modelId": 56487,
     "animationId": 12471,
@@ -48340,7 +48316,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom mound beam cancel",
     "id": 3447,
     "modelId": 56487,
     "animationId": 12472,
@@ -48352,7 +48328,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom mound melee attack",
     "id": 3448,
     "modelId": 56487,
     "animationId": 12473,
@@ -48364,7 +48340,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom mound burrowed emerge",
     "id": 3449,
     "modelId": 56487,
     "animationId": 12474,
@@ -48376,7 +48352,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom mound burrow",
     "id": 3450,
     "modelId": 56487,
     "animationId": 12475,
@@ -48388,7 +48364,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx doom mound despawn",
     "id": 3451,
     "modelId": 56487,
     "animationId": 12476,
@@ -48400,7 +48376,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Crab boss remains idle spot",
     "id": 3452,
     "modelId": 56443,
     "animationId": 12486,
@@ -48412,7 +48388,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx crab boss spawn",
     "id": 3453,
     "modelId": 56444,
     "animationId": 12487,
@@ -48424,7 +48400,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx crab boss death",
     "id": 3454,
     "modelId": 56444,
     "animationId": 12488,
@@ -48436,7 +48412,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx crab boss disintegrate",
     "id": 3455,
     "modelId": 56444,
     "animationId": 12489,
@@ -48448,7 +48424,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Bingo 1 relic unlock spot",
     "id": 3456,
     "modelId": 57429,
     "animationId": 8523,
@@ -48460,7 +48436,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Bingo 1 mastery unlock spot",
     "id": 3457,
     "modelId": 57428,
     "animationId": 8523,
@@ -48472,7 +48448,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Bingo 1 xp unlock spot",
     "id": 3458,
     "modelId": 57430,
     "animationId": 8523,
@@ -48484,7 +48460,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Gryphon ranged projectile",
     "id": 3459,
     "modelId": 58915,
     "animationId": 4500,
@@ -48496,7 +48472,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Gryphon ranged impact",
     "id": 3460,
     "modelId": 58915,
     "animationId": 13632,
@@ -48508,7 +48484,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Gryphon spit attack projectile",
     "id": 3461,
     "modelId": 59440,
     "animationId": 8133,
@@ -48520,7 +48496,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Gryphon spit n",
     "id": 3462,
     "modelId": 59441,
     "animationId": 12610,
@@ -48532,7 +48508,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Gryphon spit e",
     "id": 3463,
     "modelId": 59441,
     "animationId": 12610,
@@ -48544,7 +48520,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Gryphon spit s",
     "id": 3464,
     "modelId": 59441,
     "animationId": 12610,
@@ -48556,7 +48532,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Gryphon spit w",
     "id": 3465,
     "modelId": 59441,
     "animationId": 12610,
@@ -48568,7 +48544,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Gryphon spit nw",
     "id": 3466,
     "modelId": 59440,
     "animationId": 12610,
@@ -48580,7 +48556,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Gryphon spit ne",
     "id": 3467,
     "modelId": 59440,
     "animationId": 12610,
@@ -48592,7 +48568,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Gryphon spit se",
     "id": 3468,
     "modelId": 59440,
     "animationId": 12610,
@@ -48604,7 +48580,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Gryphon spit sw",
     "id": 3469,
     "modelId": 59440,
     "animationId": 12610,
@@ -48616,7 +48592,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Horn of plenty spotanim01",
     "id": 3470,
     "modelId": 59401,
     "animationId": 12590,
@@ -48628,7 +48604,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Smokepuff large quick",
     "id": 3471,
     "modelId": 3076,
     "animationId": 11421,
@@ -48640,7 +48616,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Frostbreath attack",
     "id": 3472,
     "modelId": 17549,
     "animationId": 86,
@@ -48664,7 +48640,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Skillcapes sailing spotanim",
     "id": 3473,
     "modelId": 19073,
     "animationId": 13075,
@@ -48676,7 +48652,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Rocko player dive spot",
     "id": 3474,
     "modelId": 59723,
     "animationId": 13094,
@@ -48688,7 +48664,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Rocko smash bottle spot",
     "id": 3475,
     "modelId": 59724,
     "animationId": 13095,
@@ -48700,7 +48676,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Rocko hoovered seagull spot",
     "id": 3476,
     "modelId": 59722,
     "animationId": 13097,
@@ -48712,7 +48688,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Rocko ex parrot recharge spot",
     "id": 3477,
     "modelId": 59720,
     "animationId": 13098,
@@ -48724,7 +48700,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Rocko seagull freak out spot",
     "id": 3478,
     "modelId": 59726,
     "animationId": 13100,
@@ -48736,7 +48712,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Rocko quill spot",
     "id": 3479,
     "modelId": 59725,
     "animationId": 13101,
@@ -48748,7 +48724,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Rocko customs officer throw stew spot",
     "id": 3480,
     "modelId": 59721,
     "animationId": 13090,
@@ -48760,7 +48736,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Rocko silt spot",
     "id": 3481,
     "modelId": 59727,
     "animationId": 13092,
@@ -48772,7 +48748,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Rocko wreckage spot",
     "id": 3482,
     "modelId": 59728,
     "animationId": 13093,
@@ -48784,7 +48760,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Lobster special spawn",
     "id": 3483,
     "modelId": 51262,
     "animationId": 11038,
@@ -48804,7 +48780,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Lobster special idle",
     "id": 3484,
     "modelId": 51262,
     "animationId": 11039,
@@ -48824,7 +48800,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Lobster special attack",
     "id": 3485,
     "modelId": 51262,
     "animationId": 11040,
@@ -48844,7 +48820,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Rosewood blowpipe special travel",
     "id": 3486,
     "modelId": 29421,
     "animationId": 876,
@@ -48870,7 +48846,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing cannonball travel bronze",
     "id": 3487,
     "modelId": 57706,
     "animationId": -1,
@@ -48882,7 +48858,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing cannonball travel iron",
     "id": 3488,
     "modelId": 57706,
     "animationId": -1,
@@ -48898,7 +48874,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing cannonball travel steel",
     "id": 3489,
     "modelId": 57706,
     "animationId": -1,
@@ -48914,7 +48890,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing cannonball travel granite",
     "id": 3490,
     "modelId": 57706,
     "animationId": -1,
@@ -48930,7 +48906,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing cannonball travel mithril",
     "id": 3491,
     "modelId": 57706,
     "animationId": -1,
@@ -48946,7 +48922,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing cannonball travel adamant",
     "id": 3492,
     "modelId": 57706,
     "animationId": -1,
@@ -48962,7 +48938,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing cannonball travel rune",
     "id": 3493,
     "modelId": 57706,
     "animationId": -1,
@@ -48978,7 +48954,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing cannonball travel dragon",
     "id": 3494,
     "modelId": 57706,
     "animationId": -1,
@@ -48994,7 +48970,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Sp attackglow teal",
     "id": 3495,
     "modelId": 2318,
     "animationId": 1055,
@@ -49010,7 +48986,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Sp attack rune scimitar trail spotanim",
     "id": 3496,
     "modelId": 6035,
     "animationId": 1873,
@@ -49026,7 +49002,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing bt crate spot",
     "id": 3497,
     "modelId": 58701,
     "animationId": 13157,
@@ -49038,7 +49014,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing bt dodging target tier1",
     "id": 3498,
     "modelId": 40177,
     "animationId": 13152,
@@ -49054,7 +49030,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing bt dodging target tier2",
     "id": 3499,
     "modelId": 40177,
     "animationId": 13153,
@@ -49070,7 +49046,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing bt dodging target tier3",
     "id": 3500,
     "modelId": 40177,
     "animationId": 13154,
@@ -49086,7 +49062,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing bt rum proj",
     "id": 3501,
     "modelId": 59508,
     "animationId": 13173,
@@ -49098,7 +49074,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing bt toad proj",
     "id": 3502,
     "modelId": 59509,
     "animationId": 13173,
@@ -49110,7 +49086,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Bt vfx crystal mote idle 01",
     "id": 3503,
     "modelId": 58194,
     "animationId": 13164,
@@ -49122,7 +49098,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Bt sailing boats helm kandarin 1x3 crystal spawn vfx",
     "id": 3504,
     "modelId": 46973,
     "animationId": 13165,
@@ -49134,7 +49110,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Bt sailing boats helm kandarin 2x5 crystal spawn vfx",
     "id": 3505,
     "modelId": 46973,
     "animationId": 13166,
@@ -49146,7 +49122,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Bt sailing boats helm kandarin 3x8 crystal spawn vfx",
     "id": 3506,
     "modelId": 46973,
     "animationId": 13167,
@@ -49158,7 +49134,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Bt crystal resonance attack 01",
     "id": 3507,
     "modelId": 51262,
     "animationId": 13168,
@@ -49178,7 +49154,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Bt crystal resonance attack 01 nosound",
     "id": 3508,
     "modelId": 51262,
     "animationId": 13169,
@@ -49198,7 +49174,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Bt crystal resonance trail 01",
     "id": 3509,
     "modelId": 51262,
     "animationId": 11038,
@@ -49218,7 +49194,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Spotanim monodon attack02",
     "id": 3510,
     "modelId": 57764,
     "animationId": 13207,
@@ -49230,7 +49206,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Projanim monodon attack02",
     "id": 3511,
     "modelId": 57764,
     "animationId": 13208,
@@ -49242,7 +49218,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Projanim monodon attack02 impact",
     "id": 3512,
     "modelId": 57764,
     "animationId": 13082,
@@ -49254,7 +49230,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Projanim kraken magic01",
     "id": 3513,
     "modelId": 57760,
     "animationId": 13227,
@@ -49272,7 +49248,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Projanim kraken magic02",
     "id": 3514,
     "modelId": 57760,
     "animationId": 13227,
@@ -49284,7 +49260,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Projanim kraken magic03",
     "id": 3515,
     "modelId": 57760,
     "animationId": 13227,
@@ -49302,7 +49278,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Spotanim kraken magic01",
     "id": 3516,
     "modelId": 59820,
     "animationId": 13226,
@@ -49314,7 +49290,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Spotanim kraken magic02",
     "id": 3517,
     "modelId": 59820,
     "animationId": 13226,
@@ -49332,7 +49308,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Spotanim kraken magic03",
     "id": 3518,
     "modelId": 59820,
     "animationId": 13226,
@@ -49350,7 +49326,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing human loot net cast spotanim 01",
     "id": 3519,
     "modelId": 58236,
     "animationId": 13274,
@@ -49362,7 +49338,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing human loot net cast projanim 01",
     "id": 3520,
     "modelId": 58236,
     "animationId": 13275,
@@ -49374,7 +49350,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing human loot net cast impactanim 01",
     "id": 3521,
     "modelId": 58236,
     "animationId": 13276,
@@ -49386,7 +49362,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing npc loot net spotanim 01",
     "id": 3522,
     "modelId": 58236,
     "animationId": 13277,
@@ -49398,7 +49374,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing npc loot net spotanim despawn 01",
     "id": 3523,
     "modelId": 58236,
     "animationId": 13278,
@@ -49410,7 +49386,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing human loot net cast impactanim 02",
     "id": 3524,
     "modelId": 58236,
     "animationId": 13279,
@@ -49422,7 +49398,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing npc loot net spotanim 02",
     "id": 3525,
     "modelId": 58236,
     "animationId": 13280,
@@ -49434,7 +49410,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Sailing npc loot net spotanim despawn 02",
     "id": 3526,
     "modelId": 58236,
     "animationId": 13281,
@@ -49446,7 +49422,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx wind sail raft01 down01",
     "id": 3527,
     "modelId": 57758,
     "animationId": 13407,
@@ -49458,7 +49434,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx wind sail raft01 half01",
     "id": 3528,
     "modelId": 57758,
     "animationId": 13408,
@@ -49470,7 +49446,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx wind sail raft01 full01",
     "id": 3529,
     "modelId": 57758,
     "animationId": 13409,
@@ -49482,7 +49458,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx wind sail raft01 speedboost01",
     "id": 3530,
     "modelId": 57758,
     "animationId": 13410,
@@ -49494,7 +49470,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx wind sail small01 down01",
     "id": 3531,
     "modelId": 57758,
     "animationId": 13411,
@@ -49506,7 +49482,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx wind sail small01 half01",
     "id": 3532,
     "modelId": 57758,
     "animationId": 13412,
@@ -49518,7 +49494,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx wind sail small01 full01",
     "id": 3533,
     "modelId": 57758,
     "animationId": 13413,
@@ -49530,7 +49506,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx wind sail small01 speedboost01",
     "id": 3534,
     "modelId": 57758,
     "animationId": 13414,
@@ -49542,7 +49518,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx wind windcatcher small01 active",
     "id": 3535,
     "modelId": 57759,
     "animationId": 13419,
@@ -49554,7 +49530,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx wind windcatcher small01 release",
     "id": 3536,
     "modelId": 57759,
     "animationId": 13420,
@@ -49566,7 +49542,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 attack01",
     "id": 3537,
     "modelId": 57704,
     "animationId": 13328,
@@ -49578,7 +49554,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 attack02",
     "id": 3538,
     "modelId": 57704,
     "animationId": 13329,
@@ -49590,7 +49566,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 attack03",
     "id": 3539,
     "modelId": 57704,
     "animationId": 13330,
@@ -49602,7 +49578,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 attack04",
     "id": 3540,
     "modelId": 57704,
     "animationId": 13331,
@@ -49614,7 +49590,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 impact01",
     "id": 3541,
     "modelId": 57705,
     "animationId": 13333,
@@ -49626,7 +49602,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx wind sail large01 down01",
     "id": 3542,
     "modelId": 57758,
     "animationId": 13415,
@@ -49638,7 +49614,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx wind sail large01 half01",
     "id": 3543,
     "modelId": 57758,
     "animationId": 13416,
@@ -49650,7 +49626,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx wind sail large01 full01",
     "id": 3544,
     "modelId": 57758,
     "animationId": 13417,
@@ -49662,7 +49638,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx wind sail large01 speedboost01",
     "id": 3545,
     "modelId": 57758,
     "animationId": 13418,
@@ -49674,7 +49650,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Boat retrieve cast",
     "id": 3546,
     "modelId": 3111,
     "animationId": 687,
@@ -49692,7 +49668,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Crystal flecked shatter spotanim",
     "id": 3547,
     "modelId": 27229,
     "animationId": 7470,
@@ -49708,7 +49684,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Profane waters curse spotanim",
     "id": 3548,
     "modelId": 3102,
     "animationId": 13503,
@@ -49720,7 +49696,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Profane waters orb spotanim",
     "id": 3549,
     "modelId": 3083,
     "animationId": 13505,
@@ -49736,7 +49712,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Profane waters splash spotanim",
     "id": 3550,
     "modelId": 3085,
     "animationId": 13507,
@@ -49754,7 +49730,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx strykewyrm death01",
     "id": 3551,
     "modelId": 59394,
     "animationId": 13660,
@@ -49766,7 +49742,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx strykewyrm superior death01",
     "id": 3552,
     "modelId": 59394,
     "animationId": 13660,
@@ -49778,7 +49754,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx strykewyrm burrowed movement",
     "id": 3553,
     "modelId": 59394,
     "animationId": 13659,
@@ -49790,7 +49766,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx strykewyrm flaming rock projectile 01",
     "id": 3554,
     "modelId": 16986,
     "animationId": 12105,
@@ -49802,7 +49778,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx strykewyrm flaming rock impact 01",
     "id": 3555,
     "modelId": 16988,
     "animationId": 13661,
@@ -49814,7 +49790,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx strykewyrm burrow attack02",
     "id": 3556,
     "modelId": 59394,
     "animationId": 13662,
@@ -49826,7 +49802,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx strykewyrm burrow attack01",
     "id": 3557,
     "modelId": 59394,
     "animationId": 13663,
@@ -49838,7 +49814,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx strykewyrm walk emerged",
     "id": 3558,
     "modelId": 59394,
     "animationId": 13664,
@@ -49850,7 +49826,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx strykewyrm superior walk emerged",
     "id": 3559,
     "modelId": 59394,
     "animationId": 13664,
@@ -49862,7 +49838,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Skillcape sailing emote spotanim",
     "id": 3560,
     "modelId": 59819,
     "animationId": 13076,
@@ -49874,7 +49850,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Skillcape ad emote spotanim",
     "id": 3561,
     "modelId": 29172,
     "animationId": 2419,
@@ -49886,7 +49862,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx wind sail 3x10 01",
     "id": 3562,
     "modelId": 57758,
     "animationId": 13692,
@@ -49898,7 +49874,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx wind sail 3x10 speedboost01",
     "id": 3563,
     "modelId": 57758,
     "animationId": 13693,
@@ -49910,7 +49886,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Shipyard dog ball",
     "id": 3564,
     "modelId": 47169,
     "animationId": 5065,
@@ -49926,7 +49902,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Deadman 2026 home tele spotanim full",
     "id": 3565,
     "modelId": 28458,
     "animationId": 13708,
@@ -49938,7 +49914,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Deadman 2026 home tele spotanim 01",
     "id": 3566,
     "modelId": 28458,
     "animationId": 13709,
@@ -49950,7 +49926,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Deadman 2026 home tele spotanim 02",
     "id": 3567,
     "modelId": 28458,
     "animationId": 13710,
@@ -49962,7 +49938,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Deadman 2026 home tele spotanim 03",
     "id": 3568,
     "modelId": 28458,
     "animationId": 13711,
@@ -49974,7 +49950,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Deadman 2026 home tele spotanim 04",
     "id": 3569,
     "modelId": 28458,
     "animationId": 13712,
@@ -49986,7 +49962,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Deadman 2026 home tele spotanim 05",
     "id": 3570,
     "modelId": 28458,
     "animationId": 13713,
@@ -49998,7 +49974,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Deadman 2026 home tele spotanim 06",
     "id": 3571,
     "modelId": 28458,
     "animationId": 13714,
@@ -50010,7 +49986,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Deadman 2026 sotd special start",
     "id": 3572,
     "modelId": 59956,
     "animationId": 7084,
@@ -50022,7 +49998,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Deadman 2026 sotd special extra",
     "id": 3573,
     "modelId": 59956,
     "animationId": 7085,
@@ -50034,7 +50010,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Saradomin lightning deadman",
     "id": 3574,
     "modelId": 59965,
     "animationId": 647,
@@ -50046,7 +50022,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Xbows fire and climbed grapple spot anim fast",
     "id": 3575,
     "modelId": 16938,
     "animationId": 1778,
@@ -50058,7 +50034,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "League 6 relic unlock",
     "id": 3576,
     "modelId": 60317,
     "animationId": 8523,
@@ -50070,7 +50046,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "League 6 transmutation upgrade",
     "id": 3577,
     "modelId": 60334,
     "animationId": 13719,
@@ -50082,7 +50058,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "League 6 transmutation downgrade",
     "id": 3578,
     "modelId": 60335,
     "animationId": 13720,
@@ -50094,7 +50070,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 hotfoot",
     "id": 3579,
     "modelId": 60323,
     "animationId": 13723,
@@ -50106,7 +50082,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 soul harvest",
     "id": 3580,
     "modelId": 60377,
     "animationId": 13724,
@@ -50118,7 +50094,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 impersonation mark",
     "id": 3581,
     "modelId": 60324,
     "animationId": 13725,
@@ -50130,7 +50106,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 impersonation smokepuff",
     "id": 3582,
     "modelId": 3076,
     "animationId": 654,
@@ -50142,7 +50118,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 sigil of life",
     "id": 3583,
     "modelId": 60314,
     "animationId": 10627,
@@ -50154,7 +50130,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 sigil of life impact",
     "id": 3584,
     "modelId": 60315,
     "animationId": 10628,
@@ -50166,7 +50142,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx white particles",
     "id": 3585,
     "modelId": 51259,
     "animationId": 11025,
@@ -50186,7 +50162,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx white particles reverse",
     "id": 3586,
     "modelId": 51259,
     "animationId": 11026,
@@ -50206,7 +50182,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx beef tornado",
     "id": 3587,
     "modelId": 59402,
     "animationId": 13802,
@@ -50218,7 +50194,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx cowboss stomp impact01",
     "id": 3588,
     "modelId": 60119,
     "animationId": 13808,
@@ -50230,7 +50206,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx cowboss stomp impact02",
     "id": 3589,
     "modelId": 60119,
     "animationId": 13809,
@@ -50242,7 +50218,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx cowboss stomp impact03",
     "id": 3590,
     "modelId": 60119,
     "animationId": 13810,
@@ -50254,7 +50230,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx cowboss hm ranged 01",
     "id": 3591,
     "modelId": 60110,
     "animationId": 13805,
@@ -50266,7 +50242,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx cowboss hm melee 01",
     "id": 3592,
     "modelId": 60109,
     "animationId": 13805,
@@ -50278,7 +50254,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx cowboss hm magic 01",
     "id": 3593,
     "modelId": 60108,
     "animationId": 13805,
@@ -50290,7 +50266,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx cowboss hm impact ranged 01",
     "id": 3594,
     "modelId": 60110,
     "animationId": 13804,
@@ -50302,7 +50278,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx cowboss hm impact melee 01",
     "id": 3595,
     "modelId": 60109,
     "animationId": 13804,
@@ -50314,7 +50290,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx cowboss hm impact magic 01",
     "id": 3596,
     "modelId": 60108,
     "animationId": 13804,
@@ -50326,7 +50302,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx cowboss hm launch ranged 01",
     "id": 3597,
     "modelId": 60110,
     "animationId": 13807,
@@ -50338,7 +50314,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx cowboss hm launch melee 01",
     "id": 3598,
     "modelId": 60109,
     "animationId": 13807,
@@ -50350,7 +50326,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx cowboss hm launch magic 01",
     "id": 3599,
     "modelId": 60108,
     "animationId": 13807,
@@ -50362,7 +50338,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx cowboss hm spawn ranged 01",
     "id": 3600,
     "modelId": 60110,
     "animationId": 13806,
@@ -50374,7 +50350,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx cowboss hm spawn melee 01",
     "id": 3601,
     "modelId": 60109,
     "animationId": 13806,
@@ -50386,7 +50362,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx cowboss hm spawn magic 01",
     "id": 3602,
     "modelId": 60108,
     "animationId": 13806,
@@ -50398,7 +50374,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx human cowboss teleport01",
     "id": 3603,
     "modelId": 60111,
     "animationId": 13812,
@@ -50410,7 +50386,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 trailbound",
     "id": 3604,
     "modelId": 46615,
     "animationId": 13730,
@@ -50422,7 +50398,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 trailbound return",
     "id": 3605,
     "modelId": 46615,
     "animationId": 9830,
@@ -50434,7 +50410,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 evil eye",
     "id": 3606,
     "modelId": 60321,
     "animationId": 13728,
@@ -50446,7 +50422,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 bank heist",
     "id": 3607,
     "modelId": 60320,
     "animationId": 13731,
@@ -50458,7 +50434,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 mastery unlock",
     "id": 3608,
     "modelId": 60316,
     "animationId": 2977,
@@ -50470,7 +50446,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 mastery ui scroll read",
     "id": 3609,
     "modelId": 60336,
     "animationId": 13734,
@@ -50482,7 +50458,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 mastery ui scroll close",
     "id": 3610,
     "modelId": 60336,
     "animationId": 13736,
@@ -50494,7 +50470,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 regenerating runes",
     "id": 3611,
     "modelId": 60332,
     "animationId": 13737,
@@ -50506,7 +50482,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 fire consume",
     "id": 3612,
     "modelId": 60380,
     "animationId": 2972,
@@ -50518,7 +50494,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 fire shield",
     "id": 3613,
     "modelId": 60327,
     "animationId": 13740,
@@ -50530,7 +50506,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 health regen",
     "id": 3614,
     "modelId": 60333,
     "animationId": 13739,
@@ -50542,7 +50518,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 ranged max hit cap",
     "id": 3615,
     "modelId": 60331,
     "animationId": 13742,
@@ -50554,7 +50530,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 ranged max hit cap venator",
     "id": 3616,
     "modelId": 60331,
     "animationId": 13743,
@@ -50566,7 +50542,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 echo arrow",
     "id": 3617,
     "modelId": 60337,
     "animationId": 13741,
@@ -50578,7 +50554,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 ranged mastery vfx",
     "id": 3618,
     "modelId": 60318,
     "animationId": 13744,
@@ -50590,7 +50566,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 ranged mastery vfx left",
     "id": 3619,
     "modelId": 60318,
     "animationId": 13745,
@@ -50602,7 +50578,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 ranged mastery vfx right",
     "id": 3620,
     "modelId": 60318,
     "animationId": 13746,
@@ -50614,7 +50590,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 melee mastery stab",
     "id": 3621,
     "modelId": 60330,
     "animationId": 13749,
@@ -50626,7 +50602,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 melee mastery crush",
     "id": 3622,
     "modelId": 60328,
     "animationId": 13748,
@@ -50638,7 +50614,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 melee mastery slash",
     "id": 3623,
     "modelId": 60329,
     "animationId": 13747,
@@ -50650,7 +50626,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 fire reduce melee",
     "id": 3624,
     "modelId": 16990,
     "animationId": 12100,
@@ -50662,7 +50638,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dusk lightning 1",
     "id": 3625,
     "modelId": 60410,
     "animationId": 7755,
@@ -50674,7 +50650,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dusk lightning 2",
     "id": 3626,
     "modelId": 60410,
     "animationId": 7756,
@@ -50686,7 +50662,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dusk lightning 3",
     "id": 3627,
     "modelId": 60410,
     "animationId": 7757,
@@ -50698,7 +50674,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dusk lightning 4",
     "id": 3628,
     "modelId": 60410,
     "animationId": 7758,
@@ -50710,7 +50686,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dusk lightning 5",
     "id": 3629,
     "modelId": 60410,
     "animationId": 7759,
@@ -50722,7 +50698,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dusk lightning 6",
     "id": 3630,
     "modelId": 60410,
     "animationId": 7760,
@@ -50734,7 +50710,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dusk lightning 7",
     "id": 3631,
     "modelId": 60410,
     "animationId": 7761,
@@ -50746,7 +50722,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dusk lightning 8",
     "id": 3632,
     "modelId": 60410,
     "animationId": 7762,
@@ -50758,7 +50734,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dawn lightning 1",
     "id": 3633,
     "modelId": 60411,
     "animationId": 7755,
@@ -50770,7 +50746,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dawn lightning 2",
     "id": 3634,
     "modelId": 60411,
     "animationId": 7756,
@@ -50782,7 +50758,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dawn lightning 3",
     "id": 3635,
     "modelId": 60411,
     "animationId": 7757,
@@ -50794,7 +50770,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dawn lightning 4",
     "id": 3636,
     "modelId": 60411,
     "animationId": 7758,
@@ -50806,7 +50782,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dawn lightning 5",
     "id": 3637,
     "modelId": 60411,
     "animationId": 7759,
@@ -50818,7 +50794,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dawn lightning 6",
     "id": 3638,
     "modelId": 60411,
     "animationId": 7760,
@@ -50830,7 +50806,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dawn lightning 7",
     "id": 3639,
     "modelId": 60411,
     "animationId": 7761,
@@ -50842,7 +50818,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dawn lightning 8",
     "id": 3640,
     "modelId": 60411,
     "animationId": 7762,
@@ -50854,7 +50830,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dawn lightning fast",
     "id": 3641,
     "modelId": 60410,
     "animationId": 11843,
@@ -50866,7 +50842,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dawn lightning death",
     "id": 3642,
     "modelId": 60411,
     "animationId": 7763,
@@ -50878,7 +50854,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dusk lightning dawn death",
     "id": 3643,
     "modelId": 60411,
     "animationId": 7764,
@@ -50890,7 +50866,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dusk lightning enraged",
     "id": 3644,
     "modelId": 60409,
     "animationId": 7765,
@@ -50902,7 +50878,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gg dusk lightning enraged start",
     "id": 3645,
     "modelId": 60409,
     "animationId": 11844,
@@ -50914,7 +50890,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gargboss exploding projectile",
     "id": 3646,
     "modelId": 60398,
     "animationId": 7472,
@@ -50926,7 +50902,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gargboss healing sphere small",
     "id": 3647,
     "modelId": 60412,
     "animationId": 1570,
@@ -50938,7 +50914,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gargboss healing sphere small impact",
     "id": 3648,
     "modelId": 60412,
     "animationId": 1571,
@@ -50950,7 +50926,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gargboss healing sphere med",
     "id": 3649,
     "modelId": 60412,
     "animationId": 1570,
@@ -50962,7 +50938,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gargboss healing sphere med impact",
     "id": 3650,
     "modelId": 60412,
     "animationId": 1571,
@@ -50974,7 +50950,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gargboss healing sphere large",
     "id": 3651,
     "modelId": 60412,
     "animationId": 1570,
@@ -50986,7 +50962,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gargboss healing sphere large impact",
     "id": 3652,
     "modelId": 60412,
     "animationId": 1571,
@@ -50998,7 +50974,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gargboss standard ranged projectile",
     "id": 3653,
     "modelId": 60230,
     "animationId": 7616,
@@ -51010,7 +50986,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 gargboss stun ranged projectile",
     "id": 3654,
     "modelId": 60231,
     "animationId": 7571,
@@ -51022,7 +50998,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 hh hellfire mage absorb",
     "id": 3655,
     "modelId": 60222,
     "animationId": 4496,
@@ -51034,7 +51010,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 hh hellfire burst",
     "id": 3656,
     "modelId": 60222,
     "animationId": 4497,
@@ -51046,7 +51022,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 hh hellfire hit",
     "id": 3657,
     "modelId": 60222,
     "animationId": 4498,
@@ -51058,7 +51034,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 hh bone ball burst",
     "id": 3658,
     "modelId": 60223,
     "animationId": 4499,
@@ -51070,7 +51046,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 hh bone ball spin",
     "id": 3659,
     "modelId": 60223,
     "animationId": 4500,
@@ -51082,7 +51058,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 fire liquid",
     "id": 3660,
     "modelId": 60226,
     "animationId": 4502,
@@ -51094,7 +51070,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 cerberus special attack flame",
     "id": 3661,
     "modelId": 60224,
     "animationId": 4501,
@@ -51106,7 +51082,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 spectre melee proj",
     "id": 3662,
     "modelId": 60228,
     "animationId": 8528,
@@ -51118,7 +51094,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 smoke devil cloud spotanim",
     "id": 3663,
     "modelId": 60400,
     "animationId": 3857,
@@ -51130,7 +51106,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 lore dust devil spawn spotanim",
     "id": 3664,
     "modelId": 60345,
     "animationId": 11856,
@@ -51142,7 +51118,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx lore dust devil attack ranged projanim",
     "id": 3665,
     "modelId": 60367,
     "animationId": 11857,
@@ -51154,7 +51130,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx lore dust devil attack ranged impactanim",
     "id": 3666,
     "modelId": 60367,
     "animationId": 11858,
@@ -51166,7 +51142,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx lore dust devil attack magic projanim",
     "id": 3667,
     "modelId": 60146,
     "animationId": 10329,
@@ -51178,7 +51154,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx lore dust devil attack magic impactanim",
     "id": 3668,
     "modelId": 60146,
     "animationId": 10330,
@@ -51190,7 +51166,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx lore dust devil attack special projanim",
     "id": 3669,
     "modelId": 60345,
     "animationId": 11859,
@@ -51202,7 +51178,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx lore dust devil attack special impactanim",
     "id": 3670,
     "modelId": 60345,
     "animationId": 11860,
@@ -51214,7 +51190,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "League 6 vfx lore dust devil attack special player death 01",
     "id": 3671,
     "modelId": 55652,
     "animationId": 11861,
@@ -51226,7 +51202,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx smoke devil pool spawn",
     "id": 3672,
     "modelId": 60148,
     "animationId": 11862,
@@ -51238,7 +51214,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx smoke devil pool idle 01",
     "id": 3673,
     "modelId": 60148,
     "animationId": 11863,
@@ -51250,7 +51226,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx smoke devil pool idle 02",
     "id": 3674,
     "modelId": 60148,
     "animationId": 11864,
@@ -51262,7 +51238,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx smoke devil pool despawn",
     "id": 3675,
     "modelId": 60148,
     "animationId": 11865,
@@ -51274,7 +51250,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx smoke devil pool shield",
     "id": 3676,
     "modelId": 60401,
     "animationId": 11866,
@@ -51286,7 +51262,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 hespori range proj",
     "id": 3677,
     "modelId": 60375,
     "animationId": 8084,
@@ -51298,7 +51274,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 hespori magic proj",
     "id": 3678,
     "modelId": 60419,
     "animationId": 7856,
@@ -51310,7 +51286,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 hespori magic impact",
     "id": 3679,
     "modelId": 60421,
     "animationId": 693,
@@ -51322,7 +51298,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 hespori vine proj",
     "id": 3680,
     "modelId": 60414,
     "animationId": 703,
@@ -51334,7 +51310,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 hespori vine impact",
     "id": 3681,
     "modelId": 60237,
     "animationId": 2971,
@@ -51346,7 +51322,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 crystal hunleff magic travel",
     "id": 3682,
     "modelId": 60232,
     "animationId": 8757,
@@ -51358,7 +51334,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 crystal hunleff magic impact",
     "id": 3683,
     "modelId": 3116,
     "animationId": 693,
@@ -51370,7 +51346,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 crystal hunleff range travel",
     "id": 3684,
     "modelId": 60370,
     "animationId": 8756,
@@ -51382,7 +51358,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 crystal hunleff prayer travel",
     "id": 3685,
     "modelId": 60397,
     "animationId": 7884,
@@ -51394,7 +51370,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 crystal hunleff prayer impact",
     "id": 3686,
     "modelId": 60421,
     "animationId": 693,
@@ -51406,7 +51382,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 hunleff antiprayer travel",
     "id": 3687,
     "modelId": 60396,
     "animationId": 7884,
@@ -51418,7 +51394,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 hunleff antiprayer impact",
     "id": 3688,
     "modelId": 60420,
     "animationId": 693,
@@ -51430,7 +51406,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 crystal hunleff crystals hit",
     "id": 3689,
     "modelId": 60371,
     "animationId": 8424,
@@ -51442,7 +51418,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 dagannoth spine spotanim travel",
     "id": 3690,
     "modelId": 60219,
     "animationId": 2874,
@@ -51454,7 +51430,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 waterwave travel",
     "id": 3691,
     "modelId": 60422,
     "animationId": 692,
@@ -51466,7 +51442,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 failedspell impact",
     "id": 3692,
     "modelId": 60415,
     "animationId": 653,
@@ -51478,7 +51454,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 dagannoth whirlpool",
     "id": 3693,
     "modelId": 60220,
     "animationId": 2848,
@@ -51490,7 +51466,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 kalphite glow",
     "id": 3694,
     "modelId": 60365,
     "animationId": 1173,
@@ -51502,7 +51478,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 kalphite queen glow",
     "id": 3695,
     "modelId": 60363,
     "animationId": 1171,
@@ -51514,7 +51490,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 kalphite glow travel",
     "id": 3696,
     "modelId": 55543,
     "animationId": 6271,
@@ -51526,7 +51502,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 kalphite glow impact",
     "id": 3697,
     "modelId": 60402,
     "animationId": 4575,
@@ -51538,7 +51514,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 kalphite spine",
     "id": 3698,
     "modelId": 60387,
     "animationId": -1,
@@ -51550,7 +51526,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 kalphite queen spine",
     "id": 3699,
     "modelId": 60388,
     "animationId": -1,
@@ -51562,7 +51538,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 kalphite queen ranged",
     "id": 3700,
     "modelId": 60387,
     "animationId": -1,
@@ -51574,7 +51550,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 update flying queen emerge echo spotanim",
     "id": 3701,
     "modelId": 60360,
     "animationId": 6269,
@@ -51586,7 +51562,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 kalphite queen lightning strike",
     "id": 3702,
     "modelId": 60234,
     "animationId": 8680,
@@ -51598,7 +51574,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 kalphite update flying queen emerge spotanim",
     "id": 3703,
     "modelId": 60360,
     "animationId": 6269,
@@ -51610,7 +51586,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 dragon ranged attack",
     "id": 3704,
     "modelId": 60389,
     "animationId": 1990,
@@ -51622,7 +51598,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx amoxliatl ice block projectile impact 01",
     "id": 3705,
     "modelId": 60145,
     "animationId": 11537,
@@ -51634,7 +51610,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx amoxliatl ice block projectile 02",
     "id": 3706,
     "modelId": 60344,
     "animationId": 11538,
@@ -51646,7 +51622,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx amoxliatl ice block projectile 01",
     "id": 3707,
     "modelId": 60343,
     "animationId": 11538,
@@ -51658,7 +51634,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx amoxliatl ice appear 01",
     "id": 3708,
     "modelId": 60147,
     "animationId": 11539,
@@ -51670,7 +51646,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx amoxliatl ice disappear 01",
     "id": 3709,
     "modelId": 60147,
     "animationId": 11540,
@@ -51682,7 +51658,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx amoxliatl ice floor spawn 01",
     "id": 3710,
     "modelId": 60153,
     "animationId": 11541,
@@ -51694,7 +51670,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx amoxliatl ice floor idle 01",
     "id": 3711,
     "modelId": 60153,
     "animationId": 11039,
@@ -51706,7 +51682,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx amoxliatl ice floor attack 01",
     "id": 3712,
     "modelId": 60153,
     "animationId": 11542,
@@ -51718,7 +51694,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx amoxliatl ice floor combined 01",
     "id": 3713,
     "modelId": 60150,
     "animationId": 11543,
@@ -51730,7 +51706,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx amoxliatl ice floor single 01",
     "id": 3714,
     "modelId": 60150,
     "animationId": 11550,
@@ -51742,7 +51718,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx amoxliatl ice block spawn 01",
     "id": 3715,
     "modelId": 60151,
     "animationId": 11029,
@@ -51754,7 +51730,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx amoxliatl ice block idle 01",
     "id": 3716,
     "modelId": 60151,
     "animationId": 11030,
@@ -51766,7 +51742,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 vfx amoxliatl ice block explode 01",
     "id": 3717,
     "modelId": 60152,
     "animationId": 11035,
@@ -51778,7 +51754,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Ibanblast travel orn",
     "id": 3718,
     "modelId": 60418,
     "animationId": 656,
@@ -51790,7 +51766,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Ibanblast impact orn",
     "id": 3719,
     "modelId": 60417,
     "animationId": 657,
@@ -51802,7 +51778,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Ibanblast casting orn",
     "id": 3720,
     "modelId": 60416,
     "animationId": 655,
@@ -51814,7 +51790,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Slayer tots casting orn leagues6",
     "id": 3721,
     "modelId": 60390,
     "animationId": 5460,
@@ -51826,7 +51802,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Toxic tots casting orn leagues6",
     "id": 3722,
     "modelId": 60391,
     "animationId": 5460,
@@ -51838,7 +51814,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Slayer tots projectile orn leagues6",
     "id": 3723,
     "modelId": 60394,
     "animationId": 5462,
@@ -51850,7 +51826,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Toxic tots projectile orn leagues6",
     "id": 3724,
     "modelId": 60395,
     "animationId": 5462,
@@ -51862,7 +51838,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Slayer tots impact orn leagues6",
     "id": 3725,
     "modelId": 60392,
     "animationId": 5461,
@@ -51874,7 +51850,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Toxic tots impact orn leagues6",
     "id": 3726,
     "modelId": 60393,
     "animationId": 5461,
@@ -51886,7 +51862,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 thrall imp magic spawn vfx spotanim",
     "id": 3727,
     "modelId": 60376,
     "animationId": 13834,
@@ -51898,7 +51874,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 thrall imp magic despawn vfx spotanim",
     "id": 3728,
     "modelId": 60376,
     "animationId": 13853,
@@ -51910,7 +51886,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 thrall imp magic transition vfx spotanim",
     "id": 3729,
     "modelId": 60376,
     "animationId": 13858,
@@ -51922,7 +51898,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 thrall imp magic attack vfx projanim",
     "id": 3730,
     "modelId": 60378,
     "animationId": 13861,
@@ -51934,7 +51910,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 thrall imp ranged spawn vfx spotanim",
     "id": 3731,
     "modelId": 60382,
     "animationId": 13836,
@@ -51946,7 +51922,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 thrall imp ranged despawn vfx spotanim",
     "id": 3732,
     "modelId": 60382,
     "animationId": 13855,
@@ -51958,7 +51934,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 thrall imp ranged transition vfx spotanim",
     "id": 3733,
     "modelId": 60382,
     "animationId": 13859,
@@ -51970,7 +51946,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 thrall imp ranged attack vfx projanim",
     "id": 3734,
     "modelId": 60358,
     "animationId": -1,
@@ -51982,7 +51958,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 thrall imp melee spawn vfx spotanim",
     "id": 3735,
     "modelId": 16988,
     "animationId": 13838,
@@ -51994,7 +51970,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 thrall imp melee despawn vfx spotanim",
     "id": 3736,
     "modelId": 16988,
     "animationId": 13857,
@@ -52006,7 +51982,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 thrall imp melee transition vfx spotanim",
     "id": 3737,
     "modelId": 16988,
     "animationId": 13860,
@@ -52018,7 +51994,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx kings barrage projectile",
     "id": 3738,
     "modelId": 60325,
     "animationId": 13750,
@@ -52030,7 +52006,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx kings barrage projectile single",
     "id": 3739,
     "modelId": 60326,
     "animationId": 13752,
@@ -52042,7 +52018,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx kings barrage impact",
     "id": 3740,
     "modelId": 48345,
     "animationId": 13751,
@@ -52054,7 +52030,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx flames of cerberus",
     "id": 3741,
     "modelId": 60214,
     "animationId": 13756,
@@ -52066,7 +52042,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx flames of cerberus 1x1",
     "id": 3742,
     "modelId": 60214,
     "animationId": 13756,
@@ -52078,7 +52054,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx flames of cerberus 2x2",
     "id": 3743,
     "modelId": 60214,
     "animationId": 13756,
@@ -52090,7 +52066,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx flames of cerberus 3x3",
     "id": 3744,
     "modelId": 60214,
     "animationId": 13756,
@@ -52102,7 +52078,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx flames of cerberus 4x4",
     "id": 3745,
     "modelId": 60214,
     "animationId": 13756,
@@ -52114,7 +52090,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx flames of cerberus 5x5",
     "id": 3746,
     "modelId": 60214,
     "animationId": 13756,
@@ -52126,7 +52102,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx lithic sceptre shatter 01",
     "id": 3747,
     "modelId": 60383,
     "animationId": 13757,
@@ -52138,7 +52114,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx lithic sceptre shatter 03",
     "id": 3748,
     "modelId": 60383,
     "animationId": 13758,
@@ -52150,7 +52126,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx lithic sceptre shatter 02",
     "id": 3749,
     "modelId": 60383,
     "animationId": 13759,
@@ -52162,7 +52138,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx lithic sceptre shatter human",
     "id": 3750,
     "modelId": 60410,
     "animationId": 13760,
@@ -52174,7 +52150,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx lithic sceptre projanim 01",
     "id": 3751,
     "modelId": 60230,
     "animationId": 7616,
@@ -52186,7 +52162,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx lithic sceptre impact 01",
     "id": 3752,
     "modelId": 28450,
     "animationId": 12400,
@@ -52198,7 +52174,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx natures recurve healing projanim 01",
     "id": 3753,
     "modelId": 60144,
     "animationId": 11134,
@@ -52210,7 +52186,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx natures recurve spotanim 01",
     "id": 3754,
     "modelId": 46992,
     "animationId": 9855,
@@ -52226,7 +52202,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 home teleport spotanim 01",
     "id": 3755,
     "modelId": 60322,
     "animationId": 13765,
@@ -52238,7 +52214,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 home teleport spotanim 02",
     "id": 3756,
     "modelId": 60322,
     "animationId": 13767,
@@ -52250,7 +52226,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 home teleport spotanim 03",
     "id": 3757,
     "modelId": 60322,
     "animationId": 13769,
@@ -52262,7 +52238,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 home teleport spotanim 04",
     "id": 3758,
     "modelId": 60322,
     "animationId": 13771,
@@ -52274,7 +52250,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 home teleport spotanim 05",
     "id": 3759,
     "modelId": 60322,
     "animationId": 13773,
@@ -52286,7 +52262,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 home teleport spotanim 06",
     "id": 3760,
     "modelId": 60322,
     "animationId": 13775,
@@ -52298,7 +52274,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 home teleport spotanim 07",
     "id": 3761,
     "modelId": 60322,
     "animationId": 13777,
@@ -52310,7 +52286,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Leagues 6 home teleport spotanim 08",
     "id": 3762,
     "modelId": 60322,
     "animationId": 13818,
@@ -52322,7 +52298,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Akkha lightning small",
     "id": 3763,
     "modelId": 40177,
     "animationId": 8680,
@@ -52348,7 +52324,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 chainshot01 impact01",
     "id": 3764,
     "modelId": 60430,
     "animationId": 13873,
@@ -52360,7 +52336,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 incendary01 impact01",
     "id": 3765,
     "modelId": 60431,
     "animationId": 13874,
@@ -52372,7 +52348,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 chainshot01 projectile01",
     "id": 3766,
     "modelId": 60433,
     "animationId": 13872,
@@ -52384,7 +52360,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 incendary01 projectile01",
     "id": 3767,
     "modelId": 60436,
     "animationId": 13871,
@@ -52396,7 +52372,7 @@
     "recolorToFind": null
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 incendary01 bronze proj01",
     "id": 3768,
     "modelId": 60436,
     "animationId": 13871,
@@ -52416,7 +52392,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 incendary01 iron proj01",
     "id": 3769,
     "modelId": 60436,
     "animationId": 13871,
@@ -52436,7 +52412,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 incendary01 steel proj01",
     "id": 3770,
     "modelId": 60436,
     "animationId": 13871,
@@ -52456,7 +52432,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 incendary01 mithril proj01",
     "id": 3771,
     "modelId": 60436,
     "animationId": 13871,
@@ -52476,7 +52452,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 incendary01 adamant proj01",
     "id": 3772,
     "modelId": 60436,
     "animationId": 13871,
@@ -52496,7 +52472,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 incendary01 rune proj01",
     "id": 3773,
     "modelId": 60436,
     "animationId": 13871,
@@ -52516,7 +52492,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 incendary01 dragon proj01",
     "id": 3774,
     "modelId": 60436,
     "animationId": 13871,
@@ -52536,7 +52512,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 chainshot01 bronze proj01",
     "id": 3775,
     "modelId": 60433,
     "animationId": 13872,
@@ -52556,7 +52532,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 chainshot01 iron proj01",
     "id": 3776,
     "modelId": 60433,
     "animationId": 13872,
@@ -52576,7 +52552,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 chainshot01 steel proj01",
     "id": 3777,
     "modelId": 60433,
     "animationId": 13872,
@@ -52596,7 +52572,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 chainshot01 mithril proj01",
     "id": 3778,
     "modelId": 60433,
     "animationId": 13872,
@@ -52616,7 +52592,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 chainshot01 adamant proj01",
     "id": 3779,
     "modelId": 60433,
     "animationId": 13872,
@@ -52636,7 +52612,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 chainshot01 rune proj01",
     "id": 3780,
     "modelId": 60433,
     "animationId": 13872,
@@ -52656,7 +52632,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "Vfx sailing cannon01 small01 chainshot01 dragon proj01",
     "id": 3781,
     "modelId": 60433,
     "animationId": 13872,
@@ -52676,7 +52652,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "League 6 area unlock emote spotanim asgarnia",
     "id": 3782,
     "modelId": 40996,
     "animationId": 8793,
@@ -52698,7 +52674,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "League 6 area unlock emote spotanim fremennik",
     "id": 3783,
     "modelId": 40990,
     "animationId": 8793,
@@ -52720,7 +52696,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "League 6 area unlock emote spotanim kandarin",
     "id": 3784,
     "modelId": 40993,
     "animationId": 8793,
@@ -52742,7 +52718,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "League 6 area unlock emote spotanim karamja",
     "id": 3785,
     "modelId": 40995,
     "animationId": 8793,
@@ -52764,7 +52740,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "League 6 area unlock emote spotanim kharidian desert",
     "id": 3786,
     "modelId": 40994,
     "animationId": 8793,
@@ -52786,7 +52762,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "League 6 area unlock emote spotanim morytania",
     "id": 3787,
     "modelId": 40997,
     "animationId": 8793,
@@ -52808,7 +52784,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "League 6 area unlock emote spotanim tirannwn",
     "id": 3788,
     "modelId": 40992,
     "animationId": 8793,
@@ -52830,7 +52806,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "League 6 area unlock emote spotanim wilderness",
     "id": 3789,
     "modelId": 40991,
     "animationId": 8793,
@@ -52852,7 +52828,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "League 6 area unlock emote spotanim kourend",
     "id": 3790,
     "modelId": 50030,
     "animationId": 8793,
@@ -52874,7 +52850,7 @@
     ]
   },
   {
-    "name": "Unnamed",
+    "name": "League 6 area unlock emote spotanim varlamore",
     "id": 3791,
     "modelId": 40996,
     "animationId": 8793,
@@ -52894,5 +52870,2727 @@
       -31837,
       -28724
     ]
+  },
+  {
+    "name": "Vyrelord trapped large",
+    "id": 3792,
+    "modelId": 39813,
+    "animationId": 8738,
+    "resizeX": 160,
+    "resizeY": 160,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx maggot king screech 01",
+    "id": 3793,
+    "modelId": 57758,
+    "animationId": 13923,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx maggot king screech 02",
+    "id": 3794,
+    "modelId": 60631,
+    "animationId": 13924,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx maggot king death 01",
+    "id": 3795,
+    "modelId": 61516,
+    "animationId": 13939,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Maggot king blood projectile big",
+    "id": 3796,
+    "modelId": 61510,
+    "animationId": 13940,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Maggot king blood projectile small",
+    "id": 3797,
+    "modelId": 61510,
+    "animationId": 13941,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Maggot king blood ground hit",
+    "id": 3798,
+    "modelId": 61510,
+    "animationId": 13942,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Maggot king ground despawn",
+    "id": 3799,
+    "modelId": 61510,
+    "animationId": 13944,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Maggot king blood ground idle",
+    "id": 3800,
+    "modelId": 61510,
+    "animationId": 13943,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Maggot king blood ground despawn",
+    "id": 3801,
+    "modelId": 61510,
+    "animationId": 13944,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx human craft rupture start",
+    "id": 3802,
+    "modelId": 54306,
+    "animationId": 11520,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": [
+      931
+    ],
+    "recolorToFind": [
+      21425
+    ]
+  },
+  {
+    "name": "Vfx human craft rupture end",
+    "id": 3803,
+    "modelId": 54306,
+    "animationId": 11521,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": [
+      931
+    ],
+    "recolorToFind": [
+      21425
+    ]
+  },
+  {
+    "name": "Venator ranged projectile",
+    "id": 3804,
+    "modelId": 40894,
+    "animationId": 8133,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 30,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Venator ranged impact",
+    "id": 3805,
+    "modelId": 40894,
+    "animationId": 8134,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 30,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Silvthrill javelin travel",
+    "id": 3806,
+    "modelId": 3144,
+    "animationId": -1,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": [
+      -27438,
+      82
+    ],
+    "recolorToFind": [
+      61,
+      5662
+    ]
+  },
+  {
+    "name": "Burgh holding cast player spot red",
+    "id": 3807,
+    "modelId": 14037,
+    "animationId": 3548,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": [
+      728,
+      722,
+      718,
+      840
+    ],
+    "recolorToFind": [
+      127,
+      -31631,
+      -29587,
+      -27417
+    ]
+  },
+  {
+    "name": "Blood teleport spawn",
+    "id": 3808,
+    "modelId": 7732,
+    "animationId": 1535,
+    "resizeX": 96,
+    "resizeY": 96,
+    "ambient": 50,
+    "contrast": 50,
+    "recolorToReplace": [
+      943,
+      953,
+      836,
+      819,
+      813
+    ],
+    "recolorToFind": [
+      -14417,
+      -14533,
+      -14520,
+      569,
+      689
+    ]
+  },
+  {
+    "name": "Aranei magic travel",
+    "id": 3809,
+    "modelId": 35034,
+    "animationId": 7884,
+    "resizeX": 56,
+    "resizeY": 56,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": [
+      -31808,
+      -31817,
+      -31827
+    ],
+    "recolorToFind": [
+      8125,
+      5056,
+      957
+    ]
+  },
+  {
+    "name": "Aranei magic cast",
+    "id": 3810,
+    "modelId": 3083,
+    "animationId": 14419,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 10,
+    "contrast": 20,
+    "recolorToReplace": [
+      -31808
+    ],
+    "recolorToFind": [
+      -14400
+    ]
+  },
+  {
+    "name": "Aranei magic impact",
+    "id": 3811,
+    "modelId": 3088,
+    "animationId": 14420,
+    "resizeX": 88,
+    "resizeY": 88,
+    "ambient": 10,
+    "contrast": 10,
+    "recolorToReplace": [
+      -31815,
+      -31827
+    ],
+    "recolorToFind": [
+      6080,
+      960
+    ]
+  },
+  {
+    "name": "Myq6 sugadinti portal cast",
+    "id": 3812,
+    "modelId": 5801,
+    "animationId": 1817,
+    "resizeX": 150,
+    "resizeY": 150,
+    "ambient": 100,
+    "contrast": 100,
+    "recolorToReplace": [
+      910
+    ],
+    "recolorToFind": [
+      -15567
+    ]
+  },
+  {
+    "name": "Myq6 sugadinti hideout roofcollapse",
+    "id": 3813,
+    "modelId": 2321,
+    "animationId": 457,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 30,
+    "recolorToReplace": [
+      152
+    ],
+    "recolorToFind": [
+      61
+    ]
+  },
+  {
+    "name": "Myq6 glint spot",
+    "id": 3814,
+    "modelId": 39130,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot raised",
+    "id": 3815,
+    "modelId": 61602,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot rotated",
+    "id": 3816,
+    "modelId": 39130,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot raised rotated",
+    "id": 3817,
+    "modelId": 61602,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot offset n",
+    "id": 3818,
+    "modelId": 61601,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot raised offset n",
+    "id": 3819,
+    "modelId": 61603,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot rotated offset n",
+    "id": 3820,
+    "modelId": 61601,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot raised rotated offset n",
+    "id": 3821,
+    "modelId": 61603,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot offset s",
+    "id": 3822,
+    "modelId": 61601,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot raised offset s",
+    "id": 3823,
+    "modelId": 61603,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot rotated offset s",
+    "id": 3824,
+    "modelId": 61601,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot raised rotated offset s",
+    "id": 3825,
+    "modelId": 61603,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot offset e",
+    "id": 3826,
+    "modelId": 61601,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot raised offset e",
+    "id": 3827,
+    "modelId": 61603,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot rotated offset e",
+    "id": 3828,
+    "modelId": 61601,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot raised rotated offset e",
+    "id": 3829,
+    "modelId": 61603,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot offset w",
+    "id": 3830,
+    "modelId": 61601,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot raised offset w",
+    "id": 3831,
+    "modelId": 61603,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot rotated offset w",
+    "id": 3832,
+    "modelId": 61601,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 glint spot raised rotated offset w",
+    "id": 3833,
+    "modelId": 61603,
+    "animationId": 14141,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Dr dodge visuals",
+    "id": 3834,
+    "modelId": 61594,
+    "animationId": 14142,
+    "resizeX": 256,
+    "resizeY": 256,
+    "ambient": 50,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Dr dodge visuals 1",
+    "id": 3835,
+    "modelId": 61595,
+    "animationId": 14142,
+    "resizeX": 256,
+    "resizeY": 256,
+    "ambient": 20,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Dr dodge visuals 2",
+    "id": 3836,
+    "modelId": 61596,
+    "animationId": 14142,
+    "resizeX": 256,
+    "resizeY": 256,
+    "ambient": 0,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Dr dodge visuals 3",
+    "id": 3837,
+    "modelId": 61597,
+    "animationId": 14142,
+    "resizeX": 256,
+    "resizeY": 256,
+    "ambient": 0,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Dr dodge visuals 4",
+    "id": 3838,
+    "modelId": 61598,
+    "animationId": 14142,
+    "resizeX": 256,
+    "resizeY": 256,
+    "ambient": 0,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Dr dodge visuals 5",
+    "id": 3839,
+    "modelId": 61599,
+    "animationId": 14142,
+    "resizeX": 256,
+    "resizeY": 256,
+    "ambient": 0,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Dr dodge visuals 6",
+    "id": 3840,
+    "modelId": 61600,
+    "animationId": 14142,
+    "resizeX": 256,
+    "resizeY": 256,
+    "ambient": 0,
+    "contrast": 20,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx veliaf sick 01",
+    "id": 3841,
+    "modelId": 60633,
+    "animationId": 14242,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx veliaf sick puddle 01",
+    "id": 3842,
+    "modelId": 60633,
+    "animationId": 14243,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx efaritay hallow attack magic 01",
+    "id": 3843,
+    "modelId": 61593,
+    "animationId": 14061,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx efaritay hallow attack magic 01 projanim 01",
+    "id": 3844,
+    "modelId": 50155,
+    "animationId": 10712,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": [
+      6744
+    ],
+    "recolorToFind": [
+      -30006
+    ]
+  },
+  {
+    "name": "Vfx efaritay hallow attack magic 01 impactanim 01",
+    "id": 3845,
+    "modelId": 50155,
+    "animationId": 10713,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": [
+      6744
+    ],
+    "recolorToFind": [
+      -30006
+    ]
+  },
+  {
+    "name": "Vfx efaritay hallow attack summon 01",
+    "id": 3846,
+    "modelId": 60632,
+    "animationId": 14064,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx efaritay hallow summon portal 01",
+    "id": 3847,
+    "modelId": 61497,
+    "animationId": 14071,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Cutscene vfx lowerniel drakan summon portal",
+    "id": 3848,
+    "modelId": 61497,
+    "animationId": 14073,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan wing restore cutscene 01",
+    "id": 3849,
+    "modelId": 61535,
+    "animationId": 14217,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx venator roar 01",
+    "id": 3850,
+    "modelId": 61565,
+    "animationId": 14051,
+    "resizeX": 100,
+    "resizeY": 100,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx venator roar sup 01",
+    "id": 3851,
+    "modelId": 61565,
+    "animationId": 14051,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx wyrd tantrum 01",
+    "id": 3852,
+    "modelId": 48289,
+    "animationId": 14027,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx wyrd tantrum mirrored 01",
+    "id": 3853,
+    "modelId": 48289,
+    "animationId": 14028,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx wyrd tantrum 02",
+    "id": 3854,
+    "modelId": 48289,
+    "animationId": 14029,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx wyrd tantrum mirrored 02",
+    "id": 3855,
+    "modelId": 48289,
+    "animationId": 14030,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx wyrd blood pool spawn 01",
+    "id": 3856,
+    "modelId": 60641,
+    "animationId": 14031,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx wyrd blood pool idle 01",
+    "id": 3857,
+    "modelId": 60641,
+    "animationId": 14032,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx wyrd blood pool spawn",
+    "id": 3858,
+    "modelId": 60641,
+    "animationId": 14031,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx wyrd blood pool burst 01",
+    "id": 3859,
+    "modelId": 60641,
+    "animationId": 10969,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx wyrd blood pool despawn 01",
+    "id": 3860,
+    "modelId": 60641,
+    "animationId": 14033,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx wyrd blood pool lightning strike 01",
+    "id": 3861,
+    "modelId": 60642,
+    "animationId": 14034,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx wyrd magic shield 01",
+    "id": 3862,
+    "modelId": 60635,
+    "animationId": 14026,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 100,
+    "recolorToReplace": [
+      -31784
+    ],
+    "recolorToFind": [
+      -29760
+    ]
+  },
+  {
+    "name": "Vfx wyrd roar 01",
+    "id": 3863,
+    "modelId": 61564,
+    "animationId": 14035,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Stymphike spear launch",
+    "id": 3864,
+    "modelId": 61574,
+    "animationId": 8183,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Stymphike spear travel",
+    "id": 3865,
+    "modelId": 61574,
+    "animationId": -1,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx iceyne lightning strike01",
+    "id": 3866,
+    "modelId": 61363,
+    "animationId": 8679,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx blood bolt spawn left01",
+    "id": 3867,
+    "modelId": 61528,
+    "animationId": 14115,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 20,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx blood bolt spawn left02",
+    "id": 3868,
+    "modelId": 61528,
+    "animationId": 14116,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 20,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx blood bolt spawn left03",
+    "id": 3869,
+    "modelId": 61528,
+    "animationId": 14117,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 20,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx blood bolt spawn right01",
+    "id": 3870,
+    "modelId": 61528,
+    "animationId": 14118,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 20,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx blood bolt spawn right02",
+    "id": 3871,
+    "modelId": 61528,
+    "animationId": 14119,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 20,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx blood bolt spawn right03",
+    "id": 3872,
+    "modelId": 61528,
+    "animationId": 14120,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 20,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx blood bolt spawn overhead01",
+    "id": 3873,
+    "modelId": 61528,
+    "animationId": 14121,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 20,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx blood bolt projectile left01",
+    "id": 3874,
+    "modelId": 61528,
+    "animationId": 14123,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 20,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx blood bolt projectile left02",
+    "id": 3875,
+    "modelId": 61528,
+    "animationId": 14124,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 20,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx blood bolt projectile left03",
+    "id": 3876,
+    "modelId": 61528,
+    "animationId": 14125,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 20,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx blood bolt projectile right01",
+    "id": 3877,
+    "modelId": 61528,
+    "animationId": 14126,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 20,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx blood bolt projectile right02",
+    "id": 3878,
+    "modelId": 61528,
+    "animationId": 14127,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 20,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx blood bolt projectile right03",
+    "id": 3879,
+    "modelId": 61528,
+    "animationId": 14128,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 20,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx blood magic bolt projectile overhead01",
+    "id": 3880,
+    "modelId": 61528,
+    "animationId": 14129,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 20,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx blood magic bolt impact01",
+    "id": 3881,
+    "modelId": 61527,
+    "animationId": 14130,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 20,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan blood wing dodge left",
+    "id": 3882,
+    "modelId": 61518,
+    "animationId": 14368,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 221,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan blood wing dodge right",
+    "id": 3883,
+    "modelId": 61518,
+    "animationId": 14369,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 221,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan blood wing dodge back",
+    "id": 3884,
+    "modelId": 61518,
+    "animationId": 14370,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 221,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan lame wing dodge left",
+    "id": 3885,
+    "modelId": 61522,
+    "animationId": 14371,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 221,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan lame wing dodge right",
+    "id": 3886,
+    "modelId": 61522,
+    "animationId": 14372,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 221,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan lame wing dodge back",
+    "id": 3887,
+    "modelId": 61522,
+    "animationId": 14373,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 221,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan injured dodge left",
+    "id": 3888,
+    "modelId": 61518,
+    "animationId": 14368,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 221,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan injured dodge right",
+    "id": 3889,
+    "modelId": 61518,
+    "animationId": 14369,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 221,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan injured dodge back",
+    "id": 3890,
+    "modelId": 61518,
+    "animationId": 14370,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 221,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Drakan wide stab lame",
+    "id": 3891,
+    "modelId": 61523,
+    "animationId": 14332,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Drakan wide stab",
+    "id": 3892,
+    "modelId": 61519,
+    "animationId": 14331,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Drakan wide stab 180",
+    "id": 3893,
+    "modelId": 61519,
+    "animationId": 14331,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Drakan wide slash lame",
+    "id": 3894,
+    "modelId": 61523,
+    "animationId": 14338,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Drakan wide slash",
+    "id": 3895,
+    "modelId": 61519,
+    "animationId": 14337,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan spotanim test left",
+    "id": 3896,
+    "modelId": 61529,
+    "animationId": 14131,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan spotanim test right",
+    "id": 3897,
+    "modelId": 61529,
+    "animationId": 14132,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo left",
+    "id": 3898,
+    "modelId": 61530,
+    "animationId": 14133,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo right",
+    "id": 3899,
+    "modelId": 61530,
+    "animationId": 14134,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo left 90",
+    "id": 3900,
+    "modelId": 61530,
+    "animationId": 14133,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo right 90",
+    "id": 3901,
+    "modelId": 61530,
+    "animationId": 14134,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo left 270",
+    "id": 3902,
+    "modelId": 61530,
+    "animationId": 14133,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo right 270",
+    "id": 3903,
+    "modelId": 61530,
+    "animationId": 14134,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo left back",
+    "id": 3904,
+    "modelId": 61530,
+    "animationId": 14133,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo right back",
+    "id": 3905,
+    "modelId": 61530,
+    "animationId": 14134,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo left old",
+    "id": 3906,
+    "modelId": 61533,
+    "animationId": 14135,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo right old",
+    "id": 3907,
+    "modelId": 61533,
+    "animationId": 14136,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx crimson kisten special",
+    "id": 3908,
+    "modelId": 60634,
+    "animationId": 14256,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle left black",
+    "id": 3909,
+    "modelId": 61532,
+    "animationId": 14137,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle right black",
+    "id": 3910,
+    "modelId": 61532,
+    "animationId": 14138,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle left",
+    "id": 3911,
+    "modelId": 61531,
+    "animationId": 14137,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle right",
+    "id": 3912,
+    "modelId": 61531,
+    "animationId": 14138,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle left 90",
+    "id": 3913,
+    "modelId": 61531,
+    "animationId": 14137,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle right 90",
+    "id": 3914,
+    "modelId": 61531,
+    "animationId": 14138,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle left back",
+    "id": 3915,
+    "modelId": 61531,
+    "animationId": 14137,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle right back",
+    "id": 3916,
+    "modelId": 61531,
+    "animationId": 14138,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle left 270",
+    "id": 3917,
+    "modelId": 61531,
+    "animationId": 14137,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle right 270",
+    "id": 3918,
+    "modelId": 61531,
+    "animationId": 14138,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle left slow black",
+    "id": 3919,
+    "modelId": 61532,
+    "animationId": 14139,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle right slow black",
+    "id": 3920,
+    "modelId": 61532,
+    "animationId": 14140,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle left slow",
+    "id": 3921,
+    "modelId": 61531,
+    "animationId": 14137,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle right slow",
+    "id": 3922,
+    "modelId": 61531,
+    "animationId": 14138,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle left 90 slow",
+    "id": 3923,
+    "modelId": 61531,
+    "animationId": 14139,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle right 90 slow",
+    "id": 3924,
+    "modelId": 61531,
+    "animationId": 14140,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle left back slow",
+    "id": 3925,
+    "modelId": 61531,
+    "animationId": 14139,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle right back slow",
+    "id": 3926,
+    "modelId": 61531,
+    "animationId": 14140,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle left 270 slow",
+    "id": 3927,
+    "modelId": 61531,
+    "animationId": 14139,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle right 270 slow",
+    "id": 3928,
+    "modelId": 61531,
+    "animationId": 14140,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan phase out idle",
+    "id": 3929,
+    "modelId": 61520,
+    "animationId": 14313,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan phase in idle",
+    "id": 3930,
+    "modelId": 61520,
+    "animationId": 14314,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan lame wing phase out idle",
+    "id": 3931,
+    "modelId": 61524,
+    "animationId": 14315,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan lame wing phase in idle",
+    "id": 3932,
+    "modelId": 61520,
+    "animationId": 14316,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan combo telegraph to ready",
+    "id": 3933,
+    "modelId": 61521,
+    "animationId": 14319,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan combo telegraph to ready lame wing",
+    "id": 3934,
+    "modelId": 61521,
+    "animationId": 14320,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan combo right jab",
+    "id": 3935,
+    "modelId": 61520,
+    "animationId": 14323,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan combo right jab lame wing",
+    "id": 3936,
+    "modelId": 61524,
+    "animationId": 14324,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan combo left jab",
+    "id": 3937,
+    "modelId": 61520,
+    "animationId": 14321,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan combo left jab lame wing",
+    "id": 3938,
+    "modelId": 61524,
+    "animationId": 14322,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan combo spin",
+    "id": 3939,
+    "modelId": 61520,
+    "animationId": 14325,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan combo spin lame wing",
+    "id": 3940,
+    "modelId": 61524,
+    "animationId": 14326,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx sunspear special",
+    "id": 3941,
+    "modelId": 54236,
+    "animationId": 11171,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": [
+      947
+    ],
+    "recolorToFind": [
+      10072
+    ]
+  },
+  {
+    "name": "Vfx drakan underglow 45",
+    "id": 3942,
+    "modelId": 61536,
+    "animationId": 14198,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan underglow 30",
+    "id": 3943,
+    "modelId": 61536,
+    "animationId": 14199,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx drakan blood combo particle spin slow",
+    "id": 3944,
+    "modelId": 61531,
+    "animationId": 14196,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": [
+      -3134,
+      -3118,
+      -4299
+    ],
+    "recolorToFind": [
+      962,
+      978,
+      -203
+    ]
+  },
+  {
+    "name": "Vfx drakan blood combo particle spin fast",
+    "id": 3945,
+    "modelId": 61531,
+    "animationId": 14195,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 120,
+    "recolorToReplace": [
+      -3134,
+      -3118,
+      -4299
+    ],
+    "recolorToFind": [
+      962,
+      978,
+      -203
+    ]
+  },
+  {
+    "name": "Vfx lowerniel drakan cutscene part01 glow",
+    "id": 3946,
+    "modelId": 61525,
+    "animationId": 14355,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan cutscene part02 glow",
+    "id": 3947,
+    "modelId": 61525,
+    "animationId": 14356,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan cutscene afterimage01",
+    "id": 3948,
+    "modelId": 61523,
+    "animationId": 14357,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan cutscene afterimage02",
+    "id": 3949,
+    "modelId": 61523,
+    "animationId": 14358,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan cutscene barrier lightning",
+    "id": 3950,
+    "modelId": 41538,
+    "animationId": 14374,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan cutscene barrier stab",
+    "id": 3951,
+    "modelId": 61592,
+    "animationId": 14377,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan cutscene barrier loop",
+    "id": 3952,
+    "modelId": 61592,
+    "animationId": 14376,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx lowerniel drakan cutscene portal summon",
+    "id": 3953,
+    "modelId": 61498,
+    "animationId": 14375,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Myq6 feral vyre spotanim",
+    "id": 3954,
+    "modelId": 46970,
+    "animationId": 14200,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Aranei drakan bridge cutscene incinerate death",
+    "id": 3955,
+    "modelId": 61490,
+    "animationId": 10630,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx aranei magic cast",
+    "id": 3956,
+    "modelId": 60640,
+    "animationId": 14074,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 10,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx aranei magic projectile",
+    "id": 3957,
+    "modelId": 60640,
+    "animationId": 14075,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 10,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx aranei magic impact",
+    "id": 3958,
+    "modelId": 60640,
+    "animationId": 14076,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 10,
+    "contrast": 120,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx aranei shield window idle",
+    "id": 3959,
+    "modelId": 60638,
+    "animationId": 14207,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx aranei shield window spawn",
+    "id": 3960,
+    "modelId": 60638,
+    "animationId": 14209,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx aranei shield window idle then despawn",
+    "id": 3961,
+    "modelId": 60638,
+    "animationId": 14210,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx aranei shield window despawn",
+    "id": 3962,
+    "modelId": 60638,
+    "animationId": 14211,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx aranei shield pillar idle",
+    "id": 3963,
+    "modelId": 60637,
+    "animationId": 14207,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx aranei shield pillar spawn",
+    "id": 3964,
+    "modelId": 60637,
+    "animationId": 14209,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx aranei shield pillar idle then despawn",
+    "id": 3965,
+    "modelId": 60637,
+    "animationId": 14210,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx aranei shield pillar despawn",
+    "id": 3966,
+    "modelId": 60637,
+    "animationId": 14211,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx aranei shield door spawn",
+    "id": 3967,
+    "modelId": 60636,
+    "animationId": 14209,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx aranei shield door idle",
+    "id": 3968,
+    "modelId": 60636,
+    "animationId": 14207,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx aranei shield door idle longer",
+    "id": 3969,
+    "modelId": 60636,
+    "animationId": 14208,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx aranei shield door despawn",
+    "id": 3970,
+    "modelId": 60636,
+    "animationId": 14214,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx aranei shield door idle then despawn",
+    "id": 3971,
+    "modelId": 60636,
+    "animationId": 14210,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx efaritay shield door cast",
+    "id": 3972,
+    "modelId": 61593,
+    "animationId": 14212,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx efaritay shield door end",
+    "id": 3973,
+    "modelId": 61593,
+    "animationId": 14213,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx efaritay shield door start",
+    "id": 3974,
+    "modelId": 61593,
+    "animationId": 14215,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Drakan blood wave move",
+    "id": 3975,
+    "modelId": 46433,
+    "animationId": 7877,
+    "resizeX": 128,
+    "resizeY": 50,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Drakan blood wave despawn",
+    "id": 3976,
+    "modelId": 46433,
+    "animationId": 7879,
+    "resizeX": 128,
+    "resizeY": 50,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Drakan blood wave despawn fast",
+    "id": 3977,
+    "modelId": 46433,
+    "animationId": 14007,
+    "resizeX": 128,
+    "resizeY": 50,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Drakan blood wave spawn",
+    "id": 3978,
+    "modelId": 46433,
+    "animationId": 14006,
+    "resizeX": 128,
+    "resizeY": 50,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Zebak roar wave dust short 90",
+    "id": 3979,
+    "modelId": 46395,
+    "animationId": 11596,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Zebak roar wave dust short 180",
+    "id": 3980,
+    "modelId": 46395,
+    "animationId": 11596,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Zebak roar wave dust short 270",
+    "id": 3981,
+    "modelId": 46395,
+    "animationId": 11596,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Maiden lingering blood sw",
+    "id": 3982,
+    "modelId": 35395,
+    "animationId": 8099,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Maiden lingering blood nw",
+    "id": 3983,
+    "modelId": 35395,
+    "animationId": 8099,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Maiden lingering blood ne",
+    "id": 3984,
+    "modelId": 35395,
+    "animationId": 8099,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx maiden spawn",
+    "id": 3985,
+    "modelId": 61566,
+    "animationId": 14400,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx myq6 tob maiden pool well spawn 01",
+    "id": 3986,
+    "modelId": 61573,
+    "animationId": 14403,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 10,
+    "contrast": 156,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Blisterwood stake travel",
+    "id": 3987,
+    "modelId": 3139,
+    "animationId": -1,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": [
+      679,
+      679,
+      80
+    ],
+    "recolorToFind": [
+      61,
+      57,
+      41
+    ]
+  },
+  {
+    "name": "Venator talon travel",
+    "id": 3988,
+    "modelId": 3139,
+    "animationId": -1,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": [
+      5202,
+      5202,
+      5186
+    ],
+    "recolorToFind": [
+      61,
+      57,
+      41
+    ]
+  },
+  {
+    "name": "Blisterwood stake launch",
+    "id": 3989,
+    "modelId": 3145,
+    "animationId": 369,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": [
+      679,
+      679,
+      80
+    ],
+    "recolorToFind": [
+      61,
+      57,
+      41
+    ]
+  },
+  {
+    "name": "Venator talon launch",
+    "id": 3990,
+    "modelId": 3145,
+    "animationId": 369,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": [
+      5202,
+      5202,
+      5186
+    ],
+    "recolorToFind": [
+      61,
+      57,
+      41
+    ]
+  },
+  {
+    "name": "Sp attackglow light yellow",
+    "id": 3991,
+    "modelId": 2318,
+    "animationId": 1055,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 100,
+    "recolorToReplace": [
+      9694
+    ],
+    "recolorToFind": [
+      11218
+    ]
+  },
+  {
+    "name": "Leechfin swim",
+    "id": 3992,
+    "modelId": 61505,
+    "animationId": 14114,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Stunned 2cycle",
+    "id": 3993,
+    "modelId": 3070,
+    "animationId": 14422,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 40,
+    "contrast": 40,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Stunned 3cycle",
+    "id": 3994,
+    "modelId": 3070,
+    "animationId": 14423,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 40,
+    "contrast": 40,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Stunned 4cycle",
+    "id": 3995,
+    "modelId": 3070,
+    "animationId": 14424,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 40,
+    "contrast": 40,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Gargboss debris shadow 30",
+    "id": 3996,
+    "modelId": 34252,
+    "animationId": 14428,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Gargboss debris shadow 30 dark",
+    "id": 3997,
+    "modelId": 35341,
+    "animationId": 14428,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Gargboss debris shadow 60 dark",
+    "id": 3998,
+    "modelId": 35341,
+    "animationId": 9470,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Gargboss debris shadow 90 dark",
+    "id": 3999,
+    "modelId": 35341,
+    "animationId": 7816,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Gargboss debris shadow 120 dark",
+    "id": 4000,
+    "modelId": 35341,
+    "animationId": 7817,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Gargboss debris shadow 150 dark",
+    "id": 4001,
+    "modelId": 35341,
+    "animationId": 7818,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Gargboss debris shadow 180 dark",
+    "id": 4002,
+    "modelId": 35341,
+    "animationId": 7819,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Gargboss debris shadow 180 large dark",
+    "id": 4003,
+    "modelId": 35341,
+    "animationId": 7819,
+    "resizeX": 896,
+    "resizeY": 896,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Gargboss debris shadow 210 dark",
+    "id": 4004,
+    "modelId": 35341,
+    "animationId": 9026,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Gargboss debris shadow 240 dark",
+    "id": 4005,
+    "modelId": 35341,
+    "animationId": 9027,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Gargboss debris shadow 270 dark",
+    "id": 4006,
+    "modelId": 35341,
+    "animationId": 9109,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Gargboss debris shadow 300 dark",
+    "id": 4007,
+    "modelId": 35341,
+    "animationId": 9110,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
   }
 ]
