@@ -84,8 +84,6 @@ def main():
         for spotanim_filenames in os.walk(spotanim_path):
             spotanim_file_list.append(spotanim_filenames)
 
-        naming_data = json.load((open("spotanims.json", encoding='utf-8')))
-
         spotanim_list = []
         for i in range(len(spotanim_filenames[2])):
             try:
@@ -93,15 +91,6 @@ def main():
 
                 id = data.get('id')
                 name = 'Unnamed'
-
-                for sa in naming_data:
-                    if sa.get('id') == id:
-                        name = sa.get('name')
-                        break
-
-                #name = data.get('debugName')
-                #name = name.replace('_', ' ')
-                #name = name.capitalize()
 
                 modelId = data.get('modelId')
                 animationId = data.get('animationId')
@@ -125,9 +114,57 @@ def main():
             except Exception:
                 pass
 
+        spotanim_names_file_list = []
+        spotanim_names_path = directory + '/gamevals/8/'
+        print("Found ", spotanim_names_path, ", beginning dump.")
+        for spotanim_filenames in os.walk(spotanim_names_path):
+            spotanim_names_file_list.append(spotanim_filenames)
+
+        spotanim_final_list = []
+        for i in range(len(spotanim_filenames[2])):
+            try:
+                data = json.load(open(spotanim_names_path + spotanim_filenames[2][i], encoding='utf-8'))
+
+                id = data.get('id')
+                name = data.get('name')
+
+                name = name.replace('_', ' ')
+                name = name.capitalize()
+
+                test = None
+                for sa in spotanim_list:
+                    if sa.get('id') == id:
+                        test = sa
+                        break
+
+                if test is None:
+                    continue
+
+                modelId = sa.get('modelId')
+                animationId = sa.get('animationId')
+                resizeX = sa.get('resizeX')
+                resizeY = sa.get('resizeY')
+                ambient = sa.get('ambient')
+                contrast = sa.get('contrast')
+                recolorToReplace = sa.get('recolorToReplace')
+                recolorToFind = sa.get('recolorToFind')
+                spotanim_final = {'name': name,
+                                  'id': id,
+                                  'modelId': modelId,
+                                  'animationId': animationId,
+                                  'resizeX': resizeX,
+                                  'resizeY': resizeY,
+                                  'ambient': ambient,
+                                  'contrast': contrast,
+                                  'recolorToReplace': recolorToReplace,
+                                  'recolorToFind': recolorToFind}
+                spotanim_final_list.append(spotanim_final)
+            except Exception:
+                pass
+
         spotanim_out = open("spotanims.json", "w")
 
-        json_file = json.dumps(spotanim_list)
+        json_file = json.dumps(spotanim_final_list)
         data = json.loads(json_file)
         sorted_file = sorted(data, key=lambda x: x['id'])
         json.dump(sorted_file, spotanim_out, indent=2, sort_keys=False)
