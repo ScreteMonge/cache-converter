@@ -3396,6 +3396,12 @@
     "leftHandItem": -1
   },
   {
+    "name": "Unnamed",
+    "id": 566,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
     "name": "Chathap1",
     "id": 567,
     "rightHandItem": -1,
@@ -3464,6 +3470,12 @@
   {
     "name": "Chatcon4",
     "id": 578,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 579,
     "rightHandItem": -1,
     "leftHandItem": -1
   },
@@ -3612,6 +3624,12 @@
     "leftHandItem": -1
   },
   {
+    "name": "Unnamed",
+    "id": 604,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
     "name": "Chatlaugh1",
     "id": 605,
     "rightHandItem": -1,
@@ -3632,6 +3650,12 @@
   {
     "name": "Chatlaugh4",
     "id": 608,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 609,
     "rightHandItem": -1,
     "leftHandItem": -1
   },
@@ -11922,6 +11946,12 @@
     "leftHandItem": -1
   },
   {
+    "name": "Unnamed",
+    "id": 1991,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
     "name": "Ic pit jump",
     "id": 1992,
     "rightHandItem": -1,
@@ -19896,6 +19926,12 @@
     "leftHandItem": -1
   },
   {
+    "name": "Unnamed",
+    "id": 3321,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
     "name": "Zygomite adult walk",
     "id": 3322,
     "rightHandItem": -1,
@@ -27482,6 +27518,30 @@
   {
     "name": "Eyeglo mind meld player",
     "id": 4586,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 4587,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 4588,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 4589,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 4590,
     "rightHandItem": -1,
     "leftHandItem": -1
   },
@@ -51178,6 +51238,24 @@
     "id": 8541,
     "rightHandItem": 0,
     "leftHandItem": 24999
+  },
+  {
+    "name": "Unnamed",
+    "id": 8542,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 8543,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 8544,
+    "rightHandItem": -1,
+    "leftHandItem": -1
   },
   {
     "name": "Nightmare staff volatile hit",
@@ -86452,5 +86530,281 @@
     "id": 14428,
     "rightHandItem": -1,
     "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14429,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14430,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14431,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14432,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14433,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14434,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14435,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14436,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14437,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14438,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14439,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14440,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14441,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14442,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14443,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14444,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14445,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14446,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14447,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14448,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14449,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14450,
+    "rightHandItem": 790,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14451,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14452,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14453,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14454,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14455,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14456,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14457,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14458,
+    "rightHandItem": 0,
+    "leftHandItem": 34559
+  },
+  {
+    "name": "Unnamed",
+    "id": 14459,
+    "rightHandItem": 0,
+    "leftHandItem": 34559
+  },
+  {
+    "name": "Unnamed",
+    "id": 14460,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14461,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14462,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14463,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14464,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14465,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14466,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14467,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14468,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14469,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14470,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14471,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14472,
+    "rightHandItem": -1,
+    "leftHandItem": -1
+  },
+  {
+    "name": "Unnamed",
+    "id": 14473,
+    "rightHandItem": 0,
+    "leftHandItem": 0
+  },
+  {
+    "name": "Unnamed",
+    "id": 14474,
+    "rightHandItem": 0,
+    "leftHandItem": 0
   }
 ]

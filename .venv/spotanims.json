@@ -25998,6 +25998,24 @@
     ]
   },
   {
+    "name": "Maggot king poison projectile",
+    "id": 1792,
+    "modelId": 35394,
+    "animationId": 8133,
+    "resizeX": 150,
+    "resizeY": 150,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": [
+      17321,
+      17321
+    ],
+    "recolorToFind": [
+      13235,
+      13239
+    ]
+  },
+  {
     "name": "Vanstrom enrage powerup",
     "id": 1793,
     "modelId": 28081,
@@ -34856,12 +34874,12 @@
   {
     "name": "Ancient axe special spotanim",
     "id": 2430,
-    "modelId": 43249,
-    "animationId": 10168,
+    "modelId": 61607,
+    "animationId": 609,
     "resizeX": 128,
     "resizeY": 128,
-    "ambient": 0,
-    "contrast": 0,
+    "ambient": 35,
+    "contrast": 244,
     "recolorToReplace": null,
     "recolorToFind": null
   },
@@ -55590,6 +55608,126 @@
     "resizeY": 128,
     "ambient": 0,
     "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Ancient axe special spotanim orn",
+    "id": 4008,
+    "modelId": 61606,
+    "animationId": 604,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 35,
+    "contrast": 244,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Ancient axe special spotanim old",
+    "id": 4009,
+    "modelId": 43249,
+    "animationId": 10168,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 0,
+    "contrast": 0,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx mad angel spawn",
+    "id": 4010,
+    "modelId": 61842,
+    "animationId": 4587,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 156,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx mad angel attack smite",
+    "id": 4011,
+    "modelId": 60639,
+    "animationId": 8542,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 156,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx mad angel attack smite enraged",
+    "id": 4012,
+    "modelId": 60639,
+    "animationId": 8544,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 156,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx mad angel attack smite impact",
+    "id": 4013,
+    "modelId": 48289,
+    "animationId": 11464,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 30,
+    "contrast": 156,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx mad angel attack bomb throw",
+    "id": 4014,
+    "modelId": 60632,
+    "animationId": 14444,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 156,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx mad angel attack bomb throw projectile",
+    "id": 4015,
+    "modelId": 60632,
+    "animationId": 14445,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 156,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx mad angel attack bomb throw impact 01",
+    "id": 4016,
+    "modelId": 60632,
+    "animationId": 14446,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 156,
+    "recolorToReplace": null,
+    "recolorToFind": null
+  },
+  {
+    "name": "Vfx mad angel attack bomb throw impact 02",
+    "id": 4017,
+    "modelId": 60632,
+    "animationId": 14447,
+    "resizeX": 128,
+    "resizeY": 128,
+    "ambient": 15,
+    "contrast": 156,
     "recolorToReplace": null,
     "recolorToFind": null
   }

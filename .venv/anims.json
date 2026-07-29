@@ -2264,6 +2264,10 @@
     "name": "Chatbored4"
   },
   {
+    "id": 566,
+    "name": "Human weapons crimson kisten attack alt"
+  },
+  {
     "id": 567,
     "name": "Chathap1"
   },
@@ -2310,6 +2314,10 @@
   {
     "id": 578,
     "name": "Chatcon4"
+  },
+  {
+    "id": 579,
+    "name": "Ancient axe special old"
   },
   {
     "id": 580,
@@ -2408,6 +2416,10 @@
     "name": "Chatdrunk4"
   },
   {
+    "id": 604,
+    "name": "Vfx human axe soulreaper orn special"
+  },
+  {
     "id": 605,
     "name": "Chatlaugh1"
   },
@@ -2422,6 +2434,10 @@
   {
     "id": 608,
     "name": "Chatlaugh4"
+  },
+  {
+    "id": 609,
+    "name": "Vfx human axe soulreaper special"
   },
   {
     "id": 610,
@@ -7948,6 +7964,10 @@
     "name": "Dragon ranged attacks"
   },
   {
+    "id": 1991,
+    "name": "Npc mad angel inactive"
+  },
+  {
     "id": 1992,
     "name": "Ic pit jump"
   },
@@ -13264,6 +13284,10 @@
     "name": "Mole mud splat interface"
   },
   {
+    "id": 3321,
+    "name": "Npc mad angel spawn"
+  },
+  {
     "id": 3322,
     "name": "Zygomite adult walk"
   },
@@ -18322,6 +18346,22 @@
   {
     "id": 4586,
     "name": "Eyeglo mind meld player"
+  },
+  {
+    "id": 4587,
+    "name": "Vfx mad angel spawn"
+  },
+  {
+    "id": 4588,
+    "name": "Npc mad angel idle"
+  },
+  {
+    "id": 4589,
+    "name": "Npc mad angel attack melee"
+  },
+  {
+    "id": 4590,
+    "name": "Npc mad angel attack smite"
   },
   {
     "id": 4591,
@@ -34118,6 +34158,18 @@
   {
     "id": 8541,
     "name": "Emote explore"
+  },
+  {
+    "id": 8542,
+    "name": "Vfx mad angel attack smite"
+  },
+  {
+    "id": 8543,
+    "name": "Npc mad angel attack smite enraged"
+  },
+  {
+    "id": 8544,
+    "name": "Vfx mad angel attack smite enraged"
   },
   {
     "id": 8545,
@@ -57634,5 +57686,189 @@
   {
     "id": 14428,
     "name": "Gg debris shadow 30"
+  },
+  {
+    "id": 14429,
+    "name": "Npc mad angel attack sweep right 01"
+  },
+  {
+    "id": 14430,
+    "name": "Npc mad angel attack sweep right 02"
+  },
+  {
+    "id": 14431,
+    "name": "Npc mad angel attack sweep right left"
+  },
+  {
+    "id": 14432,
+    "name": "Npc mad angel attack sweep right reset"
+  },
+  {
+    "id": 14433,
+    "name": "Npc mad angel attack sweep left 01"
+  },
+  {
+    "id": 14434,
+    "name": "Npc mad angel attack sweep left 02"
+  },
+  {
+    "id": 14435,
+    "name": "Npc mad angel attack sweep left right"
+  },
+  {
+    "id": 14436,
+    "name": "Npc mad angel attack sweep left reset"
+  },
+  {
+    "id": 14437,
+    "name": "Npc mad angel attack sweep right enraged 01"
+  },
+  {
+    "id": 14438,
+    "name": "Npc mad angel attack sweep right enraged 02"
+  },
+  {
+    "id": 14439,
+    "name": "Npc mad angel attack sweep right left enraged"
+  },
+  {
+    "id": 14440,
+    "name": "Npc mad angel attack sweep left enraged 01"
+  },
+  {
+    "id": 14441,
+    "name": "Npc mad angel attack sweep left enraged 02"
+  },
+  {
+    "id": 14442,
+    "name": "Npc mad angel attack sweep left right enraged"
+  },
+  {
+    "id": 14443,
+    "name": "Npc mad angel attack bomb throw"
+  },
+  {
+    "id": 14444,
+    "name": "Vfx mad angel attack bomb throw"
+  },
+  {
+    "id": 14445,
+    "name": "Vfx mad angel attack bomb throw projectile"
+  },
+  {
+    "id": 14446,
+    "name": "Vfx mad angel attack bomb throw impact 01"
+  },
+  {
+    "id": 14447,
+    "name": "Vfx mad angel attack bomb throw impact 02"
+  },
+  {
+    "id": 14448,
+    "name": "Npc mad angel attack death"
+  },
+  {
+    "id": 14449,
+    "name": "Goat update walk merge"
+  },
+  {
+    "id": 14450,
+    "name": "Cattleprod walkmerge"
+  },
+  {
+    "id": 14451,
+    "name": "Human golem activate"
+  },
+  {
+    "id": 14452,
+    "name": "Human golem walk"
+  },
+  {
+    "id": 14453,
+    "name": "Human golem powered up idle"
+  },
+  {
+    "id": 14454,
+    "name": "Human golem powered down idle"
+  },
+  {
+    "id": 14455,
+    "name": "Human golem despawn"
+  },
+  {
+    "id": 14456,
+    "name": "Human golem broken idle"
+  },
+  {
+    "id": 14457,
+    "name": "Human golem broken activate"
+  },
+  {
+    "id": 14458,
+    "name": "Human golem chisel"
+  },
+  {
+    "id": 14459,
+    "name": "Human golem chisel end"
+  },
+  {
+    "id": 14460,
+    "name": "Human golem walk into water"
+  },
+  {
+    "id": 14461,
+    "name": "Goat hunting jump death"
+  },
+  {
+    "id": 14462,
+    "name": "Mortimer idle"
+  },
+  {
+    "id": 14463,
+    "name": "Goat hunting telegrab death"
+  },
+  {
+    "id": 14464,
+    "name": "Goat hunting telegrab end"
+  },
+  {
+    "id": 14465,
+    "name": "Human hallowfell idle"
+  },
+  {
+    "id": 14466,
+    "name": "Human hallowfell walk"
+  },
+  {
+    "id": 14467,
+    "name": "Human hallowfell chop"
+  },
+  {
+    "id": 14468,
+    "name": "Human hallowfell run"
+  },
+  {
+    "id": 14469,
+    "name": "Human hallowfell smash"
+  },
+  {
+    "id": 14470,
+    "name": "Human hallowfell slash"
+  },
+  {
+    "id": 14471,
+    "name": "Human hallowfell block"
+  },
+  {
+    "id": 14472,
+    "name": "Human hallowfell defend"
+  },
+  {
+    "id": 14473,
+    "name": "Tol player rummage01 walkmerge"
+  },
+  {
+    "id": 14474,
+    "name": "Goat hunting lay spikes"
   }
 ]
