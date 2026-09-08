@@ -56661,7 +56661,7 @@
   },
   {
     "id": 14172,
-    "name": "Portal vampyrium01 full sequence"
+    "name": "Amulet of air create"
   },
   {
     "id": 14173,
@@ -57958,5 +57958,97 @@
   {
     "id": 14496,
     "name": "Forestry campfire burning rosewood logs noloop"
+  },
+  {
+    "id": 14497,
+    "name": "Spotanim amulet of fire create"
+  },
+  {
+    "id": 14498,
+    "name": "Dog update dig"
+  },
+  {
+    "id": 14499,
+    "name": "Dog update dig small"
+  },
+  {
+    "id": 14500,
+    "name": "Horror crab hide loop"
+  },
+  {
+    "id": 14501,
+    "name": "Horror crab dance"
+  },
+  {
+    "id": 14502,
+    "name": "Dog quest straydog attack"
+  },
+  {
+    "id": 14503,
+    "name": "Human play shell 1"
+  },
+  {
+    "id": 14504,
+    "name": "Human play shell 2"
+  },
+  {
+    "id": 14505,
+    "name": "Human play shell 3"
+  },
+  {
+    "id": 14506,
+    "name": "Human play shell 4"
+  },
+  {
+    "id": 14507,
+    "name": "Human play shell 5"
+  },
+  {
+    "id": 14508,
+    "name": "Human play shell 6"
+  },
+  {
+    "id": 14509,
+    "name": "Human play shell 7"
+  },
+  {
+    "id": 14510,
+    "name": "Human drink charting bottle"
+  },
+  {
+    "id": 14511,
+    "name": "Crab sand circle 1"
+  },
+  {
+    "id": 14512,
+    "name": "Crab sand circle 2"
+  },
+  {
+    "id": 14513,
+    "name": "Crab sand circle 3"
+  },
+  {
+    "id": 14514,
+    "name": "Crab sand circle 4"
+  },
+  {
+    "id": 14515,
+    "name": "Crab sand circle 5"
+  },
+  {
+    "id": 14516,
+    "name": "Crab sand circle 6"
+  },
+  {
+    "id": 14517,
+    "name": "Crab sand circle 7"
+  },
+  {
+    "id": 14518,
+    "name": "Crab sand circle 8"
+  },
+  {
+    "id": 14519,
+    "name": "Crab sand circle initial"
   }
 ]

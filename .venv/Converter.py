@@ -11,12 +11,12 @@ def main():
         print("Directory is empty or isn't 'dump.' Canceling program.")
         return
 
-    perform_kit = True
-    perform_obj = True
+    perform_kit = False
+    perform_obj = False
     perform_spotanim = True
-    perform_seq = True
-    perform_item = True
-    perform_npc = True
+    perform_seq = False
+    perform_item = False
+    perform_npc = False
     perform_anim = True
 
     # 0 8057, stand
@@ -78,42 +78,6 @@ def main():
         print("Finished kit")
 
     if perform_spotanim:
-        spotanim_file_list = []
-        spotanim_path = directory + '/spotanims/'
-        print("Found ", spotanim_path, ", beginning dump.")
-        for spotanim_filenames in os.walk(spotanim_path):
-            spotanim_file_list.append(spotanim_filenames)
-
-        spotanim_list = []
-        for i in range(len(spotanim_filenames[2])):
-            try:
-                data = json.load(open(spotanim_path + spotanim_filenames[2][i], encoding='utf-8'))
-
-                id = data.get('id')
-                name = 'Unnamed'
-
-                modelId = data.get('modelId')
-                animationId = data.get('animationId')
-                resizeX = data.get('resizeX')
-                resizeY = data.get('resizeY')
-                ambient = data.get('ambient')
-                contrast = data.get('contrast')
-                recolorToReplace = data.get('recolorToReplace')
-                recolorToFind = data.get('recolorToFind')
-                spotanim_final = {'name': name,
-                                  'id': id,
-                                  'modelId': modelId,
-                                  'animationId': animationId,
-                                  'resizeX': resizeX,
-                                  'resizeY': resizeY,
-                                  'ambient': ambient,
-                                  'contrast': contrast,
-                                  'recolorToReplace': recolorToReplace,
-                                  'recolorToFind': recolorToFind}
-                spotanim_list.append(spotanim_final)
-            except Exception:
-                pass
-
         spotanim_names_file_list = []
         spotanim_names_path = directory + '/gamevals/8/'
         print("Found ", spotanim_names_path, ", beginning dump.")
@@ -131,33 +95,8 @@ def main():
                 name = name.replace('_', ' ')
                 name = name.capitalize()
 
-                test = None
-                for sa in spotanim_list:
-                    if sa.get('id') == id:
-                        test = sa
-                        break
-
-                if test is None:
-                    continue
-
-                modelId = sa.get('modelId')
-                animationId = sa.get('animationId')
-                resizeX = sa.get('resizeX')
-                resizeY = sa.get('resizeY')
-                ambient = sa.get('ambient')
-                contrast = sa.get('contrast')
-                recolorToReplace = sa.get('recolorToReplace')
-                recolorToFind = sa.get('recolorToFind')
                 spotanim_final = {'name': name,
-                                  'id': id,
-                                  'modelId': modelId,
-                                  'animationId': animationId,
-                                  'resizeX': resizeX,
-                                  'resizeY': resizeY,
-                                  'ambient': ambient,
-                                  'contrast': contrast,
-                                  'recolorToReplace': recolorToReplace,
-                                  'recolorToFind': recolorToFind}
+                                  'id': id}
                 spotanim_final_list.append(spotanim_final)
             except Exception:
                 pass
