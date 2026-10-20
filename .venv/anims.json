@@ -58054,5 +58054,2573 @@
   {
     "id": 14520,
     "name": "Maiden pet idle"
+  },
+  {
+    "id": 14521,
+    "name": "Godwars bandos walk nosound"
+  },
+  {
+    "id": 14522,
+    "name": "Godwars bandos attack nosound"
+  },
+  {
+    "id": 14523,
+    "name": "Godwars bandos ranged nosound"
+  },
+  {
+    "id": 14524,
+    "name": "Vfx player yama magic shadow impact start"
+  },
+  {
+    "id": 14525,
+    "name": "Vfx yama meteor impact 01 silent"
+  },
+  {
+    "id": 14526,
+    "name": "Nightmare projectile rift idle fast"
+  },
+  {
+    "id": 14527,
+    "name": "Wild zealot slash restart"
+  },
+  {
+    "id": 14528,
+    "name": "Wild zealot defend highprio"
+  },
+  {
+    "id": 14529,
+    "name": "Leagues 6 thrall imp melee attack silent"
+  },
+  {
+    "id": 14530,
+    "name": "Leagues 6 thrall imp melee despawn silent"
+  },
+  {
+    "id": 14531,
+    "name": "Agilityarena player spikedback merge"
+  },
+  {
+    "id": 14532,
+    "name": "Human doom scorpion 01 player death 01 fast"
+  },
+  {
+    "id": 14533,
+    "name": "Vfx doom scorpion 01 player death 01 fast"
+  },
+  {
+    "id": 14534,
+    "name": "Human sit recovering"
+  },
+  {
+    "id": 14535,
+    "name": "Mahjarrat attack lightning05 silent dupe"
+  },
+  {
+    "id": 14536,
+    "name": "Vmq4 protection ennius cast short"
+  },
+  {
+    "id": 14537,
+    "name": "Luc2 undead demon shield deplete spot"
+  },
+  {
+    "id": 14538,
+    "name": "Bork stunned"
+  },
+  {
+    "id": 14539,
+    "name": "Npc bork walk01"
+  },
+  {
+    "id": 14540,
+    "name": "Npc bork idle01"
+  },
+  {
+    "id": 14541,
+    "name": "Npc bork death01"
+  },
+  {
+    "id": 14542,
+    "name": "Npc bork gong melee01"
+  },
+  {
+    "id": 14543,
+    "name": "Npc bork stun01"
+  },
+  {
+    "id": 14544,
+    "name": "Npc bork 12 cycle stun01"
+  },
+  {
+    "id": 14545,
+    "name": "Npc bork 14 cycle stun01"
+  },
+  {
+    "id": 14546,
+    "name": "Npc bork enraged gong attack in01"
+  },
+  {
+    "id": 14547,
+    "name": "Npc bork enraged gong attack01"
+  },
+  {
+    "id": 14548,
+    "name": "Npc bork enraged gong attack out01"
+  },
+  {
+    "id": 14549,
+    "name": "Npc bork enraged stomp attack in01"
+  },
+  {
+    "id": 14550,
+    "name": "Npc bork enraged stomp attack01"
+  },
+  {
+    "id": 14551,
+    "name": "Npc bork enraged stomp attack cycle and out01"
+  },
+  {
+    "id": 14552,
+    "name": "Npc bork enraged stomp attack out01"
+  },
+  {
+    "id": 14553,
+    "name": "Npc smork idle01"
+  },
+  {
+    "id": 14554,
+    "name": "Npc smork cannon attack01"
+  },
+  {
+    "id": 14555,
+    "name": "Npc smork big cannon attack01"
+  },
+  {
+    "id": 14556,
+    "name": "Npc bork idle to enraged stomp attack in01"
+  },
+  {
+    "id": 14557,
+    "name": "Npc bork idle to enraged gong attack in01"
+  },
+  {
+    "id": 14558,
+    "name": "Npc bork death spotanim01"
+  },
+  {
+    "id": 14559,
+    "name": "Npc bork gong melee spotanim01"
+  },
+  {
+    "id": 14560,
+    "name": "Npc bork stun spotanim01"
+  },
+  {
+    "id": 14561,
+    "name": "Npc bork enraged stomp spotanim01"
+  },
+  {
+    "id": 14562,
+    "name": "Npc bork 12 cycle stun spotanim01"
+  },
+  {
+    "id": 14563,
+    "name": "Npc bork 14 cycle stun spotanim01"
+  },
+  {
+    "id": 14564,
+    "name": "Npc smork cannon attack spotanim01"
+  },
+  {
+    "id": 14565,
+    "name": "Npc smork big cannon attack spotanim01"
+  },
+  {
+    "id": 14566,
+    "name": "Npc smork big cannon attack flash spotanim01"
+  },
+  {
+    "id": 14567,
+    "name": "Npc smork napalm attack projanim01"
+  },
+  {
+    "id": 14568,
+    "name": "Npc smork napalm splat spotanim01"
+  },
+  {
+    "id": 14569,
+    "name": "Npc smork napalm despawn spotanim01"
+  },
+  {
+    "id": 14570,
+    "name": "Npc smork napalm fire spotanim01"
+  },
+  {
+    "id": 14571,
+    "name": "Npc smork range player spotanim01"
+  },
+  {
+    "id": 14572,
+    "name": "Npc smork range attack projanim01"
+  },
+  {
+    "id": 14573,
+    "name": "Npc smork mage attack projanim01"
+  },
+  {
+    "id": 14574,
+    "name": "Npc smork mage attack spotanim01"
+  },
+  {
+    "id": 14575,
+    "name": "Npc smork mage hit spotanim01"
+  },
+  {
+    "id": 14576,
+    "name": "Npc smork napalm splat fade spotanim01"
+  },
+  {
+    "id": 14577,
+    "name": "Npc smork tower death spotanim01"
+  },
+  {
+    "id": 14578,
+    "name": "Npc smork goblins death spotanim01"
+  },
+  {
+    "id": 14579,
+    "name": "Npc smork death explosion spotanim01"
+  },
+  {
+    "id": 14580,
+    "name": "Vfx dagonhai demonic strength telegraph"
+  },
+  {
+    "id": 14581,
+    "name": "Npc dagonhai idle 01"
+  },
+  {
+    "id": 14582,
+    "name": "Npc dagonhai idle 02"
+  },
+  {
+    "id": 14583,
+    "name": "Npc dagonhai idle 03"
+  },
+  {
+    "id": 14584,
+    "name": "Npc dagonhai idle weakened 01"
+  },
+  {
+    "id": 14585,
+    "name": "Npc dagonhai idle weakened 02"
+  },
+  {
+    "id": 14586,
+    "name": "Npc dagonhai idle weakened 03"
+  },
+  {
+    "id": 14587,
+    "name": "Npc dagonhai walk 01"
+  },
+  {
+    "id": 14588,
+    "name": "Npc dagonhai walk 02"
+  },
+  {
+    "id": 14589,
+    "name": "Npc dagonhai walk 03"
+  },
+  {
+    "id": 14590,
+    "name": "Npc dagonhai walk weakened 01"
+  },
+  {
+    "id": 14591,
+    "name": "Npc dagonhai walk weakened 02"
+  },
+  {
+    "id": 14592,
+    "name": "Npc dagonhai walk weakened 03"
+  },
+  {
+    "id": 14593,
+    "name": "Npc dagonhai attack ranged 01"
+  },
+  {
+    "id": 14594,
+    "name": "Vfx dagonhai attack ranged 01"
+  },
+  {
+    "id": 14595,
+    "name": "Vfx projanim dagonhai attack ranged 01"
+  },
+  {
+    "id": 14596,
+    "name": "Vfx hitanim dagonhai attack ranged 01"
+  },
+  {
+    "id": 14597,
+    "name": "Npc dagonhai attack magic 01"
+  },
+  {
+    "id": 14598,
+    "name": "Vfx dagonhai attack magic 01"
+  },
+  {
+    "id": 14599,
+    "name": "Npc dagonhai attack magic 02"
+  },
+  {
+    "id": 14600,
+    "name": "Vfx dagonhai attack magic 02"
+  },
+  {
+    "id": 14601,
+    "name": "Npc dagonhai attack magic 03"
+  },
+  {
+    "id": 14602,
+    "name": "Vfx dagonhai attack magic 03"
+  },
+  {
+    "id": 14603,
+    "name": "Npc dagonhai attack magic 04"
+  },
+  {
+    "id": 14604,
+    "name": "Npc dagonhai attack magic guthix 04"
+  },
+  {
+    "id": 14605,
+    "name": "Vfx dagonhai attack magic 04"
+  },
+  {
+    "id": 14606,
+    "name": "Vfx dagonhai attack magic 04 guthix energy"
+  },
+  {
+    "id": 14607,
+    "name": "Npc dagonhai charge cauldron idle 01"
+  },
+  {
+    "id": 14608,
+    "name": "Vfx dagonhai charge cauldron idle 01"
+  },
+  {
+    "id": 14609,
+    "name": "Npc dagonhai charge cauldron end 01"
+  },
+  {
+    "id": 14610,
+    "name": "Vfx dagonhai charge cauldron end 01"
+  },
+  {
+    "id": 14611,
+    "name": "Npc dagonhai charge cauldron interrupted 01"
+  },
+  {
+    "id": 14612,
+    "name": "Npc dagonhai charge cauldron idle 02"
+  },
+  {
+    "id": 14613,
+    "name": "Vfx dagonhai charge cauldron idle 02"
+  },
+  {
+    "id": 14614,
+    "name": "Npc dagonhai charge cauldron end 02"
+  },
+  {
+    "id": 14615,
+    "name": "Vfx dagonhai charge cauldron end 02"
+  },
+  {
+    "id": 14616,
+    "name": "Npc dagonhai charge cauldron interrupted 02"
+  },
+  {
+    "id": 14617,
+    "name": "Npc dagonhai charge cauldron idle 03"
+  },
+  {
+    "id": 14618,
+    "name": "Vfx dagonhai charge cauldron idle 03"
+  },
+  {
+    "id": 14619,
+    "name": "Npc dagonhai charge cauldron end 03"
+  },
+  {
+    "id": 14620,
+    "name": "Vfx dagonhai charge cauldron end 03"
+  },
+  {
+    "id": 14621,
+    "name": "Npc dagonhai charge cauldron interrupted 03"
+  },
+  {
+    "id": 14622,
+    "name": "Npc dagonhai search books idle 01"
+  },
+  {
+    "id": 14623,
+    "name": "Npc dagonhai search books end 01"
+  },
+  {
+    "id": 14624,
+    "name": "Npc dagonhai throw book zamorak 01"
+  },
+  {
+    "id": 14625,
+    "name": "Npc dagonhai throw book bandos 01"
+  },
+  {
+    "id": 14626,
+    "name": "Npc dagonhai throw book saradomin 01"
+  },
+  {
+    "id": 14627,
+    "name": "Vfx dagonhai throw book zamorak 01"
+  },
+  {
+    "id": 14628,
+    "name": "Vfx dagonhai throw book saradomin 01"
+  },
+  {
+    "id": 14629,
+    "name": "Vfx dagonhai throw book bandos 01"
+  },
+  {
+    "id": 14630,
+    "name": "Npc dagonhai search books idle 02"
+  },
+  {
+    "id": 14631,
+    "name": "Npc dagonhai search books end 02"
+  },
+  {
+    "id": 14632,
+    "name": "Npc dagonhai throw book zamorak 02"
+  },
+  {
+    "id": 14633,
+    "name": "Npc dagonhai throw book bandos 02"
+  },
+  {
+    "id": 14634,
+    "name": "Npc dagonhai throw book saradomin 02"
+  },
+  {
+    "id": 14635,
+    "name": "Vfx dagonhai throw book zamorak 02"
+  },
+  {
+    "id": 14636,
+    "name": "Vfx dagonhai throw book saradomin 02"
+  },
+  {
+    "id": 14637,
+    "name": "Vfx dagonhai throw book bandos 02"
+  },
+  {
+    "id": 14638,
+    "name": "Vfx dagonhai throw book projectile zamorak 01"
+  },
+  {
+    "id": 14639,
+    "name": "Vfx dagonhai throw book impact zamorak 01"
+  },
+  {
+    "id": 14640,
+    "name": "Vfx dagonhai throw book projectile saradomin 01"
+  },
+  {
+    "id": 14641,
+    "name": "Vfx dagonhai throw book impact saradomin 01"
+  },
+  {
+    "id": 14642,
+    "name": "Vfx dagonhai throw book projectile bandos 01"
+  },
+  {
+    "id": 14643,
+    "name": "Vfx dagonhai throw book impact bandos 01"
+  },
+  {
+    "id": 14644,
+    "name": "Vfx dagonhai throw book floor spotanim north 01"
+  },
+  {
+    "id": 14645,
+    "name": "Vfx dagonhai throw book floor spotanim north east 01"
+  },
+  {
+    "id": 14646,
+    "name": "Vfx dagonhai throw book floor spotanim east 01"
+  },
+  {
+    "id": 14647,
+    "name": "Vfx dagonhai throw book floor spotanim south east 01"
+  },
+  {
+    "id": 14648,
+    "name": "Vfx dagonhai throw book floor spotanim south 01"
+  },
+  {
+    "id": 14649,
+    "name": "Vfx dagonhai throw book floor spotanim south west 01"
+  },
+  {
+    "id": 14650,
+    "name": "Vfx dagonhai throw book floor spotanim west 01"
+  },
+  {
+    "id": 14651,
+    "name": "Vfx dagonhai throw book floor spotanim north west 01"
+  },
+  {
+    "id": 14652,
+    "name": "Npc dagonhai death 01"
+  },
+  {
+    "id": 14653,
+    "name": "Npc dagonhai death 02"
+  },
+  {
+    "id": 14654,
+    "name": "Npc dagonhai death 03"
+  },
+  {
+    "id": 14655,
+    "name": "Vfx dagonhai death 03"
+  },
+  {
+    "id": 14656,
+    "name": "Npc dagonhai cauldron idle 01"
+  },
+  {
+    "id": 14657,
+    "name": "Npc dagonhai cauldron attack 01 zamorak"
+  },
+  {
+    "id": 14658,
+    "name": "Vfx dagonhai cauldron attack 01 zamorak"
+  },
+  {
+    "id": 14659,
+    "name": "Npc dagonhai cauldron attack 02 saradomin"
+  },
+  {
+    "id": 14660,
+    "name": "Vfx dagonhai cauldron attack 02 saradomin"
+  },
+  {
+    "id": 14661,
+    "name": "Npc dagonhai cauldron attack 03 bandos"
+  },
+  {
+    "id": 14662,
+    "name": "Vfx dagonhai cauldron attack 03 bandos"
+  },
+  {
+    "id": 14663,
+    "name": "Vfx dagonhai cauldron attack zamorak projanim 01"
+  },
+  {
+    "id": 14664,
+    "name": "Vfx dagonhai cauldron attack zamorak aoe idle 00"
+  },
+  {
+    "id": 14665,
+    "name": "Vfx dagonhai cauldron attack zamorak aoe idle 01"
+  },
+  {
+    "id": 14666,
+    "name": "Vfx dagonhai cauldron attack zamorak aoe idle 02"
+  },
+  {
+    "id": 14667,
+    "name": "Vfx dagonhai cauldron attack zamorak aoe idle 03"
+  },
+  {
+    "id": 14668,
+    "name": "Vfx dagonhai cauldron attack zamorak aoe attack 01"
+  },
+  {
+    "id": 14669,
+    "name": "Vfx dagonhai cauldron attack stormcloud idle 01"
+  },
+  {
+    "id": 14670,
+    "name": "Vfx dagonhai cauldron attack stormcloud despawn 01"
+  },
+  {
+    "id": 14671,
+    "name": "Vfx dagonhai cauldron attack stormcloud idle 02"
+  },
+  {
+    "id": 14672,
+    "name": "Vfx dagonhai cauldron attack stormcloud despawn 02"
+  },
+  {
+    "id": 14673,
+    "name": "Vfx dagonhai cauldron attack bandos aoe attack 01"
+  },
+  {
+    "id": 14674,
+    "name": "Vfx dagonhai cauldron attack bandos aoe attack 02"
+  },
+  {
+    "id": 14675,
+    "name": "Vfx dagonhai cauldron attack bandos aoe attack 03"
+  },
+  {
+    "id": 14676,
+    "name": "Vfx dagonhai cauldron attack bandos aoe attack 04"
+  },
+  {
+    "id": 14677,
+    "name": "Vfx dagonhai demon buff player spotanim 01"
+  },
+  {
+    "id": 14678,
+    "name": "Npc dagonhai cauldron attack 04 guthix 01"
+  },
+  {
+    "id": 14679,
+    "name": "Npc dagonhai cauldron attack 04 guthix 02"
+  },
+  {
+    "id": 14680,
+    "name": "Vfx dagonhai cauldron attack 04 guthix 02"
+  },
+  {
+    "id": 14681,
+    "name": "Loc dagonhai spellbook guthix idle 01"
+  },
+  {
+    "id": 14682,
+    "name": "Loc dagonhai spellbook guthix open"
+  },
+  {
+    "id": 14683,
+    "name": "Npc ezekiel idle01"
+  },
+  {
+    "id": 14684,
+    "name": "Npc ezekiel walk01"
+  },
+  {
+    "id": 14685,
+    "name": "Npc ezekiel melee01"
+  },
+  {
+    "id": 14686,
+    "name": "Npc ezekiel magic01"
+  },
+  {
+    "id": 14687,
+    "name": "Npc ezekiel special01"
+  },
+  {
+    "id": 14688,
+    "name": "Npc ezekiel heal01"
+  },
+  {
+    "id": 14689,
+    "name": "Npc ezekiel death01"
+  },
+  {
+    "id": 14690,
+    "name": "Npc ezekiel death sword01"
+  },
+  {
+    "id": 14691,
+    "name": "Npc ezekiel idle to weaken01"
+  },
+  {
+    "id": 14692,
+    "name": "Npc ezekiel weaken01"
+  },
+  {
+    "id": 14693,
+    "name": "Npc ezekiel weaken to idle01"
+  },
+  {
+    "id": 14694,
+    "name": "Npc ezekiel finale01"
+  },
+  {
+    "id": 14695,
+    "name": "Npc ezekiel finale01 vfx"
+  },
+  {
+    "id": 14696,
+    "name": "Npc ezekiel finale loop01"
+  },
+  {
+    "id": 14697,
+    "name": "Npc ezekiel finale death01"
+  },
+  {
+    "id": 14698,
+    "name": "Vfx ezekiel magic attack01"
+  },
+  {
+    "id": 14699,
+    "name": "Vfx ezekiel magic attack impact01"
+  },
+  {
+    "id": 14700,
+    "name": "Vfx ezekiel star crack01"
+  },
+  {
+    "id": 14701,
+    "name": "Vfx ezekiel star explosion spawn01"
+  },
+  {
+    "id": 14702,
+    "name": "Vfx ezekiel star explosion marker01"
+  },
+  {
+    "id": 14703,
+    "name": "Vfx ezekiel star explosion01"
+  },
+  {
+    "id": 14704,
+    "name": "Vfx ezekiel heal01"
+  },
+  {
+    "id": 14705,
+    "name": "Tfa ezekiel roll"
+  },
+  {
+    "id": 14706,
+    "name": "Tfa ezekiel strafe"
+  },
+  {
+    "id": 14707,
+    "name": "Vfx ezekial sword spin"
+  },
+  {
+    "id": 14708,
+    "name": "Vfx ezekiel finale attack01"
+  },
+  {
+    "id": 14709,
+    "name": "Vfx ezekiel finale attack loop01"
+  },
+  {
+    "id": 14710,
+    "name": "Vfx ezekiel finale sword drop01"
+  },
+  {
+    "id": 14711,
+    "name": "Vfx ezekiel finale sword telegraph01"
+  },
+  {
+    "id": 14712,
+    "name": "Vfx ezekiel finale sword despawn01"
+  },
+  {
+    "id": 14713,
+    "name": "Vfx ezekiel finale sword idle01"
+  },
+  {
+    "id": 14714,
+    "name": "Vfx ezekiel finale sword drop02"
+  },
+  {
+    "id": 14715,
+    "name": "Vfx ezekiel finale sword telegraph02"
+  },
+  {
+    "id": 14716,
+    "name": "Vfx ezekiel finale sword despawn02"
+  },
+  {
+    "id": 14717,
+    "name": "Vfx ezekiel finale sword idle02"
+  },
+  {
+    "id": 14718,
+    "name": "Vfx ezekiel finale sword drop03"
+  },
+  {
+    "id": 14719,
+    "name": "Vfx ezekiel finale sword telegraph03"
+  },
+  {
+    "id": 14720,
+    "name": "Vfx ezekiel finale sword despawn03"
+  },
+  {
+    "id": 14721,
+    "name": "Vfx ezekiel finale sword idle03"
+  },
+  {
+    "id": 14722,
+    "name": "Vfx ezekiel finale sword drop04"
+  },
+  {
+    "id": 14723,
+    "name": "Vfx ezekiel finale sword telegraph04"
+  },
+  {
+    "id": 14724,
+    "name": "Vfx ezekiel finale sword despawn04"
+  },
+  {
+    "id": 14725,
+    "name": "Vfx ezekiel finale sword idle04"
+  },
+  {
+    "id": 14726,
+    "name": "Vfx ezekiel finale impact large01"
+  },
+  {
+    "id": 14727,
+    "name": "Vfx ezekiel finale impact medium01"
+  },
+  {
+    "id": 14728,
+    "name": "Vfx ezekiel finale impact small01"
+  },
+  {
+    "id": 14729,
+    "name": "Vfx ezekiel fence template"
+  },
+  {
+    "id": 14730,
+    "name": "Vfx ezekiel fence template 02"
+  },
+  {
+    "id": 14731,
+    "name": "Vfx ezekiel sword fence drop01"
+  },
+  {
+    "id": 14732,
+    "name": "Vfx ezekiel sword fence idle01"
+  },
+  {
+    "id": 14733,
+    "name": "Vfx ezekiel sword fence drop02"
+  },
+  {
+    "id": 14734,
+    "name": "Vfx ezekiel sword fence idle02"
+  },
+  {
+    "id": 14735,
+    "name": "Vfx ezekiel sword fence drop03"
+  },
+  {
+    "id": 14736,
+    "name": "Vfx ezekiel sword fence idle03"
+  },
+  {
+    "id": 14737,
+    "name": "Vfx ezekiel sword fence drop04"
+  },
+  {
+    "id": 14738,
+    "name": "Vfx ezekiel sword fence idle04"
+  },
+  {
+    "id": 14739,
+    "name": "Vfx ezekiel sword fence drop05"
+  },
+  {
+    "id": 14740,
+    "name": "Vfx ezekiel sword fence idle05"
+  },
+  {
+    "id": 14741,
+    "name": "Vfx ezekiel sword fence drop06"
+  },
+  {
+    "id": 14742,
+    "name": "Vfx ezekiel sword fence idle06"
+  },
+  {
+    "id": 14743,
+    "name": "Vfx ezekiel sword fence drop07"
+  },
+  {
+    "id": 14744,
+    "name": "Vfx ezekiel sword fence idle07"
+  },
+  {
+    "id": 14745,
+    "name": "Npc archive guardian idle01"
+  },
+  {
+    "id": 14746,
+    "name": "Npc archive guardian ground idle01"
+  },
+  {
+    "id": 14747,
+    "name": "Npc archive guardian idle to ground01"
+  },
+  {
+    "id": 14748,
+    "name": "Npc archive guardian ground to flying01"
+  },
+  {
+    "id": 14749,
+    "name": "Npc archive guardian death01"
+  },
+  {
+    "id": 14750,
+    "name": "Npc archive guardian swoosh attack01"
+  },
+  {
+    "id": 14751,
+    "name": "Npc archive guardian range attack01"
+  },
+  {
+    "id": 14752,
+    "name": "Npc archive guardian melee attack01"
+  },
+  {
+    "id": 14753,
+    "name": "Npc archive guardian special attack01"
+  },
+  {
+    "id": 14754,
+    "name": "Npc archive guardian enraged phase01"
+  },
+  {
+    "id": 14755,
+    "name": "Npc archive guardian spawn01"
+  },
+  {
+    "id": 14756,
+    "name": "Tfa archive guardian mushroom spawn"
+  },
+  {
+    "id": 14757,
+    "name": "Npc archive guardian spawn idle01"
+  },
+  {
+    "id": 14758,
+    "name": "Npc archive guardian death pose01"
+  },
+  {
+    "id": 14759,
+    "name": "Npc archive guardian range spotanim01"
+  },
+  {
+    "id": 14760,
+    "name": "Npc archive guardian range hitanim01"
+  },
+  {
+    "id": 14761,
+    "name": "Npc archive guardian range projanim01"
+  },
+  {
+    "id": 14762,
+    "name": "Tfa guardian idletoground spotanim01"
+  },
+  {
+    "id": 14763,
+    "name": "Tfa guardian groundtoidle spotanim01"
+  },
+  {
+    "id": 14764,
+    "name": "Npc archive guardian enraged phase spotanim01"
+  },
+  {
+    "id": 14765,
+    "name": "Npc archive guardian special attack spotanim01"
+  },
+  {
+    "id": 14766,
+    "name": "Npc archive guardian spawn spotanim01"
+  },
+  {
+    "id": 14767,
+    "name": "Npc archive guardian spawn idle spotanim01"
+  },
+  {
+    "id": 14768,
+    "name": "Npc guardian archive tentacle attack01"
+  },
+  {
+    "id": 14769,
+    "name": "Npc guardian archive tentacle despawn01"
+  },
+  {
+    "id": 14770,
+    "name": "Npc guardian archive tentacle idle01"
+  },
+  {
+    "id": 14771,
+    "name": "Npc guardian archive tentacle spawn01"
+  },
+  {
+    "id": 14772,
+    "name": "Npc guardian tentacle intro spotnaimn01"
+  },
+  {
+    "id": 14773,
+    "name": "Npc jelly jump 3"
+  },
+  {
+    "id": 14774,
+    "name": "Npc jelly jump 1"
+  },
+  {
+    "id": 14775,
+    "name": "Jelly spawning idle"
+  },
+  {
+    "id": 14776,
+    "name": "Dreadnoth idle01"
+  },
+  {
+    "id": 14777,
+    "name": "Dreadnoth jump01"
+  },
+  {
+    "id": 14778,
+    "name": "Dreadnoth slide01"
+  },
+  {
+    "id": 14779,
+    "name": "Dreadnoth melee01"
+  },
+  {
+    "id": 14780,
+    "name": "Dreadnoth jump02"
+  },
+  {
+    "id": 14781,
+    "name": "Vfx dreadnoth ranged01"
+  },
+  {
+    "id": 14782,
+    "name": "Dreadnoth death01"
+  },
+  {
+    "id": 14783,
+    "name": "Moia idle01"
+  },
+  {
+    "id": 14784,
+    "name": "Moia death01"
+  },
+  {
+    "id": 14785,
+    "name": "Moia projectile attack01"
+  },
+  {
+    "id": 14786,
+    "name": "Moia dagger attack01"
+  },
+  {
+    "id": 14787,
+    "name": "Moia chant01"
+  },
+  {
+    "id": 14788,
+    "name": "Moia teleport01"
+  },
+  {
+    "id": 14789,
+    "name": "Moia minion idle"
+  },
+  {
+    "id": 14790,
+    "name": "Moia minion walk"
+  },
+  {
+    "id": 14791,
+    "name": "Moia minion attack"
+  },
+  {
+    "id": 14792,
+    "name": "Moia minion death"
+  },
+  {
+    "id": 14793,
+    "name": "Npc moia range attack projanim01"
+  },
+  {
+    "id": 14794,
+    "name": "Npc moia mage attack projanim01"
+  },
+  {
+    "id": 14795,
+    "name": "Npc moia infect attack spotanim01"
+  },
+  {
+    "id": 14796,
+    "name": "Npc moia infect projanim01"
+  },
+  {
+    "id": 14797,
+    "name": "Npc moia teleport spotanim01"
+  },
+  {
+    "id": 14798,
+    "name": "Npc moia teleport in spotanim01"
+  },
+  {
+    "id": 14799,
+    "name": "Npc moia teleport death spotanim01"
+  },
+  {
+    "id": 14800,
+    "name": "Npc moia minion empower in spotanim01"
+  },
+  {
+    "id": 14801,
+    "name": "Npc moia minion empower spotanim01"
+  },
+  {
+    "id": 14802,
+    "name": "Npc moia minion empower out spotanim01"
+  },
+  {
+    "id": 14803,
+    "name": "Npc moia minion empower out player spotanim01"
+  },
+  {
+    "id": 14804,
+    "name": "Npc ocellus phase1 idle"
+  },
+  {
+    "id": 14805,
+    "name": "Npc ocellus phase1 walk"
+  },
+  {
+    "id": 14806,
+    "name": "Npc ocellus phase1 basic projectile start"
+  },
+  {
+    "id": 14807,
+    "name": "Npc ocellus phase1 basic projectile end"
+  },
+  {
+    "id": 14808,
+    "name": "Npc ocellus phase1 railgun"
+  },
+  {
+    "id": 14809,
+    "name": "Npc ocellus phase1 charge"
+  },
+  {
+    "id": 14810,
+    "name": "Npc ocellus phase1 expend"
+  },
+  {
+    "id": 14811,
+    "name": "Npc ocellus phase1 explode"
+  },
+  {
+    "id": 14812,
+    "name": "Npc ocellus phase1 teleport out"
+  },
+  {
+    "id": 14813,
+    "name": "Npc ocellus phase1 teleport in"
+  },
+  {
+    "id": 14814,
+    "name": "Npc ocellus phase1 transformation"
+  },
+  {
+    "id": 14815,
+    "name": "Vfx ocellus phase1 range spotanim"
+  },
+  {
+    "id": 14816,
+    "name": "Vfx ocellus phase1 magic spotanim"
+  },
+  {
+    "id": 14817,
+    "name": "Vfx ocellus p1 range projanim"
+  },
+  {
+    "id": 14818,
+    "name": "Vfx ocellus phase1 charge floor 01"
+  },
+  {
+    "id": 14819,
+    "name": "Vfx ocellus phase1 charge floor 02"
+  },
+  {
+    "id": 14820,
+    "name": "Vfx ocellus phase1 charge floor 01 diag"
+  },
+  {
+    "id": 14821,
+    "name": "Vfx ocellus phase1 charge floor 02 diag"
+  },
+  {
+    "id": 14822,
+    "name": "Vfx ocellus phase1 charge npc"
+  },
+  {
+    "id": 14823,
+    "name": "Vfx ocellus phase1 explode floor straight"
+  },
+  {
+    "id": 14824,
+    "name": "Vfx ocellus phase1 explode npc"
+  },
+  {
+    "id": 14825,
+    "name": "Vfx ocellus phase1 charge floor start 01"
+  },
+  {
+    "id": 14826,
+    "name": "Vfx ocellus phase1 charge floor start 01 diag"
+  },
+  {
+    "id": 14827,
+    "name": "Vfx ocellus teleport out"
+  },
+  {
+    "id": 14828,
+    "name": "Vfx ocellus teleport in"
+  },
+  {
+    "id": 14829,
+    "name": "Vfx ocellus p2 portal spawn"
+  },
+  {
+    "id": 14830,
+    "name": "Vfx ocellus p2 portal idle"
+  },
+  {
+    "id": 14831,
+    "name": "Vfx ocellus p2 portal despawn"
+  },
+  {
+    "id": 14832,
+    "name": "Vfx ocellus portal projectile"
+  },
+  {
+    "id": 14833,
+    "name": "Ornament censer ready idle01"
+  },
+  {
+    "id": 14834,
+    "name": "Ornament censer inactive idle01"
+  },
+  {
+    "id": 14835,
+    "name": "Ornament censer activate"
+  },
+  {
+    "id": 14836,
+    "name": "Ornament censer test"
+  },
+  {
+    "id": 14837,
+    "name": "Npc ocellus phase2 transformation"
+  },
+  {
+    "id": 14838,
+    "name": "Vfx ocellus phase2 transformation"
+  },
+  {
+    "id": 14839,
+    "name": "Npc ocellus phase2 idle"
+  },
+  {
+    "id": 14840,
+    "name": "Npc ocellus phase3 idle"
+  },
+  {
+    "id": 14841,
+    "name": "Npc ocellus phase3 idle high"
+  },
+  {
+    "id": 14842,
+    "name": "Npc ocellus phase3 melee basic"
+  },
+  {
+    "id": 14843,
+    "name": "Npc ocellus phase3 melee basic silent"
+  },
+  {
+    "id": 14844,
+    "name": "Npc ocellus phase3 melee hybrid"
+  },
+  {
+    "id": 14845,
+    "name": "Npc ocellus phase3 melee prayer"
+  },
+  {
+    "id": 14846,
+    "name": "Npc ocellus phase3 melee slash"
+  },
+  {
+    "id": 14847,
+    "name": "Npc ocellus phase3 melee slash silent"
+  },
+  {
+    "id": 14848,
+    "name": "Npc ocellus phase3 melee superior slash"
+  },
+  {
+    "id": 14849,
+    "name": "Npc ocellus phase3 walk"
+  },
+  {
+    "id": 14850,
+    "name": "Npc ocellus phase3 basic projectile start"
+  },
+  {
+    "id": 14851,
+    "name": "Npc ocellus phase3 basic projectile all"
+  },
+  {
+    "id": 14852,
+    "name": "Npc ocellus phase3 basic projectile out"
+  },
+  {
+    "id": 14853,
+    "name": "Npc ocellus phase3 basic projectile noloop"
+  },
+  {
+    "id": 14854,
+    "name": "Npc ocellus phase3 basic projectile out walkmerge"
+  },
+  {
+    "id": 14855,
+    "name": "Npc ocellus phase3 soul fragment start"
+  },
+  {
+    "id": 14856,
+    "name": "Npc ocellus phase3 soul fragment end"
+  },
+  {
+    "id": 14857,
+    "name": "Npc ocellus phase3 unleash in"
+  },
+  {
+    "id": 14858,
+    "name": "Npc ocellus phase3 unleash loop"
+  },
+  {
+    "id": 14859,
+    "name": "Npc ocellus quadrant destroy in"
+  },
+  {
+    "id": 14860,
+    "name": "Npc ocellus quadrant destroy loop"
+  },
+  {
+    "id": 14861,
+    "name": "Npc ocellus phase3 unleash out"
+  },
+  {
+    "id": 14862,
+    "name": "Npc ocellus phase3 unleash out 90f"
+  },
+  {
+    "id": 14863,
+    "name": "Npc ocellus phase3 deflect in"
+  },
+  {
+    "id": 14864,
+    "name": "Npc ocellus phase3 deflect loop"
+  },
+  {
+    "id": 14865,
+    "name": "Npc ocellus phase3 deflect out"
+  },
+  {
+    "id": 14866,
+    "name": "Npc ocellus phase3 deflect in silent"
+  },
+  {
+    "id": 14867,
+    "name": "Npc ocellus phase3 deflect loop silent"
+  },
+  {
+    "id": 14868,
+    "name": "Npc ocellus phase3 deflect out silent"
+  },
+  {
+    "id": 14869,
+    "name": "Npc ocellus phase3 prayer in"
+  },
+  {
+    "id": 14870,
+    "name": "Npc ocellus phase3 prayer loop"
+  },
+  {
+    "id": 14871,
+    "name": "Npc ocellus phase3 prayer out"
+  },
+  {
+    "id": 14872,
+    "name": "Npc ocellus phase3 death"
+  },
+  {
+    "id": 14873,
+    "name": "Vfx ocellus sword idle static"
+  },
+  {
+    "id": 14874,
+    "name": "Vfx ocellus sword idle01"
+  },
+  {
+    "id": 14875,
+    "name": "Vfx ocellus sword idle02"
+  },
+  {
+    "id": 14876,
+    "name": "Vfx ocellus sword drop"
+  },
+  {
+    "id": 14877,
+    "name": "Vfx ocellus sword root fire"
+  },
+  {
+    "id": 14878,
+    "name": "Npc ocellus p2 to p3 part1"
+  },
+  {
+    "id": 14879,
+    "name": "Vfx ocellus p2 to p3 arm01"
+  },
+  {
+    "id": 14880,
+    "name": "Vfx ocellus p2 to p3 arm glow01"
+  },
+  {
+    "id": 14881,
+    "name": "Npc ocellus p2 to p3 part2"
+  },
+  {
+    "id": 14882,
+    "name": "Npc ocellus phase3 pet idle"
+  },
+  {
+    "id": 14883,
+    "name": "Npc ocellus phase3 pet walk"
+  },
+  {
+    "id": 14884,
+    "name": "Vfx ocellus p2 portal floor spawn"
+  },
+  {
+    "id": 14885,
+    "name": "Vfx ocellus p2 portal floor idle"
+  },
+  {
+    "id": 14886,
+    "name": "Vfx ocellus p2 portal floor despawn"
+  },
+  {
+    "id": 14887,
+    "name": "Vfx ocellus p2 aoe dodge"
+  },
+  {
+    "id": 14888,
+    "name": "Vfx ocellus entangle start"
+  },
+  {
+    "id": 14889,
+    "name": "Vfx ocellus entangle idle"
+  },
+  {
+    "id": 14890,
+    "name": "Vfx ocellus entangle end"
+  },
+  {
+    "id": 14891,
+    "name": "Tfa ocellus void degen bomb idle"
+  },
+  {
+    "id": 14892,
+    "name": "Tfa ocellus void degen bomb despawn"
+  },
+  {
+    "id": 14893,
+    "name": "Tfa ocellus void player death"
+  },
+  {
+    "id": 14894,
+    "name": "Vfx ocellus phase1 charge expend projectile"
+  },
+  {
+    "id": 14895,
+    "name": "Vfx ocellus voidflare default idle"
+  },
+  {
+    "id": 14896,
+    "name": "Vfx ocellus voidflare default spawn"
+  },
+  {
+    "id": 14897,
+    "name": "Vfx ocellus voidflare default despawn"
+  },
+  {
+    "id": 14898,
+    "name": "Vfx ocellus voidflare default detonate"
+  },
+  {
+    "id": 14899,
+    "name": "Vfx ocellus voidflare heal idle"
+  },
+  {
+    "id": 14900,
+    "name": "Vfx ocellus voidflare heal spawn"
+  },
+  {
+    "id": 14901,
+    "name": "Vfx ocellus voidflare heal despawn"
+  },
+  {
+    "id": 14902,
+    "name": "Vfx ocellus voidflare heal detonate"
+  },
+  {
+    "id": 14903,
+    "name": "Vfx ocellus voidflare buff idle"
+  },
+  {
+    "id": 14904,
+    "name": "Vfx ocellus voidflare buff spawn"
+  },
+  {
+    "id": 14905,
+    "name": "Vfx ocellus voidflare buff despawn"
+  },
+  {
+    "id": 14906,
+    "name": "Vfx ocellus voidflare buff detonate"
+  },
+  {
+    "id": 14907,
+    "name": "Vfx ocellus voidflare heal projanim"
+  },
+  {
+    "id": 14908,
+    "name": "Vfx ocellus sword repair particles 01"
+  },
+  {
+    "id": 14909,
+    "name": "Vfx ocellus p2 sword discharge"
+  },
+  {
+    "id": 14910,
+    "name": "Vfx human ocellus voidflare default"
+  },
+  {
+    "id": 14911,
+    "name": "Vfx human ocellus voidflare heal"
+  },
+  {
+    "id": 14912,
+    "name": "Vfx human ocellus voidflare buff"
+  },
+  {
+    "id": 14913,
+    "name": "Vfx ocellus soul fragment spawn 6 ticks"
+  },
+  {
+    "id": 14914,
+    "name": "Vfx ocellus soul fragment idle"
+  },
+  {
+    "id": 14915,
+    "name": "Vfx ocellus soul fragment spawn 12 ticks"
+  },
+  {
+    "id": 14916,
+    "name": "Vfx ocellus soul fragment despawn"
+  },
+  {
+    "id": 14917,
+    "name": "Vfx ocellus soul fragment player idle"
+  },
+  {
+    "id": 14918,
+    "name": "Vfx ocellus soul fragment ocellus idle"
+  },
+  {
+    "id": 14919,
+    "name": "Vfx ocellus soul fragment player regain"
+  },
+  {
+    "id": 14920,
+    "name": "Vfx ocellus soul fragment ocellus levitating idle"
+  },
+  {
+    "id": 14921,
+    "name": "Vfx arena sword drop explosion"
+  },
+  {
+    "id": 14922,
+    "name": "Fx ocellus deflect wind spotanim 01"
+  },
+  {
+    "id": 14923,
+    "name": "Fx ocellus shadow slash degen spotanim 08"
+  },
+  {
+    "id": 14924,
+    "name": "Fx ocellus shadow slash degen spotanim 07"
+  },
+  {
+    "id": 14925,
+    "name": "Fx ocellus shadow slash degen spotanim 06"
+  },
+  {
+    "id": 14926,
+    "name": "Fx ocellus shadow slash degen spotanim 05"
+  },
+  {
+    "id": 14927,
+    "name": "Fx ocellus shadow slash degen spotanim 04"
+  },
+  {
+    "id": 14928,
+    "name": "Fx ocellus shadow slash degen spotanim 03"
+  },
+  {
+    "id": 14929,
+    "name": "Fx ocellus shadow slash degen spotanim 02"
+  },
+  {
+    "id": 14930,
+    "name": "Fx ocellus shadow slash degen spotanim 01"
+  },
+  {
+    "id": 14931,
+    "name": "Fx ocellus shadow slash degen spotanim 00"
+  },
+  {
+    "id": 14932,
+    "name": "Fx ocellus deflect wind spotanim 90 01"
+  },
+  {
+    "id": 14933,
+    "name": "Vfx void chain explosion full"
+  },
+  {
+    "id": 14934,
+    "name": "Vfx void chain player"
+  },
+  {
+    "id": 14935,
+    "name": "Vfx ocellus falling debris"
+  },
+  {
+    "id": 14936,
+    "name": "Vfx ocellus debris idle"
+  },
+  {
+    "id": 14937,
+    "name": "Vfx ocellus debris despawn"
+  },
+  {
+    "id": 14938,
+    "name": "Fx ocellus shadow slash degen despawn"
+  },
+  {
+    "id": 14939,
+    "name": "Npc ocellus death spotanim01 test"
+  },
+  {
+    "id": 14940,
+    "name": "Fx ocellus magic spotanim in01"
+  },
+  {
+    "id": 14941,
+    "name": "Fx ocellus magic spotanim loop01"
+  },
+  {
+    "id": 14942,
+    "name": "Fx ocellus magic spotanim out01"
+  },
+  {
+    "id": 14943,
+    "name": "Fx ocellus magic projanim01"
+  },
+  {
+    "id": 14944,
+    "name": "Fx ocellus magic projanim02"
+  },
+  {
+    "id": 14945,
+    "name": "Fx ocellus magic projanim impact01"
+  },
+  {
+    "id": 14946,
+    "name": "Fx ocellus death sword"
+  },
+  {
+    "id": 14947,
+    "name": "Fx ocellus quadrant barrier 01"
+  },
+  {
+    "id": 14948,
+    "name": "Fx ocellus quadrant barrier 02"
+  },
+  {
+    "id": 14949,
+    "name": "Fx ocellus death skirt spotanim01"
+  },
+  {
+    "id": 14950,
+    "name": "Fx ocellus death crack spotanim01"
+  },
+  {
+    "id": 14951,
+    "name": "Vfx ocellus unleash arena01"
+  },
+  {
+    "id": 14952,
+    "name": "Vfx ocellus unleash arena02"
+  },
+  {
+    "id": 14953,
+    "name": "Vfx ocellus unleash transparency test"
+  },
+  {
+    "id": 14954,
+    "name": "Vfx ocellus p3 unleash spotanim"
+  },
+  {
+    "id": 14955,
+    "name": "Vfx ocellus unleash crack"
+  },
+  {
+    "id": 14956,
+    "name": "Vfx ocellus phase3 arena collapse in"
+  },
+  {
+    "id": 14957,
+    "name": "Vfx ocellus phase3 arena collapse loop"
+  },
+  {
+    "id": 14958,
+    "name": "Vfx ocellus phase3 arena collapse out 01"
+  },
+  {
+    "id": 14959,
+    "name": "Vfx ocellus phase3 arena collapse out 02"
+  },
+  {
+    "id": 14960,
+    "name": "Vfx ocellus phase3 melee prayer in"
+  },
+  {
+    "id": 14961,
+    "name": "Vfx ocellus phase3 melee prayer"
+  },
+  {
+    "id": 14962,
+    "name": "Vfx ocellus phase3 melee prayer out"
+  },
+  {
+    "id": 14963,
+    "name": "Vfx ocellus phase3 melee hybrid"
+  },
+  {
+    "id": 14964,
+    "name": "Vfx ocellus phase3 melee hybrid magic"
+  },
+  {
+    "id": 14965,
+    "name": "Vfx ocellus phase3 melee hybrid ranged"
+  },
+  {
+    "id": 14966,
+    "name": "Fx ocellus p3 shadow slash spotanim01"
+  },
+  {
+    "id": 14967,
+    "name": "Fx ocellus p3 shadow slash lightning spotanim01"
+  },
+  {
+    "id": 14968,
+    "name": "Fx ocellus p3 shadow slash superior spotanim01"
+  },
+  {
+    "id": 14969,
+    "name": "Fx ocellus p3 shadow slash lightning superior spotanim01"
+  },
+  {
+    "id": 14970,
+    "name": "Fx ocellus quadrant barrier 03"
+  },
+  {
+    "id": 14971,
+    "name": "Vfx ocellus deflect arena range start"
+  },
+  {
+    "id": 14972,
+    "name": "Vfx ocellus deflect arena range loop"
+  },
+  {
+    "id": 14973,
+    "name": "Vfx ocellus deflect arena range end"
+  },
+  {
+    "id": 14974,
+    "name": "Vfx ocellus deflect arena melee start"
+  },
+  {
+    "id": 14975,
+    "name": "Vfx ocellus deflect arena melee loop"
+  },
+  {
+    "id": 14976,
+    "name": "Vfx ocellus deflect arena melee end"
+  },
+  {
+    "id": 14977,
+    "name": "Fx ocellus quadrant spawn"
+  },
+  {
+    "id": 14978,
+    "name": "Fx ocellus quadrant despawn"
+  },
+  {
+    "id": 14979,
+    "name": "Xarth idle 01"
+  },
+  {
+    "id": 14980,
+    "name": "Xarth walk 01"
+  },
+  {
+    "id": 14981,
+    "name": "Xarth turn left 01"
+  },
+  {
+    "id": 14982,
+    "name": "Xarth turn right 01"
+  },
+  {
+    "id": 14983,
+    "name": "Xarth attack melee 01"
+  },
+  {
+    "id": 14984,
+    "name": "Xarth attack magic 01"
+  },
+  {
+    "id": 14985,
+    "name": "Xarth attack ranged 01"
+  },
+  {
+    "id": 14986,
+    "name": "Vfx xarth attack ranged spotanim 01"
+  },
+  {
+    "id": 14987,
+    "name": "Vfx xarth attack ranged projectile 01"
+  },
+  {
+    "id": 14988,
+    "name": "Vfx xarth attack ranged hitanim 01"
+  },
+  {
+    "id": 14989,
+    "name": "Xarth attack flame blast 01"
+  },
+  {
+    "id": 14990,
+    "name": "Vfx xarth attack flame blast 01"
+  },
+  {
+    "id": 14991,
+    "name": "Xarth attack root 01"
+  },
+  {
+    "id": 14992,
+    "name": "Xarth attack aoe 01"
+  },
+  {
+    "id": 14993,
+    "name": "Vfx xarth attack aoe 01"
+  },
+  {
+    "id": 14994,
+    "name": "Vfx xarth aoe stunanim 01"
+  },
+  {
+    "id": 14995,
+    "name": "Xarth death 01"
+  },
+  {
+    "id": 14996,
+    "name": "Vfx xarth death 01"
+  },
+  {
+    "id": 14997,
+    "name": "Loc xarth rubble collapse 01"
+  },
+  {
+    "id": 14998,
+    "name": "Vfx xarth rubble collapse 01"
+  },
+  {
+    "id": 14999,
+    "name": "Xarth corpse idle 01"
+  },
+  {
+    "id": 15000,
+    "name": "Xarth corpse walk 01"
+  },
+  {
+    "id": 15001,
+    "name": "Vfx xarth corpse walk fire 01"
+  },
+  {
+    "id": 15002,
+    "name": "Vfx xarth corpse walk doused 01"
+  },
+  {
+    "id": 15003,
+    "name": "Xarth corpse death 01"
+  },
+  {
+    "id": 15004,
+    "name": "Vfx xarth corpse death 01"
+  },
+  {
+    "id": 15005,
+    "name": "Xarth corpse absorbed 01"
+  },
+  {
+    "id": 15006,
+    "name": "Vfx xarth corpse absorbed 01"
+  },
+  {
+    "id": 15007,
+    "name": "Vfx xarth absorb corpse fire 01"
+  },
+  {
+    "id": 15008,
+    "name": "Tfa xarth01 corpse pile fire01"
+  },
+  {
+    "id": 15009,
+    "name": "Tfa xarth01 corpse pile fire02"
+  },
+  {
+    "id": 15010,
+    "name": "Tfa xarth01 corpse pile fire03"
+  },
+  {
+    "id": 15011,
+    "name": "Tfa xarth01 corpse pile fire04"
+  },
+  {
+    "id": 15012,
+    "name": "Tfa xarth01 corpse pile fire05"
+  },
+  {
+    "id": 15013,
+    "name": "Tfa xarth01 corpse pile fire06"
+  },
+  {
+    "id": 15014,
+    "name": "Tfa xarth01 corpse pile fire07"
+  },
+  {
+    "id": 15015,
+    "name": "Tfa xarth01 corpse pile fire08"
+  },
+  {
+    "id": 15016,
+    "name": "Tfa xarth01 corpse pillar fire01"
+  },
+  {
+    "id": 15017,
+    "name": "Xarth attack summon 01"
+  },
+  {
+    "id": 15018,
+    "name": "Xarth defend 01"
+  },
+  {
+    "id": 15019,
+    "name": "Xarth fire test"
+  },
+  {
+    "id": 15020,
+    "name": "Entrance guthixian01 doors01 open"
+  },
+  {
+    "id": 15021,
+    "name": "Entrance guthixian01 doors01 open idle"
+  },
+  {
+    "id": 15022,
+    "name": "Entrance guthixian01 doors01 close"
+  },
+  {
+    "id": 15023,
+    "name": "Teleporter raids04 guthixian01 idle"
+  },
+  {
+    "id": 15024,
+    "name": "Guthixian battery idle"
+  },
+  {
+    "id": 15025,
+    "name": "Guthixian battery despawn"
+  },
+  {
+    "id": 15026,
+    "name": "Guthixian battery despawn idle"
+  },
+  {
+    "id": 15027,
+    "name": "Dungeonkit guthixian03 entrance open"
+  },
+  {
+    "id": 15028,
+    "name": "Dungeonkit guthixian03 entrance closing"
+  },
+  {
+    "id": 15029,
+    "name": "Dungeonkit guthixian03 entrance closed"
+  },
+  {
+    "id": 15030,
+    "name": "Dungeonkit guthixian03 collapse 01"
+  },
+  {
+    "id": 15031,
+    "name": "Dungeonkit guthixian03 collapse 02"
+  },
+  {
+    "id": 15032,
+    "name": "Dungeonkit guthixian03 collapse 03"
+  },
+  {
+    "id": 15033,
+    "name": "Dungeonkit guthixian03 collapse 04"
+  },
+  {
+    "id": 15034,
+    "name": "Dungeonkit guthixian03 collapse 01 broken"
+  },
+  {
+    "id": 15035,
+    "name": "Dungeonkit guthixian03 collapse 02 broken"
+  },
+  {
+    "id": 15036,
+    "name": "Dungeonkit guthixian03 collapse 03 broken"
+  },
+  {
+    "id": 15037,
+    "name": "Dungeonkit guthixian03 collapse 04 broken"
+  },
+  {
+    "id": 15038,
+    "name": "Dungeonkit guthixian03 cracking idle 01"
+  },
+  {
+    "id": 15039,
+    "name": "Dungeonkit guthixian03 cracking idle 02"
+  },
+  {
+    "id": 15040,
+    "name": "Dungeonkit guthixian03 cracking idle 03"
+  },
+  {
+    "id": 15041,
+    "name": "Dungeonkit guthixian03 cracking idle 04"
+  },
+  {
+    "id": 15042,
+    "name": "Dungeonkit guthixian03 cracking collapsing 01"
+  },
+  {
+    "id": 15043,
+    "name": "Dungeonkit guthixian03 cracking collapsing 02"
+  },
+  {
+    "id": 15044,
+    "name": "Dungeonkit guthixian03 cracking collapsing 03"
+  },
+  {
+    "id": 15045,
+    "name": "Dungeonkit guthixian03 cracking collapsing 04"
+  },
+  {
+    "id": 15046,
+    "name": "Dungeonkit guthixian03 crack empty 01"
+  },
+  {
+    "id": 15047,
+    "name": "Dungeonkit guthixian03 crack empty 02"
+  },
+  {
+    "id": 15048,
+    "name": "Dungeonkit guthixian03 crack empty 03"
+  },
+  {
+    "id": 15049,
+    "name": "Dungeonkit guthixian03 crack empty 04"
+  },
+  {
+    "id": 15050,
+    "name": "Dungeonkit guthixian03 steppingstone spawn 01"
+  },
+  {
+    "id": 15051,
+    "name": "Dungeonkit guthixian03 steppingstone idle 01"
+  },
+  {
+    "id": 15052,
+    "name": "Dungeonkit guthixian03 steppingstone despawn 01"
+  },
+  {
+    "id": 15053,
+    "name": "Dungeonkit guthixian03 steppingstone despawn 02"
+  },
+  {
+    "id": 15054,
+    "name": "Dungeonkit guthixian03 steppingstone despawn 03"
+  },
+  {
+    "id": 15055,
+    "name": "Tfa human banker idle01"
+  },
+  {
+    "id": 15056,
+    "name": "Tfa human strategist idle01"
+  },
+  {
+    "id": 15057,
+    "name": "Tfa human records keeper idle01"
+  },
+  {
+    "id": 15058,
+    "name": "Worldentity testplatform float"
+  },
+  {
+    "id": 15059,
+    "name": "Loc testplatform shake"
+  },
+  {
+    "id": 15060,
+    "name": "Loc testplatform idle"
+  },
+  {
+    "id": 15061,
+    "name": "Tfa gathering sprite walk"
+  },
+  {
+    "id": 15062,
+    "name": "Tfa gathering sprite idle"
+  },
+  {
+    "id": 15063,
+    "name": "Tfa gathering sprite explode"
+  },
+  {
+    "id": 15064,
+    "name": "Crystal ascension01 raise"
+  },
+  {
+    "id": 15065,
+    "name": "Crystal ascension02 raise"
+  },
+  {
+    "id": 15066,
+    "name": "Crystal ascension03 raise"
+  },
+  {
+    "id": 15067,
+    "name": "Crystal ascension01 lower"
+  },
+  {
+    "id": 15068,
+    "name": "Crystal ascension02 lower"
+  },
+  {
+    "id": 15069,
+    "name": "Crystal ascension03 lower"
+  },
+  {
+    "id": 15070,
+    "name": "Crystal ascension01 inactive"
+  },
+  {
+    "id": 15071,
+    "name": "Crystal ascension01 active"
+  },
+  {
+    "id": 15072,
+    "name": "Crystal ascension02 inactive"
+  },
+  {
+    "id": 15073,
+    "name": "Crystal ascension02 active"
+  },
+  {
+    "id": 15074,
+    "name": "Crystal ascension03 inactive"
+  },
+  {
+    "id": 15075,
+    "name": "Crystal ascension03 active"
+  },
+  {
+    "id": 15076,
+    "name": "Chest guthixian01 default01 sequence"
+  },
+  {
+    "id": 15077,
+    "name": "Chest guthixian01 loot01 sequence"
+  },
+  {
+    "id": 15078,
+    "name": "Chest guthixian01 float down"
+  },
+  {
+    "id": 15079,
+    "name": "Chest guthixian01 unopened idle"
+  },
+  {
+    "id": 15080,
+    "name": "Chest guthixian01 open"
+  },
+  {
+    "id": 15081,
+    "name": "Chest guthixian01 opened idle"
+  },
+  {
+    "id": 15082,
+    "name": "Vfx tfa loot light"
+  },
+  {
+    "id": 15083,
+    "name": "Vfx tfa loot tome"
+  },
+  {
+    "id": 15084,
+    "name": "Vfx tfa loot tome 01"
+  },
+  {
+    "id": 15085,
+    "name": "Vfx tfa loot tome 02"
+  },
+  {
+    "id": 15086,
+    "name": "Vfx tfa loot obligator"
+  },
+  {
+    "id": 15087,
+    "name": "Vfx tfa loot obligator 01"
+  },
+  {
+    "id": 15088,
+    "name": "Vfx tfa loot obligator 02"
+  },
+  {
+    "id": 15089,
+    "name": "Vfx tfa loot zeal"
+  },
+  {
+    "id": 15090,
+    "name": "Vfx tfa loot zeal 01"
+  },
+  {
+    "id": 15091,
+    "name": "Vfx tfa loot zeal 02"
+  },
+  {
+    "id": 15092,
+    "name": "Vfx tfa crossbows"
+  },
+  {
+    "id": 15093,
+    "name": "Vfx tfa loot crossbow 01"
+  },
+  {
+    "id": 15094,
+    "name": "Vfx tfa loot crossbow 02"
+  },
+  {
+    "id": 15095,
+    "name": "Vfx tfa rondache"
+  },
+  {
+    "id": 15096,
+    "name": "Vfx tfa loot rondache 01"
+  },
+  {
+    "id": 15097,
+    "name": "Vfx tfa loot rondache 02"
+  },
+  {
+    "id": 15098,
+    "name": "Chest guthxian02 sequence"
+  },
+  {
+    "id": 15099,
+    "name": "Chest guthixian02 unopened01"
+  },
+  {
+    "id": 15100,
+    "name": "Chest guthixian02 unopened02"
+  },
+  {
+    "id": 15101,
+    "name": "Chest guthixian02 open01"
+  },
+  {
+    "id": 15102,
+    "name": "Chest guthixian02 opened01"
+  },
+  {
+    "id": 15103,
+    "name": "Human tfa small chest open"
+  },
+  {
+    "id": 15104,
+    "name": "Vfx tfa small chest sparkles"
+  },
+  {
+    "id": 15105,
+    "name": "Tfa loot room brazier spawn"
+  },
+  {
+    "id": 15106,
+    "name": "Tfa mote break"
+  },
+  {
+    "id": 15107,
+    "name": "Tfa fake spec"
+  },
+  {
+    "id": 15108,
+    "name": "Tfa human rondache special"
+  },
+  {
+    "id": 15109,
+    "name": "Vfx tfa rondache special"
+  },
+  {
+    "id": 15110,
+    "name": "Tfa human ascension crossbow ready"
+  },
+  {
+    "id": 15111,
+    "name": "Tfa human ascension crossbow walk f"
+  },
+  {
+    "id": 15112,
+    "name": "Tfa human ascension crossbow run"
+  },
+  {
+    "id": 15113,
+    "name": "Tfa human ascension crossbow fire left"
+  },
+  {
+    "id": 15114,
+    "name": "Tfa human ascension crossbow fire left pvn"
+  },
+  {
+    "id": 15115,
+    "name": "Tfa human ascension crossbow fire right"
+  },
+  {
+    "id": 15116,
+    "name": "Tfa human ascension crossbow fire right pvn"
+  },
+  {
+    "id": 15117,
+    "name": "Tfa zeal kneel"
+  },
+  {
+    "id": 15118,
+    "name": "Tfa human obligator ready"
+  },
+  {
+    "id": 15119,
+    "name": "Tfa human obligator walk f"
+  },
+  {
+    "id": 15120,
+    "name": "Tfa human obligator walk b"
+  },
+  {
+    "id": 15121,
+    "name": "Tfa human obligator run f"
+  },
+  {
+    "id": 15122,
+    "name": "Tfa human obligator attack"
+  },
+  {
+    "id": 15123,
+    "name": "Tfa human obligator multihit"
+  },
+  {
+    "id": 15124,
+    "name": "Vfx obligator charged thrust male old"
+  },
+  {
+    "id": 15125,
+    "name": "Vfx obligator charged thrust male"
+  },
+  {
+    "id": 15126,
+    "name": "Tfa human obligator ready female"
+  },
+  {
+    "id": 15127,
+    "name": "Tfa human obligator walk f female"
+  },
+  {
+    "id": 15128,
+    "name": "Tfa human obligator walk b female"
+  },
+  {
+    "id": 15129,
+    "name": "Tfa human obligator run f female"
+  },
+  {
+    "id": 15130,
+    "name": "Tfa human obligator attack female"
+  },
+  {
+    "id": 15131,
+    "name": "Tfa human obligator multihit female"
+  },
+  {
+    "id": 15132,
+    "name": "Vfx obligator charged thrust female"
+  },
+  {
+    "id": 15133,
+    "name": "Tfa human obligator def"
+  },
+  {
+    "id": 15134,
+    "name": "Tfa human obligator def female"
+  },
+  {
+    "id": 15135,
+    "name": "Tfa human zorya tome ready"
+  },
+  {
+    "id": 15136,
+    "name": "Tfa human zorya tome walk f"
+  },
+  {
+    "id": 15137,
+    "name": "Tfa human zorya tome walk b"
+  },
+  {
+    "id": 15138,
+    "name": "Tfa human zorya tome run"
+  },
+  {
+    "id": 15139,
+    "name": "Tfa human zorya tome attack"
+  },
+  {
+    "id": 15140,
+    "name": "Tfa human zorya tome special attack"
+  },
+  {
+    "id": 15141,
+    "name": "Tfa human zorya tome defend"
+  },
+  {
+    "id": 15142,
+    "name": "Tfa human zorya tome ready female"
+  },
+  {
+    "id": 15143,
+    "name": "Tfa human zorya tome walk female f"
+  },
+  {
+    "id": 15144,
+    "name": "Tfa human zorya tome walk female b"
+  },
+  {
+    "id": 15145,
+    "name": "Tfa human zorya tome run female"
+  },
+  {
+    "id": 15146,
+    "name": "Tfa human zorya tome attack female"
+  },
+  {
+    "id": 15147,
+    "name": "Tfa human zorya tome special attack female"
+  },
+  {
+    "id": 15148,
+    "name": "Tfa human zorya tome defend female"
+  },
+  {
+    "id": 15149,
+    "name": "Vfx zorya tome projectile"
+  },
+  {
+    "id": 15150,
+    "name": "Vfx zorya tome impact01"
+  },
+  {
+    "id": 15151,
+    "name": "Vfx zorya tome impact special01"
+  },
+  {
+    "id": 15152,
+    "name": "Vfx zorya tome spec spotanim"
+  },
+  {
+    "id": 15153,
+    "name": "Vfx zorya tome standard spotanim"
+  },
+  {
+    "id": 15154,
+    "name": "Vfx zorya tome spec spotanim female"
+  },
+  {
+    "id": 15155,
+    "name": "Vfx zorya tome standard spotanim female"
+  },
+  {
+    "id": 15156,
+    "name": "Npc akkha idle sword raised very high"
+  },
+  {
+    "id": 15157,
+    "name": "Npc akkha attack melee sword highprio"
+  },
+  {
+    "id": 15158,
+    "name": "Human fletching add bolt tips ascension"
+  },
+  {
+    "id": 15159,
+    "name": "Human sit"
+  },
+  {
+    "id": 15160,
+    "name": "Curse impact short"
+  },
+  {
+    "id": 15161,
+    "name": "Jelly range"
+  },
+  {
+    "id": 15162,
+    "name": "Jelly spawn"
   }
 ]

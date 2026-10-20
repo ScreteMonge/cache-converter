@@ -16090,5 +16090,1689 @@
   {
     "name": "Crab flyingpenguin",
     "id": 4022
+  },
+  {
+    "name": "Vfx player yama magic shadow impact start",
+    "id": 4023
+  },
+  {
+    "name": "Vfx doom scorpion 01 player death 01 fast",
+    "id": 4024
+  },
+  {
+    "name": "Vfx leviathan 01 projectile ranged 01 small",
+    "id": 4025
+  },
+  {
+    "name": "Vfx leviathan 01 projectile magic 01 small",
+    "id": 4026
+  },
+  {
+    "name": "Vfx leviathan 01 projectile impact magic 01 small",
+    "id": 4027
+  },
+  {
+    "name": "Strangler entangle impact tighter",
+    "id": 4028
+  },
+  {
+    "name": "Projectile muspah attack magic 01 small",
+    "id": 4029
+  },
+  {
+    "name": "Vfx vmq4 ennius fire explosion smaller",
+    "id": 4030
+  },
+  {
+    "name": "Vmq4 protection ennius cast short",
+    "id": 4031
+  },
+  {
+    "name": "Luc2 undead demon shield restore spot big",
+    "id": 4032
+  },
+  {
+    "name": "Luc2 undead demon shield deplete spot",
+    "id": 4033
+  },
+  {
+    "name": "Luc2 undead demon fireball proj big",
+    "id": 4034
+  },
+  {
+    "name": "Npc stunned 4x4",
+    "id": 4035
+  },
+  {
+    "name": "Vfx bork death spotanim01",
+    "id": 4036
+  },
+  {
+    "name": "Vfx bork gong melee spotanim01",
+    "id": 4037
+  },
+  {
+    "name": "Vfx bork stun spotanim01",
+    "id": 4038
+  },
+  {
+    "name": "Vfx bork enraged stomp spotanim01",
+    "id": 4039
+  },
+  {
+    "name": "Vfx bork 12 cycle stun spotanim01",
+    "id": 4040
+  },
+  {
+    "name": "Vfx bork 14 cycle stun spotanim01",
+    "id": 4041
+  },
+  {
+    "name": "Vfx smork cannon attack spotanim01",
+    "id": 4042
+  },
+  {
+    "name": "Vfx smork big cannon attack spotanim01",
+    "id": 4043
+  },
+  {
+    "name": "Vfx smork big cannon attack flash spotanim01",
+    "id": 4044
+  },
+  {
+    "name": "Vfx smork napalm fire projanim01",
+    "id": 4045
+  },
+  {
+    "name": "Vfx smork napalm fire spotanim01",
+    "id": 4046
+  },
+  {
+    "name": "Vfx smork napalm splat spotanim01",
+    "id": 4047
+  },
+  {
+    "name": "Vfx smork napalm splat spotanim01 90",
+    "id": 4048
+  },
+  {
+    "name": "Vfx smork napalm splat spotanim01 180",
+    "id": 4049
+  },
+  {
+    "name": "Vfx smork napalm splat spotanim01 270",
+    "id": 4050
+  },
+  {
+    "name": "Vfx smork napalm despawn spotanim01",
+    "id": 4051
+  },
+  {
+    "name": "Vfx smork napalm despawn spotanim01 90",
+    "id": 4052
+  },
+  {
+    "name": "Vfx smork napalm despawn spotanim01 180",
+    "id": 4053
+  },
+  {
+    "name": "Vfx smork napalm despawn spotanim01 270",
+    "id": 4054
+  },
+  {
+    "name": "Vfx smork range player spotanim01",
+    "id": 4055
+  },
+  {
+    "name": "Vfx smork range attack projanim01",
+    "id": 4056
+  },
+  {
+    "name": "Vfx smork mage attack projanim01",
+    "id": 4057
+  },
+  {
+    "name": "Vfx smork mage attack spotanim01",
+    "id": 4058
+  },
+  {
+    "name": "Vfx smork magic hit spotanim01",
+    "id": 4059
+  },
+  {
+    "name": "Vfx smork tower death spotanim01",
+    "id": 4060
+  },
+  {
+    "name": "Vfx smork goblins death spotanim01",
+    "id": 4061
+  },
+  {
+    "name": "Vfx smork death explosion spotanim01",
+    "id": 4062
+  },
+  {
+    "name": "Tfa dagonhai saradomin damage telegraph 150",
+    "id": 4063
+  },
+  {
+    "name": "Tfa dagonhai saradomin heal telegraph 150",
+    "id": 4064
+  },
+  {
+    "name": "Tfa dagonhai saradomin heal telegraph 180",
+    "id": 4065
+  },
+  {
+    "name": "Tfa dagonhai saradomin heal impact",
+    "id": 4066
+  },
+  {
+    "name": "Tfa dagonhai demonic strength telegraph",
+    "id": 4067
+  },
+  {
+    "name": "Tfa dagonhai saradomin damage lightning",
+    "id": 4068
+  },
+  {
+    "name": "Tfa dagonhai saradomin heal lightning",
+    "id": 4069
+  },
+  {
+    "name": "Vfx dagonhai attack ranged 01",
+    "id": 4070
+  },
+  {
+    "name": "Vfx projanim dagonhai attack ranged 01",
+    "id": 4071
+  },
+  {
+    "name": "Vfx hitanim dagonhai attack ranged 01",
+    "id": 4072
+  },
+  {
+    "name": "Vfx dagonhai attack magic 01",
+    "id": 4073
+  },
+  {
+    "name": "Vfx dagonhai attack magic 02",
+    "id": 4074
+  },
+  {
+    "name": "Vfx dagonhai attack magic 03",
+    "id": 4075
+  },
+  {
+    "name": "Vfx dagonhai attack magic 04",
+    "id": 4076
+  },
+  {
+    "name": "Vfx dagonhai attack magic 04 guthix energy",
+    "id": 4077
+  },
+  {
+    "name": "Vfx dagonhai attack magic 04 projanim",
+    "id": 4078
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron idle 01 fire",
+    "id": 4079
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron end 01 fire",
+    "id": 4080
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron idle 01 water",
+    "id": 4081
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron end 01 water",
+    "id": 4082
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron idle 01 air",
+    "id": 4083
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron end 01 air",
+    "id": 4084
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron idle 01 earth",
+    "id": 4085
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron end 01 earth",
+    "id": 4086
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron idle 02 fire",
+    "id": 4087
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron end 02 fire",
+    "id": 4088
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron idle 02 water",
+    "id": 4089
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron end 02 water",
+    "id": 4090
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron idle 02 air",
+    "id": 4091
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron end 02 air",
+    "id": 4092
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron idle 02 earth",
+    "id": 4093
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron end 02 earth",
+    "id": 4094
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron idle 03 fire",
+    "id": 4095
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron end 03 fire",
+    "id": 4096
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron idle 03 water",
+    "id": 4097
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron end 03 water",
+    "id": 4098
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron idle 03 air",
+    "id": 4099
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron end 03 air",
+    "id": 4100
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron idle 03 earth",
+    "id": 4101
+  },
+  {
+    "name": "Vfx dagonhai charge cauldron end 03 earth",
+    "id": 4102
+  },
+  {
+    "name": "Vfx dagonhai attack magic fire 01",
+    "id": 4103
+  },
+  {
+    "name": "Vfx dagonhai attack magic water 01",
+    "id": 4104
+  },
+  {
+    "name": "Vfx dagonhai attack magic air 01",
+    "id": 4105
+  },
+  {
+    "name": "Vfx dagonhai attack magic earth 01",
+    "id": 4106
+  },
+  {
+    "name": "Vfx dagonhai throw book zamorak 01",
+    "id": 4107
+  },
+  {
+    "name": "Vfx dagonhai throw book saradomin 01",
+    "id": 4108
+  },
+  {
+    "name": "Vfx dagonhai throw book bandos 01",
+    "id": 4109
+  },
+  {
+    "name": "Vfx dagonhai throw book zamorak 02",
+    "id": 4110
+  },
+  {
+    "name": "Vfx dagonhai throw book saradomin 02",
+    "id": 4111
+  },
+  {
+    "name": "Vfx dagonhai throw book bandos 02",
+    "id": 4112
+  },
+  {
+    "name": "Vfx dagonhai throw book projectile zamorak 01",
+    "id": 4113
+  },
+  {
+    "name": "Vfx dagonhai throw book projectile saradomin 01",
+    "id": 4114
+  },
+  {
+    "name": "Vfx dagonhai throw book projectile bandos 01",
+    "id": 4115
+  },
+  {
+    "name": "Vfx dagonhai throw book impact zamorak 01",
+    "id": 4116
+  },
+  {
+    "name": "Vfx dagonhai throw book impact saradomin 01",
+    "id": 4117
+  },
+  {
+    "name": "Vfx dagonhai throw book impact bandos 01",
+    "id": 4118
+  },
+  {
+    "name": "Vfx dagonhai throw book floor zamorak north 01",
+    "id": 4119
+  },
+  {
+    "name": "Vfx dagonhai throw book floor zamorak north east 01",
+    "id": 4120
+  },
+  {
+    "name": "Vfx dagonhai throw book floor zamorak east 01",
+    "id": 4121
+  },
+  {
+    "name": "Vfx dagonhai throw book floor zamorak south east 01",
+    "id": 4122
+  },
+  {
+    "name": "Vfx dagonhai throw book floor zamorak south 01",
+    "id": 4123
+  },
+  {
+    "name": "Vfx dagonhai throw book floor zamorak south west 01",
+    "id": 4124
+  },
+  {
+    "name": "Vfx dagonhai throw book floor zamorak west 01",
+    "id": 4125
+  },
+  {
+    "name": "Vfx dagonhai throw book floor zamorak north west 01",
+    "id": 4126
+  },
+  {
+    "name": "Vfx dagonhai throw book floor saradomin north 01",
+    "id": 4127
+  },
+  {
+    "name": "Vfx dagonhai throw book floor saradomin north east 01",
+    "id": 4128
+  },
+  {
+    "name": "Vfx dagonhai throw book floor saradomin east 01",
+    "id": 4129
+  },
+  {
+    "name": "Vfx dagonhai throw book floor saradomin south east 01",
+    "id": 4130
+  },
+  {
+    "name": "Vfx dagonhai throw book floor saradomin south 01",
+    "id": 4131
+  },
+  {
+    "name": "Vfx dagonhai throw book floor saradomin south west 01",
+    "id": 4132
+  },
+  {
+    "name": "Vfx dagonhai throw book floor saradomin west 01",
+    "id": 4133
+  },
+  {
+    "name": "Vfx dagonhai throw book floor saradomin north west 01",
+    "id": 4134
+  },
+  {
+    "name": "Vfx dagonhai throw book floor bandos north 01",
+    "id": 4135
+  },
+  {
+    "name": "Vfx dagonhai throw book floor bandos north east 01",
+    "id": 4136
+  },
+  {
+    "name": "Vfx dagonhai throw book floor bandos east 01",
+    "id": 4137
+  },
+  {
+    "name": "Vfx dagonhai throw book floor bandos south east 01",
+    "id": 4138
+  },
+  {
+    "name": "Vfx dagonhai throw book floor bandos south 01",
+    "id": 4139
+  },
+  {
+    "name": "Vfx dagonhai throw book floor bandos south west 01",
+    "id": 4140
+  },
+  {
+    "name": "Vfx dagonhai throw book floor bandos west 01",
+    "id": 4141
+  },
+  {
+    "name": "Vfx dagonhai throw book floor bandos north west 01",
+    "id": 4142
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack 01 zamorak",
+    "id": 4143
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack zamorak projanim 01",
+    "id": 4144
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack zamorak aoe idle 00",
+    "id": 4145
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack zamorak aoe idle 01",
+    "id": 4146
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack zamorak aoe idle 02",
+    "id": 4147
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack zamorak aoe idle 03",
+    "id": 4148
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack zamorak aoe attack 01",
+    "id": 4149
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack 02 saradomin",
+    "id": 4150
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack stormcloud idle 01",
+    "id": 4151
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack stormcloud despawn 01",
+    "id": 4152
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack stormcloud idle 02",
+    "id": 4153
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack stormcloud despawn 02",
+    "id": 4154
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack 03 bandos",
+    "id": 4155
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack bandos aoe attack 01",
+    "id": 4156
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack bandos aoe attack 02",
+    "id": 4157
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack bandos aoe attack 03",
+    "id": 4158
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack bandos aoe attack 04",
+    "id": 4159
+  },
+  {
+    "name": "Vfx dagonhai cauldron attack 04 guthix 02",
+    "id": 4160
+  },
+  {
+    "name": "Vfx dagonhai cauldron dust explosion",
+    "id": 4161
+  },
+  {
+    "name": "Vfx dagonhai demon buff player spotanim 01",
+    "id": 4162
+  },
+  {
+    "name": "Vfx dagonhai death 03",
+    "id": 4163
+  },
+  {
+    "name": "Vfx dagonhai cauldron sizzle",
+    "id": 4164
+  },
+  {
+    "name": "Vfx dagonhai cauldron aoe",
+    "id": 4165
+  },
+  {
+    "name": "Vfx dagonhai cauldron unlock book",
+    "id": 4166
+  },
+  {
+    "name": "Ezekiel magic attack vfx01",
+    "id": 4167
+  },
+  {
+    "name": "Ezekiel magic attack impact vfx01",
+    "id": 4168
+  },
+  {
+    "name": "Ezekiel special crack vfx01",
+    "id": 4169
+  },
+  {
+    "name": "Vfx ezekiel star explosion spawn01",
+    "id": 4170
+  },
+  {
+    "name": "Vfx ezekiel star explosion marker01",
+    "id": 4171
+  },
+  {
+    "name": "Vfx ezekiel star explosion01",
+    "id": 4172
+  },
+  {
+    "name": "Ezekiel heal glow vfx01",
+    "id": 4173
+  },
+  {
+    "name": "Ezekiel heal spotanim vfx01",
+    "id": 4174
+  },
+  {
+    "name": "Vfx ezekiel finale cast01",
+    "id": 4175
+  },
+  {
+    "name": "Vfx ezekiel finale cast loop01",
+    "id": 4176
+  },
+  {
+    "name": "Vfx ezekiel finale cast glow01",
+    "id": 4177
+  },
+  {
+    "name": "Vfx ezekiel finale cast glow loop01",
+    "id": 4178
+  },
+  {
+    "name": "Vfx ezekiel finale death glow 01",
+    "id": 4179
+  },
+  {
+    "name": "Vfx ezekiel sword drop01",
+    "id": 4180
+  },
+  {
+    "name": "Vfx ezekiel sword idle01",
+    "id": 4181
+  },
+  {
+    "name": "Vfx ezekiel sword telegraph01",
+    "id": 4182
+  },
+  {
+    "name": "Vfx ezekiel sword despawn01",
+    "id": 4183
+  },
+  {
+    "name": "Vfx ezekiel sword drop02",
+    "id": 4184
+  },
+  {
+    "name": "Vfx ezekiel sword idle02",
+    "id": 4185
+  },
+  {
+    "name": "Vfx ezekiel sword telegraph02",
+    "id": 4186
+  },
+  {
+    "name": "Vfx ezekiel sword despawn02",
+    "id": 4187
+  },
+  {
+    "name": "Vfx ezekiel sword drop03",
+    "id": 4188
+  },
+  {
+    "name": "Vfx ezekiel sword idle03",
+    "id": 4189
+  },
+  {
+    "name": "Vfx ezekiel sword telegraph03",
+    "id": 4190
+  },
+  {
+    "name": "Vfx ezekiel sword despawn03",
+    "id": 4191
+  },
+  {
+    "name": "Vfx ezekiel sword drop04",
+    "id": 4192
+  },
+  {
+    "name": "Vfx ezekiel sword idle04",
+    "id": 4193
+  },
+  {
+    "name": "Vfx ezekiel sword telegraph04",
+    "id": 4194
+  },
+  {
+    "name": "Vfx ezekiel sword despawn04",
+    "id": 4195
+  },
+  {
+    "name": "Vfx ezekiel finale impact large01",
+    "id": 4196
+  },
+  {
+    "name": "Vfx ezekiel finale impact medium01",
+    "id": 4197
+  },
+  {
+    "name": "Vfx ezekiel finale impact small01",
+    "id": 4198
+  },
+  {
+    "name": "Vfx guardian ranged spotanim01",
+    "id": 4199
+  },
+  {
+    "name": "Vfx guardian ranged hitanim01",
+    "id": 4200
+  },
+  {
+    "name": "Vfx guardian ranged projanim01",
+    "id": 4201
+  },
+  {
+    "name": "Vfx guardian idletoground spotanim01",
+    "id": 4202
+  },
+  {
+    "name": "Vfx guardian groundtoidle spotanim01",
+    "id": 4203
+  },
+  {
+    "name": "Vfx guardian enraged phase spotanim01",
+    "id": 4204
+  },
+  {
+    "name": "Vfx guardian special attack spotanim01",
+    "id": 4205
+  },
+  {
+    "name": "Vfx guardian spawn spotanim01",
+    "id": 4206
+  },
+  {
+    "name": "Vfx guardian spawn idle spotanim01",
+    "id": 4207
+  },
+  {
+    "name": "Vfx guardian tentacle intro spotanim01",
+    "id": 4208
+  },
+  {
+    "name": "Tfa boss jelly 5x5 jump",
+    "id": 4209
+  },
+  {
+    "name": "Jelly spawning idle",
+    "id": 4210
+  },
+  {
+    "name": "Vfx dreadnoth ranged proj01",
+    "id": 4211
+  },
+  {
+    "name": "Vfx dreadnoth ranged proj02",
+    "id": 4212
+  },
+  {
+    "name": "Moia dagger magic",
+    "id": 4213
+  },
+  {
+    "name": "Moia dagger",
+    "id": 4214
+  },
+  {
+    "name": "Moia dagger spin",
+    "id": 4215
+  },
+  {
+    "name": "Moia dagger magic impact",
+    "id": 4216
+  },
+  {
+    "name": "Moia infect spotanim",
+    "id": 4217
+  },
+  {
+    "name": "Moia infect attack projanim",
+    "id": 4218
+  },
+  {
+    "name": "Moia teleport spotanim",
+    "id": 4219
+  },
+  {
+    "name": "Moia teleport in spotanim",
+    "id": 4220
+  },
+  {
+    "name": "Moia teleport death spotanim",
+    "id": 4221
+  },
+  {
+    "name": "Moia minion empower spotanim out 01",
+    "id": 4222
+  },
+  {
+    "name": "Moia minion empower spotanim 01",
+    "id": 4223
+  },
+  {
+    "name": "Moia minion empower in spotanim 01",
+    "id": 4224
+  },
+  {
+    "name": "Moia chant player explode",
+    "id": 4225
+  },
+  {
+    "name": "Tfa ocellus sf proj",
+    "id": 4226
+  },
+  {
+    "name": "Tfa portal",
+    "id": 4227
+  },
+  {
+    "name": "Vfx ocellus water attack01 spotanim",
+    "id": 4228
+  },
+  {
+    "name": "Vfx ocellus water attack01 projanim",
+    "id": 4229
+  },
+  {
+    "name": "Vfx ocellus water attack01 impactanim",
+    "id": 4230
+  },
+  {
+    "name": "Vfx ocellus fire attack01 spotanim",
+    "id": 4231
+  },
+  {
+    "name": "Vfx ocellus fire attack01 projanim",
+    "id": 4232
+  },
+  {
+    "name": "Vfx ocellus fire attack01 impactanim",
+    "id": 4233
+  },
+  {
+    "name": "Vfx ocellus phase1 charge expend projectile",
+    "id": 4234
+  },
+  {
+    "name": "Ocellus proj test",
+    "id": 4235
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 01 start",
+    "id": 4236
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 01 start 90",
+    "id": 4237
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 01 start 180",
+    "id": 4238
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 01 start 270",
+    "id": 4239
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 01",
+    "id": 4240
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 01 end",
+    "id": 4241
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 01 90",
+    "id": 4242
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 01 end 90",
+    "id": 4243
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 01 180",
+    "id": 4244
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 01 end 180",
+    "id": 4245
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 01 270",
+    "id": 4246
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 01 end 270",
+    "id": 4247
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 02 start",
+    "id": 4248
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 02 start 90",
+    "id": 4249
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 02 start 180",
+    "id": 4250
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 02 start 270",
+    "id": 4251
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 02",
+    "id": 4252
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 02 end",
+    "id": 4253
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 02 90",
+    "id": 4254
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 02 end 90",
+    "id": 4255
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 02 180",
+    "id": 4256
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 02 end 180",
+    "id": 4257
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 02 270",
+    "id": 4258
+  },
+  {
+    "name": "Vfx ocellus p1 floor crack 02 end 270",
+    "id": 4259
+  },
+  {
+    "name": "Vfx ocellus p1 charge",
+    "id": 4260
+  },
+  {
+    "name": "Vfx ocellus p1 explode npc",
+    "id": 4261
+  },
+  {
+    "name": "Vfx ocellus p1 explode floor",
+    "id": 4262
+  },
+  {
+    "name": "Vfx ocellus p1 explode floor 90",
+    "id": 4263
+  },
+  {
+    "name": "Vfx ocellus p1 explode floor 180",
+    "id": 4264
+  },
+  {
+    "name": "Vfx ocellus p1 explode floor 270",
+    "id": 4265
+  },
+  {
+    "name": "Vfx ocellus p1 teleport out",
+    "id": 4266
+  },
+  {
+    "name": "Vfx ocellus p1 teleport in",
+    "id": 4267
+  },
+  {
+    "name": "Vfx ocellus p1 to p2 transformation",
+    "id": 4268
+  },
+  {
+    "name": "Vfx ocellus portal projectile",
+    "id": 4269
+  },
+  {
+    "name": "Vfx ocellus p2 aoe dodge",
+    "id": 4270
+  },
+  {
+    "name": "Vfx ocellus p2 safe portal spawn",
+    "id": 4271
+  },
+  {
+    "name": "Vfx ocellus p2 safe portal idle",
+    "id": 4272
+  },
+  {
+    "name": "Vfx ocellus p2 safe portal despawn",
+    "id": 4273
+  },
+  {
+    "name": "Vfx ocellus death",
+    "id": 4274
+  },
+  {
+    "name": "Vfx ocellus death skirt spotanim01",
+    "id": 4275
+  },
+  {
+    "name": "Vfx ocellus death crack spotanim01",
+    "id": 4276
+  },
+  {
+    "name": "Vfx ocellus sword idle static",
+    "id": 4277
+  },
+  {
+    "name": "Vfx ocellus sword idle01",
+    "id": 4278
+  },
+  {
+    "name": "Vfx ocellus sword idle02",
+    "id": 4279
+  },
+  {
+    "name": "Vfx ocellus sword drop",
+    "id": 4280
+  },
+  {
+    "name": "Vfx ocellus sword root fire",
+    "id": 4281
+  },
+  {
+    "name": "Vfx ocellus p2 to p3 arm01",
+    "id": 4282
+  },
+  {
+    "name": "Vfx ocellus p2 to p3 arm glow01",
+    "id": 4283
+  },
+  {
+    "name": "Vfx ocellus p1 explode floor pet",
+    "id": 4284
+  },
+  {
+    "name": "Vfx ocellus p1 charge pet",
+    "id": 4285
+  },
+  {
+    "name": "Vfx ocellus p1 explode pet",
+    "id": 4286
+  },
+  {
+    "name": "Vfx ocellus fire attack01 spotanim pet",
+    "id": 4287
+  },
+  {
+    "name": "Vfx ocellus water attack01 spotanim pet",
+    "id": 4288
+  },
+  {
+    "name": "Vfx ocellus p3 magic pet travel",
+    "id": 4289
+  },
+  {
+    "name": "Vfx ocellus spell entangle01 start",
+    "id": 4290
+  },
+  {
+    "name": "Vfx ocellus spell entangle01 idle",
+    "id": 4291
+  },
+  {
+    "name": "Vfx ocellus spell entangle01 end",
+    "id": 4292
+  },
+  {
+    "name": "Vfx ocellus magic projanim impact01",
+    "id": 4293
+  },
+  {
+    "name": "Vfx ocellus magic spotanim01",
+    "id": 4294
+  },
+  {
+    "name": "Vfx ocellus magic spotanim in01",
+    "id": 4295
+  },
+  {
+    "name": "Vfx ocellus magic spotanim out01",
+    "id": 4296
+  },
+  {
+    "name": "Vfx ocellus magic projanim01",
+    "id": 4297
+  },
+  {
+    "name": "Vfx ocellus magic projanim02",
+    "id": 4298
+  },
+  {
+    "name": "Vfx ocellus quadrant bomb idle 01",
+    "id": 4299
+  },
+  {
+    "name": "Vfx ocellus quadrant bomb impact 01",
+    "id": 4300
+  },
+  {
+    "name": "Vfx ocellus quadrant bomb drop 01",
+    "id": 4301
+  },
+  {
+    "name": "Vfx ocellus quadrant bomb spawn 01",
+    "id": 4302
+  },
+  {
+    "name": "Vfx ocellus voidflare healing projanim",
+    "id": 4303
+  },
+  {
+    "name": "Vfx ocellus sword repair particles 01",
+    "id": 4304
+  },
+  {
+    "name": "Vfx ocellus p2 sword discharge",
+    "id": 4305
+  },
+  {
+    "name": "Vfx human ocellus voidflare default",
+    "id": 4306
+  },
+  {
+    "name": "Vfx human ocellus voidflare heal",
+    "id": 4307
+  },
+  {
+    "name": "Vfx human ocellus voidflare buff",
+    "id": 4308
+  },
+  {
+    "name": "Vfx ocellus soul fragment spawn 6 ticks",
+    "id": 4309
+  },
+  {
+    "name": "Vfx ocellus soul fragment idle",
+    "id": 4310
+  },
+  {
+    "name": "Vfx ocellus soul fragment spawn 12 ticks",
+    "id": 4311
+  },
+  {
+    "name": "Vfx ocellus soul fragment despawn",
+    "id": 4312
+  },
+  {
+    "name": "Vfx ocellus soul fragment player idle",
+    "id": 4313
+  },
+  {
+    "name": "Vfx ocellus soul fragment player regain",
+    "id": 4314
+  },
+  {
+    "name": "Vfx ocellus soul fragment ocellus idle",
+    "id": 4315
+  },
+  {
+    "name": "Vfx ocellus soul fragment ocellus levitating idle",
+    "id": 4316
+  },
+  {
+    "name": "Vfx ocellus unleash arena",
+    "id": 4317
+  },
+  {
+    "name": "Vfx ocellus unleash arena 90",
+    "id": 4318
+  },
+  {
+    "name": "Vfx ocellus unleash arena 180",
+    "id": 4319
+  },
+  {
+    "name": "Vfx ocellus unleash arena 270",
+    "id": 4320
+  },
+  {
+    "name": "Vfx ocellus p3 unleash spotanim",
+    "id": 4321
+  },
+  {
+    "name": "Vfx ocellus deflect wind spotanim 01",
+    "id": 4322
+  },
+  {
+    "name": "Vfx ocellus shadow slash degen spotanim 01",
+    "id": 4323
+  },
+  {
+    "name": "Vfx ocellus deflect wind spotanim 90 01",
+    "id": 4324
+  },
+  {
+    "name": "Vfx ocellus phase3 melee prayer in",
+    "id": 4325
+  },
+  {
+    "name": "Vfx ocellus phase3 melee prayer",
+    "id": 4326
+  },
+  {
+    "name": "Vfx ocellus phase3 melee prayer out",
+    "id": 4327
+  },
+  {
+    "name": "Vfx ocellus phase3 melee hybrid",
+    "id": 4328
+  },
+  {
+    "name": "Vfx ocellus phase3 melee hybrid magic",
+    "id": 4329
+  },
+  {
+    "name": "Vfx ocellus phase3 melee hybrid ranged",
+    "id": 4330
+  },
+  {
+    "name": "Vfx ocellus phase3 arena collapse in",
+    "id": 4331
+  },
+  {
+    "name": "Vfx ocellus phase3 arena collapse loop",
+    "id": 4332
+  },
+  {
+    "name": "Vfx ocellus phase3 arena collapse out 01",
+    "id": 4333
+  },
+  {
+    "name": "Vfx ocellus phase3 arena collapse out 02",
+    "id": 4334
+  },
+  {
+    "name": "Vfx ocellus p3 shadow slash spotanim01",
+    "id": 4335
+  },
+  {
+    "name": "Vfx ocellus p3 shadow slash superior spotanim01",
+    "id": 4336
+  },
+  {
+    "name": "Vfx ocellus p3 shadow slash lightning spotanim01",
+    "id": 4337
+  },
+  {
+    "name": "Vfx ocellus p3 shadow slash lightning superior spotanim01",
+    "id": 4338
+  },
+  {
+    "name": "Vfx void chain explosion",
+    "id": 4339
+  },
+  {
+    "name": "Vfx void chain player telegraph",
+    "id": 4340
+  },
+  {
+    "name": "Sp attackglow zaros",
+    "id": 4341
+  },
+  {
+    "name": "Sp attackglow bandos",
+    "id": 4342
+  },
+  {
+    "name": "Sp attackglow saradomin",
+    "id": 4343
+  },
+  {
+    "name": "Sp attackglow armadyl",
+    "id": 4344
+  },
+  {
+    "name": "Vfx ocellus null",
+    "id": 4345
+  },
+  {
+    "name": "Vfx ocellus falling debris",
+    "id": 4346
+  },
+  {
+    "name": "Vfx ocellus debris idle",
+    "id": 4347
+  },
+  {
+    "name": "Vfx ocellus debris despawn",
+    "id": 4348
+  },
+  {
+    "name": "Vfx ocellus deflect arena range start",
+    "id": 4349
+  },
+  {
+    "name": "Vfx ocellus deflect arena range loop",
+    "id": 4350
+  },
+  {
+    "name": "Vfx ocellus deflect arena range end",
+    "id": 4351
+  },
+  {
+    "name": "Vfx ocellus deflect arena melee start",
+    "id": 4352
+  },
+  {
+    "name": "Vfx ocellus deflect arena melee loop",
+    "id": 4353
+  },
+  {
+    "name": "Vfx ocellus deflect arena melee end",
+    "id": 4354
+  },
+  {
+    "name": "Vfx ocellus deflect arena range start 90",
+    "id": 4355
+  },
+  {
+    "name": "Vfx ocellus deflect arena range loop 90",
+    "id": 4356
+  },
+  {
+    "name": "Vfx ocellus deflect arena range end 90",
+    "id": 4357
+  },
+  {
+    "name": "Vfx ocellus deflect arena melee start 90",
+    "id": 4358
+  },
+  {
+    "name": "Vfx ocellus deflect arena melee loop 90",
+    "id": 4359
+  },
+  {
+    "name": "Vfx ocellus deflect arena melee end 90",
+    "id": 4360
+  },
+  {
+    "name": "Vfx ocellus deflect arena range start 180",
+    "id": 4361
+  },
+  {
+    "name": "Vfx ocellus deflect arena range loop 180",
+    "id": 4362
+  },
+  {
+    "name": "Vfx ocellus deflect arena range end 180",
+    "id": 4363
+  },
+  {
+    "name": "Vfx ocellus deflect arena melee start 180",
+    "id": 4364
+  },
+  {
+    "name": "Vfx ocellus deflect arena melee loop 180",
+    "id": 4365
+  },
+  {
+    "name": "Vfx ocellus deflect arena melee end 180",
+    "id": 4366
+  },
+  {
+    "name": "Vfx ocellus deflect arena range start 270",
+    "id": 4367
+  },
+  {
+    "name": "Vfx ocellus deflect arena range loop 270",
+    "id": 4368
+  },
+  {
+    "name": "Vfx ocellus deflect arena range end 270",
+    "id": 4369
+  },
+  {
+    "name": "Vfx ocellus deflect arena melee start 270",
+    "id": 4370
+  },
+  {
+    "name": "Vfx ocellus deflect arena melee loop 270",
+    "id": 4371
+  },
+  {
+    "name": "Vfx ocellus deflect arena melee end 270",
+    "id": 4372
+  },
+  {
+    "name": "Vfx xarth attack ranged spotanim 01",
+    "id": 4373
+  },
+  {
+    "name": "Vfx xarth attack ranged projectile 01",
+    "id": 4374
+  },
+  {
+    "name": "Vfx xarth attack ranged hitanim 01",
+    "id": 4375
+  },
+  {
+    "name": "Vfx xarth attack aoe 01",
+    "id": 4376
+  },
+  {
+    "name": "Vfx xarth aoe stunanim 01",
+    "id": 4377
+  },
+  {
+    "name": "Vfx xarth aoe projanim 01",
+    "id": 4378
+  },
+  {
+    "name": "Vfx xarth aoe hitanim 01",
+    "id": 4379
+  },
+  {
+    "name": "Vfx xarth attack flame blast 01",
+    "id": 4380
+  },
+  {
+    "name": "Vfx xarth death 01",
+    "id": 4381
+  },
+  {
+    "name": "Vfx xarth rubble collapse 01",
+    "id": 4382
+  },
+  {
+    "name": "Vfx xarth corpse walk fire 01",
+    "id": 4383
+  },
+  {
+    "name": "Vfx xarth corpse walk doused 01",
+    "id": 4384
+  },
+  {
+    "name": "Vfx xarth corpse death 01",
+    "id": 4385
+  },
+  {
+    "name": "Vfx xarth corpse absorbed 01",
+    "id": 4386
+  },
+  {
+    "name": "Vfx xarth absorb corpse fire 01",
+    "id": 4387
+  },
+  {
+    "name": "Tfa arena sword drop explosion",
+    "id": 4388
+  },
+  {
+    "name": "Tfa arena sword drop explosion instant",
+    "id": 4389
+  },
+  {
+    "name": "Tfa arena collapsing explosion01",
+    "id": 4390
+  },
+  {
+    "name": "Tfa arena collapsing explosion02",
+    "id": 4391
+  },
+  {
+    "name": "Tfa arena collapsing explosion03",
+    "id": 4392
+  },
+  {
+    "name": "Tfa arena collapsing explosion04",
+    "id": 4393
+  },
+  {
+    "name": "Tfa wave dust",
+    "id": 4394
+  },
+  {
+    "name": "Tfa wave dust short",
+    "id": 4395
+  },
+  {
+    "name": "Tfa wave dust 90",
+    "id": 4396
+  },
+  {
+    "name": "Tfa wave dust short 90",
+    "id": 4397
+  },
+  {
+    "name": "Tfa wave dust 180",
+    "id": 4398
+  },
+  {
+    "name": "Tfa wave dust short 180",
+    "id": 4399
+  },
+  {
+    "name": "Tfa wave dust 270",
+    "id": 4400
+  },
+  {
+    "name": "Tfa wave dust short 270",
+    "id": 4401
+  },
+  {
+    "name": "Tfa wave dust short 45",
+    "id": 4402
+  },
+  {
+    "name": "Tfa wave dust short 135",
+    "id": 4403
+  },
+  {
+    "name": "Tfa wave dust short 225",
+    "id": 4404
+  },
+  {
+    "name": "Tfa wave dust short 315",
+    "id": 4405
+  },
+  {
+    "name": "Vfx tfa small chest sparkles",
+    "id": 4406
+  },
+  {
+    "name": "Vfx tfa loot light",
+    "id": 4407
+  },
+  {
+    "name": "Vfx tfa loot tome 01",
+    "id": 4408
+  },
+  {
+    "name": "Vfx tfa loot tome 02",
+    "id": 4409
+  },
+  {
+    "name": "Vfx tfa loot obligator 01",
+    "id": 4410
+  },
+  {
+    "name": "Vfx tfa loot obligator 02",
+    "id": 4411
+  },
+  {
+    "name": "Vfx tfa loot zeal 01",
+    "id": 4412
+  },
+  {
+    "name": "Vfx tfa loot zeal 02",
+    "id": 4413
+  },
+  {
+    "name": "Vfx tfa loot crossbow 01",
+    "id": 4414
+  },
+  {
+    "name": "Vfx tfa loot crossbow 02",
+    "id": 4415
+  },
+  {
+    "name": "Vfx tfa loot rondache 01",
+    "id": 4416
+  },
+  {
+    "name": "Vfx tfa loot rondache 02",
+    "id": 4417
+  },
+  {
+    "name": "Tfa mote destroy",
+    "id": 4418
+  },
+  {
+    "name": "Tfa mote destroy fire",
+    "id": 4419
+  },
+  {
+    "name": "Tfa mote destroy water",
+    "id": 4420
+  },
+  {
+    "name": "Tfa mote destroy air",
+    "id": 4421
+  },
+  {
+    "name": "Vfx tfa rondache special",
+    "id": 4422
+  },
+  {
+    "name": "Vfx obligator charged thrust male",
+    "id": 4423
+  },
+  {
+    "name": "Vfx obligator uncharged thrust male",
+    "id": 4424
+  },
+  {
+    "name": "Vfx obligator charged thrust female",
+    "id": 4425
+  },
+  {
+    "name": "Vfx obligator uncharged thrust female",
+    "id": 4426
+  },
+  {
+    "name": "Vfx zorya tome proj",
+    "id": 4427
+  },
+  {
+    "name": "Vfx zorya tome special proj",
+    "id": 4428
+  },
+  {
+    "name": "Vfx zorya tome impact",
+    "id": 4429
+  },
+  {
+    "name": "Vfx zorya tome special impact",
+    "id": 4430
+  },
+  {
+    "name": "Vfx zorya tome special follow up impact",
+    "id": 4431
+  },
+  {
+    "name": "Vfx zorya tome spec spotanim",
+    "id": 4432
+  },
+  {
+    "name": "Vfx zorya tome standard spotanim",
+    "id": 4433
+  },
+  {
+    "name": "Vfx zorya tome spec spotanim female",
+    "id": 4434
+  },
+  {
+    "name": "Vfx zorya tome standard spotanim female",
+    "id": 4435
+  },
+  {
+    "name": "Spotanim amascut01 strike01 highlight01 120",
+    "id": 4436
+  },
+  {
+    "name": "Ascension crossbowbolt travel",
+    "id": 4437
+  },
+  {
+    "name": "Ascension crossbowbolt onyx travel",
+    "id": 4438
+  },
+  {
+    "name": "Ascension crossbowbolt diamond travel",
+    "id": 4439
+  },
+  {
+    "name": "Cannonball travel big",
+    "id": 4440
+  },
+  {
+    "name": "Curse impact short",
+    "id": 4441
+  },
+  {
+    "name": "Gargboss debris shadow 120 small",
+    "id": 4442
+  },
+  {
+    "name": "Garboss debris shadow red 60",
+    "id": 4443
   }
 ]
