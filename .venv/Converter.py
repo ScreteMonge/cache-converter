@@ -432,7 +432,6 @@ def sound(directory, perform_sound):
                 id = data.get('id')
                 name = data.get('name')
                 name = name.replace('_', ' ')
-                name = name.capitalize()
 
                 sound_final = {'id': id,
                               'name': name
