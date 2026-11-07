@@ -17774,5 +17774,21 @@
   {
     "name": "Garboss debris shadow red 60",
     "id": 4443
+  },
+  {
+    "name": "Hw26 tumbleweed",
+    "id": 4444
+  },
+  {
+    "name": "Vfx tfa teleport start",
+    "id": 4445
+  },
+  {
+    "name": "Vfx tfa teleport end",
+    "id": 4446
+  },
+  {
+    "name": "Thrown rock",
+    "id": 4447
   }
 ]

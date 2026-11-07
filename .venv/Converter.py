@@ -18,6 +18,7 @@ def main():
     perform_item = False
     perform_npc = False
     perform_anim = True
+    perform_sound = True
 
     # 0 8057, stand
     # 1 819, walk
@@ -38,11 +39,12 @@ def main():
     t2 = threading.Thread(target=npc, args=(directory, perform_npc,))
     t3 = threading.Thread(target=item, args=(directory, perform_item,))
     t4 = threading.Thread(target=anim, args=(directory, perform_anim,))
+    t5 = threading.Thread(target=sound, args=(directory, perform_sound,))
 
     t1.start()
     t2.start()
     t3.start()
-    t4.start()
+    t5.start()
 
     if perform_kit:
         kit_file_list = []
@@ -414,6 +416,40 @@ def anim(directory, perform_anim):
 
         anim_out.close()
         print("Finished anim")
+
+def sound(directory, perform_sound):
+    if perform_sound:
+        sound_file_list = []
+        sound_path = directory + '/gamevals/16/'
+        print("Found ", sound_path, ", beginning dump.")
+        for sound_filenames in os.walk(sound_path):
+            sound_file_list.append(sound_filenames)
+
+        sound_list = []
+        for i in range(len(sound_filenames[2])):
+            try:
+                data = json.load(open(sound_path + sound_filenames[2][i], encoding='utf-8'))
+                id = data.get('id')
+                name = data.get('name')
+                name = name.replace('_', ' ')
+                name = name.capitalize()
+
+                sound_final = {'id': id,
+                              'name': name
+                              }
+                sound_list.append(sound_final)
+            except Exception:
+                pass
+
+        sound_out = open("sounds.json", "w")
+
+        json_file = json.dumps(sound_list)
+        data = json.loads(json_file)
+        sorted_file = sorted(data, key=lambda x: x['id'])
+        json.dump(sorted_file, sound_out, indent=2)
+
+        sound_out.close()
+        print("Finished sounds")
 
 
 if __name__ == '__main__':
